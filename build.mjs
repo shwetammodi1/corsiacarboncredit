@@ -16,7 +16,6 @@ const service = readJSON("data/corsia-service.json");
 const AVIATION_IMG = "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=2000&q=70";
 const u = (id, w = 2000) => `https://images.unsplash.com/photo-${id}?auto=format&fit=crop&w=${w}&q=72`;
 const PHOTOS = {
-  hero: u("1511497584788-876760111969", 2400),
   impact: u("1473448912268-2022ce9509d8"),
   marketplace: u("1542273917363-3b1817f69a2d", 1400),
   services: u("1436491865332-7a61a109cc05", 1400),
@@ -150,7 +149,11 @@ function home() {
 
   const body = `
 <section class="hero hero--photo">
-<div class="hero__bg"><img src="${PHOTOS.hero}" alt="" fetchpriority="high"></div>
+<div class="hero__bg">
+  <img src="/media/hero-forest.jpg" alt="" fetchpriority="high">
+  <video class="hero__video" muted loop playsinline preload="none" poster="/media/hero-forest.jpg" data-src="/media/hero-forest.mp4" aria-hidden="true"></video>
+</div>
+<button class="hero__pause" type="button" aria-label="Pause background video" hidden><svg viewBox="0 0 16 16" aria-hidden="true"><rect x="4" y="3" width="3" height="10" rx="1"/><rect x="9" y="3" width="3" height="10" rx="1"/></svg></button>
 <div class="wrap hero__grid">
   <div>
     <p class="eyebrow"><span class="n">CORSIA</span> · Voluntary · Article 6</p>

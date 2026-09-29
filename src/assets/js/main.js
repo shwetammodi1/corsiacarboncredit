@@ -43,6 +43,35 @@
     });
   });
 
+  /* hero video: desktop only, respects reduced motion and data saver, pauses off-screen */
+  const hv = $(".hero__video");
+  if (hv) {
+    const saveData = navigator.connection && navigator.connection.saveData;
+    const wide = matchMedia("(min-width: 768px)").matches;
+    const still = matchMedia("(prefers-reduced-motion: reduce)").matches;
+    if (wide && !still && !saveData) {
+      const btn = $(".hero__pause");
+      const pauseIcon = btn.innerHTML;
+      const playIcon = '<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M5 3.5v9a.5.5 0 0 0 .77.42l7-4.5a.5.5 0 0 0 0-.84l-7-4.5A.5.5 0 0 0 5 3.5Z"/></svg>';
+      let userPaused = false;
+      hv.src = hv.dataset.src;
+      hv.addEventListener("playing", () => { hv.classList.add("is-playing"); btn.hidden = false; }, { once: true });
+      hv.play().catch(() => {});
+      btn.addEventListener("click", () => {
+        userPaused = !hv.paused;
+        if (userPaused) hv.pause(); else hv.play().catch(() => {});
+        btn.innerHTML = userPaused ? playIcon : pauseIcon;
+        btn.setAttribute("aria-label", userPaused ? "Play background video" : "Pause background video");
+      });
+      if ("IntersectionObserver" in window) {
+        new IntersectionObserver(([e]) => {
+          if (userPaused) return;
+          if (e.isIntersecting) hv.play().catch(() => {}); else hv.pause();
+        }).observe(hv);
+      }
+    }
+  }
+
   /* count-up numbers when they come into view */
   const counters = $$("[data-count]");
   const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;

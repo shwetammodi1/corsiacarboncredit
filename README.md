@@ -40,3 +40,5 @@ Each project in `projects.json` needs a unique `slug`. Its page is created at `/
 ## Content source
 
 Articles, diagrams, listings and service copy were imported from dstechnoverse.com. The diagrams were recoloured to this site's palette.
+
+Photographs are from Unsplash. The home page video (`src/public/media/hero-forest.mp4`) is "Aerial View of Dense Forest Canopy" by Chris The Island on Pexels (https://www.pexels.com/video/35724543/), cut to 11.5 s and compressed to 1280px. It plays only on screens 768px and wider, and not when reduced motion or data saver is on. Everyone else sees `hero-forest.jpg`.
