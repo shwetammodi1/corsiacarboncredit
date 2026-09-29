@@ -294,7 +294,7 @@ ${programmeStrip()}
     <div><p class="eyebrow"><span class="n">06</span> Knowledge base</p><h2 class="h2">CORSIA, explained properly.</h2><p class="lede">${kb.length} reference articles written for operators, developers and compliance teams — from the legal basis to registry cancellation.</p></div>
     <a class="btn btn--ghost" href="/knowledge-base/">Open the knowledge base ${arrow}</a>
   </div>
-  <div class="kb-index">${kbSections.slice(0, 4).map((s, si) => kbGroup(s, si)).join("")}</div>
+  <div class="kbt-grid">${KB_TOPICS.map((t, i) => topicCard(t, i)).join("")}</div>
 </div></section>
 
 <section class="section section--rule"><div class="wrap">
@@ -324,10 +324,61 @@ ${ctaBand()}`;
   }));
 }
 
-function kbGroup(section, si) {
-  const list = kb.filter((a) => a.section === section);
-  return `<div class="kb-group"><h3>${esc(section)}<span>${String(si + 1).padStart(2, "0")}</span></h3><ol>${list.map((a) => `<li><a href="/knowledge-base/${a.slug}/"><span class="i">${String(a.order).padStart(2, "0")}</span><span>${esc(a.title)}</span><span class="go">→</span></a></li>`).join("")}</ol></div>`;
+// Knowledge base topics. `section` must match the `section` front matter of the articles.
+const ICON = {
+  book: '<path d="M4 4.5A2.5 2.5 0 0 1 6.5 2H20v16H6.5A2.5 2.5 0 0 0 4 20.5v-16Z"/><path d="M4 20.5A2.5 2.5 0 0 0 6.5 23H20v-5"/><path d="M8 7h8M8 11h5"/>',
+  calc: '<rect x="5" y="2.5" width="14" height="19" rx="2"/><path d="M8 6.5h8M8 11h.01M12 11h.01M16 11h.01M8 14.5h.01M12 14.5h.01M16 14.5v3.5M8 18h4"/>',
+  clip: '<rect x="5" y="4" width="14" height="18" rx="2"/><path d="M9 4V2.5h6V4"/><path d="m9 13 2 2 4-4"/>',
+  layers: '<path d="m12 3 9 5-9 5-9-5 9-5Z"/><path d="m3 12.5 9 5 9-5"/><path d="m3 17 9 5 9-5"/>',
+  drop: '<path d="M12 2.5s6.5 6.8 6.5 11.5a6.5 6.5 0 0 1-13 0C5.5 9.3 12 2.5 12 2.5Z"/><path d="M9 14.5a3 3 0 0 0 3 3"/>',
+  chart: '<path d="M3 3v18h18"/><path d="m7 15 4-4 3 3 6-7"/><path d="M16 7h4v4"/>',
+  bank: '<path d="M3 10h18L12 3.5 3 10Z"/><path d="M5.5 10v8M10 10v8M14 10v8M18.5 10v8M3 21h18"/>',
+  mark: '<path d="M6 2.5h12v19l-6-4-6 4v-19Z"/><path d="M9.5 7.5h5"/>',
+};
+const KB_TOPICS = [
+  { slug: "foundations", section: "Foundations", icon: "book",
+    blurb: "What CORSIA is, why ICAO created it, which flights it covers and how the phases run to 2035.",
+    related: /what-is-corsia-complete-guide|corsia-explained|corsia-phases-timeline|future-of-corsia|aviation-carbon-markets|carbon-markets-reducing/ },
+  { slug: "obligations-and-calculation", section: "Obligations & Calculation", icon: "calc",
+    blurb: "The 2019 baseline, sectoral and individual growth factors, and how the number of units you owe is worked out.",
+    related: /offsetting-requirements-calculation|budgeting|compliance-cost|carbon-pricing-impact|compliance-roadmap/ },
+  { slug: "monitoring-reporting-verification", section: "Monitoring, Reporting & Verification", icon: "clip",
+    blurb: "Emissions Monitoring Plans, fuel-use methods and the yearly cycle of reporting and third-party verification.",
+    related: /monitoring|fuel-data|fuel-supplier|emissions-report|verification|internal-audit|data-systems|reporting-deadlines/ },
+  { slug: "eligible-emissions-units", section: "Eligible Emissions Units", icon: "layers",
+    blurb: "Which carbon credits an airline can actually cancel: approved programmes, unit criteria, vintages, adjustments and registries.",
+    related: /eligible-emissions-units|corresponding-adjustment|registry|icao-approved|due-diligence|carbon-projects-qualify|unit-procurement/ },
+  { slug: "eligible-fuels", section: "Eligible Fuels", icon: "drop",
+    blurb: "Sustainable and lower-carbon aviation fuels, their sustainability criteria, and how they reduce what you owe.",
+    related: /saf|sustainable-aviation-fuel|iscc/ },
+  { slug: "market-and-pricing", section: "Market & Pricing", icon: "chart",
+    blurb: "Who buys and sells CORSIA units, what drives the price, and why a supply shortfall is expected.",
+    related: /price|buyer-guide|seller-guide|how-to-buy-corsia|supplier|offtake|why-corsia-grade/ },
+  { slug: "governance-and-india", section: "Governance & India", icon: "bank",
+    blurb: "The ICAO bodies behind the rules, the national authorities that enforce them, and what it all means in India.",
+    related: /india|dgca|ccts/ },
+  { slug: "reference", section: "Reference", icon: "mark",
+    blurb: "Glossary, acronyms, frequently asked questions and where to find the official documents.",
+    related: /complete-guide|questions-to-ask|readiness-assessment|how-to-choose/ },
+];
+for (const s of kbSections) if (!KB_TOPICS.find((t) => t.section === s)) throw new Error(`knowledge base section "${s}" has no topic in KB_TOPICS`);
+const topicOf = (section) => KB_TOPICS.find((t) => t.section === section);
+const topicArticles = (t) => kb.filter((a) => a.section === t.section);
+const topicRelated = (t) => insights.filter((a) => t.related.test(a.slug)).slice(0, 6);
+const readMins = (md) => Math.max(1, Math.round(md.replace(/[#*_>|`\-\[\]()!]/g, " ").split(/\s+/).filter(Boolean).length / 230));
+const topicIcon = (t, cls = "kbt-ico") => `<span class="${cls}" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">${ICON[t.icon]}</svg></span>`;
+
+function topicCard(t, i) {
+  const list = topicArticles(t);
+  return `<a class="kbt-card reveal" href="/knowledge-base/topic/${t.slug}/">
+  <div class="kbt-card__top">${topicIcon(t)}<span class="kbt-card__n">${String(i + 1).padStart(2, "0")}</span></div>
+  <h3>${esc(t.section)}</h3>
+  <p>${esc(t.blurb)}</p>
+  <ul>${list.slice(0, 3).map((a) => `<li>${esc(a.title.split(":")[0])}</li>`).join("")}</ul>
+  <span class="kbt-card__foot"><span>${list.length} article${list.length === 1 ? "" : "s"}</span><span class="kbt-card__go">View all <span aria-hidden="true">→</span></span></span>
+</a>`;
 }
+
 
 // ---------------------------------------------------------------- marketplace
 function marketplace() {
@@ -659,7 +710,12 @@ ${phead({
   extra: `<div class="kb-search"><label class="sr-only" for="kb-search">Search the knowledge base</label>${searchIcon}<input id="kb-search" type="search" placeholder="Search — e.g. corresponding adjustment, vintage, DGCA" autocomplete="off" data-index="/search-index.json"><ul id="kb-results" class="kb-results"></ul></div>`,
 })}
 <section class="section section--tight"><div class="wrap">
-  <div class="kb-index">${kbSections.map((s, i) => kbGroup(s, i)).join("")}</div>
+  <div class="sec-head"><div><p class="eyebrow"><span class="n">${KB_TOPICS.length}</span> topics</p><h2 class="h2">Browse by topic</h2><p class="lede">Pick a part of the scheme. Each topic opens its own page with every article on it, in reading order.</p></div></div>
+  <div class="kbt-grid">${KB_TOPICS.map((t, i) => topicCard(t, i)).join("")}</div>
+</div></section>
+<section class="section section--rule section--tight"><div class="wrap">
+  <div class="sec-head"><div><p class="eyebrow">New to CORSIA?</p><h2 class="h2">Start here</h2><p class="lede">Three articles, read in this order, give you the whole scheme in about twenty minutes.</p></div></div>
+  <ol class="kb-path">${["what-is-corsia", "how-corsia-works", "corsia-eligible-emissions-units"].map((s, i) => { const a = kb.find((x) => x.slug === s); return a ? `<li><a href="/knowledge-base/${a.slug}/"><span class="kb-path__n">Step ${i + 1}</span><b>${esc(a.title.split(":")[0])}</b><span class="kb-path__x">${esc(a.excerpt)}</span><span class="kb-path__m">${readMins(a.body)} min read →</span></a></li>` : ""; }).join("")}</ol>
 </div></section>
 <section class="section section--rule section--paper2"><div class="wrap">
   <div class="sec-head"><div><p class="eyebrow">Go further</p><h2 class="h2">Practical guides in Insights</h2><p class="lede">${insights.length} longer pieces on buying, selling, compliance practice and the Indian carbon market.</p></div><a class="btn btn--ghost" href="/insights/">Browse insights ${arrow}</a></div>
@@ -668,18 +724,66 @@ ${phead({
 ${ctaBand()}`;
   emit("/knowledge-base/", page({ path: "/knowledge-base/", title: "CORSIA Knowledge Base", description: `A ${kb.length}-article reference on CORSIA: scope, phases, growth factors, MRV, eligible emissions units, corresponding adjustments, registries, eligible fuels, pricing and India.`, body }));
 
+  // One page per topic
+  KB_TOPICS.forEach((t, ti) => {
+    const list = topicArticles(t);
+    const related = topicRelated(t);
+    const prevT = KB_TOPICS[ti - 1], nextT = KB_TOPICS[ti + 1];
+    const body = `
+<section class="phead kbt-head"><div class="wrap">
+  <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span>/</span><a href="/knowledge-base/">Knowledge Base</a><span>/</span><span>${esc(t.section)}</span></nav>
+  <div class="kbt-head__row">
+    ${topicIcon(t, "kbt-ico kbt-ico--lg")}
+    <div>
+      <p class="eyebrow">Topic ${String(ti + 1).padStart(2, "0")} of ${KB_TOPICS.length} · ${list.length} articles</p>
+      <h1 class="h1">${esc(t.section)}</h1>
+      <p class="lede">${esc(t.blurb)}</p>
+    </div>
+  </div>
+</div></section>
+<section class="section section--tight"><div class="wrap kbt-layout">
+  <aside class="kbt-side" aria-label="Knowledge base topics">
+    <h4>All topics</h4>
+    ${KB_TOPICS.map((x) => `<a href="/knowledge-base/topic/${x.slug}/"${x.slug === t.slug ? ' aria-current="page"' : ""}>${topicIcon(x, "kbt-ico kbt-ico--sm")}<span>${esc(x.section)}</span><small>${topicArticles(x).length}</small></a>`).join("")}
+    <a class="kbt-side__all" href="/knowledge-base/">← Knowledge base home</a>
+  </aside>
+  <div>
+    <ol class="kbt-list">${list.map((a, i) => `<li><a href="/knowledge-base/${a.slug}/">
+      <span class="kbt-list__n">${String(i + 1).padStart(2, "0")}</span>
+      <span class="kbt-list__body"><b>${esc(a.title)}</b><span>${esc(a.excerpt)}</span><small>${readMins(a.body)} min read</small></span>
+      <span class="kbt-list__go" aria-hidden="true">→</span>
+    </a></li>`).join("")}</ol>
+    ${related.length ? `<div class="kbt-related"><h2 class="h3">Related guides from Insights</h2><div class="kbt-related__grid">${related.map((a) => `<a href="/insights/${a.slug}/"><small>${esc(a.topic)}</small><b>${esc(a.title)}</b></a>`).join("")}</div></div>` : ""}
+    <div class="pager">
+      ${prevT ? `<a href="/knowledge-base/topic/${prevT.slug}/"><span>← Previous topic</span><b>${esc(prevT.section)}</b></a>` : "<div></div>"}
+      ${nextT ? `<a class="next" href="/knowledge-base/topic/${nextT.slug}/"><span>Next topic →</span><b>${esc(nextT.section)}</b></a>` : ""}
+    </div>
+  </div>
+</div></section>
+${ctaBand()}`;
+    emit(`/knowledge-base/topic/${t.slug}/`, page({
+      path: `/knowledge-base/topic/${t.slug}/`,
+      title: `${t.section} — CORSIA Knowledge Base`,
+      description: t.blurb,
+      body,
+      jsonld: { "@context": "https://schema.org", "@type": "CollectionPage", name: `${t.section} — CORSIA Knowledge Base`, description: t.blurb,
+        hasPart: list.map((a) => ({ "@type": "TechArticle", headline: a.title, url: `${site.url}/knowledge-base/${a.slug}/` })) },
+    }));
+  });
+
   kb.forEach((a, i) => {
     const r = renderMarkdown(a.body);
     const prev = kb[i - 1], next = kb[i + 1];
-    const nav = kbSections.map((s) => `<h4>${esc(s)}</h4>${kb.filter((x) => x.section === s).map((x) => `<a href="/knowledge-base/${x.slug}/"${x.slug === a.slug ? ' aria-current="page"' : ""}>${esc(x.title.split(":")[0])}</a>`).join("")}`).join("");
+    const nav = KB_TOPICS.map((t) => `<h4><a class="kbnav__topic" href="/knowledge-base/topic/${t.slug}/">${esc(t.section)}</a></h4>${topicArticles(t).map((x) => `<a href="/knowledge-base/${x.slug}/"${x.slug === a.slug ? ' aria-current="page"' : ""}>${esc(x.title.split(":")[0])}</a>`).join("")}`).join("");
+    const t = topicOf(a.section);
     const body = `
 <div class="wrap"><div class="doc-grid" style="padding-top:clamp(28px,4vw,48px)">
   <aside class="kbnav" aria-label="Knowledge base">${nav}</aside>
   <article>
-    <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span>/</span><a href="/knowledge-base/">Knowledge Base</a><span>/</span><span>${esc(a.section)}</span></nav>
+    <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span>/</span><a href="/knowledge-base/">Knowledge Base</a><span>/</span><a href="/knowledge-base/topic/${t.slug}/">${esc(a.section)}</a></nav>
     <h1 class="h1" style="margin:18px 0 18px">${esc(a.title)}</h1>
     <p class="lede">${esc(a.excerpt)}</p>
-    <div class="art-meta"><span>${String(a.order).padStart(2, "0")} / ${kb.length}</span><span>${r.minutes} min read</span><span>${esc(a.section)}</span></div>
+    <div class="art-meta"><a class="art-meta__topic" href="/knowledge-base/topic/${t.slug}/">${topicIcon(t, "kbt-ico kbt-ico--xs")}${esc(a.section)}</a><span>${r.minutes} min read</span><span>Article ${String(a.order).padStart(2, "0")} of ${kb.length}</span></div>
     <hr style="border:0;border-top:1px solid var(--line);margin:28px 0 36px">
     <div class="prose">${r.html}</div>
     <div class="pager">

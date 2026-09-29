@@ -206,6 +206,14 @@
     upd();
   }
 
+  /* knowledge base topic chips (mobile): bring the current topic into view */
+  const kside = $(".kbt-side");
+  const kcur = kside && $('a[aria-current="page"]', kside);
+  if (kcur && kside.scrollWidth > kside.clientWidth) {
+    const offset = kcur.getBoundingClientRect().left - kside.getBoundingClientRect().left + kside.scrollLeft;
+    kside.scrollLeft = offset - (kside.clientWidth - kcur.offsetWidth) / 2;
+  }
+
   /* table of contents highlight */
   const toc = $(".toc");
   if (toc && "IntersectionObserver" in window) {
