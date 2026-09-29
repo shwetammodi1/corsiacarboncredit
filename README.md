@@ -16,11 +16,17 @@ npm run build      # build only
 
 Hosted on Cloudflare Pages as the project `corsiacarboncredit` → https://corsiacarboncredit.pages.dev
 
+The project is connected to this GitHub repo. Every push to `main` builds and publishes the site. Pushes to other branches get a preview URL.
+
 ```
-npm run deploy     # builds and uploads to Cloudflare Pages
+git push           # Cloudflare runs `npm run build` and publishes dist/
 ```
 
-When the `corsiacarboncredit.com` domain is connected, change `url` in `src/data/site.js` and deploy again.
+Cloudflare build settings: build command `npm run build`, output directory `dist`, environment variable `NODE_VERSION=22`.
+
+Don't upload from your machine with `wrangler pages deploy`. The next push would replace whatever you uploaded.
+
+When the `corsiacarboncredit.com` domain is connected, change `url` in `src/data/site.js` and push.
 
 ## Where to edit things
 
