@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img">
+  <defs>
+    <linearGradient id="hg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10261f"/><stop offset="1" stop-color="#143027"/>
+    </linearGradient>
+    <linearGradient id="scrim" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#10261f" stop-opacity="0.96"/>
+      <stop offset="0.55" stop-color="#10261f" stop-opacity="0.72"/>
+      <stop offset="1" stop-color="#10261f" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="20" fill="url(#hg)"/>
+  <polyline points="700,355.69 755,312.08 810,263.78 865,224.97 920,210 975,224.97 1030,263.78 1085,312.08 1140,355.69" fill="none" stroke="#e0b25a" stroke-width="3.5" stroke-linecap="round"/><polygon points="700,355.69 755,312.08 810,263.78 865,224.97 920,210 975,224.97 1030,263.78 1085,312.08 1140,355.69 1140,420 700,420" fill="#e0b25a" opacity="0.16"/><line x1="700" y1="420" x2="700" y2="426" stroke="#e0b25a" stroke-width="1.5"/><line x1="755" y1="420" x2="755" y2="426" stroke="#e0b25a" stroke-width="1.5"/><line x1="810" y1="420" x2="810" y2="426" stroke="#e0b25a" stroke-width="1.5"/><line x1="865" y1="420" x2="865" y2="426" stroke="#e0b25a" stroke-width="1.5"/><line x1="920" y1="420" x2="920" y2="426" stroke="#e0b25a" stroke-width="1.5"/><line x1="975" y1="420" x2="975" y2="426" stroke="#e0b25a" stroke-width="1.5"/><line x1="1030" y1="420" x2="1030" y2="426" stroke="#e0b25a" stroke-width="1.5"/><line x1="1085" y1="420" x2="1085" y2="426" stroke="#e0b25a" stroke-width="1.5"/><line x1="1140" y1="420" x2="1140" y2="426" stroke="#e0b25a" stroke-width="1.5"/><line x1="694" y1="420" x2="1146" y2="420" stroke="#e0b25a" stroke-width="1.5"/>
+  <rect width="700" height="630" fill="url(#scrim)"/>
+  <rect x="72" y="150" width="64" height="6" rx="3" fill="#e0b25a"/>
+  <text x="72" y="250" fill="#f4f0e6" font-size="50" font-weight="800" font-family="IBM Plex Sans, Segoe UI, Helvetica, Arial, sans-serif" text-anchor="start" opacity="1">CORSIA Market Strategy</text><text x="72" y="330" fill="#c9d0c4" font-size="20" font-weight="400" font-family="IBM Plex Sans, Segoe UI, Helvetica, Arial, sans-serif" text-anchor="start" opacity="1">Cost, SAF and procurement decisions</text>
+  <text x="72" y="586" fill="#c9d0c4" font-size="14" font-weight="400" font-family="IBM Plex Sans, Segoe UI, Helvetica, Arial, sans-serif" text-anchor="start" opacity="1">DSTechnoverse — Indore, India</text>
+  <rect x="0.5" y="0.5" width="1199" height="629" rx="20" fill="none" stroke="#1a3a30"/>
+</svg>

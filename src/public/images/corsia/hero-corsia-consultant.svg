@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="CORSIA Carbon Credit Consultant">
+  <defs>
+    <linearGradient id="bgG" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#10261f"/><stop offset="100%" stop-color="#143027"/></linearGradient>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="26"/></filter>
+    <linearGradient id="scrim" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#10261f" stop-opacity="0.93"/>
+      <stop offset="55%" stop-color="#10261f" stop-opacity="0.82"/>
+      <stop offset="100%" stop-color="#10261f" stop-opacity="0"/>
+    </linearGradient>
+    
+  </defs>
+  <rect width="1200" height="630" fill="url(#bgG)"/>
+  
+  
+  <circle cx="900" cy="315" r="210" fill="none" stroke="#8cc79c" stroke-opacity="0.35" stroke-width="2"/><ellipse cx="900" cy="315" rx="210" ry="42" fill="none" stroke="#8cc79c" stroke-opacity="0.18"/><ellipse cx="900" cy="315" rx="210" ry="84" fill="none" stroke="#8cc79c" stroke-opacity="0.18"/><ellipse cx="900" cy="315" rx="210" ry="126" fill="none" stroke="#8cc79c" stroke-opacity="0.18"/><ellipse cx="900" cy="315" rx="210" ry="168" fill="none" stroke="#8cc79c" stroke-opacity="0.18"/><ellipse cx="900" cy="315" rx="210" ry="210" fill="none" stroke="#8cc79c" stroke-opacity="0.18"/><ellipse cx="900" cy="315" rx="181.87" ry="210" fill="none" stroke="#8cc79c" stroke-opacity="0.18"/><ellipse cx="900" cy="315" rx="105" ry="210" fill="none" stroke="#8cc79c" stroke-opacity="0.18"/><ellipse cx="900" cy="315" rx="0" ry="210" fill="none" stroke="#8cc79c" stroke-opacity="0.18"/><ellipse cx="900" cy="315" rx="105" ry="210" fill="none" stroke="#8cc79c" stroke-opacity="0.18"/><ellipse cx="900" cy="315" rx="181.87" ry="210" fill="none" stroke="#8cc79c" stroke-opacity="0.18"/><path d="M870.65,385.92 Q839.02,256.73 807.39,267.54" fill="none" stroke="#e0b25a" stroke-width="2.5" opacity="0.8" stroke-dasharray="7 5"/><circle cx="870.65" cy="385.92" r="4.5" fill="#e0b25a"/><circle cx="807.39" cy="267.54" r="4.5" fill="#e0b25a"/><path d="M1042.46,310.78 Q1008.54,279.36 974.62,387.93" fill="none" stroke="#e0b25a" stroke-width="2.5" opacity="0.8" stroke-dasharray="7 5"/><circle cx="1042.46" cy="310.78" r="4.5" fill="#e0b25a"/><circle cx="974.62" cy="387.93" r="4.5" fill="#e0b25a"/><path d="M990.77,378.91 Q876.48,284.28 762.2,329.64" fill="none" stroke="#e0b25a" stroke-width="2.5" opacity="0.8" stroke-dasharray="7 5"/><circle cx="990.77" cy="378.91" r="4.5" fill="#e0b25a"/><circle cx="762.2" cy="329.64" r="4.5" fill="#e0b25a"/><path d="M993.35,384.48 Q923.47,322.13 853.59,399.79" fill="none" stroke="#e0b25a" stroke-width="2.5" opacity="0.8" stroke-dasharray="7 5"/><circle cx="993.35" cy="384.48" r="4.5" fill="#e0b25a"/><circle cx="853.59" cy="399.79" r="4.5" fill="#e0b25a"/><path d="M794.19,348.96 Q821.43,229.44 848.67,249.92" fill="none" stroke="#e0b25a" stroke-width="2.5" opacity="0.8" stroke-dasharray="7 5"/><circle cx="794.19" cy="348.96" r="4.5" fill="#e0b25a"/><circle cx="848.67" cy="249.92" r="4.5" fill="#e0b25a"/>
+  <rect x="0" y="0" width="864" height="630" fill="url(#scrim)"/>
+  <text x="72" y="250" fill="#8cc79c" font-size="17" font-weight="700" font-family="IBM Plex Sans, Segoe UI, Helvetica, Arial, sans-serif" text-anchor="start" opacity="1">ADVISORY AND COMPLIANCE</text>
+  <text x="72" y="310" fill="#f4f0e6" font-size="46" font-weight="800" font-family="IBM Plex Sans, Segoe UI, Helvetica, Arial, sans-serif" text-anchor="start" opacity="1">CORSIA Carbon Credit</text><text x="72" y="368" fill="#f4f0e6" font-size="46" font-weight="800" font-family="IBM Plex Sans, Segoe UI, Helvetica, Arial, sans-serif" text-anchor="start" opacity="1">Consultant</text>
+  <text x="72" y="564" fill="#f4f0e6" font-size="19" font-weight="700" font-family="IBM Plex Sans, Segoe UI, Helvetica, Arial, sans-serif" text-anchor="start" opacity="1">DSTechnoverse</text>
+  <text x="72" y="588" fill="#c9d0c4" font-size="13.5" font-weight="400" font-family="IBM Plex Sans, Segoe UI, Helvetica, Arial, sans-serif" text-anchor="start" opacity="1">CORSIA Carbon Credit Advisory — Indore, India</text>
+  <rect x="0.5" y="0.5" width="1199" height="629" rx="18" fill="none" stroke="#1a3a30"/>
+</svg>

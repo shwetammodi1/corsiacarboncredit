@@ -1,0 +1,7 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "corsiacarboncredit",
+  "compatibility_date": "2026-09-28",
+  // Deployed to Cloudflare Pages: `npm run build` writes ./dist, `npm run deploy` uploads it.
+  "pages_build_output_dir": "./dist"
+}
