@@ -829,5 +829,15 @@ em.it, .it { font-style: italic; }
 .seg { border-radius: 999px; }
 .seg button[aria-pressed="true"] { background: var(--moss); }
 
+/* DSTechnoverse endorsement */
+.strip__parent { display: inline-flex; align-items: center; gap: 7px; text-decoration: none !important; font-family: var(--mono); font-size: 0.7rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--on-forest-2) !important; }
+.strip__parent img { height: 18px; width: auto; margin: 0 -2px 0 2px; }
+.strip__parent b { font-family: var(--sans); font-weight: 600; font-size: 0.8rem; letter-spacing: 0.01em; text-transform: none; color: #fff; }
+.strip__parent:hover b { text-decoration: underline; text-underline-offset: 3px; }
+.footer__parent { display: inline-flex; flex-direction: column; gap: 10px; margin-top: 26px; padding: 14px 18px 16px; border: 1px solid var(--forest-line); border-radius: 12px; text-decoration: none !important; transition: border-color .15s, background .15s; }
+.footer__parent:hover { border-color: var(--on-forest-2); background: rgba(255, 255, 255, 0.03); }
+.footer__parent span { font-family: var(--mono); font-size: 0.66rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--on-forest-2); }
+.footer__parent img { height: 52px; width: auto; margin-left: -4px; }
+
 /* count-up numbers keep width steady */
 [data-count] { font-variant-numeric: tabular-nums; }

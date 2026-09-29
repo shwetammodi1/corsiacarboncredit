@@ -32,7 +32,7 @@ function header(path) {
   const cur = (href) => (path.startsWith(href) ? ' aria-current="page"' : "");
   return `<a class="skip" href="#main">Skip to content</a>
 <div class="strip"><div class="wrap">
-  <div class="strip__l"><span class="strip__parent">A <a href="${site.parent.url}" target="_blank" rel="noopener">DSTechnoverse</a> desk</span><span class="hide-sm">Indore, India · since ${site.parent.founded}</span></div>
+  <div class="strip__l"><a class="strip__parent" href="${site.parent.url}" target="_blank" rel="noopener" >A <img src="/brand/dstechnoverse-mark-white.png" alt="" width="11" height="18"><b>DSTechnoverse</b> company</a><span class="hide-sm">Indore, India · since ${site.parent.founded}</span></div>
   <div class="strip__r"><a href="https://wa.me/${site.whatsapp}" target="_blank" rel="noopener">WhatsApp</a><a href="${site.phoneHref}">${site.phone}</a><a href="mailto:${site.email}">${site.email}</a></div>
 </div></div>
 <header class="header"><div class="wrap">
@@ -74,6 +74,10 @@ function footer() {
       ${brand()}
       <p class="footer__about">A carbon credit marketplace and CORSIA advisory desk operated by <a href="${site.parent.url}" target="_blank" rel="noopener">DSTechnoverse</a>, an environmental data and analytics consultancy in Indore.</p>
       <p style="margin-top:18px">${a.line1}, ${a.line2}<br>${a.city}, ${a.region} ${a.postcode}</p>
+      <a class="footer__parent" href="${site.parent.url}" target="_blank" rel="noopener">
+        <span>A company of</span>
+        <img src="/brand/dstechnoverse-white.png" alt="DSTechnoverse" width="139" height="52" loading="lazy">
+      </a>
     </div>
     <div><h4>Market</h4><ul>
       <li><a href="/marketplace/">All listings</a></li>

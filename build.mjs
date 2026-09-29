@@ -317,7 +317,7 @@ ${ctaBand()}`;
       description: site.description,
       telephone: site.phone,
       email: site.email,
-      parentOrganization: { "@type": "Organization", name: site.parent.name, url: site.parent.url },
+      parentOrganization: { "@type": "Organization", name: site.parent.name, url: site.parent.url, logo: `${site.url}/brand/dstechnoverse.png` },
       address: { "@type": "PostalAddress", streetAddress: `${site.address.line1}, ${site.address.line2}`, addressLocality: site.address.city, addressRegion: site.address.region, postalCode: site.address.postcode, addressCountry: "IN" },
       sameAs: site.social.map((s) => s.url),
     },
