@@ -1,174 +1,121 @@
 ---
-title: "CORSIA for New Airlines in India: Building Compliance From Zero"
-excerpt: "A new operator has no monitoring history, no data pipeline and no baseline — which is a disadvantage in some ways and a genuine advantage in others. How to build CORSIA compliance properly from the start."
+title: "CORSIA for a New Indian Airline: Getting Compliance Right Before the First International Flight"
+excerpt: "A start-up carrier has no fuel history and no CORSIA expertise, but it can specify systems and contracts to produce clean data from day one, a chance established airlines never get back. A launch timeline and the decisions that matter."
 date: "2026-08-29"
 topic: "Airline Compliance"
-tags: ["new airline CORSIA","airline startup compliance","CORSIA setup","CORSIA consultant India","emissions monitoring plan","airline launch","CORSIA readiness"]
+tags: ["new airline CORSIA","airline startup compliance","CORSIA setup","emissions monitoring plan","airline launch","CORSIA readiness","DGCA"]
 image: "/images/corsia-consultant/corsia-first-year-roadmap.svg"
 ---
 
-An established carrier retrofitting CORSIA compliance is working against systems designed for other purposes, records kept to other standards and habits already formed. A new operator has none of those constraints.
+Most of what we do for established carriers is repair work. Their fuel systems were chosen for other purposes, their records were kept to other standards, and their monthly habits formed long before CORSIA. A large share of the cost of their compliance goes into fixing data that was never captured properly.
 
-That is a real advantage, and it is available only once.
+A new airline has none of that to fix. It can simply capture the data properly from the start. That is a real advantage, and it exists only once: during the launch, before systems are bought and contracts signed.
 
-![A CORSIA first year, month by month](/images/corsia-consultant/corsia-first-year-roadmap.svg)
+![Month-by-month roadmap for a first year of CORSIA compliance](/images/corsia-consultant/corsia-first-year-roadmap.svg)
 
-## The Position a New Operator Is In
+## Where a new operator starts
 
-**Disadvantages:**
-
-- No historical data to test a monitoring method against
-- No established reconciliation practice
-- Emissions volume unknown until the network stabilises
-- Competing priorities during launch, when CORSIA feels distant
-- No internal expertise, and limited capacity to acquire it
-
-**Advantages, which are underrated:**
-
-- Systems can be specified to produce CORSIA-ready data from day one
-- No legacy data quality problems to inherit
-- Reconciliation rules can be designed rather than retrofitted
-- Fuel data requirements can go into supplier and handling agreements before they are signed
-- No habits to unlearn
-
-The second list is worth more than it appears. Most of the expensive work in established-carrier CORSIA projects is fixing data that was never captured properly. A new operator can simply capture it properly.
-
-## Do It During System Selection
-
-The highest-leverage moment is before the operations and fuel systems are chosen — and it passes quickly during a launch.
-
-Specify at selection:
-
-| Requirement | Why it matters later |
+| Working against you | Working for you |
 |---|---|
-| Fuel uplift recorded per flight, not per day | Several monitoring methods depend on it |
-| Departure and arrival aerodrome on every record | Scope classification by route pair |
-| Aircraft registration and type per flight | Mass threshold and method applicability |
-| Block times recorded systematically | Supports block-hour methods |
-| Flight type classification field | Distinguishes exempt flights cleanly |
-| Data exportable by API or scheduled extract | Avoids manual export every month |
-| Records retained for at least ten years | Verification and audit reach back years |
+| No history to test a monitoring method against | Systems can be specified to produce CORSIA-ready data from day one |
+| No reconciliation practice yet | Reconciliation rules can be designed rather than retrofitted |
+| Emissions unknown until the network settles | No inherited data quality problems |
+| Launch priorities crowding CORSIA out | Handling and fuel contracts not yet signed |
+| No internal expertise and little time to build it | No habits to unlearn |
 
-Adding these to a system specification costs almost nothing. Adding them to a live system three years later is a project.
+The right-hand column is worth more than it looks.
 
-The same applies to **handling and fuel supply agreements**. A clause requiring uplift data in a defined format, per flight, delivered on a schedule, is easy to include when the contract is being negotiated and difficult to add afterwards.
+## The launch timeline
 
-## Threshold Timing
+### Before systems are chosen
 
-A new operator will usually start below 10,000 tonnes of annual international CO2 and cross it as the network grows.
+This is the moment with the highest return and the shortest window. When the operations and fuel systems are being selected, put these requirements to every vendor:
 
-That transition needs planning rather than discovering.
+- Is fuel uplift recorded **per flight**, not per day? Several monitoring methods depend on it.
+- Does every record carry the **departure and arrival aerodrome**? Scope is classified by route pair.
+- Is the **aircraft registration and type** on every flight? It decides the mass threshold and which methods apply.
+- Are **block times** captured systematically? Block-hour methods need them.
+- Is there a **flight type field** that can separate exempt flights cleanly?
+- Can data be pulled by **API or scheduled extract**, so nobody exports it by hand each month?
+- Will records be **kept for at least ten years**? Verification and audit reach back a long way.
 
-**Model when you expect to cross**, from the fleet and network plan. A single narrowbody on international sectors will approach the threshold within a year or two of reasonable utilisation.
+Writing these into a specification costs almost nothing. Adding them to a live system three years later is a project.
 
-**The monitoring plan must be approved before the year it covers.** You cannot begin monitoring retrospectively once you notice you have crossed. This means the plan work happens in the year *before* the obligation, which is the timing detail most often missed.
+### Before handling and fuel contracts are signed
 
-**Build the data capability early even if the obligation is later.** The cost of capturing fuel data properly from launch is close to zero. The cost of reconstructing a year of it is not — and it cannot actually be done.
+Put a clause in every handling and fuel supply agreement requiring uplift data per flight, in a defined format, on a defined schedule. It is easy to include during negotiation and hard to add afterwards. See [fuel supplier and handling agent data](/insights/corsia-fuel-supplier-data-coordination/) for what the clause should cover.
 
-## The First-Year Sequence
+### Before the first reporting year
 
-Working through the roadmap:
+Name an owner. In a launch team, CORSIA tends to land with whoever has capacity that week, which is the pattern that fails. The owner needs authority to require data from flight operations and finance and a working escalation route when it does not come. In a small team this can be part of one person's role, provided it is written down and the authority is real.
 
-**Scope and threshold assessment.** Which legal entity holds the certificate, which flights are international, what the projected annual CO2 is.
+![Chart of who owns and who supports each CORSIA activity](/images/corsia-consultant/corsia-governance-raci.svg)
 
-**Data readiness review.** Take a real sample month once operating and test whether the intended monitoring method can be fed from actual records.
+## Timing the threshold: a worked example
 
-**Draft the monitoring plan.** Method, sources, roles, quality controls and gap procedures.
+A new operator usually starts below 10,000 tonnes of international CO2 a year and crosses as the network grows. Even a single narrowbody flying international sectors at reasonable utilisation can approach it within a year or two.
 
-**Submit to DGCA.** Allow genuine time for questions and revision — approval is not instantaneous and a new operator has no track record with the authority.
+The trap is timing. **The monitoring plan must be approved before the year it covers**, and monitoring cannot be started retrospectively. So the plan work falls in the year *before* the obligation.
 
-**Build the pipeline.** Automated extraction, documented reconciliation rules, an audit trail.
+Take an **illustrative** start-up, Carrier N, with projected international CO2 from its fleet and network plan of:
 
-**Monitor and reconcile monthly.** For a new operation this is where problems surface, and month two is a much better time to find them than month twelve.
+- Year 1: about 4,000 tonnes
+- Year 2: about 9,000 tonnes
+- Year 3: about 14,000 tonnes
 
-**Compile and verify.** From a maintained dataset rather than a year-end reconstruction.
+Carrier N crosses the threshold in year 3. Its monitoring plan therefore has to be drafted, submitted and approved during year 2, while the airline is still below the line and CORSIA feels like a future problem. If the network plan accelerates, the crossing moves forward and so does the plan deadline. That is why the model should be re-run whenever the network plan changes.
 
-## Choosing a Method Without History
+Allow generous time for DGCA review. A new operator has no track record with the authority, and approval is not immediate. Whether any reporting applies below the threshold depends on national implementation, so confirm with the [DGCA](https://www.dgca.gov.in/).
 
-The awkwardness for a new operator is that method selection normally rests on testing against historical data that does not exist.
+## Choosing a method with no history
 
-Two workable approaches:
+Normally a monitoring method is chosen by testing it against past data. A new airline has none. There are two ways round this.
 
-**Test on the first months of live operation.** Delay the final method decision until a genuine sample exists, and use that period to test candidates. This requires the plan timeline to accommodate it.
+**Test on the first months of live flying.** Hold the final decision until real records exist and try the candidate methods against them. The plan timetable has to allow for it.
 
-**Specify the systems to support the method you want.** Rather than fitting a method to existing data, decide what you want to use and require the systems to produce it. This is the option only a new operator has.
+**Specify the systems to suit the method.** Decide which method you want and require your systems to produce what it needs. Only a new operator can do this, and where available it is the stronger option. Most established carriers would choose differently if they could specify their systems again. The methods are compared in [fuel use monitoring methods](/knowledge-base/corsia-fuel-monitoring-methods/).
 
-The second is stronger where it is available. Most established carriers would choose differently if they could specify their systems again.
+## The first year, in sequence
 
-## Budgeting for the Build
+1. Scope and threshold assessment: which legal entity holds the certificate, which flights are international, projected annual CO2.
+2. Data readiness review on a real month once flying starts.
+3. Draft the monitoring plan: method, sources, roles, quality controls, data gap procedure.
+4. Submit to the DGCA and allow for questions and revision.
+5. Build the pipeline: automated extraction, written reconciliation rules, an audit trail.
+6. Reconcile monthly. In a new operation this is where problems appear, and month two is a far better time to find them than month twelve.
+7. Compile the report from a maintained dataset and have it verified, rather than reconstructing the year at the end.
 
-A new operator's CORSIA cost profile is front-loaded and then modest, which is worth stating plainly in a launch budget where every line is contested.
+## Putting it in the launch budget
 
-**Year one is dominated by build, not units.** The monitoring plan, the data pipeline and the first verification are the substantial items. A new operator's early offsetting obligation is usually small, because covered emissions are small and the growth factor applies to a small base.
+Every line in a launch budget is contested, so the CORSIA line needs a clear case.
 
-**The build is largely one-off.** A pipeline specified correctly at launch needs maintenance, not rebuilding. This is the argument for spending properly on it once rather than repeatedly patching.
+- **Year one is about the build, not units.** The monitoring plan, the pipeline and the first verification are the main costs. Early offsetting obligations are usually small, because covered emissions are small and the growth factor applies to a small base.
+- **The build is mostly one-off.** A pipeline specified properly at launch needs maintenance, not replacement.
+- **Verification is the annual floor.** It happens every year and does not shrink much with size.
+- **Unit cost grows with the network**, with steps in 2027 and from 2030. Model it from the fleet plan rather than projecting year one forward.
 
-**Verification is the recurring floor.** It happens every year regardless of size, and it does not scale down much.
+The argument that usually lands: a modest build now avoids a far larger retrofit later, and the retrofit cannot fully succeed anyway, because past data cannot be recreated.
 
-**Unit cost grows with the network**, and steps up in 2027 and again from 2030. Model it against the fleet plan rather than extrapolating year one.
+## Network and fleet choices have a CORSIA price
 
-The framing that works in a launch budget: a modest one-off build now avoids a much larger retrofit later, and the retrofit option is not fully available because the data cannot be recreated.
+For a growing airline, commercial decisions and CORSIA exposure are directly linked. Better to see that while decisions are still open.
 
-## Governance From the Start
+- **Route choice sets coverage.** A route between two participating States creates an obligation from its first day. The same aircraft flying to a non-participating State does not, for now, but may from 2027 when participation becomes mandatory for States above the activity thresholds. Two network plans with identical block hours can carry very different obligations.
+- **Growth rate matters from 2030.** The individual growth factor is weighted 15% from 2030 and 30% from 2033. A new airline is, by definition, growing fast from a small base, so this is not marginal.
+- **Fleet choice changes the base.** The obligation is a share of covered emissions, so anything that cuts fuel burn cuts it proportionally.
+- **SAF depends on stations.** Where eligible fuel can be uplifted with proper certification, it reduces the requirement directly, so station choice affects whether that lever exists.
 
-![Who owns what in CORSIA compliance](/images/corsia-consultant/corsia-governance-raci.svg)
+None of this should drive network strategy alone. It should appear in the model rather than surfacing later as an unexplained cost. A fleet plan with a CORSIA column is simply a better fleet plan. The 2027 effect is covered in [second-phase readiness for Indian operators](/insights/corsia-second-phase-readiness-india-2027/).
 
-Assign ownership before the first reporting year, not during it.
+## Common launch-stage mistakes
 
-The pattern that fails in new operators is CORSIA sitting with whoever has capacity that week. It needs a named owner with the authority to require data from flight operations and finance, and a defined escalation route when it does not arrive.
+- Treating CORSIA as a problem for after the airline is established, and missing the system selection window.
+- Signing handling agreements with no data clause.
+- Noticing the threshold crossing in the year it happens, too late to have a plan approved.
+- Outsourcing understanding along with the work, so nobody internal can explain the figures at the first verification.
 
-For a small launch team this may be a part of someone's role rather than a dedicated post. That is fine, provided it is written down and the authority is real.
+## Where outside help fits
 
-## Fleet and Network Decisions Carry a CORSIA Cost
+Advice pays most at four points: input to the system specification before selection (highest return, shortest window); threshold and timing modelling so the plan work lands in the right year; the first monitoring plan and DGCA engagement, where a new operator has no established relationship; and pipeline design with reconciliation rules written from the start. Keep ownership and understanding of your own data in-house. The broader trade-off is in [consultant, in-house or hybrid](/insights/corsia-consultant-vs-in-house-team/).
 
-For a growing operator the connection between commercial planning and CORSIA exposure is direct, and it is worth surfacing while the decisions are still open.
-
-**Route choice determines coverage.** An international route between two participating States generates an offsetting obligation from day one. The same aircraft flying to a non-participating State does not, today — but may from 2027 when participation becomes mandatory for States above the activity thresholds. Two network plans with identical block hours can carry very different obligations.
-
-**Growth rate matters from 2030.** The individual growth factor enters the calculation at 15% weight from 2030 and 30% from 2033. A carrier expanding faster than the global sector carries proportionally more of its own burden. For a new airline, which is by definition growing fast from a small base, this is not a marginal effect.
-
-**Fleet choice affects fuel burn and therefore the base.** Obligation is a percentage of covered emissions, so anything reducing fuel burn reduces the obligation proportionally.
-
-**SAF availability varies by station.** Where qualifying fuel can be uplifted with proper certification, it reduces the requirement directly. Station selection can therefore affect how easily that lever is available.
-
-None of this should drive network strategy on its own. It should be visible in the model rather than arriving later as an unexplained cost line. A fleet plan with a CORSIA column is a better fleet plan.
-
-## Where a Consultant Helps
-
-**System specification input**, before selection. The highest-return intervention available and the one with the shortest window.
-
-**Threshold and timing modelling**, so the plan work happens in the right year.
-
-**First monitoring plan and DGCA engagement**, where a new operator has no established relationship with the authority.
-
-**Pipeline design**, so the reconciliation rules are documented from the start.
-
-What to keep internal: ownership, and understanding of your own data. A launch team that outsources understanding will struggle at the first verification.
-
-## Frequently Asked Questions
-
-**When does a new airline need to worry about CORSIA?** Before crossing the threshold, because the monitoring plan must be approved before the year it covers. Model the crossing from the network plan.
-
-**Do we need a monitoring plan if we are below the threshold?** Offsetting does not apply, but reporting obligations may depending on national implementation. Confirm with DGCA.
-
-**Can we start monitoring retrospectively?** No. Data cannot be collected for a period that has passed, which is why the plan precedes the year.
-
-**What is the single most valuable thing to do at launch?** Specify per-flight fuel capture and route data in your operations system and handling contracts. It costs nothing then and cannot be added cheaply later.
-
-**How long does DGCA approval take?** Allow generous time, particularly as a new operator without a track record. Engage early rather than close to the deadline.
-
-**Should we hire or outsource?** Outsource the first build; keep ownership and data understanding internal. See [consultant versus in-house](/insights/corsia-consultant-vs-in-house-team/).
-
-**Should CORSIA influence our route launch decisions?** It should be visible in the model rather than driving it. Two networks with identical block hours can carry materially different obligations depending on participation status at each destination.
-
-**How much does the first year cost?** Dominated by the monitoring plan, the data build and the first verification, not by units — a new operator's early obligation is usually small. The build cost is largely one-off.
-
-**What about the second phase?** Model it now — a growing network is disproportionately exposed to the 2027 coverage expansion. See [second-phase readiness](/insights/corsia-second-phase-readiness-india-2027/).
-
----
-
-**Working out what CORSIA means for your operation?** DSTechnoverse provides [CORSIA carbon credit services](/services/) for Indian operators and project developers — scope assessment, monitoring plans, data pipelines, verification support and unit sourcing. We are based in **Indore, Madhya Pradesh** and work across India.
-
-[Apply as a CORSIA buyer or seller](https://carboncredit.dstechnoverse.com/)
-
-[Talk to our carbon markets team](/contact/) about your position.
+If you are launching an airline, or planning your first international routes, talk to us before the systems are chosen rather than after. [Contact the desk](/contact/) and we will start with the specification.

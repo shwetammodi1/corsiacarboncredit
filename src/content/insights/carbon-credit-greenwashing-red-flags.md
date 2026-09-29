@@ -1,58 +1,63 @@
 ---
-title: "Carbon Credit Greenwashing: 6 Red Flags to Avoid"
-excerpt: "Most carbon credit scandals share the same warning signs. Six red flags that reveal a low-integrity offset — from inflated baselines and weak additionality to missing corresponding adjustments and vague claims."
+title: "Carbon Credit Greenwashing: Six Warning Signs in a Credit Offer"
+excerpt: "Greenwashing with carbon credits rarely involves fraud. It involves weak credits that nobody questioned. Six warning signs to look for in an offer, what each one hides, and a quick screen to run before you sign."
 date: "2026-09-07"
 topic: "Carbon Market Guides"
 tags: ["carbon credit greenwashing","low quality carbon credits","carbon offset red flags","additionality","corresponding adjustment","carbon credit integrity"]
 image: "/images/carbon-topics/greenwashing-red-flags.svg"
 ---
 
-The carbon-credit controversies that make headlines almost never involve outright fraud. They involve credits that were technically issued but did not represent the reductions claimed — and, crucially, buyers who could have seen the warning signs and did not look. Here are the six red flags that separate a credible offset from a reputational landmine.
+When a company is accused of greenwashing with carbon credits, the credits were usually real in the narrow sense. They were issued, serialised and retired. The problem was that they did not stand for the reductions the company claimed, and the warning signs were there to be read before the purchase.
 
-## 1. Aggressive Baselines
+This is a buyer's screen. Each warning sign below comes with what it tends to hide and what to ask.
 
-Every credit is measured against a **baseline** — what would have happened anyway. Inflate that baseline and you manufacture reductions that never occurred. This is the single most common failure, especially in avoided-deforestation projects where the "threat" of clearance was overstated. Red flag: a baseline that assumes dramatic business-as-usual emissions with thin evidence.
+## The screen at a glance
 
-## 2. Weak Additionality
+| Warning sign | What it usually hides | Question to ask the seller |
+|---|---|---|
+| Baseline assumes heavy emissions with little evidence | Reductions that never happened | What evidence supports the business-as-usual case? |
+| Project would have paid for itself anyway | No extra reduction at all | Why was carbon revenue decisive? |
+| Very old vintage at a very low price | Stale monitoring, weak demand | When was this last verified? |
+| Compliance-style claim, no corresponding adjustment | The same tonne counted twice | Is there a host-country authorisation? |
+| Big claim, no detail | A claim built to avoid scrutiny | What exactly was reduced and offset? |
+| Serial numbers you cannot look up | Credits you cannot prove exist | Which registry, and which serials? |
 
-A credit is only real if the reduction happened **because** of carbon finance. A renewable project that was already the cheapest option, or a forest that was never going to be cut, produces credits representing no extra reduction. Red flag: a project whose own economics clearly stood without carbon revenue — a pattern common in [renewable-energy credits](/insights/renewable-energy-carbon-credits-due-diligence-case-study/).
+## The six signs in detail
 
-## 3. Old Vintages Sold Cheap
+### An inflated baseline
 
-A suspiciously low price is often just a very old **vintage** with little recent monitoring. Old credits can be legitimate, but a bargain-basement price is usually the market telling you something. Red flag: cheap credits from years ago with no recent verification.
+A credit measures the difference between what happened and what would have happened without the project. If the "without" picture is exaggerated, the project is credited for reductions it never made. This is the most common failure in the market, and avoided-deforestation projects that overstated the threat of clearance are the classic case. Look for strong claims about business-as-usual emissions resting on thin evidence.
 
-## 4. No Corresponding Adjustment (Where One Is Needed)
+### A project that did not need the money
 
-If both the project's host country and the buyer count the same reduction, the tonne is counted twice. For compliance uses, a **corresponding adjustment** prevents this; many voluntary credits lack one. Red flag: a compliance-style claim on credits with no corresponding adjustment. (See [Article 6 explained](/insights/article-6-paris-agreement-explained/).)
+A credit is only meaningful if carbon finance made the reduction happen. A solar plant that was already the cheapest power option, or a forest that nobody intended to cut, produces credits for nothing extra. Our explainer on [additionality](/insights/additionality-in-carbon-credits-explained/) sets out the tests.
 
-## 5. Vague, Unqualified Claims
+### A bargain that is really an old vintage
 
-"Carbon neutral" stamped on a product with no explanation of what was reduced, what was offset, and with which credits, is a claim designed not to be checked. Red flag: a bold headline claim with no substantiating detail — the [carbon neutral vs net zero](/insights/carbon-neutral-vs-net-zero/) confusion is often deliberate.
+Very cheap credits are often simply very old ones, with little recent monitoring behind them. Old credits are not automatically bad, but when the price is far below comparable units, the market is telling you something.
 
-## 6. An Unverifiable Registry Trail
+### A missing corresponding adjustment
 
-A real credit has a traceable life: an approved programme, a serial number, a vintage, and a registry record you can inspect. Red flag: credits you cannot independently verify in a recognised registry, or a programme with weak governance.
+If the host country and the buyer both count the same tonne, it has been counted twice. For compliance uses, a corresponding adjustment prevents that, and many voluntary credits do not carry one. A buyer making a compliance-style claim on unadjusted credits is exposed. See [Article 6 in plain English](/insights/article-6-paris-agreement-explained/).
 
-## The Underlying Rule
+### A headline claim with nothing behind it
 
-Notice the pattern: every red flag is a shortcut that makes a credit cheaper and weaker at the same time. That is why **cheapness is the most reliable warning sign in this market**. A defensible offset costs what its type, vintage and integrity justify; a credit that is dramatically cheaper than its peers is usually cheaper for a reason you would not want to explain to an auditor. The full positive framework is in [how to evaluate carbon offset quality](/insights/evaluating-carbon-offset-quality-airlines/).
+"Carbon neutral" printed on a product, with no account of what was reduced, what was offset or which credits were used, is a claim designed not to be checked. The muddle between terms is often deliberate; our piece on [carbon neutral and net zero](/insights/carbon-neutral-vs-net-zero/) untangles them.
 
-## Frequently Asked Questions
+### No registry trail
 
-**What is carbon credit greenwashing?** Making a climate claim on the back of carbon credits that do not represent the real, additional reductions claimed — often due to weak baselines, additionality or double counting.
+A genuine credit has a traceable life: an approved programme, a serial number, a vintage and a registry record anyone can inspect. If you cannot find the credits in a recognised registry, or the programme's governance is weak, stop.
 
-**How can I tell if a carbon credit is low quality?** Watch for inflated baselines, weak additionality, old cheap vintages, missing corresponding adjustments, vague claims and an unverifiable registry trail.
+## The pattern behind all six
 
-**Why is a cheap carbon credit a warning sign?** Because most integrity shortcuts make a credit both cheaper and weaker; a price far below peers usually reflects lower quality, not a deal.
+Every one of these signs is a shortcut, and every shortcut makes a credit both cheaper and weaker. That is why price is the most dependable warning in this market. A sound credit costs what its type, vintage and integrity justify. One that is far cheaper than its peers is usually cheaper for a reason you would not enjoy explaining to an auditor.
 
-**What is a corresponding adjustment and why does it matter?** An accounting step that stops the same reduction being counted by both the host country and the buyer; without it, compliance claims risk double counting.
+## An example of how it goes wrong
 
-**How do I avoid buying greenwashed credits?** Define your purpose, buy within the matching quality band, and verify additionality, baseline, permanence, authorisation and the registry record before contracting.
+Take an illustrative case: a mid-sized Indian manufacturer wants to call a product line carbon neutral. A broker offers a block of avoided-deforestation credits well below the going rate. The vintage is several years old, the registry link goes to a summary page rather than serial numbers, and the baseline document is "available on request". Three of the six signs are showing before anyone has read the methodology. The right move is to ask for the serials and the baseline, and to walk away if they do not arrive.
 
----
+## Before you sign
 
-**Navigating carbon credits and climate claims?** DSTechnoverse works on the data and integrity side of carbon — project screening, registry and eligibility verification, MRV and monitoring-data analysis, reconciliation and defensible reporting. See our [CORSIA carbon credit services](/services/) and [data analytics](https://dstechnoverse.com/services/data-analytics). We are based in **Indore, Madhya Pradesh** and work across India and internationally.
+Decide what the credits are for, buy within the quality band that purpose needs, and check additionality, baseline, permanence, authorisation and the registry record before the contract, not after. A fuller method is in [how to assess carbon credit quality](/insights/carbon-credit-quality-assessment/).
 
-[Apply as a carbon credit buyer or seller](https://carboncredit.dstechnoverse.com/)
-
-[Talk to our team](/contact/), or start with [the complete carbon credits guide](/insights/corsia-carbon-credits-complete-guide/).
+If you have an offer in front of you and something feels off, [send it to us](/contact/). We can usually tell you within a day which of these signs apply.

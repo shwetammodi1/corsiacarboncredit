@@ -1,117 +1,70 @@
 ---
-title: "The CORSIA Market: Buyers, Sellers and Intermediaries"
-excerpt: "How the CORSIA-eligible unit market actually functions — who is on each side, why there is no exchange or public price, the routes supply reaches buyers, and how to assess an intermediary."
+title: "How the CORSIA Carbon Credit Market Works: Participants, Routes and Intermediaries"
+excerpt: "CORSIA-eligible units trade bilaterally, with no exchange and no screen price. Who buys and sells, the four ways supply reaches a buyer, and the questions that separate a capable intermediary from a pass-through."
 section: "Market & Pricing"
 order: 20
 image: "/images/corsia/hero-corsia-market.svg"
 ---
 
-The market for CORSIA-eligible units does not look like a commodity market. There is no exchange, no screen price, and no standard contract. Understanding how it actually functions is a prerequisite for transacting in it competently.
+A common first call to our desk goes something like: "What is the CORSIA price today?" There is no honest one-line answer, because there is no single place where that price is set. Eligible units change hands in private, negotiated deals, each with its own documents. Anyone buying or selling in this market does better once they accept that it behaves more like a property sale than a stock trade.
 
-![The CORSIA market](/images/corsia/hero-corsia-market.svg)
+![Illustration of the CORSIA unit market](/images/corsia/hero-corsia-market.svg)
 
-## Who Is on Each Side
+## A negotiated market, not an exchange
 
-| Side | Who | What they want |
+Exchanges work when every lot of a product is interchangeable. CORSIA-eligible units are not, in any practical sense.
+
+Put two units side by side and they may differ in vintage, crediting programme, methodology, host country, the terms of the host's authorisation, permanence arrangements and how complete the paperwork is. An airline that expects to be audited three years from now cares about every one of those differences. Stripping them out to create a standard contract would undo the diligence the eligibility criteria demand.
+
+Combine that with small volumes and you get a market where each deal is bilateral, negotiated and documented on its own terms.
+
+## The participants
+
+**Buyers** come in two kinds. Aircraft operators with offsetting obligations want units that settle their obligation and leave an evidence trail an auditor will accept. Increasingly, corporates also want units with a corresponding adjustment, because those give the strongest protection against double counting in their own voluntary claims. The point many supply forecasts miss is that these two groups are chasing the same small pool.
+
+**Sellers** are project developers, who want a price that reflects the authorisation they worked to obtain, and aggregators, who assemble saleable volume from projects too small to sell alone.
+
+**Intermediaries** are brokers, traders and platforms, earning a commission or a margin for bringing the two sides together.
+
+## Four routes to supply
+
+| Route | What you gain | What you give up |
 |---|---|---|
-| Buyers | Aircraft operators with offsetting obligations | Regulatory discharge, with evidence that survives audit |
-| Buyers | Corporates wanting adjusted units for voluntary claims | The strongest available double-counting protection |
-| Sellers | Project developers | Placement at a price reflecting the authorisation they secured |
-| Sellers | Aggregators | Volume assembled from projects individually too small |
-| Intermediaries | Brokers, traders, platforms | Margin or commission on matching |
+| Buying direct from a developer | The best price, since no one takes a margin, and direct access to the party holding the evidence | You do all the due diligence yourself, and you take counterparty risk on a possibly small, unfamiliar company in another country |
+| Using a broker or trader | Quicker access, and small parcels bundled together | Their grasp of eligibility ranges from expert to none, so you must find out which you have |
+| Programme or platform matching | Helps you find what exists | Nothing is verified for you: a listing is only a listing |
+| Forward agreements on future issuance | Secured supply, often at a better price | You carry delivery, authorisation and vintage risk unless the contract moves it elsewhere |
 
-Note the second row. Corporate voluntary buyers increasingly want corresponding-adjusted units for the integrity of their own claims, which means **operators compete with corporate demand for the same scarce pool**. That competition is frequently left out of supply forecasts.
+On forwards, anything the agreement leaves unsaid sits with the buyer. [Vintages and eligibility windows](/knowledge-base/corsia-vintages-and-eligibility-windows/) explains one of the main risks to write in.
 
-## Why There Is No Exchange
+## What a thin market does to you
 
-Commodity exchanges need fungible products. CORSIA-eligible units are not fungible in practice.
+**Finding a fair price costs effort.** You have to speak to several sellers and work out what each one's documents genuinely support. Buyers who accept the first quote often overpay. Buyers who push only on price often end up with gaps in the file.
 
-Two units from different projects differ in vintage, programme, methodology, host State, authorisation terms, permanence arrangements and documentation completeness. A buyer facing an audit in three years cares about all of those. Standardising them away would defeat the diligence the criteria require.
+**Waiting is riskier than it looks.** In a deep market, a late buyer simply pays the going rate. Here, a late buyer may find that the supply suitable for their compliance period has already been contracted to someone else. That is why a forward contract is worth something beyond price protection: it secures that the units exist for you at all.
 
-Add thin volume and the result is a **bilateral, negotiated, individually documented** market.
+**Counterparties vary a great deal.** The scarcity premium has drawn in intermediaries with a thin understanding of the rules. Phrases like "CORSIA-ready", "CORSIA-aligned" or "eligible pending authorisation" describe units that do not qualify today. They are sales language, not a standard.
 
-## Routes to Supply
+The pricing consequences are covered in [CORSIA credit pricing](/knowledge-base/corsia-credit-pricing/), and the reasons for scarcity in the [supply and demand outlook](/knowledge-base/corsia-supply-and-demand-outlook/).
 
-::: accordion Direct from developers
-Best pricing and best documentation access, because there is no intermediary margin and you deal with the party that holds the evidence.
+## Vetting an intermediary: five questions
 
-The cost is that you conduct full due diligence yourself and carry counterparty risk with an entity that may be small, unfamiliar and in another jurisdiction.
-:::
+1. **Are you a broker or a principal?** Someone introducing you to a seller and someone selling from their own book have different duties and incentives. Ask how they are paid too; a volume commission and a trading margin pull in different directions.
+2. **How do you establish that a unit has a corresponding adjustment?** This one question sorts the field. A good answer walks through a specific evidence chain: the host country's designated national authority, the authorisation document, the unit identifiers, and national reporting. "The project confirms it" is a bad answer. Background is in [corresponding adjustments and Article 6](/knowledge-base/corresponding-adjustments-article-6/).
+3. **What do you check yourself?** Some intermediaries do real diligence and will show you the work. Others relay the seller's description. Both can be legitimate, but it changes how much checking you must do.
+4. **Who holds the units right now?** If not the intermediary, your delivery depends on a party you have not assessed. Ask whether you can see the holding in the registry.
+5. **Will the evidence end up in our files?** Never let the intermediary be the only keeper of your diligence file. It has to survive the relationship ending. The registry side is covered in [registries and cancellation](/knowledge-base/corsia-registries-and-cancellation/).
 
-::: accordion Through brokers and intermediaries
-Faster access to supply and some aggregation of small parcels.
+## For sellers: what an airline is actually buying
 
-Quality of understanding varies enormously. Some intermediaries know the eligibility criteria in detail and will show you their work; others are passing through a seller's description. Both are legitimate businesses, but you need to know which you are dealing with so you can size your own effort accordingly.
-:::
+An airline is buying regulatory discharge. It wants a unit that, once cancelled and reported, takes one tonne off its obligation in the view of its national authority. The story behind the project matters far less than developers expect.
 
-::: accordion Through programme and platform mechanisms
-Some crediting programmes and platforms facilitate matching. Useful for discovery.
+What rarely moves the decision: project photographs, community narratives, co-benefit branding, a geography that sounds appealing, SDG maps used as marketing.
 
-Your diligence obligation does not transfer. A listing is not a verification.
-:::
+What decides it: the host-country authorisation document, the programme's approval status, the vintage, registry serial numbers, the verification report and the verifier's credentials, and a complete document pack.
 
-::: accordion Through forward agreements
-Contracting future issuance from a project in development. Secures supply, often at better pricing, at the cost of taking delivery, authorisation and vintage risk.
+Developers who lead with a voluntary-market pitch regularly lose to projects that are weaker on paper merits but stronger on paperwork. The airline's behaviour is rational, since it will be verified and possibly audited years later. A seller who can send the authorisation, approval evidence, vintage confirmation and verification report in one email stands out from most of the market.
 
-Those risks should be allocated explicitly in the agreement. Left implicit, they sit with the buyer.
-:::
+For Indian developers the first item on that list is usually the sticking point. A well-run Indian project without authorisation from the Government of India can still sell voluntarily, but it will struggle to get an airline's attention.
 
-## Assessing an Intermediary
-
-Set the relationship up deliberately.
-
-**Establish what they actually are.** A broker introducing buyer to seller has different obligations and incentives from a trader selling from their own book. Ask which, and how they are paid — a commission on volume and a margin on a proprietary position pull in different directions.
-
-**Test their understanding early.** One question does it: *how do you establish that a unit carries a corresponding adjustment?*
-
-An intermediary who answers with a specific evidence chain — designated national authority, authorisation document, unit identifiers, national reporting — understands the market. One who answers "the project confirms it" does not.
-
-**Ask what they verify.** Some conduct genuine diligence and will show you their work. Others pass through the seller's description.
-
-**Do not let them hold your diligence file.** You need the evidence in your own records, in a form that survives the relationship ending.
-
-**Understand the delivery chain.** If the intermediary does not hold the units, delivery depends on a counterparty you have not assessed. Ask who holds them and whether you can verify that holding in the registry.
-
-## Consequences of Illiquidity
-
-::: accordion Price discovery is expensive
-Establishing a fair price means talking to multiple sellers and understanding what each unit's documentation actually supports. Buyers who take the first quote frequently overpay; buyers who grind purely on price frequently end up with documentation gaps.
-:::
-
-::: accordion Timing risk is asymmetric
-In a liquid market, a buyer who waits pays the market price. In an illiquid one, a buyer who waits may find the available supply for their compliance period has been contracted by someone else.
-
-Forward contracting therefore has a value beyond price hedging — it secures existence, not just cost.
-:::
-
-::: accordion Counterparty quality varies widely
-The scarcity premium has attracted intermediaries whose understanding of eligibility is thin. Language like "CORSIA-ready", "CORSIA-aligned" and "eligible pending authorisation" describes units that are not currently eligible. Those phrases are marketing, not standards.
-:::
-
-## What Sellers Should Understand About Buyers
-
-An airline is not buying a story. It is buying **regulatory discharge** — a unit that, when cancelled and reported, reduces its obligation by one tonne in the eyes of its national authority.
-
-This changes what sells.
-
-| Largely irrelevant | Decisive |
-|---|---|
-| Project photographs | Host-State authorisation document |
-| Community narrative | Programme approval status |
-| Co-benefit branding | Vintage |
-| Geographic resonance | Registry serialisation |
-| SDG mapping as marketing | Verification report and qualifications |
-| | Completeness of the documentation package |
-
-Sellers who lead with the voluntary market pitch lose deals to sellers with weaker projects and stronger paperwork. That is a rational buyer response: the airline will be verified and possibly audited years later, and it needs evidence, not narrative.
-
-A seller who can send the authorisation document, programme approval evidence, vintage confirmation and verification report **in a single reply** is doing something most sellers cannot, and it moves conversations forward faster than any amount of project story.
-
-## Where to Go Next
-
-- [CORSIA credit pricing](/knowledge-base/corsia-credit-pricing/) — what sets the number
-- [Supply and demand outlook](/knowledge-base/corsia-supply-and-demand-outlook/) — why supply is thin
-- [Corresponding adjustments](/knowledge-base/corresponding-adjustments-article-6/) — the constraint behind it all
-- [Registries and cancellation](/knowledge-base/corsia-registries-and-cancellation/) — how units actually move
-
-DSTechnoverse works both sides of this market — sourcing and diligence for operators, eligibility screening and buyer matching for developers. [Talk to our team](/contact/) or [apply as a CORSIA buyer or seller](https://carboncredit.dstechnoverse.com/).
+We work both sides of this market: sourcing and diligence for operators, and eligibility screening and buyer matching for developers. Browse current listings on our [marketplace](/marketplace/), or [register units for sale](https://carboncredit.dstechnoverse.com/sell) if you are a developer.

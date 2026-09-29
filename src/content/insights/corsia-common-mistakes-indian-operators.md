@@ -1,162 +1,152 @@
 ---
-title: "Ten CORSIA Mistakes Indian Operators Keep Making"
-excerpt: "The errors that recur across Indian CORSIA engagements — from budgeting on total emissions to leaving registry accounts until purchase time — what each costs, and how to avoid them."
+title: "Common CORSIA Mistakes by Indian Operators, Stage by Stage"
+excerpt: "Fifteen CORSIA errors we meet repeatedly in Indian engagements, grouped by where in the cycle they happen: setup, the data year, purchasing and forward planning. How each surfaces, and the cheap habit that prevents it."
 date: "2026-09-01"
 topic: "Airline Compliance"
-tags: ["CORSIA mistakes","CORSIA compliance errors","Indian operators","CORSIA consultant India","compliance pitfalls","CORSIA lessons","aviation compliance"]
+tags: ["CORSIA mistakes","CORSIA compliance errors","Indian operators","compliance pitfalls","CORSIA lessons","verification findings","aviation compliance"]
 image: "/images/corsia-consultant/corsia-gap-analysis-areas.svg"
 ---
 
-These recur. Not because the operators involved are careless, but because each mistake is invisible at the moment it is made and expensive at the moment it surfaces.
+The mistakes in this list are not made by careless people. They are made by capable teams taking reasonable-looking decisions that nobody tests at the time. Each one is invisible when it is made and only becomes visible months later, usually in front of a verifier, when the reporting year is closed and the cheap fixes have gone.
 
-![What a CORSIA gap analysis examines](/images/corsia-consultant/corsia-gap-analysis-areas.svg)
+We have grouped them by the stage of the CORSIA cycle where they are made, because that is where they have to be caught.
 
-## 1. Choosing a Monitoring Method Without Testing the Data
+![The areas a CORSIA gap analysis examines](/images/corsia-consultant/corsia-gap-analysis-areas.svg)
 
-**What happens.** A method is selected because it looks appropriate, or because another operator uses it. The plan is approved. Twelve months later, at verification, it emerges that the required data was never captured at the necessary granularity.
+## Stage one: setting up
 
-**The cost.** The reporting year is closed and the data cannot be recreated. Every option at that point is bad.
+### Picking a monitoring method the data cannot support
 
-**The fix.** Pull a real, messy sample month — diversions, outstations, charters — and attempt to produce the required figures without manual reconstruction, before the method is chosen. Choose a method your data supports even if a more precise one exists on paper.
+A method is chosen because it looks right on paper or because another airline uses it. The DGCA approves the plan. A year later, at verification, it turns out the data the method needs was never captured at the necessary level of detail. The year cannot be rerun, and every option left is poor. Of everything on this page, this is the most expensive.
 
-## 2. Budgeting From Total Emissions
+**Prevention:** before choosing, take one real month with all its awkward parts (diversions, outstation uplifts, charters) and try to produce the figures the method requires without rebuilding anything by hand. Pick the method your data can actually support, even if a more precise one exists in theory. Our [comparison of fuel monitoring methods](/knowledge-base/corsia-fuel-monitoring-methods/) sets out the options.
 
-**What happens.** The budget is built from the airline's total CO2 rather than covered emissions.
+### Reporting a group as one operator
 
-**The cost.** For a carrier with a large domestic network, this can overstate the obligation several times over. It produces alarm, bad decisions and a loss of credibility when the real figure arrives.
+A group with several Air Operator Certificates files a single group-level report. Each certificate is a separate CORSIA operator with its own threshold test, monitoring plan and reporting duty, so the report is rejected and unpicking it takes real work.
 
-**The fix.** Filter properly: international flights only, aircraft above 5,700 kg, exempt types removed, and only route pairs where both States participate.
+**Prevention:** decide and document the operator entity for each certificate before anything else happens.
 
-## 3. Aggregating a Group With Several Certificates
+### Opening registry accounts only when a deal is agreed
 
-**What happens.** A group holding several Air Operator Certificates reports at group level.
+Supply is contracted first and onboarding starts afterwards. Opening an account takes four to eight weeks, so the operator's own paperwork holds up delivery while the cancellation deadline stays where it was.
 
-**The cost.** Each certificate is a separate CORSIA operator with its own threshold test, monitoring plan and reporting obligation. A group-level report is rejected, and the correction is not trivial.
+**Prevention:** open and test accounts well before you need them, with more than one authorised representative.
 
-**The fix.** Determine and document the operator entity per certificate before anything else.
+## Stage two: the data year
 
-## 4. Leaving Registry Accounts Until a Purchase Is Agreed
+### No written rule for resolving discrepancies
 
-**What happens.** Supply is contracted, then onboarding begins.
+Fuel sources disagree every month; they always will. Without a written rule, someone decides each case as it comes. At verification the question "why was this one handled this way?" gets the answer "that is how we do it", which is not an answer. This is one of the most frequent findings and one of the most preventable.
 
-**The cost.** Account opening takes four to eight weeks. Your own compliance blocks delivery, and the cancellation deadline does not move.
+**Prevention:** write six to ten reconciliation rules for the discrepancy types you actually see, plus a threshold above which a named person decides and records why.
 
-**The fix.** Open and test accounts ahead of need, with more than one authorised representative.
+### Reconciling once a year
 
-## 5. Buying Against a Description Rather Than Evidence
+The pipeline is run once, in the reporting window. An outstation whose dockets never reach head office is a small irritation in February and a permanent hole in December.
 
-**What happens.** Units are purchased on the basis that they are "CORSIA-ready" or "eligible pending authorisation".
+**Prevention:** reconcile monthly. Twelve routine exercises are easier and more accurate than one reconstruction against a deadline.
 
-**The cost.** Both phrases describe units that are **not currently eligible**. Without a host-State authorisation document naming the units, the purchase may be unusable.
+### Expecting the fuel figure and the finance figure to agree exactly
 
-**The fix.** Demand the authorisation document from the designated national authority. A seller's assurance is not evidence.
+They will not. A process that treats every difference as a problem spends each month chasing normal variation. **Prevention:** set a tolerance and a rule for what happens outside it.
 
-## 6. Resolving Discrepancies Without a Documented Rule
+### Keeping only the latest monitoring plan
 
-**What happens.** Fuel sources disagree, as they always do, and each month someone decides how to resolve it.
+Verification tests reporting against the plan **in force during the period**. If the plan was revised in the middle of the year, both versions matter, along with their approval dates. **Prevention:** keep every approved version and the date each took effect.
 
-**The cost.** Verification asks why this discrepancy was resolved this way, and "that is what we have always done" is not an answer. It is among the most common findings and it is entirely preventable.
+### Linking to evidence instead of saving it
 
-**The fix.** Write six to ten reconciliation rules covering the discrepancy types you actually encounter, with an escalation threshold above which a person decides and records the reason.
+A URL in a compliance file does not prove what a page said during the reporting year. Programme approval status, participation lists and vintage windows all change. **Prevention:** save a copy of the page as it stood when you relied on it.
 
-## 7. Reconciling Annually Instead of Monthly
+### One person holds all the knowledge
 
-**What happens.** The pipeline runs once, in the reporting window.
+The reconciliation logic lives in someone's head; that person leaves; the organisation can no longer explain its own reported figures. This is the finding that turns a routine verification into a difficult one, and written documentation is the only cure.
 
-**The cost.** An outstation whose dockets never reach the system is a nuisance in February and a permanent data gap in December. Problems are discovered when they cannot be fixed.
+### Assuming the adviser will also verify
 
-**The fix.** Run it monthly. Twelve routine exercises beat one reconstruction under deadline pressure, and the quality is better because nobody is rushing.
+An operator engages a firm for the monitoring plan and assumes the same firm can verify. It cannot: verification must be independent of anyone who advised. The problem is usually discovered late, when verifiers are already booked.
 
-## 8. Expecting the Consultant to Verify
+**Prevention:** plan for two suppliers from the beginning and book the verifier early. There are only so many accredited bodies, and everyone needs them in the same window. See [choosing a CORSIA verification body in India](/insights/corsia-verification-body-selection-india/).
 
-**What happens.** An operator engages one firm for the monitoring plan and assumes it will also verify.
+## Stage three: buying and claiming
 
-**The cost.** Verification requires independence from anyone who advised. The discovery is usually made late, when verifier availability is already constrained.
+### Buying on a label rather than a document
 
-**The fix.** Plan for two suppliers from the outset, and engage the verifier early — accredited bodies are limited and demand clusters in the same window for everyone.
+Units are sold as "CORSIA-ready" or "eligible pending authorisation". Both phrases describe units that are **not eligible today**. Without a host-State authorisation document that names the units, the purchase may be unusable.
 
-## 9. Ignoring the 2027 Step Change
+**Prevention:** ask for the authorisation document from the designated national authority. A seller's assurance is not evidence.
 
-**What happens.** The forecast extrapolates a trend through 2027.
+### Claiming SAF without the paperwork
 
-**The cost.** Mandatory second-phase participation expands route coverage for States above the activity thresholds. For an operator with significant traffic to currently non-participating States, the increase can be large and it arrives on a known date.
+Eligible fuel is uplifted and the reduction goes into the budget, but certification and chain-of-custody records are incomplete. The claim is refused at verification and the obligation reverts to the full figure, after the budget was set on the reduced one.
 
-**The fix.** Model covered emissions against your **actual network** under mandatory participation. The change is entirely network specific and a generic uplift will be wrong.
+**Prevention:** settle the certification scheme and the chain-of-custody evidence route **before** signing the fuel contract.
 
-## 10. Claiming SAF Without the Paperwork
+## Stage four: forward planning
 
-**What happens.** Qualifying fuel is uplifted and the reduction is budgeted, but the certification and chain-of-custody documentation is incomplete.
+### Budgeting on total emissions
 
-**The cost.** The claim is disallowed at verification and the obligation reverts to the unreduced figure — discovered after the budget was set on the reduced one.
+The budget uses the airline's total CO2 rather than covered emissions. For a carrier with a big domestic network this can overstate the obligation several times, which causes alarm, poor decisions and embarrassment when the true figure arrives.
 
-**The fix.** Establish the certification scheme and chain-of-custody evidence path **before** contracting for the fuel, not after uplift.
+**Prevention:** filter properly. International flights only, aircraft above 5,700 kg, exempt types removed, and only route pairs where both States take part.
 
-## Five More That Recur
+### Treating the participation list as fixed
 
-**11. Treating the participation list as static.** States have joined and at least one has withdrawn. An operator who captured the list once and reuses it will misclassify route pairs. Capture it as at the date relied on, and re-check annually.
+States have joined, and at least one has withdrawn. A list captured once and reused will misclassify route pairs. **Prevention:** record the list as at the date you relied on it and check it again every year.
 
-**12. Linking to evidence rather than capturing it.** A URL in a compliance file is not proof of what a page said during the reporting year. Programme approval status, participation lists and vintage windows all change. Save the page.
+### Drawing a straight line through 2027
 
-**13. Keeping only the current monitoring plan version.** Verification tests reporting against the plan **in force during the period**. If the plan was revised mid-year, both versions matter and you need the approval dates.
+From 2027 participation becomes mandatory for States above the activity thresholds, and route coverage widens. An operator with a lot of traffic to currently non-participating States can see a large rise, on a date everyone knows in advance.
 
-**14. Assuming the fuel figure and the finance figure should match exactly.** They will not, and a process built on the expectation that they should spends every month investigating normal variation. Write a tolerance and a rule instead.
+**Prevention:** re-run covered emissions against your **own route network** under mandatory participation. The effect depends entirely on the network, and a generic uplift will be wrong. See [CORSIA second phase readiness](/insights/corsia-second-phase-readiness-india-2027/).
 
-**15. Nobody able to explain the numbers except one person.** The reconciliation logic lives in a head, the person moves on, and the organisation cannot answer for its own reported figures. This is the finding that turns a routine audit into a serious one, and documentation is the only fix.
+## The same pattern, fifteen times
 
-Each of these shares the shape of the first ten: cheap to prevent, expensive at verification, and invisible until then.
+Almost every item above is an untested assumption that surfaces at verification, when it can no longer be corrected. Three habits deal with most of them:
 
-## The Pattern Behind Them
+1. **Test against real data** before committing: method, threshold position, operator entity.
+2. **Write down the reasoning**, not only the decision: reconciliation rules, gap procedures, scope logic, purchase approvals.
+3. **Work monthly**, so problems appear while they can still be fixed.
 
-Most of these share a shape: **a decision made on an assumption that was never tested, surfacing at verification when it cannot be corrected.**
+None of this is sophisticated. It is what separates compliance that holds from compliance that generates findings.
 
-Three habits prevent most of them:
+## Finding them before the verifier does
 
-**Test assumptions against real data** before committing — method choice, threshold position, entity determination.
+| Route to discovery | Cost | When |
+|---|---|---|
+| Gap analysis against what verification tests | Days | Before the year starts |
+| Internal dry run | Days | During the year |
+| The verifier | A year | After the year has closed |
 
-**Write down the reasoning**, not just the conclusion. Reconciliation rules, gap procedures, scope logic, purchase decisions.
+For the dry run, pick twenty flights, deliberately awkward ones, and trace every figure back to source and forward to the report. Give five of them to a colleague who was not involved and ask them to explain the numbers using only the files. Anything they cannot explain is a finding you found first. A [CORSIA gap analysis](/insights/corsia-gap-analysis-service/) covers the first route.
 
-**Run things monthly** rather than annually, so problems surface while they are fixable.
+One free habit is worth adding: before each reporting year, read the approved monitoring plan side by side with what the team really does. The two drift apart quietly.
 
-None of these are sophisticated. They are simply the difference between compliance that holds up and compliance that produces findings.
+## Questions we get about these mistakes
 
-## How These Get Found
+::: accordion Are these specific to India?
+Most happen everywhere. The group-certificate, outstation-data and near-threshold problems come up more often in India because of how operations here are commonly structured.
+:::
 
-Most of these mistakes are invisible internally until something external surfaces them. Three mechanisms find them earlier, in rough order of cost.
+::: accordion Do they apply to a small operator?
+Nearly all of them. Scale changes how much each one costs, not whether it happens.
+:::
 
-**A gap analysis against what verification tests.** Cheapest and earliest. It examines the eight areas that generate findings and reports where you stand, before any of it is expensive to correct.
+::: accordion Which is the most common?
+Undocumented reconciliation rules, followed closely by opening registry accounts late.
+:::
 
-**An internal dry run.** Sample twenty flights, chosen badly on purpose, and trace each figure to source in both directions. Hand five to someone uninvolved and ask them to explain the derivation from the files alone. Whatever they cannot explain is a finding you have found first.
+::: accordion We think we have made one. What now?
+Establish honestly how far the problem goes, then talk to your authority or verifier early rather than covering it over. Problems an operator identifies itself are handled far better than ones someone else discovers.
+:::
 
-**The verifier.** The most expensive discovery route, because by then the reporting year is closed and several of these mistakes cannot be corrected retrospectively.
+::: accordion Is a finding in our first verification serious?
+First-year findings are normal. The same finding again the following year is what damages credibility.
+:::
 
-The pattern worth noticing is that the first two cost days and the third costs a year. Operators who have been through one difficult verification generally adopt the first two permanently, which is an expensive way to learn something available cheaply.
+::: accordion Do project developers make similar mistakes?
+Some. On the developer side the equivalents are assuming host-State authorisation will come, and rebuilding documentation after the fact.
+:::
 
-A useful annual habit: before each reporting year begins, re-read the approved monitoring plan against what the team actually does. Drift accumulates quietly, and reading the document is free.
-
-## Frequently Asked Questions
-
-**Which mistake is most expensive?** Choosing a monitoring method the data cannot support. The year cannot be redone.
-
-**How many of these apply to a small operator?** Most. Scale changes the cost of each, not whether it occurs.
-
-**Which is most common?** Undocumented reconciliation rules, followed closely by leaving registry accounts late.
-
-**Are these specific to India?** Most are universal. The group-certificate, outstation-data and threshold-proximity ones arise more often in the Indian market because of how operations are commonly structured.
-
-**We think we have made one of these. What now?** Establish the scope of the problem honestly, then engage your authority or verifier early rather than papering over it. Self-identified problems are handled far better than discovered ones.
-
-**Is a first-year finding serious?** Findings in a first verification are normal. A repeat finding the following year is what damages credibility.
-
-**How do we know if we are making these mistakes?** A gap analysis against what verification actually tests. See [CORSIA gap analysis](/insights/corsia-gap-analysis-service/).
-
-**Do these apply to project developers too?** Some do. The developer-side equivalents centre on assuming host-State authorisation and reconstructing documentation retrospectively.
-
-**What is the single best preventive habit?** Monthly reconciliation with a written rule set. It catches most of the rest before they matter.
-
----
-
-**Planning your CORSIA position?** DSTechnoverse provides [CORSIA carbon credit services](/services/) for Indian operators and project developers — scope and readiness assessment, monitoring plans, data pipelines, verification support, unit sourcing and second-phase modelling. We are based in **Indore, Madhya Pradesh** and work across India.
-
-[Apply as a CORSIA buyer or seller](https://carboncredit.dstechnoverse.com/)
-
-[Talk to our carbon markets team](/contact/) about your position.
+If a few of these sound familiar, a short review now costs much less than a finding later. [Get in touch with the desk](/contact/) and we will suggest where to look first.

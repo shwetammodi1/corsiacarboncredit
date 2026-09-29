@@ -1,190 +1,136 @@
 ---
-title: "How to Become a CORSIA Carbon Credit Supplier: Project to Registry"
-excerpt: "The full pathway from project concept to CORSIA-eligible units in a buyer registry account — feasibility, host-State authorisation, programme selection, validation, verification, issuance and sale, with realistic timelines at each stage."
+title: "Becoming a CORSIA Carbon Credit Supplier: From Idea to Buyer's Registry"
+excerpt: "Supplying CORSIA units takes eighteen months to three years and depends on a government decision you do not control. The two tracks a developer runs, the stages and timings, the costs, and where projects stall."
 date: "2026-08-21"
 topic: "CORSIA Fundamentals"
 tags: ["CORSIA supplier","become carbon credit supplier","carbon project development","CORSIA project registration","carbon credit issuance","Article 6 authorisation","crediting programme"]
 image: "/images/corsia/corsia-seller-pathway.svg"
 ---
 
-Becoming a CORSIA supplier is a multi-year undertaking with a governmental decision sitting in the middle of it that nobody in the project controls. Understanding the sequence, and particularly which steps gate which, is the difference between a project that reaches the market and one that spends its budget proving it cannot.
+Most project developers think of the route to market as a line: design, validate, register, monitor, verify, issue, sell. For CORSIA it is better pictured as two tracks running side by side. One is technical and mostly within your control. The other is governmental, and no one in the project controls it. A developer who runs only the first track can reach issuance with nothing a CORSIA buyer can use.
 
-![CORSIA seller pathway](/images/corsia/corsia-seller-pathway.svg)
+![The pathway from project concept to CORSIA units in a buyer's account](/images/corsia/corsia-seller-pathway.svg)
 
-## Stage 0: Authorisation Feasibility
+## Start with the question that can end the project
 
-**Duration: two to eight weeks. Cost: low. Consequence of skipping: potentially total.**
+Before spending on design, find out whether the host State will authorise the units. This takes two to eight weeks and costs little. Skipping it can cost the whole budget.
 
-This is stage zero because everything else is conditional on it.
+Things to establish:
 
-**What to establish:**
+- Is there a designated national authority for Article 6 authorisation?
+- Is there a published process, or at least a precedent?
+- What is the policy on your project type in particular? Some governments authorise certain types and not others.
+- Are there fees, revenue-sharing requirements, or conditions on location or benefit sharing?
+- How long has it actually taken in real cases, as opposed to stated intentions?
 
-- Does the host State have a designated national authority for Article 6 authorisation?
-- Is there a published process, or any precedent?
-- What is the policy position on your project type specifically? Several governments authorise some types and not others.
-- Are there fees, revenue-sharing requirements, or conditions on siting or benefit distribution?
-- What is the realistic timeline, based on actual cases rather than stated intent?
+A clear yes with a written process is the best outcome. A clear no is the second best, because it saves you the rest of the budget. The awkward answer is "unclear", and it is common. Treat it as a risk to price, not a quiet yes.
 
-**How to interpret the answer:** A clear yes with a documented process is the best case. A clear no saves you the entire project budget. The difficult case is an unclear answer, which is common — and an unclear answer should be treated as a material risk to be priced, not as an implicit yes.
+Write the assessment down with the risk stated. If the answer is no or deeply uncertain, the voluntary market is a legitimate destination with real demand.
 
-**Output:** A written feasibility assessment with the risk stated. If the answer is negative or highly uncertain, the correct decision may be to target the voluntary market instead, and there is no shame in that — it is a large market with real demand.
+**An India note.** For Indian developers, the corresponding adjustment question interacts with the development of India's own domestic carbon market, and that is still being worked out. Check the current position for your project type before anything else. [CORSIA or CCTS](/insights/corsia-vs-ccts-for-indian-companies/) and [Indian projects: domestic or international](/insights/corsia-consulting-services-india/) cover the choice.
 
-## Stage 1: Programme and Methodology Selection
+## The technical track, stage by stage
 
-**Duration: two to six weeks.**
+| Stage | What happens | Typical duration |
+|---|---|---|
+| Programme and methodology | Choose an ICAO-approved crediting programme and a methodology that fits the real activity | Two to six weeks |
+| Project design | Baseline, additionality, quantification, monitoring plan, safeguards | Two to six months |
+| Validation | An accredited body checks the design against the methodology and programme rules | Three to nine months, driven largely by verifier availability |
+| Registration | The programme registers the project | One to three months |
+| Implementation and monitoring | The activity runs and data is gathered | Ongoing; first monitoring period usually twelve months |
+| Verification | An accredited body verifies the reductions for the period; independence rules usually rule out the validator | Three to six months |
+| Issuance | Serialised units are issued into your registry account | One to three months |
 
-Select an ICAO-approved crediting programme and a methodology that fits the actual activity.
+### Choosing the programme
 
-**What to check:**
+Check approval status on the [ICAO emissions units page](https://www.icao.int/environmental-protection/CORSIA/Pages/CORSIA-Emissions-Units.aspx), and whether it is full or conditional. Look for conditions that touch your project type or methodology, when the approval is next reviewed, and whether the methodology itself is under review; several have been narrowed or withdrawn. Compare fees, timelines and registry mechanics, and confirm the programme's handling of corresponding adjustments works with your host State's process.
 
-- Current approval status on the [ICAO emissions units page](https://www.icao.int/environmental-protection/CORSIA/Pages/CORSIA-Emissions-Units.aspx), and whether it is full or conditional
-- Whether any condition touches your project type or methodology
-- When the approval is next reviewed
-- Whether the methodology is itself under review — several have been narrowed or retired
-- The programme's own fees, timelines and registry mechanics
-- Whether the programme's corresponding adjustment handling aligns with your host State's process
+The usual error is picking the standard you used last time. That is habit. Approval status is a moving variable. [Managing programme approval risk](/insights/icao-approved-corsia-crediting-programmes/) goes deeper.
 
-**Common mistake:** Defaulting to whichever standard you have used before. That is habit, not a decision, and programme approval status is a live variable.
+### Designing the project
 
-## Stage 2: Project Design
+- **Baseline.** What would have happened without the project, built conservatively.
+- **Additionality.** Why carbon revenue was needed, shown through investment analysis, barrier analysis and a common practice test. Arguments that worked ten years ago often fail now, especially for grid-connected renewables where they are already the cheapest option.
+- **Quantification.** Reduction calculations under the methodology, with assumptions leaning towards under-crediting.
+- **Monitoring plan.** What is measured, how, how often, by whom, with what equipment and calibration. Ask honestly whether the project can produce this data for its whole life.
+- **Safeguards.** Environmental and social impact assessment, stakeholder consultation, free prior and informed consent where indigenous or local communities are affected, and a grievance mechanism. Unclear land tenure is the most frequent safeguards failure, particularly for land-based projects.
 
-**Duration: two to six months.**
+### Validation and monitoring
 
-Produce the project design documentation. The substantive elements:
+Validation queues are real and cannot be shortened later, so talk to validators early about availability. Findings that require design changes add time; incomplete stakeholder documentation is the most common cause of delay.
 
-**Baseline.** What would have happened without the project, constructed conservatively and defensibly.
+Once the project is running, the typical failures are monitoring plans that looked fine on paper and do not work in the field, broken equipment left unreplaced, data gaps that cannot be filled afterwards, and field staff leaving with knowledge that was never written down. Build data quality control into operations from the first day. A reduction that happened but cannot be evidenced does not become a credit.
 
-**Additionality.** Why carbon revenue was necessary. Investment analysis, barrier analysis and a common practice test. Be realistic here — additionality arguments that succeeded a decade ago frequently fail now, particularly for grid-connected renewables in markets where they have become the least-cost option.
+## The government track
 
-**Quantification.** Emission reduction calculations under the chosen methodology, with assumptions erring toward under-crediting.
+The host State authorises the specific units and applies the corresponding adjustment. This can take weeks, or it can take indefinitely.
 
-**Monitoring plan.** What is measured, how, how often, by whom, with what equipment and what calibration. The realism test matters: can the project actually produce this data over its lifetime, or is the plan aspirational?
+Wherever the process allows, run it alongside the technical track rather than after it. Leaving it to the end maximises the time your capital sits exposed to a decision outside your control.
 
-**Safeguards.** Environmental and social impact assessment, stakeholder consultation, free prior and informed consent where indigenous or local communities are affected, and a grievance mechanism. Land tenure clarity is essential, particularly for land-based projects — this is the most common safeguards failure.
+What you need at the end is an authorisation document that names the specific units. Buyers will ask for it before anything else. Without it, there is no CORSIA sale.
 
-## Stage 3: Validation
+## Selling and transfer
 
-**Duration: three to nine months, largely determined by verifier availability.**
+Finding a buyer, negotiating, transferring the units and the buyer's cancellation can take weeks or months. Expect buyers to ask for the authorisation document, evidence of programme approval, vintage confirmation, the verification report, registry records and the project documentation. The [buyer due diligence checklist](/insights/corsia-credit-due-diligence-checklist/) shows what you will be tested on, and the [seller guide](/insights/corsia-carbon-credit-seller-guide/) covers the commercial side.
 
-An accredited body assesses the design against the methodology and programme rules.
+## How long, end to end
 
-**What slows it:** Queues, which are real. Findings requiring design revision. Incomplete stakeholder documentation, which is the most common cause of delay.
+For a new project, eighteen months to three years from concept to first sale is realistic, and longer where authorisation is slow or validation queues are long.
 
-**Practical point:** Engage the validator early to understand their availability. The queue is not something you can compress later.
+Work back from second-phase demand from 2027. A developer aiming at it should be resolving the authorisation question now. Arriving after demand becomes visible means arriving after ready supply has already been contracted.
 
-## Stage 4: Registration
+## Small projects: aggregate or stay out
 
-**Duration: one to three months.**
+Where individual projects are too small to carry transaction and diligence costs, aggregation is usually the only way to reach a CORSIA buyer.
 
-The programme registers the project. Largely administrative once validation is complete.
+Several crediting programmes offer **programme of activities** structures. Similar activities are registered under one umbrella with a shared methodology and monitoring framework, and new activities join without repeating full design and validation. This suits distributed work such as cookstoves, small biogas units, efficiency measures across many sites and smallholder agriculture.
 
-## Stage 5: Implementation and Monitoring
+The economics improve a lot. Three things get harder:
 
-**Duration: ongoing; first monitoring period typically twelve months.**
+1. **Monitoring** across many scattered sites, where sampling has to meet the methodology's statistical requirements. Under-resourcing this is the main reason aggregated projects fail.
+2. **Safeguards**, which must hold at every site, not on average. A tenure dispute at one site is a problem for the whole programme.
+3. **Authorisation**, which may be granted for the programme or tranche by tranche, depending on the host State.
 
-The activity operates and data is collected.
+Third-party aggregators can run the structure for you in return for a share of revenue. You give up margin and control, and quality varies. Judge them on their CORSIA record, not their voluntary volumes.
 
-**What goes wrong:** Monitoring plans that were plausible on paper and impractical in operation. Equipment that fails and is not replaced promptly. Data gaps that cannot be filled retrospectively. Staff turnover in the field taking undocumented knowledge with it.
+## What it costs
 
-**Practical point:** Build data quality control into operations from day one. Reductions that occurred but cannot be evidenced do not become credits.
+Amounts vary widely by project type and scale. The shape does not.
 
-## Stage 6: Verification
+| Cost | Character |
+|---|---|
+| Feasibility and design | Moderate and front-loaded; the best value in the sequence, because it tells you whether to continue |
+| Validation and verification | Significant, and verification recurs each cycle |
+| Programme fees | Registration plus per-unit issuance levies |
+| Authorisation | Possible government fees or revenue-sharing conditions |
+| Monitoring | Ongoing for the project's life, and usually underestimated |
+| Transaction | Legal work, support for buyer diligence, intermediary margin |
 
-**Duration: three to six months.**
+The economics only work at enough scale, which is why small standalone projects so often aggregate.
 
-An accredited body verifies the reductions for the monitoring period. Independence rules generally prevent the validator from also verifying.
+## Ways projects stall, and the counter
 
-## Stage 7: Issuance
+- **Authorisation left unexamined.** Settle it first.
+- **No fallback.** Design for CORSIA eligibility but keep the option of a voluntary sale without an adjustment.
+- **Tracks run in series.** Run the government track in parallel where you can.
+- **Documents assembled at the end.** Build them continuously.
+- **Approval status assumed.** Watch it; it can change mid-project.
+- **Marginal scale.** Aggregate. Diligence and transaction costs do not shrink with the project.
 
-**Duration: one to three months.**
+::: accordion Can an existing registered project become CORSIA eligible?
+Possibly, if its programme is ICAO approved, the vintage is eligible and the host State authorises the units. Moving between programmes is possible but costly.
+:::
 
-The programme issues units into the registry, serialised and attributed to your account.
+::: accordion Does the project have to be in a developing country?
+No. Eligibility turns on the criteria, not on the host State's development status.
+:::
 
-## Stage 8: Authorisation and Corresponding Adjustment
+::: accordion Can we sell before authorisation?
+You can contract forward, with authorisation risk allocated in the agreement. You cannot deliver an eligible unit without it.
+:::
 
-**Duration: highly variable — weeks to indefinite.**
+::: accordion Is there a minimum project size?
+No formal minimum, but transaction and diligence costs make very small projects uneconomic unless they aggregate.
+:::
 
-The host State authorises the specific units and the corresponding adjustment is applied.
-
-**This can run in parallel with earlier stages**, and where the process permits it, it should. Sequencing it last, after everything else is complete, maximises the time your capital sits at risk against a decision you do not control.
-
-**Output:** An authorisation document naming the specific units. This document is what buyers will ask for. Without it there is no CORSIA sale.
-
-## Stage 9: Sale and Transfer
-
-**Duration: weeks to months.**
-
-Find a buyer, negotiate, transfer, and the buyer cancels.
-
-**What buyers will demand:** the authorisation document, programme approval evidence, vintage confirmation, verification report, registry records, and project documentation. See the [buyer due diligence checklist](/insights/corsia-credit-due-diligence-checklist/) to understand exactly what you will be tested against.
-
-## The Total Timeline
-
-Eighteen months to three years from concept to first sale is realistic for a new project. Longer where authorisation is slow or validation queues are long.
-
-Working backwards from second-phase demand from 2027 onward: developers targeting that demand need to be resolving stage zero now. Waiting until demand becomes visible means arriving after supply that was already ready has been contracted.
-
-## Aggregation and Programmes of Activities
-
-For projects that are individually too small to justify the transaction and diligence costs, aggregation is usually the only route to a CORSIA buyer.
-
-**Programme of activities structures**, offered under several crediting programmes, allow multiple similar activities to be registered under a single umbrella with a shared methodology and monitoring framework. New activities join without repeating the full design and validation process. This suits distributed interventions — cookstoves, small biogas units, efficiency measures across many sites, smallholder agriculture.
-
-The economics improve substantially, but three things get harder.
-
-**Monitoring** across many dispersed sites is operationally demanding, and sampling approaches must satisfy the methodology's requirements for statistical rigour. Under-resourcing this is the most common cause of failure in aggregated projects.
-
-**Safeguards** must hold across every participating site, not on average. A tenure dispute at one location is a problem for the whole programme, not an isolated incident.
-
-**Authorisation** may be granted for the programme or for individual tranches, and the host State's approach determines how much administrative work each issuance carries.
-
-**Third-party aggregators** are an alternative for developers who do not want to run the structure themselves. They handle registration, monitoring and sale in exchange for a share of revenue. The trade-off is margin and control, and quality varies — assess their CORSIA-specific track record, not just their voluntary market volume.
-
-## Cost Structure
-
-Costs vary enormously by project type and scale, but the shape is consistent:
-
-- **Feasibility and design** — moderate, front-loaded, and the best value in the sequence because it is where you discover whether to proceed.
-- **Validation and verification** — significant, recurring for each verification cycle.
-- **Programme fees** — registration and per-unit issuance levies.
-- **Authorisation** — may involve government fees or revenue-sharing conditions.
-- **Monitoring** — ongoing operational cost over the project lifetime, frequently underestimated.
-- **Transaction** — legal, buyer diligence support, intermediary margin.
-
-The economics work only at sufficient scale, which is why small standalone projects frequently aggregate.
-
-## Reducing the Risk
-
-**Resolve stage zero first.** Repeated because it is the point people skip.
-
-**Keep the voluntary fallback.** Design for eligibility, retain the option to sell without an adjustment.
-
-**Run authorisation in parallel** where the process allows.
-
-**Build documentation continuously.** Not retrospectively.
-
-**Monitor programme approval status.** It can change under you mid-project.
-
-**Aggregate where scale is marginal.** Diligence and transaction costs do not scale down.
-
-## Frequently Asked Questions
-
-**Can an existing registered project become CORSIA eligible?** Potentially, if the programme is ICAO approved, the vintage is eligible, and the host State authorises those units. Programme migration is possible but costly.
-
-**Do I need to be in a developing country?** No. Eligibility depends on the criteria, not on the host State's development status.
-
-**What if my host State has no Article 6 process?** Practically, that is a no for now. Some governments are building processes; whether yours will, and when, is the risk to assess.
-
-**Can I sell before authorisation?** You can contract forward with authorisation risk allocated in the agreement. You cannot deliver a CORSIA-eligible unit without it.
-
-**How large does a project need to be?** No formal minimum, but transaction and diligence costs make very small projects uneconomic without aggregation.
-
-**Where does DSTechnoverse fit?** Feasibility and authorisation assessment, programme and methodology selection, design support, validation and verification coordination, and buyer matching — from stage zero through to sale.
-
----
-
-**Buying or selling CORSIA units?** DSTechnoverse provides specialist [CORSIA carbon credit services](/services/) — offsetting requirement calculation and unit sourcing for operators, and eligibility screening, host-State authorisation support and buyer matching for project developers. We are based in **Indore, Madhya Pradesh** and work with clients across India and internationally.
-
-[Apply as a CORSIA buyer or seller](https://carboncredit.dstechnoverse.com/)
-
-[Talk to our carbon markets team](/contact/) about your position.
+Our desk works with developers from the authorisation question through to buyer matching. If you have a project in mind, [send us the outline through the seller intake](https://carboncredit.dstechnoverse.com/sell) and we will tell you which track is likely to hold it up.

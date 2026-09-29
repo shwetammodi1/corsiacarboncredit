@@ -1,153 +1,128 @@
 ---
-title: "25 Questions to Ask a CORSIA Consultant Before You Appoint Them"
-excerpt: "The questions that separate firms with real CORSIA delivery experience from firms with a carbon market slide deck — on MRV, verification, corresponding adjustments, independence, staffing and what happens when findings arise."
+title: "Interviewing a CORSIA Consultant: 25 Questions, With Strong and Weak Answers"
+excerpt: "Twenty-five questions for any CORSIA adviser, grouped by what they test, with what a credible answer and a worrying one sound like. Plus a two-page practical test, the documents to request and a weighted scoring sheet."
 date: "2026-08-22"
 topic: "Airline Compliance"
-tags: ["CORSIA consultant questions","consultant selection","CORSIA India","due diligence","carbon consultant","CORSIA compliance","procurement"]
+tags: ["CORSIA consultant questions","consultant selection","CORSIA India","due diligence","carbon consultant","scoring sheet","procurement"]
 image: "/images/corsia-consultant/corsia-consultant-selection-criteria.svg"
 ---
 
-Every consultant will say they can help with CORSIA. The purpose of a selection conversation is to find out whether they have actually done it, and the fastest way is to ask questions that cannot be answered from a brochure.
+We are a CORSIA advisory desk, so there is an obvious conflict in us writing a guide to questioning CORSIA advisers. We have written it anyway, because operators keep appointing firms on the strength of a confident pitch and discovering the gaps a year later at verification. Use these questions on us as well. That is rather the point.
 
-![How to compare CORSIA consultants](/images/corsia-consultant/corsia-consultant-selection-criteria.svg)
+Every firm will say it can help with CORSIA. The interview is there to find out whether it has actually done the work, and the quickest route is questions no brochure can answer.
 
-## On Experience
+![Criteria for comparing CORSIA consultants](/images/corsia-consultant/corsia-consultant-selection-criteria.svg)
 
-**1. Which CORSIA compliance cycles have you delivered, and for what kind of operator?** Listen for specifics — fleet scale, entity structure, which cycle. Vagueness here predicts vagueness everywhere.
+## Start with this one
 
-**2. Have you written an emissions monitoring plan that a civil aviation authority accepted?** The plan is the foundational document. A firm that has never had one accepted is learning on your engagement.
+**Q1. What is the difference between our monitoring and reporting obligation and our offsetting obligation?**
 
-**3. Have you sat through a CORSIA verification?** And what findings arose? Anyone who has been in the room will have opinions about what verifiers press on.
+This is the best single test we know. Monitoring, reporting and verification apply to every operator above the threshold, across its international flights. Offsetting applies only on route pairs between participating States. A firm that blurs the two will give you wrong advice on almost everything that follows. If the answer is muddled, you can end the meeting early. The [MRV explainer](/knowledge-base/corsia-mrv-explained/) sets out the distinction if you want to check the answer yourself.
 
-**4. Which verification bodies have you worked alongside?** Names, and what each focused on.
+## Have they done it?
 
-**5. What is the most common finding you see?** A real answer sounds like "incomplete evidence for the data gap procedure" or "fuel method applied inconsistently at outstations". A generic answer means limited exposure.
+| # | Question | A strong answer | A weak answer |
+|---|---|---|---|
+| 2 | Which CORSIA cycles have you delivered, and for what kind of operator? | Fleet size, entity structure, which cycle | "Several airlines in the region" |
+| 3 | Has a civil aviation authority accepted a monitoring plan you wrote? | Yes, with detail on what the authority queried | Talks about plans in general |
+| 4 | Have you been through a CORSIA verification, and what was found? | Specific findings and how they were closed | No findings mentioned, or none remembered |
+| 5 | Which verification bodies have you worked alongside? | Names, and what each tended to press on | Cannot name one |
+| 6 | What is the most common finding you see? | "Gap procedure not evidenced" or "fuel method applied inconsistently at outstations" | "Data quality issues" |
+| 7 | Have you worked through the DGCA process specifically? | Knows the national timelines and formats | ICAO-level knowledge only |
+| 8 | Can we speak to a client on a similar engagement, ideally one where something went wrong? | Offers one readily | Only offers glowing references |
 
-**6. Have you worked with the DGCA process specifically?** ICAO-level knowledge is necessary and not sufficient. The practical timelines and formats are national.
+Question 4 deserves the most weight. A verification is a live event with an independent third party, and people who have been in one carry detail they could not have rehearsed: which records were sampled, what the verifier pushed on, how the findings were worded.
 
-**7. Can we speak to a client reference on a comparable engagement?** And ideally one where something went wrong.
+## Do they understand our operation?
 
-## On the Work Itself
+| # | Question | A strong answer | A weak answer |
+|---|---|---|---|
+| 9 | What is our applicability position as you understand it? | A provisional view drawn from your brief | A deflection to "we'd need to assess" |
+| 10 | Which fuel monitoring method would you recommend for us, and why? | Reasoning tied to your systems and stations | A method named with no reasons |
+| 11 | How do you treat wet-leased aircraft? | Responsibility follows the operating certificate, with the evidence needed | Unsure, or "whoever owns the aircraft" |
+| 12 | What does your data gap procedure look like? | Conservative, set in advance, applied the same way every time | Choose the method case by case |
+| 13 | How do you reconcile reported fuel against finance records? | A monthly routine | Do not do it |
+| 14 | What evidence pack do you prepare for verification? | A structure mapped to the plan | "Whatever the verifier asks for" |
+| 15 | How do you keep the plan current when fleet or routes change? | A change-control route and a quarterly review | Update it at year end |
 
-**8. Walk me through our applicability position as you understand it.** A firm that has read your brief will have a provisional view. One that has not will deflect.
+## Do they understand the credit side?
 
-**9. Which fuel monitoring method would you recommend for our operation, and why?** The reasoning matters more than the answer, and it reveals whether they understand your operation.
+| # | Question | A strong answer | A weak answer |
+|---|---|---|---|
+| 16 | How do you decide which route pairs carry an offsetting requirement? | The participating-State list and the route-pair test | Operator nationality |
+| 17 | What makes an emissions unit CORSIA-eligible? | Approved programme, vintage window **and** corresponding adjustment, raised without prompting | Programme approval only |
+| 18 | How would you verify that units offered to us carry a corresponding adjustment? | The authorisation document, the unit identifiers, registry checks | "The seller confirms it" |
 
-**10. How do you handle wet-leased aircraft in scope?** A specific, commonly mishandled case. See [CORSIA compliance for Indian airlines](/insights/corsia-compliance-for-indian-airlines/).
+## Are they independent?
 
-**11. What does your data gap procedure look like?** It should be conservative, pre-defined and applied consistently — not chosen after seeing which value is favourable.
+| # | Question | A strong answer | A weak answer |
+|---|---|---|---|
+| 19 | Do you sell emissions units, or hold an interest in a firm that does? | A direct yes or no, with disclosure | A change of subject |
+| 20 | If we asked you to buy units for us, how would you be paid? | Fee, margin or both, stated up front | Vague |
 
-**12. How do you reconcile reported fuel burn against finance records?** If they do not do this, they are missing the check the verifier will perform.
+A firm can legitimately sell units and advise, provided it discloses and you know which role it is playing. What you cannot accept is not being told. See [consultant red flags](/insights/corsia-consultant-due-diligence-red-flags/).
 
-**13. What evidence pack do you prepare for verification?** Structure, contents, and how it maps to the plan.
+## What will we actually get?
 
-**14. How do you keep the monitoring plan current when the fleet or routes change?** Stale plans are findings.
+| # | Question | A strong answer | A weak answer |
+|---|---|---|---|
+| 21 | Who will do the work? | Names, grades, confirmed availability | The partner from the pitch, and "the team" |
+| 22 | What is excluded from the fee? | A specific list: data remediation, extra entities, authority queries, findings closure | "Nothing significant" |
+| 23 | If the verifier raises a material finding on your work, who closes it and who pays? | They do, at their cost, within defined limits | Billed as extra |
+| 24 | What will year two cost, and why less? | Lower, because capability transfers to you | Same or higher, with no reason given |
+| 25 | What will you leave behind so we can run this ourselves? | Named items: procedures, data flow diagram, evidence template, worked example, training | "Ongoing support" |
 
-## On Offsetting and Credits
+Question 24 is revealing. A firm building your capability can explain why the second year costs less. A firm building an annuity cannot. More on fee structures in [consultant cost and fees](/insights/corsia-consultant-cost-and-fees-india/).
 
-**15. Explain the difference between our MRV obligation and our offsetting obligation.** The single best test question. Anyone who conflates them should not be advising you.
+## What to notice across the whole conversation
 
-**16. How do you determine which route pairs attract an offsetting requirement?** Should reference the participating-state list and the route-pair test, not operator nationality.
+![Scope of work a CORSIA consultant typically covers](/images/corsia-consultant/corsia-consultant-scope-matrix.svg)
 
-**17. What makes an emissions unit CORSIA-eligible?** Should cover approved programme, vintage window and corresponding adjustment — and should mention the corresponding adjustment without prompting.
+- **Do they ask you questions?** Someone who has done this will want to know about your entities, your fuel systems, your outstations and your other reporting obligations. A firm that only presents is selling, not scoping.
+- **Do they treat operator compliance and project-side supply as different jobs?** They are. A firm that runs them together has probably done neither in depth.
+- **Do they volunteer limits?** "We would bring in a specialist for the corresponding adjustment work" signals competence.
+- **Is the conversation about data?** Most of CORSIA compliance is data assurance. An hour spent on strategy has avoided the real work.
+- **Are they precise about what is uncertain?** Participating States, phase parameters and unit criteria change. Presenting all of it as settled means out of date or overconfident. If a firm answers everything with total certainty, ask what it finds uncertain.
 
-**18. Do you sell emissions units, or hold any interest in a firm that does?** Ask directly. See [CORSIA consultant due diligence and red flags](/insights/corsia-consultant-due-diligence-red-flags/).
+## A two-page test
 
-**19. If we asked you to procure units, how would you be remunerated?** Fee, margin, or both — and disclosed.
+If you want one exercise that separates firms fast, give each shortlisted firm the same small, real task:
 
-**20. How would you verify that units offered to us carry a corresponding adjustment?** Should describe documentary evidence and registry checks, not assurance from the seller — see [the CORSIA credit due diligence checklist](/insights/corsia-credit-due-diligence-checklist/).
+> Here is one anonymised month of our fuel data and a summary of our route network. In two pages, tell us which flights you think are in scope, which monitoring method you would recommend, what data gaps you can already see, and what else you would need from us.
 
-## On Commercials and Delivery
+It costs each firm about a day. Firms that have done the work produce something useful. Firms that have not produce a description of their methodology. A short paid gap analysis serves the same purpose if you prefer.
 
-**21. Who will actually do the work?** Names, grades and availability. The partner in the pitch is frequently not the person on the engagement.
+## Documents to ask for
 
-**22. What is excluded from your fee?** Push until the answer is specific. Data remediation, additional entities, authority queries and findings closure are the usual exclusions.
+- A redacted excerpt of a monitoring plan they wrote, to show they can write one.
+- A redacted gap analysis, to judge their rigour.
+- Their evidence pack structure, for verification readiness.
+- CVs of the named team.
+- An independence declaration covering any interest in unit sales.
+- Insurance and contract terms, which are routine but still worth reading.
 
-**23. If the verifier raises a material finding on your deliverable, who closes it and at whose cost?** The answer tells you how confident they are in their own work.
+## Scoring more than two firms
 
-**24. What will year two cost, and why is it lower?** A firm building your capability will have a clear answer. A firm building an annuity will not.
+With three or more firms in the running, score rather than go on impressions. It keeps the decision defensible and stops the most confident presenter winning by default.
 
-**25. What will you leave behind so we can run this ourselves?** Named artefacts — procedures, data flow diagram, evidence template, worked example, training session.
-
-## Reading the Answers
-
-![What a CORSIA consultant actually does](/images/corsia-consultant/corsia-consultant-scope-matrix.svg)
-
-Patterns worth noticing across the whole conversation:
-
-**Do they ask you questions?** A consultant who has done this will want to know about your entity structure, your fuel data systems, your outstations and your existing reporting obligations. One who only presents is selling, not scoping.
-
-**Do they distinguish the two practices?** Operator-side MRV and project-side credit supply are different jobs. A firm that treats them as one has probably done neither at depth.
-
-**Do they volunteer limitations?** "We would bring in a specialist for the corresponding adjustment engagement" is a mark of competence, not weakness.
-
-**Do they talk about data or about strategy?** CORSIA compliance is 80% data assurance. A conversation that stays at strategy level for an hour has avoided the actual work.
-
-**Are they precise about what is uncertain?** Participating states, phase parameters and eligible unit criteria change. A consultant who states all of it as settled fact is either out of date or overconfident.
-
-## A Short Practical Test
-
-If you want one exercise that reveals capability quickly, give shortlisted firms a small, real problem:
-
-> *Here is an anonymised sample of one month of our fuel data and a summary of our route network. Tell us, in two pages: which flights you believe are in scope, which fuel monitoring method you would recommend, what data gaps you can already see, and what you would need from us that is not in this sample.*
-
-Firms that have done the work produce something useful in two pages. Firms that have not produce a methodology description. It costs each of them a day and it tells you more than any reference call.
-
-## Documents to Request
-
-| Document | What it shows |
-|---|---|
-| Redacted monitoring plan excerpt | That they can write one |
-| Redacted gap analysis | How rigorous their assessment is |
-| Evidence pack structure | Verification readiness |
-| CVs of the named team | Who is actually doing the work |
-| Independence declaration | Any credit sales interest |
-| Insurance and contractual terms | Standard, but check |
-
-For background reading on the scheme itself, the [ICAO CORSIA pages](https://www.icao.int/environmental-protection/CORSIA/Pages/default.aspx) hold the governing documents, the [DGCA](https://www.dgca.gov.in/) publishes the Indian requirements, and our own [CORSIA knowledge base](https://carboncredit.dstechnoverse.com/) covers the mechanics in more depth.
-
-## Scoring the Responses
-
-If more than two firms are in contention, score rather than impression-match. A simple weighted sheet keeps the decision defensible internally and stops the most confident presenter winning by default.
-
-| Criterion | Weight | What earns full marks |
+| Criterion | Weight | Full marks for |
 |---|---|---|
-| CORSIA delivery evidence | 25% | Named cycles delivered, plans accepted |
-| Verification experience | 20% | Has been through it; can describe findings |
-| Understanding of our operation | 15% | Asked good questions; provisional view offered |
-| Named team and availability | 15% | Specific people, confirmed capacity |
-| Independence | 10% | No undisclosed credit sales interest |
-| Knowledge transfer offer | 10% | Named artefacts, not a promise |
+| Evidence of CORSIA delivery | 25% | Named cycles, accepted plans |
+| Verification experience | 20% | Has been through one and can describe the findings |
+| Understanding of our operation | 15% | Asked good questions, offered a provisional view |
+| Named team and availability | 15% | Specific people, capacity confirmed |
+| Independence | 10% | No undisclosed interest in unit sales |
+| Knowledge transfer | 10% | Named deliverables, not a promise |
 | Commercial clarity | 5% | Exclusions explicit, year two priced |
 
-Note what is deliberately absent: firm size and brand. Neither predicts whether your monitoring plan will be accepted, and both correlate strongly with price.
+Firm size and brand are missing on purpose. Neither predicts whether your plan will be accepted, and both tend to push the price up.
 
-**Weight verification experience heavily.** It is the hardest thing to fake, because a verification is a live event with an independent third party and anyone who has been in one carries specific, unrehearsable detail — which documents were sampled, what the verifier pushed on, how findings were worded and closed.
+A worked illustration: Firm X scores 4 of 5 on delivery, 2 on verification, 5 on understanding, 3 on team, 5 on independence, 3 on knowledge transfer and 4 on commercials. Weighted, that is (4×25 + 2×20 + 5×15 + 3×15 + 5×10 + 3×10 + 4×5) ÷ 5 = 360 ÷ 5 = 72 out of 100. Firm Y, smaller and less polished, scores 4, 5, 4, 4, 5, 4, 3, giving (100 + 100 + 60 + 60 + 50 + 40 + 15) ÷ 5 = 425 ÷ 5 = 85. The verification weighting does most of the work, which is intended. These scores are illustrative.
 
-Score independently before discussing as a group. Scores discussed first tend to converge on whoever spoke last.
+Have each panel member score alone before any discussion. Scores talked through first tend to drift towards whoever spoke last.
 
-## Frequently Asked Questions
+For the scheme itself, the [ICAO CORSIA pages](https://www.icao.int/environmental-protection/CORSIA/Pages/default.aspx) hold the governing documents and the [DGCA](https://www.dgca.gov.in/) publishes the Indian requirements.
 
-**What should I ask a CORSIA consultant?** Start with whether they have had a monitoring plan accepted and whether they have been through a verification. Those two questions separate delivery experience from market knowledge quickly.
+*General information, not legal or regulatory advice. CORSIA rules and the list of participating States change; confirm the current position with ICAO and the DGCA.*
 
-**How do I know if they have real CORSIA experience?** Ask for specifics — operators, cycles, verification bodies, findings encountered. Real experience produces concrete answers.
-
-**What is the best single test question?** Ask them to explain the difference between the MRV obligation and the offsetting obligation. Conflating them is disqualifying.
-
-**Should I ask about corresponding adjustments?** Yes, and a good consultant will raise them unprompted when discussing unit eligibility.
-
-**How do I check independence?** Ask directly whether they sell units or hold an interest in a firm that does, and how they would be remunerated on any procurement.
-
-**Should I request a paid trial?** A short paid gap analysis or a two-page scoping exercise is a low-cost way to see how a firm actually works before committing.
-
-**What documents should I request?** A redacted monitoring plan excerpt, a redacted gap analysis, an evidence pack structure, team CVs and an independence declaration.
-
-**Does the consultant need aviation experience?** It helps considerably. Understanding flight records, fuel uplift processes and outstation operations shortens the engagement.
-
-**What if a firm answers everything confidently?** Ask what they find uncertain. CORSIA has genuinely moving parts, and total certainty is a warning sign in itself.
-
----
-
-**Need a CORSIA consultant in India?** DSTechnoverse advises airlines and aircraft operators on CORSIA monitoring, reporting and verification, and works with project developers on eligible credit supply, corresponding adjustments and buyer due diligence. We are based in **Indore, Madhya Pradesh** and work with clients across India. See our [CORSIA carbon credit services](/services/), our carbon credit portal at [carboncredit.dstechnoverse.com](https://carboncredit.dstechnoverse.com/), or [talk to our team](/contact/) about your compliance year.
-
-*This article is general information, not legal or regulatory advice. CORSIA rules and the list of participating states change — verify the current position with ICAO and the DGCA before acting.*
+If you are shortlisting now, [put these questions to us](/contact/) alongside the other firms. We would rather be chosen on the answers than on the pitch.

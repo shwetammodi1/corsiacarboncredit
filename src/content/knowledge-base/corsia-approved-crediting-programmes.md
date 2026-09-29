@@ -1,139 +1,93 @@
 ---
-title: "ICAO-Approved Crediting Programmes and What Approval Means"
-excerpt: "How the Technical Advisory Body assesses crediting programmes, what full and conditional approval mean, why programme approval never makes every unit eligible, and how to handle approval risk as a buyer or developer."
+title: "ICAO-Approved Crediting Programmes for CORSIA: How Approval Works and Its Limits"
+excerpt: "ICAO approves crediting programmes, not projects or individual credits. How the TAB and Council assess a programme, what full and conditional approval mean, and why an approved programme still issues many units CORSIA will not accept."
 section: "Eligible Emissions Units"
 order: 14
 image: "/images/corsia/corsia-approved-programmes.svg"
 ---
 
-ICAO does not approve individual projects or units. It approves **programmes** — the standards bodies that publish methodologies, register projects, oversee verification and operate registries. Understanding the gap between programme approval and unit eligibility prevents the most common purchasing mistake in this market.
+A buyer sees a programme's name on ICAO's approved list and assumes the credits on offer are good for CORSIA. That assumption causes more failed purchases than any other. ICAO's approval attaches to the **programme**: the standards body that writes methodologies, registers projects, supervises verification and runs a registry. It says nothing final about any particular project or unit. This page explains what approval does cover, and where its coverage stops.
 
-![ICAO-approved crediting programmes](/images/corsia/corsia-approved-programmes.svg)
+![Illustration of ICAO-approved crediting programmes](/images/corsia/corsia-approved-programmes.svg)
 
-## How Approval Works
+## The approval cycle
 
-| Stage | Who | What |
-|---|---|---|
-| Application | Crediting programme | Submits against the Emissions Unit Criteria |
-| Assessment | Technical Advisory Body (TAB) | Evaluates and recommends |
-| Decision | ICAO Council | Approves, conditions, or declines |
-| Review | TAB and Council | Periodic reassessment; approval can lapse |
+1. **The programme applies**, setting out how it meets the Emissions Unit Criteria.
+2. **The Technical Advisory Body (TAB) assesses** the application and makes a recommendation.
+3. **The ICAO Council decides.**
+4. **The TAB and Council reassess periodically.** Approval is not permanent.
 
-Approval outcomes:
+A programme can come out of that cycle in one of four states:
 
-- **Full** — approved for the scope assessed
-- **Conditional** — approved subject to specified limitations or required changes
-- **Declined**
-- **Lapsed** — previously approved, criteria not maintained or reassessment not sought
+- **full approval**, for the scope that was assessed;
+- **conditional approval**, with limitations or changes the programme must make;
+- **declined**;
+- **lapsed**, meaning it was approved once but did not keep meeting the criteria or did not seek reassessment.
 
-## What the TAB Examines
+## What the TAB looks at
 
-::: accordion Governance and independence
-Whether the body setting methodologies is sufficiently separated from commercial pressure, how decisions are made, and whether there is meaningful oversight of the programme's own management.
-:::
+| Area | What is being tested |
+|---|---|
+| Governance and independence | Whether methodology decisions are shielded from commercial pressure, and whether the programme's own management is properly overseen |
+| Methodology development | How methodologies are written, reviewed and revised; public consultation; independent expert input; a way to retire methodologies that no longer hold up |
+| Additionality and quantification | How much developers must prove, whether uncertainty is resolved toward under-crediting, whether default values are conservative |
+| Permanence | For stored carbon: buffer pool design and sizing, and how reversals are detected and dealt with |
+| Validation and verification oversight | How third-party bodies are accredited and supervised, and how conflicts of interest are handled |
+| Registry and double-counting safeguards | Serial numbers, transfer controls, cancellation records, public transparency, and the ability to flag authorised units and record corresponding adjustment status |
+| Social and environmental safeguards | Impact assessment, stakeholder consultation, consent and grievance processes |
 
-::: accordion Methodology development
-How methodologies are created, reviewed and revised. Whether there is public consultation, independent expert input, and a mechanism for retiring methodologies that no longer hold up.
-:::
+The registry and double-counting row has generated most of the conditions attached to approvals. Programmes built before the Article 6 rules existed have had a lot of retrofitting to do, and some have not yet satisfied ICAO.
 
-::: accordion Additionality and quantification
-What developers must demonstrate and how rigorously. Whether methodologies require uncertainty to be resolved toward under-crediting, and whether default values are conservative.
-:::
-
-::: accordion Permanence
-For storage-based reductions: buffer pool design, sizing methodology, and how reversals are detected and handled.
-:::
-
-::: accordion Validation and verification oversight
-How the programme accredits and supervises third-party bodies, and how conflicts of interest are managed.
-:::
-
-::: accordion Registry infrastructure and double-counting safeguards
-Serialisation, transfer controls, cancellation records, public transparency, and critically the ability to identify authorised units and record corresponding adjustment status.
-
-This last point has produced most of the conditions attached to approvals. Programmes designed before Article 6 mechanics existed have had substantial retrofitting to do, and not all have satisfied ICAO.
-:::
-
-::: accordion Social and environmental safeguards
-Impact assessment requirements, stakeholder consultation, consent processes and grievance mechanisms.
-:::
-
-## The Programmes
+## Which programmes
 
 Programmes that have held ICAO approval include the **American Carbon Registry**, **Architecture for REDD+ Transactions**, the **Climate Action Reserve**, the **Global Carbon Council**, [Verra](https://verra.org/) and [Gold Standard](https://www.goldstandard.org/), among others.
 
-> That list is deliberately not presented as current. Approvals change by Council decision, conditions attach and are lifted, and programmes have had approval lapse. Any list published in an article is a snapshot of the day it was written.
+Read that as history, not as a current list. Council decisions change approvals, conditions are added and removed, and some approvals have lapsed. The one reliable source is the [ICAO CORSIA emissions units page](https://www.icao.int/environmental-protection/CORSIA/Pages/CORSIA-Emissions-Units.aspx). Check it when you transact, and **save what it shows that day**, as a stored copy or screenshot. A link in a compliance file does not prove what the page said when you relied on it.
 
-**The only reliable source is the [ICAO CORSIA emissions units page](https://www.icao.int/environmental-protection/CORSIA/Pages/CORSIA-Emissions-Units.aspx).** Check it at the point of transaction, and **capture** what it says on the day — a saved page or screenshot. A URL in your compliance file is not evidence of what the page said when you relied on it.
+## Where approval stops
 
-## Approval Is Necessary, Never Sufficient
+An approved programme can, and routinely does, issue units that are not eligible, because the unit tests apply separately:
 
-An approved programme issues units that are not eligible, because unit-level criteria apply independently:
+- **Vintage.** Long-established programmes hold years of issuance that falls outside current windows.
+- **Corresponding adjustment.** No programme can supply this. It is a sovereign act of the host country, and its absence excludes most units, including those from the best-regarded programmes.
+- **Scope of a conditional approval.** A condition may exclude particular methodologies or project types.
 
-**Vintage.** Approved programmes have decades of issuance history, most of it outside current windows.
+The unit tests are covered one by one in [the emissions unit criteria](/knowledge-base/corsia-emissions-unit-criteria/).
 
-**Corresponding adjustment.** The programme cannot provide this — it is a sovereign act by the host State. This single point removes the large majority of units from eligibility, including from the most reputable programmes.
+## Reading a conditional approval
 
-**Methodology scope under conditional approval.** Where approval is conditional, the condition may exclude particular methodologies or project types.
+Conditions are common and often misunderstood. Most require the programme to show or put in place something specific, usually about handling corresponding adjustments and labelling authorised units, and sometimes about methodology governance or safeguards.
 
-## Conditional Approval in Practice
+**Illustrative case.** A buyer is offered units from a programme listed as conditionally approved. The condition, read in full, excludes the methodology those units were issued under. The programme's name is on the list; the units are still ineligible. A buyer who checked only the name would find out at cancellation.
 
-Conditional approvals are common and frequently misread.
+So ask three things every time:
 
-A condition typically requires the programme to demonstrate or implement something — most often relating to corresponding adjustment handling and how authorised units are labelled, sometimes to methodology governance or safeguards.
+1. What exactly does the condition say?
+2. Does it reach the units in this deal?
+3. What happens if the programme misses the condition's deadline?
 
-For a buyer, three questions:
+## When approval status changes mid-stream
 
-1. What exactly is the condition?
-2. Does it affect the units I am buying?
-3. What happens if the condition is not satisfied by its deadline?
+| Who is exposed | The risk | What reduces it |
+|---|---|---|
+| A buyer holding units | Approval lapses before cancellation; whether units issued under the earlier approval can still be used depends on Council decisions and the national authority's view | Spread purchases across programmes; do not hold units long before cancelling; recheck status before cancelling if time has passed; cover the scenario in the contract |
+| A developer partway through a project | The programme loses approval during a multi-year development; moving programmes is sometimes possible but slow and costly | Track status actively; know the reassessment timetable; keep the voluntary market open as a fallback |
 
-A conditional approval that excludes your methodology makes your units ineligible even though the programme appears on the approved list. Reading only the programme name and skipping the condition is a genuine and avoidable failure mode.
+## Picking a programme as a developer
 
-## Approval Risk
+Current approval is the starting point, not the whole decision. Also check:
 
-Approval status can change during the life of a transaction or a project.
+- **Stability of approval:** how long it has been held, whether it is full or conditional, when it is next reassessed.
+- **Methodology fit:** whether a methodology matches your activity, and whether that methodology is itself under review.
+- **Adjustment handling:** whether the programme's process for authorised units lines up with your host government's. For an Indian project, that means the Government of India's authorisation route.
+- **Buyer familiarity:** buyers who already hold accounts in a registry transact faster.
+- **Cost and time:** registration and issuance fees, and how long validation queues are.
+- **Reputation:** buyers apply their own scrutiny beyond ICAO approval.
 
-::: accordion For buyers holding units
-If approval lapses, can you still cancel units issued while it was in force? The answer depends on Council decisions and on how your national authority treats the situation. This is not something to discover at cancellation.
+Choosing the standard you used last time is habit, not analysis.
 
-**Mitigations:** diversify across programmes; do not hold units for extended periods before cancelling; re-verify approval status before cancelling if significant time has passed since purchase; address the scenario contractually.
-:::
+## Why the list is short
 
-::: accordion For developers mid-project
-A multi-year development under a programme whose approval lapses is a serious problem. Migration to another programme is sometimes possible but costly and slow.
+Approval is demanding. Programmes have been declined or conditioned on governance, methodology process, safeguards and registry systems, and the requirement to support double-counting controls has weighed most heavily. That strictness protects the scheme's credibility, which depends on unit integrity. It is also the structural reason the eligible pool is much smaller than the carbon market as a whole, and why eligible supply sells at a premium. How [eligible emissions units](/knowledge-base/corsia-eligible-emissions-units/) are defined, and who sits on the TAB and Council, are covered in [CORSIA governance](/knowledge-base/corsia-governance-icao-bodies/).
 
-**Mitigations:** monitor status actively; understand the reassessment timeline; keep a voluntary market fallback so a lapse does not eliminate your route to market.
-:::
-
-## Choosing a Programme as a Developer
-
-Beyond current approval status:
-
-| Consideration | Why it matters |
-|---|---|
-| Approval stability | How long held, full or conditional, when reassessed |
-| Methodology fit | Does it match your activity, and is it itself under review |
-| Corresponding adjustment handling | Does the process align with your host State's |
-| Registry and buyer familiarity | Buyers with existing accounts transact more easily |
-| Fees and timelines | Registration, issuance levies, validation queue times |
-| Reputation | Buyers apply their own scrutiny beyond ICAO approval |
-
-Defaulting to whichever standard you have used before is habit, not a decision.
-
-## Why the List Is Shorter Than the Market Expects
-
-Programme approval is genuinely demanding, and programmes have been declined or conditioned on governance, methodology process, safeguards and registry infrastructure.
-
-The double-counting infrastructure requirement has been particularly consequential. A programme must be able to identify authorised units, reflect authorisation status in its registry, and support the accounting that prevents double claiming.
-
-This is a feature rather than a defect. A scheme whose credibility rests on unit integrity cannot approve programmes that cannot demonstrate it. But it does mean the eligible pool is far smaller than the general carbon market — and it is the structural reason eligible supply commands a premium.
-
-## Where to Go Next
-
-- [The emissions unit criteria](/knowledge-base/corsia-emissions-unit-criteria/) — what programmes are assessed against
-- [CORSIA Eligible Emissions Units](/knowledge-base/corsia-eligible-emissions-units/) — the two-layer test
-- [Corresponding adjustments](/knowledge-base/corresponding-adjustments-article-6/) — why conditions cluster here
-- [CORSIA governance](/knowledge-base/corsia-governance-icao-bodies/) — the TAB and the Council
-
-DSTechnoverse verifies programme approval status and conditions as part of pre-transaction due diligence. [Talk to our team](/contact/).
+We check programme status and the full text of any condition before a client commits, and we help Indian developers weigh programmes against their authorisation route. [Get in touch](/contact/) before you register or buy.

@@ -1,125 +1,96 @@
 ---
-title: "CORSIA Scope: Who Is In, Who Is Out, and Which Flights Count"
-excerpt: "The five tests that decide whether a flight generates a CORSIA offsetting obligation — international status, aircraft mass, the 10,000 tonne threshold, exempt flight types, and the covered route pair rule."
+title: "CORSIA Scope and Thresholds: Which Operators and Flights Are Covered"
+excerpt: "A flight creates a CORSIA offsetting obligation only if it passes five filters: international, aeroplane over 5,700 kg, operator over 10,000 t CO2, not an exempt type, and both States participating. Reporting reaches further."
 section: "Foundations"
 order: 4
 image: "/images/corsia/corsia-scope-test.svg"
 ---
 
-Whether CORSIA applies to you, and to which of your flights, is decided by five tests. All five must pass for a flight to generate an offsetting obligation. Monitoring and reporting obligations apply more broadly than offsetting does, which is the distinction most often missed.
+Scoping is the first piece of CORSIA work we do for any new client, and the answer is rarely "all of it" or "none of it". Coverage is decided flight by flight through a series of filters. A flight has to get through every one of them before it creates an offsetting obligation, while the obligation to monitor and report stops at an earlier filter. Keeping those two boundaries apart is most of the skill.
 
-![Is an operator in scope for CORSIA?](/images/corsia/corsia-scope-test.svg)
+![Flowchart of the tests that decide whether an operator is in CORSIA scope](/images/corsia/corsia-scope-test.svg)
 
-## Test 1: Is the Flight International?
+## The five filters in order
 
-CORSIA covers **international flights only** — those departing from an aerodrome in one State and arriving in a different State.
+| # | Filter | Passes if | Drops out |
+|---|---|---|---|
+| 1 | Nature of the flight | It departs one State and lands in another | Domestic flights |
+| 2 | Aircraft | Aeroplane with maximum certificated take-off mass (MTOM) above 5,700 kg | Lighter aeroplanes, helicopters and other rotorcraft |
+| 3 | Operator size | The operator emits more than 10,000 tonnes CO2 a year from international flights | Smaller operators |
+| 4 | Purpose of the flight | Not an exempt category | Humanitarian, medical, firefighting and State aircraft flights |
+| 5 | Route pair | Both the origin and destination States participate that year | Flights touching a non-participating State |
 
-Domestic flights are entirely outside the scheme. They may be covered by national policy, but not by CORSIA.
+Flights that clear filters 1 to 4 are monitored and reported. Only those that also clear filter 5 carry offsets.
 
-For a carrier with a large domestic network and a smaller international operation, this single test can remove most of total emissions from consideration immediately.
+## Filters 1 and 2: international aeroplanes
 
-## Test 2: Is the Aeroplane Above the Mass Threshold?
+**Domestic flying is out entirely.** It may fall under national policy, but CORSIA does not touch it. For an Indian carrier whose network is mostly domestic, with a smaller international operation, this one filter removes the bulk of its fuel burn from the calculation.
 
-CORSIA applies to **aeroplanes with a maximum certificated take-off mass (MTOM) above 5,700 kg**.
+**Only aeroplanes count, and the weight bar is low.** At 5,700 kg MTOM the line sits well below airliner size and catches most business jets. Rotorcraft of any size are excluded.
 
-Two points of precision:
+## Filter 3: the 10,000 tonne line
 
-- The scheme applies to **aeroplanes**. Helicopters and other rotorcraft are outside it.
-- 5,700 kg is a low bar. It captures most business jets, not merely airline aircraft.
+The threshold is **more than 10,000 tonnes of CO2 a year** from international flights. Converting at 3.16 kg CO2 per kg of jet fuel, that equals about 3,165 tonnes of fuel. In fleet terms, a few long-haul aircraft or a business aviation operation of moderate size can cross it.
 
-## Test 3: Does the Operator Exceed 10,000 Tonnes of CO2?
+**Worked example (illustrative figures).** A charter operator burns 2,900 tonnes of jet fuel on international sectors in a year. 2,900 × 3.16 = 9,164 tonnes CO2, below the line. The next year it adds a Gulf contract and burns 3,300 tonnes: 3,300 × 3.16 = 10,428 tonnes CO2, above it. Nothing about the fleet changed except utilisation. That is why we tell operators near the line to calculate it every year rather than judge it from the number of aircraft.
 
-An operator producing **more than 10,000 tonnes of CO2 per year** from international flights covered by the scheme is in scope for offsetting.
+## Filter 4: exempt flights
 
-10,000 tonnes corresponds to roughly 3,165 tonnes of jet fuel, at the standard factor of 3.16 kg CO2 per kg of fuel. That is a smaller operation than most people assume — a handful of long-haul aircraft, or a modestly sized business aviation operation.
+Four types of flight are excluded whatever else is true:
 
-> Do not assume you are below the threshold. Calculate it. Operators sitting near the line should establish which side they are on rather than inferring it from fleet size.
+- **humanitarian** relief and aid flights;
+- **medical** flights, including air ambulance and organ transport;
+- **firefighting** flights;
+- **State aircraft** flights, such as military, customs and police.
 
-## Test 4: Is the Flight Type Exempt?
+The exemption belongs to the flight, not to the company. An operator that flies both scheduled charters and medical evacuations removes only the medical sectors.
 
-Certain flights are excluded regardless of everything else:
+## Filter 5: the route pair, where the size is decided
 
-| Exempt category | Notes |
-|---|---|
-| Humanitarian flights | Relief and aid operations |
-| Medical flights | Including organ transport and air ambulance |
-| Firefighting flights | Aerial firefighting operations |
-| State aircraft | Military, customs and police services |
+**Offsetting applies only when both the departure State and the arrival State participate in CORSIA in that year.** A flight from a participating State to a non-participating one is still monitored and reported, but it creates no offsetting obligation.
 
-These exclusions are narrow and apply to the specific flight, not to the operator as a whole. An operator conducting both commercial and humanitarian flights excludes only the latter.
+Two consequences matter commercially:
 
-## Test 5: Are Both States Participating?
+- **Same emissions, different bills.** Two airlines with identical fuel burn can owe very different amounts, depending on how much of their flying links participating States.
+- **Your obligation can move without you moving.** If a State joins or leaves, an operator's covered share changes although its schedule has not. From 2027, when second-phase participation becomes compulsory for States above set aviation activity thresholds, coverage grows considerably.
 
-This is the test that decides the size of the number, and it is the one that changes most.
+A generic uplift percentage will not forecast this well. The network has to be modelled route by route against the participation position; [CORSIA phases and timeline](/knowledge-base/corsia-phases-and-timeline/) explains how that position changes.
 
-**An offsetting obligation arises only where both the origin State and the destination State are participating in CORSIA for that year.** A flight from a participating State to a non-participating State generates no offsetting obligation.
+## Report wide, offset narrow
 
-That flight is still monitored and reported. It simply does not attract offsets.
-
-::: accordion Why route-pair coverage matters so much commercially
-Two operators with identical emissions can face very different obligations depending on where they fly. A carrier operating predominantly between participating States is fully exposed; one with heavy traffic to non-participating States is not.
-
-It also means an operator's obligation can move without its own operations changing at all, simply because a State joins or leaves the scheme. Coverage expands substantially from 2027 when second-phase participation becomes mandatory for States above defined aviation activity thresholds.
-
-Modelling this against your actual network — rather than applying a generic percentage uplift — is the only way to get a usable forecast. See [CORSIA phases and timeline](/knowledge-base/corsia-phases-and-timeline/).
-:::
-
-## Monitoring Scope vs Offsetting Scope
-
-These two are different and conflating them produces both under-reporting and over-budgeting.
+The two boundaries compared:
 
 | | Monitoring and reporting | Offsetting |
 |---|---|---|
-| Applies to | All international flights of an in-scope operator | Only covered route pairs |
-| Threshold | Above 10,000 t CO2 from international flights | Same operator threshold |
-| Depends on State participation | No | Yes, both ends |
-| Began | 2019 | Pilot phase, 2021 |
-| Consequence of ignoring | Enforcement by the national authority | Unmet obligation plus enforcement |
+| Flights included | Every international flight of an in-scope operator | Covered route pairs only |
+| Operator threshold | Above 10,000 t CO2 from international flights | The same |
+| Affected by State participation | No | Yes, at both ends |
+| Started | 2019 | 2021, with the pilot phase |
+| If ignored | National authority enforcement | Enforcement plus an unsettled obligation |
 
-The practical rule: **report widely, offset narrowly.** Your reporting boundary is larger than your offsetting boundary.
+Treating them as one boundary goes wrong in both directions: operators under-report flights to non-participating States, or over-budget by pricing offsets on routes that carry none. What reporting involves is covered in [CORSIA MRV explained](/knowledge-base/corsia-mrv-explained/).
 
-## Which Legal Entity Is the Operator?
+## Deciding who the operator is
 
-This sounds administrative and is not. Getting it wrong misallocates emissions between entities, and correcting it later is painful.
+CORSIA attaches to the entity that **operates** the flight, generally identified by its **Air Operator Certificate** and ICAO designator. Ownership of the aircraft and the brand on the tail are not the test. Common arrangements resolve like this:
 
-The operator for CORSIA purposes is the entity that operates the flight, generally identified by its **Air Operator Certificate** and its ICAO designator. Complications arise with:
+| Arrangement | Who reports |
+|---|---|
+| Wet lease or ACMI (aircraft supplied with crew, maintenance and insurance) | The party under whose operating certificate the flight is flown |
+| Code share | The operating carrier; the marketing carrier reports nothing for that flight |
+| Group with several Air Operator Certificates | Each certificate holder separately, each with its own threshold test, plan and report; group totals are not used |
+| Franchise or regional partner | The operating certificate holder, whatever livery the aircraft wears |
 
-::: accordion Wet leases and ACMI arrangements
-Where an aircraft is provided with crew, maintenance and insurance, the question is which party is operating the flight. The answer follows the operating certificate under which the flight is conducted, not the aircraft's ownership.
-:::
+Getting this wrong puts emissions in the wrong entity's report, and unwinding that after verification is slow and awkward.
 
-::: accordion Code shares
-The operating carrier reports the emissions, not the marketing carrier. A seat sold under one airline's code on another airline's metal belongs to the operator of the metal.
-:::
+## Common scoping mistakes
 
-::: accordion Group structures with multiple certificates
-A group holding several Air Operator Certificates has several operators for CORSIA purposes, each with its own threshold test, monitoring plan and reporting obligation. Aggregating them at group level is incorrect.
-:::
+- Judging the threshold by fleet size instead of calculating fuel and CO2.
+- Adding up emissions across a group rather than per certificate holder.
+- Leaving flights to non-participating States out of the emissions report.
+- Linking to the online participation list instead of saving a copy as at the date relied on. The list changes, and a link does not prove what it said on that day.
+- Forecasting only the current phase and not modelling the same network under second-phase participation from 2027.
 
-::: accordion Franchise and regional partner operations
-Follow the operating certificate. The brand on the tail does not determine the reporting entity.
-:::
+Write down the reasoning behind each scoping decision. A verifier may examine it years later, and the person who made the call may have moved on. Once scope is settled, [the offsetting requirement calculation](/knowledge-base/corsia-offsetting-requirement-calculation/) turns it into tonnes. Indian operators should also read [CORSIA in India](/knowledge-base/corsia-in-india/) on working with the [DGCA](https://www.dgca.gov.in/); participation lists and standards are published by [ICAO](https://www.icao.int/environmental-protection/CORSIA/Pages/default.aspx).
 
-## A Scope Determination Checklist
-
-Work through these and document the answers — the reasoning will be tested at verification years later, quite possibly by someone who was not present when it was decided.
-
-1. Identify each legal entity holding an operating certificate in your group.
-2. For each entity, list all flights and classify them as domestic or international.
-3. Exclude aeroplanes at or below 5,700 kg MTOM, and all rotorcraft.
-4. Exclude humanitarian, medical, firefighting and State aircraft flights.
-5. Calculate annual CO2 from the remaining international flights, and test against 10,000 tonnes.
-6. For entities above the threshold, identify covered route pairs using the current participation list.
-7. Capture the participation list as at the date relied on — the published list changes, and a link is not evidence of what it said on the day.
-8. Model the same network against second-phase mandatory participation from 2027.
-
-## Where to Go Next
-
-- [How CORSIA works](/knowledge-base/how-corsia-works/) — the mechanism this scoping feeds
-- [CORSIA phases and timeline](/knowledge-base/corsia-phases-and-timeline/) — how coverage changes
-- [The requirement calculation](/knowledge-base/corsia-offsetting-requirement-calculation/) — turning scope into tonnes
-- [CORSIA MRV explained](/knowledge-base/corsia-mrv-explained/) — what reporting requires
-
-Participation lists and the current standards are published by [ICAO](https://www.icao.int/environmental-protection/CORSIA/Pages/default.aspx). Indian operators deal with the [DGCA](https://www.dgca.gov.in/) as national authority — see [CORSIA in India](/knowledge-base/corsia-in-india/).
-
-Unsure which side of a threshold you sit on? DSTechnoverse runs scope and threshold assessments as a bounded first engagement. [Get in touch](/contact/).
+If you are close to a threshold or unsure how a lease or code share should be treated, we can settle the question as a short, fixed-scope piece of work. [Contact the desk](/contact/) with your route list.

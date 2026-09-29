@@ -1,69 +1,66 @@
 ---
-title: "The Future of CORSIA and International Aviation Decarbonization"
-excerpt: "CORSIA turns mandatory in 2027 and sits under a net-zero-2050 goal. What the phases look like ahead, why eligible-credit supply is the key uncertainty, and how sustainable fuel reshapes the scheme over time."
+title: "Where CORSIA Goes Next: 2027, Net Zero 2050 and the Supply Question"
+excerpt: "CORSIA becomes mandatory for most states in 2027 and sits beneath ICAO's net-zero 2050 goal. What tightens next, why eligible unit supply is the big unknown, and how sustainable fuel should shift the balance over time."
 date: "2026-09-08"
 topic: "CORSIA Fundamentals"
 tags: ["future of CORSIA","long-term aspirational goal","aviation net zero 2050","CORSIA phases","sustainable aviation fuel","eligible credit supply"]
 image: "/images/corsia-markets/corsia-phases-roadmap.svg"
 ---
 
-CORSIA is often described as if it were finished. It is not — it is a scheme designed to tighten in stages, and the most consequential of those stages is still ahead. Where it goes next matters not only to airlines but to project developers, fuel producers and anyone trading aviation carbon. Here is the trajectory and the questions that will decide whether it works.
+It is tempting to talk about CORSIA as a settled piece of regulation. It was built to tighten in stages, and the stage with the largest consequences has not arrived yet. For airlines, project developers, fuel producers and traders, the next ten years of the scheme matter more than the first five.
 
-## Where CORSIA Is Today
+## Where things stand
 
-The scheme rolled out in phases: a **pilot phase (2021–2023)** and a **first phase (2024–2026)**, both with voluntary state participation, though a large majority of international traffic is already covered because most major aviation states volunteered. The baseline tightened from 2019 emissions in the pilot to **85% of 2019 emissions** from 2024, raising the offsetting bar. So far, so gradual.
+So far CORSIA has been gradual. The pilot ran from 2021 to 2023 and the first phase runs from 2024 to 2026. Both rely on states volunteering, but because most major aviation states did, a large majority of international traffic is already covered. The baseline has already tightened once: 2019 emissions in the pilot, then **85% of 2019 emissions** from 2024. A lower line means more emissions count as growth. [CORSIA phases and timeline](/knowledge-base/corsia-phases-and-timeline/) has the full sequence.
 
-## What Changes Next
+## The 2027 step
 
-Three developments will shape the scheme from here.
+From 2027 the second phase begins and participation turns **mandatory** for most states. Four groups remain exempt unless they choose to join: least developed countries, small island developing states, landlocked developing countries, and states with a very small share of international aviation.
 
-### The 2027 Turning Point
+Because an offsetting obligation arises only where both ends of a route participate, adding states adds routes. Total demand for units rises accordingly. Airlines that treated the voluntary years as a light touch will notice the difference. [How the aviation carbon market works](/insights/corsia-explained-how-aviation-carbon-market-works/) explains the two-ends rule.
 
-The pivotal change is the **second phase from 2027**, when participation becomes **mandatory** for most states — with carve-outs for least-developed countries, small island developing states, landlocked developing countries and states with very small shares of international aviation, unless they choose to join. Mandatory participation widens the set of covered routes (remember the two-ends rule from [how the market works](/insights/corsia-explained-how-aviation-carbon-market-works/)) and therefore expands total offsetting demand. Airlines that treated CORSIA as a light obligation during the voluntary years will feel it more from 2027.
+## The goal CORSIA serves
 
-### The Long-Term Goal Above It
+In 2022 the ICAO Assembly adopted a **Long-Term Aspirational Goal (LTAG)**: net-zero carbon emissions from international aviation by 2050.
 
-CORSIA does not sit alone. In 2022, ICAO's Assembly adopted a **Long-Term Aspirational Goal (LTAG) of net-zero carbon emissions for international aviation by 2050**. CORSIA is the near-term market mechanism; the LTAG is the destination. The tension between them is the whole story of aviation decarbonization: offsetting compensates today's emissions, but net zero requires the sector's *own* emissions to fall to near zero, which offsetting cannot deliver. Over time, the scheme's job is to shrink the residual, not to grow indefinitely.
+The two sit in an uneasy relationship. CORSIA compensates for today's emissions by paying for reductions elsewhere. Net zero needs the sector's own emissions to fall to near zero, and offsetting cannot deliver that. So CORSIA's long-run job is to cover a gap that should get smaller each year, not to grow indefinitely.
 
-### The Supply Question
+## The biggest unknown is supply
 
-The biggest practical uncertainty is not demand — mandatory participation makes demand fairly predictable — but **supply of eligible units**. As covered in [eligible emissions units](/insights/corsia-eligible-emissions-units-explained/), first-phase eligibility requires corresponding adjustments, and not every host country will authorise them. If eligible, adjusted supply grows more slowly than airline demand, prices rise and airlines face a tighter, more expensive market. Whether enough high-integrity, corresponding-adjusted credits reach the market in time is the question that will most shape CORSIA's cost and credibility.
+Mandatory participation makes demand fairly predictable. Supply is the harder question.
 
-## Sustainable Fuel Changes the Mix
+First-phase units need a corresponding adjustment from the host country, and not every country will give one. If adjusted, eligible supply grows more slowly than airline demand, the market tightens and prices rise. Whether enough high-integrity, adjusted units arrive in time will do more than anything else to decide what CORSIA costs and whether it is taken seriously. [CORSIA supply and demand](/knowledge-base/corsia-supply-and-demand-outlook/) sets out why a shortfall is projected.
 
-The other structural shift is **sustainable aviation fuel**. Because eligible fuels reduce the offsetting requirement directly, every tonne of SAF used is a tonne of offsetting avoided. As SAF supply scales and its cost premium narrows — helped by fuel mandates and incentives in several regions — the balance of compliance should tilt from *buying units* toward *using cleaner fuel*. In the long run, that is exactly the intended direction: markets covering a shrinking gap while the sector's own emissions come down.
+For Indian developers this is the opportunity, provided the authorisation route is in place. For Indian carriers it is the exposure.
 
-## Open Questions and Risks
+## Fuel slowly takes over from credits
 
-Several things could go differently:
+Eligible fuels reduce the offsetting requirement directly, so each tonne of CO2 avoided through sustainable aviation fuel is a tonne that does not need a unit. As SAF production grows and its price premium narrows, helped by blending mandates and incentives in several regions, compliance should shift from buying units towards burning cleaner fuel. That is the intended direction: a market covering a shrinking residual while in-sector emissions come down. [SAF and CORSIA](/insights/sustainable-aviation-fuel-corsia/) covers how the fuel claim works.
 
-- **Integrity scrutiny** could tighten eligibility further, shrinking supply again.
-- **Non-CO2 effects** (contrails, NOx) are outside CORSIA today but rising up the policy agenda.
-- **Overlap with regional schemes** like the EU ETS will keep evolving and could expand.
-- **SAF scale-up** may run ahead of or behind expectations, swinging the credit-versus-fuel balance.
+## What could change the picture
 
-None of these break the scheme, but each shapes how expensive and how effective it turns out to be.
+| If this happens | The likely effect |
+|---|---|
+| Integrity scrutiny tightens eligibility further | Supply shrinks again; prices for qualifying units rise |
+| Non-CO2 effects such as contrails and NOx are brought into policy | A new cost layer outside today's CORSIA scope |
+| Regional schemes like the EU ETS change their overlap with CORSIA | Flights move between regimes; obligations shift without any operational change |
+| SAF scales faster than expected | Fewer units needed; the fuel share of compliance grows sooner |
+| SAF scales slower than expected | Credits carry more of the load for longer |
 
-## The Honest Outlook
+None of these breaks the scheme. Each changes how expensive and how effective it turns out to be.
 
-CORSIA in 2027 and beyond is a broader, firmer, more expensive obligation than the voluntary years suggested — a real cost centre for airlines and a real demand signal for high-integrity credits and SAF. It is not, and was never meant to be, the thing that decarbonizes flying. It is the bridge that prices and compensates emissions while [in-sector levers](/insights/carbon-markets-reducing-aviation-emissions/) do the structural work toward 2050. Judged as a bridge, its future is significant; judged as a destination, it was always going to fall short.
+## A fair assessment
 
-## Frequently Asked Questions
+From 2027 CORSIA becomes a wider, firmer and more expensive obligation than the voluntary years suggested. For airlines it is a real cost line. For developers of high-integrity credits and for SAF producers it is a real demand signal.
 
-**When does CORSIA become mandatory?** For most states from 2027, with exemptions for certain developing and low-traffic states unless they opt in.
+It is not the thing that will decarbonise flying, and it was never designed to be. Its role is to price and compensate emissions while [in-sector measures](/insights/carbon-markets-reducing-aviation-emissions/) do the structural work towards 2050. Judged as a bridge, it matters a great deal. Judged as a destination, it was always going to disappoint.
 
-**What is the LTAG?** ICAO's Long-Term Aspirational Goal of net-zero carbon emissions for international aviation by 2050, adopted in 2022.
+::: accordion Will CORSIA units become more expensive?
+Probably, if adjusted eligible supply grows more slowly than mandatory demand from 2027.
+:::
 
-**Will CORSIA credits get more expensive?** Likely, if eligible corresponding-adjusted supply grows more slowly than the rising, mandatory demand from 2027.
+::: accordion Can CORSIA deliver net-zero aviation by itself?
+No. It compensates through offsetting. Net zero depends on the sector's own emissions falling through fuel and technology.
+:::
 
-**Does sustainable fuel replace offsetting over time?** It reduces the offsetting requirement directly, so as SAF scales it should shrink the credit share of compliance.
-
-**Can CORSIA deliver net-zero aviation on its own?** No. It compensates emissions through offsetting; net zero requires the sector's own emissions to fall through fuels and technology.
-
----
-
-**Working on aviation emissions, CORSIA compliance or carbon credit due diligence?** DSTechnoverse handles the data side of carbon and environmental compliance — monitoring design, emissions reconciliation, verification support and defensible reporting. See our [CORSIA carbon credit services](/services/) and [data analytics](https://dstechnoverse.com/services/data-analytics). We are based in **Indore, Madhya Pradesh** and work across India and internationally.
-
-[Apply as a CORSIA buyer or seller](https://carboncredit.dstechnoverse.com/)
-
-[Talk to our team](/contact/), or start with [the complete carbon credits guide](/insights/corsia-carbon-credits-complete-guide/).
+If you are planning for the second phase and want a view on how your obligation and your supply options change after 2027, [talk to our desk](/contact/). We can model both sides.

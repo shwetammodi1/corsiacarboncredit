@@ -1,56 +1,72 @@
 ---
-title: "What Is the Voluntary Carbon Market? A Complete Guide"
-excerpt: "The voluntary carbon market lets companies buy carbon credits by choice, not by law. How the VCM works, who buys and supplies, the standards and registries involved, and why credit quality varies so much."
+title: "The Voluntary Carbon Market (VCM) Explained: Participants, Mechanics and the Quality Problem"
+excerpt: "In the voluntary carbon market, companies buy credits because they choose to, not because a law says so. Who takes part, how a credit travels from project to retirement, why quality varies so much, and where the market is going."
 date: "2026-09-08"
 topic: "Carbon Market Guides"
 tags: ["voluntary carbon market","VCM","carbon credits","carbon offset market","carbon standards","carbon credit demand"]
 image: "/images/carbon-topics/voluntary-carbon-market.svg"
 ---
 
-Every time a company says it is offsetting its footprint, it is acting in the **voluntary carbon market (VCM)** — the part of the carbon world where buyers act by choice rather than because a law compels them. It is large, fast-moving, occasionally controversial, and widely misunderstood. Here is how it actually works.
+A software firm in Bengaluru decides to compensate for its employees' flights. No regulator has told it to. It picks a project, buys credits and retires them. That transaction, repeated across thousands of companies and a smaller number of individuals, is the voluntary carbon market, or VCM.
 
-## Voluntary vs Compliance
+It is large, changes quickly, attracts periodic controversy and is widely misunderstood. Here is how it works.
 
-The first thing to place the VCM against is the **compliance** market, where a rule forces someone to surrender credits — an airline under CORSIA, or a factory under an emissions-trading scheme. The VCM is the opposite: a company offsetting business travel, a brand funding forest protection, an individual neutralising a flight. Nobody forces the purchase, and the buyer sets its own standard for what counts. That single fact — choice versus obligation — shapes everything else. For a direct comparison, see [CORSIA vs the voluntary carbon market](/insights/corsia-vs-voluntary-carbon-markets/).
+## Choice, not obligation
 
-## Who Is in the Market
+The easiest way to understand the VCM is to set it against compliance markets. In a compliance market, a rule requires someone to surrender units: an airline under CORSIA, or an industrial plant under an emissions trading scheme. In the VCM nobody is required to buy. Companies offset business travel, brands pay for forest protection, individuals compensate for a flight, all by choice.
 
-The VCM has a recognisable cast:
+Because the purchase is voluntary, the buyer also chooses what standard to hold itself to. Almost everything distinctive about the VCM follows from that. Our comparison of [CORSIA and the voluntary market](/insights/corsia-vs-voluntary-carbon-markets/) sets the two side by side.
 
-- **Buyers** — companies and, in smaller numbers, individuals acting voluntarily.
-- **Project developers** — the people who build the cookstove, forest or removal projects that generate credits.
-- **Standards and registries** — bodies such as Verra, Gold Standard and ACR that set the rules and record issuance and retirement (compared in [carbon credit registries compared](/insights/carbon-credit-registries-compared/)).
-- **Verifiers** — independent auditors who check that claimed reductions are real.
-- **Brokers, exchanges and rating agencies** — the plumbing that matches supply with demand and grades quality.
+## Who does what
 
-## How a Credit Moves Through It
+| Participant | Role |
+|---|---|
+| Buyers | Mostly companies, plus some individuals, purchasing by choice |
+| Project developers | Build and run the cookstove, forestry, removal and other projects that generate credits |
+| Standards and registries | Verra, Gold Standard, ACR and others write the rules and record issuance and retirement |
+| Verifiers | Independent auditors who check that the claimed reductions happened |
+| Brokers and exchanges | Connect supply with demand |
+| Rating agencies | Grade credit quality |
 
-A credit's life is a chain: a project is designed to a methodology, registered, monitored and independently verified; credits are **issued** with a vintage and serial number; they are traded to a buyer; and finally the buyer **retires** them — cancels them in the registry — to make a claim. Until retirement, nothing has been discharged. The full buyer and seller journeys are in [how to buy](/insights/how-to-buy-carbon-credits/) and [how to sell carbon credits](/insights/how-to-sell-carbon-credits/).
+The registries differ more than people expect; see [carbon credit registries compared](/insights/carbon-credit-registries-compared/).
 
-## Why Quality Varies So Much
+## A credit's journey
 
-This is the VCM's defining feature and its biggest weakness. Because buyers set their own bar, the market contains both excellent and poor credits, and the price gap between them is enormous. Quality turns on the same handful of questions — additionality, baseline, permanence, double counting — that recur across every project type. It is why independent ratings and integrity frameworks like the [ICVCM Core Carbon Principles](/insights/icvcm-core-carbon-principles/) have emerged, and why buying on headline price is the classic VCM mistake.
+1. A project is designed to a methodology and registered with a standard.
+2. It is monitored, and an independent body verifies the results.
+3. The registry issues credits, each with a serial number and a vintage.
+4. The credits are sold, directly or through intermediaries.
+5. The final buyer retires them, cancelling them in the registry to support a claim.
 
-## Where the Market Is Heading
+Nothing has been achieved until step 5. Credits sitting in an account discharge nothing. The buyer's side is described step by step in [how to buy carbon credits](/insights/how-to-buy-carbon-credits/).
 
-The VCM is professionalising. Integrity frameworks are raising the floor, corresponding adjustments are separating compliance-grade supply from the rest, and buyers are shifting toward higher-integrity credits and durable removals. The direction of travel is fewer, better credits at firmer prices — a market that rewards substance over volume.
+## The quality problem
 
-## Frequently Asked Questions
+Letting each buyer set its own bar is the VCM's defining feature and its main weakness. The market holds excellent credits and poor ones, and the price gap between them is very wide.
 
-**What is the voluntary carbon market?** The market where companies and individuals buy carbon credits by choice — to meet their own climate goals — rather than because a regulation requires it.
+Quality comes down to the same few questions whatever the project type:
 
-**How is the VCM different from a compliance market?** In the VCM buyers act voluntarily and set their own standards; in a compliance market a law requires specific units to be surrendered.
+- **Additionality:** would it have happened without carbon revenue?
+- **Baseline:** is the "without the project" scenario realistic?
+- **Permanence:** could the benefit be reversed?
+- **Double counting:** is anyone else claiming the same tonnes?
 
-**Who sets the rules in the voluntary market?** Independent standards and registries such as Verra, Gold Standard and ACR, supported by verifiers and, increasingly, integrity frameworks and rating agencies.
+These questions are why independent ratings and integrity frameworks such as the [ICVCM Core Carbon Principles](/insights/icvcm-core-carbon-principles/) have appeared. They are also why buying on headline price is the classic VCM mistake. The cheapest credits are usually cheap because they fail one of the four tests.
 
-**Why do voluntary carbon credits vary so much in quality?** Because buyers set their own bar, the market contains credits of very different integrity; quality depends on additionality, baselines, permanence and double-counting controls.
+## For Indian participants
 
-**Is the voluntary carbon market growing?** It has grown substantially and is professionalising, with a shift toward higher-integrity credits and durable removals.
+Indian businesses meet the VCM from both sides: developers selling credits from projects built here, and companies buying credits for their own claims. For developers the key point is that a credit sold into the VCM without a corresponding adjustment from the Government of India will not qualify for CORSIA, even if it is a sound credit.
 
----
+## Where the market is heading
 
-**Navigating carbon credits and climate claims?** DSTechnoverse works on the data and integrity side of carbon — project screening, registry and eligibility verification, MRV and monitoring-data analysis, reconciliation and defensible reporting. See our [CORSIA carbon credit services](/services/) and [data analytics](https://dstechnoverse.com/services/data-analytics). We are based in **Indore, Madhya Pradesh** and work across India and internationally.
+The VCM is becoming more professional. Integrity frameworks are raising the minimum standard. Corresponding adjustments are separating compliance-grade supply from everything else. Buyers are moving towards higher-integrity credits and durable removals. The likely result is fewer, better credits at firmer prices: a market that rewards substance rather than volume.
 
-[Apply as a carbon credit buyer or seller](https://carboncredit.dstechnoverse.com/)
+::: accordion Who sets the rules in the voluntary market?
+Independent standards and registries such as Verra, Gold Standard and ACR, supported by verifiers and, more and more, by integrity frameworks and rating agencies.
+:::
 
-[Talk to our team](/contact/), or start with [the complete carbon credits guide](/insights/corsia-carbon-credits-complete-guide/).
+::: accordion Is the VCM growing?
+It has grown substantially and is professionalising, with demand shifting towards higher-integrity credits and durable removals.
+:::
+
+If you are thinking about a first voluntary purchase, the [marketplace](/marketplace/) shows what is currently listed, and we can help you judge which of those credits fit the claim you want to make.

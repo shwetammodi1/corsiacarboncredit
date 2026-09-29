@@ -1,145 +1,142 @@
 ---
-title: "When to Buy CORSIA Units: Timing Strategy for a Constrained Market"
-excerpt: "Why CORSIA-eligible units trade at a premium to the voluntary market, what actually drives the price, why published market averages will mislead your budget, and how to build a defensible cost forecast."
+title: "Timing CORSIA Carbon Credit Purchases: Price, Supply and the Compliance Calendar"
+excerpt: "In a thin market where every operator faces the same deadline, when you buy CORSIA units shapes what you pay and whether you get them at all. A tranche plan, a worked schedule, the signals to watch and the lead times to allow."
 date: "2026-08-20"
 topic: "CORSIA Fundamentals"
 tags: ["CORSIA carbon credit price","carbon credit cost","CORSIA budget","carbon price forecast","CORSIA eligible unit price","aviation carbon cost","carbon market pricing"]
 image: "/images/corsia/hero-corsia-market.svg"
 ---
 
-Two operators with identical obligations and identical quality standards can pay materially different amounts, purely because of when they bought. Timing is the lever most within an operator's control and the one least often decided deliberately.
+Airlines think hard about when to buy fuel. Treasury teams hedge months ahead, spread purchases and watch the signals that move the price. The same airlines often buy CORSIA units in one lump, near the deadline, once the final figure is known. That habit costs money, and in a supply-constrained market it can cost the units themselves.
 
-![The CORSIA market](/images/corsia/hero-corsia-market.svg)
+Of all the things that affect what an operator pays, timing is the one most fully in its own hands. This piece is about using it deliberately.
 
-> For what drives the price of a unit, see [CORSIA credit pricing](/knowledge-base/corsia-credit-pricing/). For building the cost forecast, see [budgeting and forecasting CORSIA costs](/insights/corsia-budgeting-and-forecasting-india/). This piece is about when to buy.
+![Illustration of the CORSIA unit market](/images/corsia/hero-corsia-market.svg)
 
-## The Structural Problem With Waiting
+> What drives the unit price itself is covered in [CORSIA credit pricing](/knowledge-base/corsia-credit-pricing/). For turning that into a budget, see [forecasting CORSIA costs](/insights/corsia-budgeting-and-forecasting-india/). Here the question is when.
 
-Obligations settle per three-year compliance period. The temptation is to wait until the figure is confirmed, then buy exactly what is needed.
+## Everyone shares one calendar
 
-The difficulty is that **every operator in the scheme reaches that decision in the same window.** Emissions are reported and verified on the same calendar, ICAO publishes growth factors at the same time, and the cancellation deadline is common.
+Obligations settle per three-year compliance period. The natural instinct is to wait for the confirmed figure and then buy exactly that.
 
-So deferral is not a neutral choice. It is a decision to buy at the moment demand across the entire covered sector peaks, in a market where supply is constrained by government authorisation decisions that do not flex in response to demand.
+The catch is that every operator in the scheme reaches that point together. Emissions are reported and verified to the same timetable, ICAO publishes growth factors for everyone at once, and the cancellation deadline is common to all.
 
-In a liquid market that would matter little — a buyer who waits pays the market price. In an illiquid one, a buyer who waits may find the available supply for their period already contracted.
+Waiting is therefore not a neutral choice. It means buying at the moment sector-wide demand peaks, from a supply that depends on government authorisation decisions, which do not speed up because demand has. In a deep market, a late buyer simply pays the going rate. In a thin one, a late buyer may find that the units usable for its period have already been contracted by others.
 
-## What Progressive Acquisition Actually Means
+## The alternative: buy in tranches
 
-Buying across the compliance period rather than at its end. In practice:
+Progressive buying means spreading purchases across the period instead of bunching them at the end.
 
-**Estimate annually.** Model the obligation each year from covered emissions and an estimated growth factor rather than waiting for confirmation.
+- **Estimate every year.** Model the obligation annually from covered emissions and an estimated growth factor, without waiting for confirmation.
+- **Commit a cautious share early.** Stay deliberately below your central estimate. Cancelling more than you owe does not carry forward to the next period; the surplus is simply money spent.
+- **Keep the last window for the balance.** The final months should settle the difference, not carry the bulk.
 
-**Buy a conservative portion early.** Deliberately below your central forecast, so over-cancellation is unlikely. There is no carry-forward — surplus is spent money.
+The cost is committing before the number is final. The benefit is spread price exposure and not competing with the whole sector in one window. For most operators that is a good exchange, because the downside of the alternative is an unmet legal obligation, not just a higher price.
 
-**Reconcile at the end.** Reserve the final window for the balance, not the bulk.
+## Spot or forward: the real difference
 
-The trade-off is explicit: you commit before the final number is confirmed, in exchange for spreading price exposure and not competing with the whole sector at once. For most operators that trade is worth making, because the downside of the alternative is an unmet legal obligation rather than a slightly higher price.
-
-## Forward, Spot, or Both
-
-| | Spot | Forward |
+| | Spot purchase | Forward contract |
 |---|---|---|
-| What you get | Units that exist now | A contractual claim on future issuance |
-| Price | Market at the time | Typically below spot |
-| Secures | Price only | **Existence as well as price** |
-| Risk absorbed | Little | Delivery, authorisation, vintage |
-| Suits | Confirmed near-term need | Confident volume forecast, longer horizon |
+| What you hold | Units that already exist | A contractual right to units yet to be issued |
+| Typical price | The market rate on the day | Usually below spot |
+| What it secures | Price | Price **and** the fact that units will exist for you |
+| Risks you accept | Few | Delivery, authorisation and vintage |
+| Best for | Near-term, confirmed need | A confident volume estimate and a longer horizon |
 
-That third row is the one that matters in this market. A forward is usually framed as a price hedge. Here its more valuable property is **securing that units will be available at all** — which is a different benefit and a larger one when supply is the binding constraint.
+Forwards are normally described as price hedges. In this market the more valuable feature is that they secure availability. When supply is the binding constraint, that is the bigger benefit.
 
-The discount a forward carries is compensation for the risks you absorb. Assess it as such rather than treating it as a bargain, and make sure the contract allocates authorisation and vintage risk explicitly.
+Treat the forward discount as payment for the risks you take on, not as a bargain, and make sure the contract spells out who bears authorisation and vintage risk.
 
-## A Workable Default
+## A starting allocation
 
-For an operator without a strong view, a defensible starting position:
+For an operator without a strong market view, this is a reasonable default:
 
-**40-60% acquired progressively** across the first two years of the compliance period, in tranches, from authorised spot supply.
+- **40 to 60%** bought progressively over the first two years of the period, in tranches, from authorised spot supply;
+- **20 to 30%** contracted forward, where a project with a credible authorisation position is on offer and the contract has a long-stop date;
+- **the remainder** held back until the final window, when the obligation is firm.
 
-**20-30% contracted forward**, where a project with a credible authorisation position is available and the contract carries a long-stop date.
+Shift the balance according to confidence. A firm volume forecast justifies more forward cover and earlier buying; real uncertainty argues for holding more back.
 
-**The balance reserved** for reconciliation in the final window once the obligation is firm.
+## Worked example (illustrative figures)
 
-Adjust the split by how confident you are in the volume forecast. High confidence supports more forward and more early acquisition; genuine uncertainty argues for keeping more back.
+An operator's central estimate for a compliance period is 90,000 tonnes. These figures are illustrative only.
 
-## Timing Signals Worth Watching
+| When | Action | Tonnes |
+|---|---|---|
+| Year 1 | First spot tranche | 15,000 |
+| Year 1 | Forward signed with a project that has a clear authorisation route, long-stop date included | 22,500 |
+| Year 2 | Second spot tranche, after re-estimating | 15,000 |
+| Year 2 | Third spot tranche | 15,000 |
+| Committed before final figures | | 67,500 |
+| Final window | Confirmed obligation is 84,000; buy the balance | 16,500 |
+| Total cancelled | | 84,000 |
 
-**Growth factor publication.** Converts your obligation from a range into a number. Buying before it is buying against an estimate.
+The early spot buying (45,000 tonnes, 50% of the estimate) and the forward (22,500, 25%) together stayed below the confirmed figure, so nothing was wasted when the obligation came in lower than expected. Had the operator bought the full 90,000 early, 6,000 tonnes would have been cancelled for nothing.
 
-**Participation list changes.** A State joining moves your covered emissions without any change to your operation, and it moves everyone else's too.
+## Signals that should prompt a review
 
-**Programme approval decisions.** A lapse removes supply from the market abruptly.
+| Signal | Can you predict when? | What to do |
+|---|---|---|
+| Growth factors published | Roughly | Replace the estimate with a number; resize remaining tranches |
+| A State joins or leaves | No | Re-run covered emissions; everyone else's demand moves too |
+| A programme's approval changes | No | Check exposure; supply can vanish quickly |
+| Vintage window revised | No | Check whether held or contracted units are stranded |
+| Second phase begins in 2027 | Yes, a fixed date | Plan now; ready supply will go to those who moved first |
 
-**Vintage window decisions.** A window shifting can strand inventory, including yours.
+The first four are hard to time but obvious when they happen, which argues for watching rather than forecasting them. The fifth is fixed, and that makes it the one to act on today. [CORSIA phases and timeline](/knowledge-base/corsia-phases-and-timeline/) sets out the dates.
 
-**The 2027 boundary.** Mandatory second-phase participation steps demand up across the whole sector on a known date. Supply that is ready then will be contracted by operators who moved earlier.
+## Count backwards from the deadline
 
-The first four are unpredictable in timing and knowable when they happen — which is an argument for watching them rather than forecasting them. The fifth is fixed and therefore plannable, which is why it is the one worth acting on now.
+A well-judged purchase still fails if the paperwork does not finish in time. Working back from the cancellation deadline, a first cycle needs roughly:
 
-## Timing Around the Administrative Tail
+1. one to two weeks for the cancellation report and its acknowledgement;
+2. a few days for cancellation itself, plus processing;
+3. one to three weeks for payment and transfer;
+4. two to six weeks to negotiate the contract;
+5. one to three weeks of due diligence for each tranche;
+6. four to eight weeks to open the registry account.
 
-Even a well-timed purchase fails if the mechanics do not complete.
+That adds up to about three to six months. An operator that starts in month thirty-four of a thirty-six-month period has run out of time for the process, whether or not supply exists. The single most common timing error we see is leaving the registry account until after a deal is agreed.
 
-| Step | Allow |
-|---|---|
-| Registry account opening | 4-8 weeks |
-| Due diligence per tranche | 1-3 weeks |
-| Contract negotiation | 2-6 weeks |
-| Payment and transfer | 1-3 weeks |
-| Cancellation | Days, plus processing |
-| Report and acknowledgement | 1-2 weeks |
+## Mistakes to avoid
 
-Roughly three to six months for a first cycle. An operator deciding in month thirty-four of a thirty-six-month period has not left time for the process, regardless of whether supply exists.
+- Waiting for the confirmed obligation, and so buying alongside everyone else.
+- Buying the whole estimate early, and cancelling a surplus that is then lost.
+- Treating a forward as a bet on price and missing that it secures supply.
+- Signing a forward without a long-stop date, taking sovereign risk with no way out.
+- Concentrating on one vintage, so that one ICAO Council decision can strand the position.
+- Assuming the 2027 change will be gradual. It happens on a known date.
 
-## Common Timing Errors
+## If you are selling
 
-| Error | Consequence |
-|---|---|
-| Waiting for a confirmed obligation | Buying alongside the entire sector |
-| Buying the full requirement early | Over-cancellation; surplus is spent |
-| Treating a forward as a price bet | Missing that it secures availability |
-| No long-stop date on a forward | Sovereign risk with no exit |
-| Ignoring the administrative tail | Supply secured, delivery too late |
-| Concentrating in one vintage | Exposure to a single Council decision |
-| Assuming the 2027 step is gradual | It is a step, on a known date |
+The same calendar works in the other direction.
 
-## Timing for Sellers
+**Authorised units meet a seller's market.** A developer holding units with a corresponding adjustment holds the scarce product. Authorisation is where value is created, and delaying it delays both the sale and the price.
 
-The mirror image, and worth understanding whichever side you sit on.
+**Unauthorised units meet a buyer's market.** They sell at a discount that reflects the sovereign risk the buyer is asked to carry, against supply that carries none.
 
-**Authorised supply sells into a seller's market.** Where a developer has secured a corresponding adjustment, they are holding the scarce product and negotiating from strength. The commercial implication is that authorisation is not merely a compliance step — it is the value-creating step, and delaying it delays the price as well as the sale.
+**2027 is the visible opening.** Demand rises on a fixed date, and a new project needs eighteen months to three years to first issuance. A developer aiming at that window has to be working on authorisation now. For Indian developers, that means engaging with the Government of India process early; see [the seller's guide](/insights/corsia-carbon-credit-seller-guide/).
 
-**Unauthorised supply sells into a buyer's market**, at a discount that reflects sovereign risk the buyer is being asked to take. A developer marketing before authorisation is competing on price against supply that carries none of that uncertainty.
+**Forwards help finance the project**, which is why sellers want them. That gives a buyer room to negotiate terms in return.
 
-**Second-phase demand is the visible opportunity.** Demand steps up from 2027 on a known date, and a project needs eighteen months to three years to first issuance. A developer aiming at that window has to be moving on authorisation now rather than when demand appears.
+## Keep the plan current
 
-**Forward agreements de-risk the project financing**, which is the seller's real reason for wanting one. That gives a buyer negotiating room on terms in exchange for the certainty the seller values.
+A timing plan set once and left alone goes stale because its inputs move. Revisit it when the obligation estimate changes materially, when growth factors are published, when participation changes affect your covered emissions, when a programme you depend on has an approval change, and once a year regardless.
 
-## Reviewing the Strategy
+Write down the reasoning each time. "This share forward because we trusted the volume; this share held back because the second-phase modelling was uncertain" is a defensible record. An unexplained pattern of purchases is not.
 
-Timing decisions taken once and never revisited drift out of date, because the inputs move.
+## Short answers
 
-Revisit the split when the obligation forecast changes materially, when a growth factor is published, when participation changes affect your covered emissions, when a programme you rely on has an approval change, and annually as a matter of routine.
+::: accordion Does buying in tranches cost more overall?
+Not as a rule. It gives up a little volume precision in exchange for a large cut in supply and price risk.
+:::
 
-Record the reasoning each time. A procurement strategy that can be explained — this proportion forward because we were confident in volume, this proportion held back because the second-phase modelling was uncertain — is defensible in a way that an undocumented pattern of purchases is not.
+::: accordion How many tranches make sense?
+Enough to spread exposure without piling up transaction costs. For most operators, three to five across a period, sized against the diligence each requires.
+:::
 
-## Frequently Asked Questions
+::: accordion Should we wait for prices to fall?
+Supply depends on authorisation decisions nobody can forecast, while demand rises on a known schedule. The risk runs the other way.
+:::
 
-**Does progressive buying cost more in total?** Not systematically. It trades a small amount of volume precision for a large reduction in supply and price risk, and in a market where the downside is an unmet legal obligation that trade usually favours the buyer.
-
-**How many tranches is sensible?** Enough to average exposure without multiplying transaction cost — for most operators three to five across a compliance period, sized against the diligence effort each requires.
-
-**What if our obligation forecast changes mid-period?** Adjust the remaining tranches rather than the ones already cancelled. This is precisely why the early portion should sit below the central forecast.
-
-**When should we start buying?** Once you can model the obligation credibly, which is well before it is confirmed. Waiting for certainty means buying when everyone else does.
-
-**How much should we buy early?** A conservative portion below your central forecast, because surplus does not carry forward.
-
-**Is a forward contract worth it?** Where you are confident in volume and the contract allocates authorisation and vintage risk properly, usually yes — it secures availability, not just price.
-
-**What if we over-buy?** Surplus cancellation is not banked for future periods. It is spent, which is why the early tranche should be conservative.
-
-**Should we wait for prices to fall?** Supply depends on government authorisation decisions that cannot be forecast, and demand rises on a known schedule. The risk is skewed the other way.
-
-**How does the 2027 change affect timing?** It steps demand up across the sector on a fixed date. Operators moving before it face a different market from those moving after.
-
-**What is the single most common timing mistake?** Leaving registry account opening until after a purchase is agreed, which adds four to eight weeks the deadline does not give back.
+If you would like a tranche plan built around your own estimate and deadline, send us your verified emissions and we will draft one. Start with the [calculator](/calculator/) or go straight to our [contact page](/contact/).

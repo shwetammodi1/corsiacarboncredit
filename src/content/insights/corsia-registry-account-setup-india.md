@@ -1,164 +1,134 @@
 ---
-title: "Setting Up CORSIA Registry Accounts: A Guide for Indian Operators"
-excerpt: "Registry account opening takes four to eight weeks and blocks delivery if left late. Which registries you need, what documentation is required, the authorised representative decision, and why you should test before you transact."
+title: "CORSIA Registry Accounts for Indian Operators: A Setup Runbook"
+excerpt: "Units cannot reach you until a registry account is open, which usually takes four to eight weeks. Which programme registries to join, the KYC papers Indian entities need, who should hold access, and how to cancel correctly."
 date: "2026-08-31"
 topic: "Airline Compliance"
-tags: ["CORSIA registry","registry account setup","carbon registry India","unit cancellation","CORSIA consultant India","KYC carbon registry","emissions unit transfer"]
+tags: ["CORSIA registry","registry account setup","carbon registry India","unit cancellation","KYC carbon registry","authorised representative","emissions unit transfer"]
 image: "/images/corsia-consultant/corsia-registry-setup-steps.svg"
 ---
 
-An operator agrees a purchase, then discovers its registry account will take six weeks to open. The units cannot be delivered, the cancellation deadline does not move, and a routine transaction becomes a compliance problem.
+Here is a sequence we have watched more than once. The commercial team agrees a purchase of CORSIA units. The seller asks for account details to transfer into. Someone discovers there is no registry account, and that opening one will take about six weeks. The cancellation deadline stays exactly where it was.
 
-This is entirely avoidable and it happens constantly.
+Nothing about this is difficult. It is simply started too late. This runbook is meant to be picked up months before the first purchase.
 
-![Opening and testing a registry account](/images/corsia-consultant/corsia-registry-setup-steps.svg)
+![Steps to open and test a carbon registry account](/images/corsia-consultant/corsia-registry-setup-steps.svg)
 
-## There Is No Single CORSIA Registry
+## First, a correction: there is no "CORSIA registry"
 
-The first thing to understand, because it shapes everything else.
+ICAO does not run a registry. Eligible units sit in the registries of the individual crediting programmes, such as Verra, Gold Standard, the American Carbon Registry, the Climate Action Reserve and the Global Carbon Council, among others that have held ICAO approval.
 
-**ICAO does not operate a registry.** Units live in the registries of the individual crediting programmes — the American Carbon Registry, the Climate Action Reserve, Verra, Gold Standard, the Global Carbon Council and others that have held ICAO approval.
+Each has its own account types, onboarding papers, fees, transfer rules and processing times, and none of them shows your position across the others. So "which registry do we need?" has only one honest answer: the one where the units you plan to buy are held. For how units move and are serialised, see [registries and cancellation](/knowledge-base/corsia-registries-and-cancellation/).
 
-Each operates its own system with its own account structure, documentation requirements, fee schedule, transfer mechanics and processing times. There is no consolidated view across them.
+## Step 1: Choose how many registries
 
-Which means the question "which registry do we need an account with" has no general answer. It depends entirely on where the supply you intend to buy actually sits.
+| | One or two programmes | Three or four programmes |
+|---|---|---|
+| Administration | Lighter: fewer onboarding files, fewer relationships | Heavier |
+| Supply pool | Narrower | Wider |
+| Exposure to one programme losing or conditioning its ICAO approval | High: no alternative ready | Spread |
+| Suits | A first-time buyer with a modest obligation | A growing obligation, especially towards the second phase |
 
-## Deciding Which Registries
+Fee structures belong in this decision too. A programme that is cheap to hold units in may be expensive to transact in.
 
-Two approaches, with a real trade-off.
+Before opening any account, check that the programme's ICAO approval is current. Do it at this point, not only before you buy. Onboarding with a programme whose approval has lapsed is wasted weeks.
 
-**Consolidate.** Open accounts with one or two programmes and buy only from them. Simpler administratively, fewer relationships, less documentation. The cost is concentration — if that programme's ICAO approval lapses or is conditioned in a way that affects your units, you have no alternative ready.
+## Step 2: Assemble the KYC file
 
-**Diversify.** Accounts with three or four programmes. More administration, but you can source across a wider pool and you are not exposed to a single programme's approval status.
+Onboarding is a know-your-customer exercise and it is the slowest stage. For an Indian company, expect to gather:
 
-For a first-time buyer with a modest obligation, consolidating is usually reasonable. As the obligation grows — particularly heading into the second phase — the concentration risk becomes the more significant consideration.
+**Corporate identity**
+- certified copy of the certificate of incorporation
+- memorandum and articles, or equivalent constitutional documents
+- proof of registered address, such as a recent utility bill
+- tax registration: GST and PAN
 
-Whichever you choose, **verify the programme's current ICAO approval status before opening the account**, not just before transacting. Opening an account with a programme whose approval has lapsed is wasted effort.
+**Ownership and authority**
+- beneficial ownership disclosure, often down to a stated percentage threshold
+- a board resolution authorising the account and naming who may act on it
 
-## What the Documentation Involves
+**People**
+- identification for each authorised representative: passport and proof of address
 
-Registry onboarding is a know-your-customer process, and it is the slowest part.
+**Sometimes**
+- a bank reference
 
-Typically required:
+Two items stretch the timeline for Indian entities more than any others. **Notarisation and apostille** of documents that will be used abroad, and **beneficial ownership disclosure** where the shareholding runs through holding companies. Start both on day one.
 
-| Document | Note |
-|---|---|
-| Certificate of incorporation | Certified copy usually required |
-| Memorandum and articles | Or equivalent constitutional documents |
-| Beneficial ownership disclosure | Often to a defined percentage threshold |
-| Board resolution authorising the account | Naming who may act |
-| Identification for each authorised representative | Passport, address proof |
-| Proof of registered address | Recent utility bill or equivalent |
-| Bank reference | Not always, but common |
-| Tax registration | GST and PAN for Indian entities |
+## Step 3: Decide who holds the keys
 
-For Indian entities, two things regularly extend the timeline: **notarisation and apostille** requirements for documents used internationally, and beneficial ownership disclosure where the shareholding structure involves holding companies. Start both early.
+This choice matters more than it looks.
 
-## The Authorised Representative Decision
+- **Name at least two representatives.** With one, a resignation, a holiday or a lost login freezes you against a deadline you do not control. This is the most common operational failure we see in registry management.
+- **Split negotiation from execution.** The person who agrees a purchase should not be the only one who can execute the transfer and the cancellation. Treat the account like a bank account, because functionally it is one, and cancellation cannot be undone.
+- **Write the procedure down.** Who may act, what approval a cancellation needs, how the purpose field is confirmed before execution, and what gets recorded afterwards.
+- **Remove access when roles change.** Put registry access into the joiners, movers and leavers process. Access has a habit of outlasting the job that needed it.
+- **Use the same people across programmes.** Different representatives in each registry multiply key-person risk instead of reducing it.
 
-More consequential than it appears.
+## Step 4: Rehearse before the first real transfer
 
-**Nominate more than one.** A single named representative means one resignation, one period of leave or one lost credential freezes your ability to transact — against deadlines you do not control. This is the most common operational failure in registry management.
+Once the account is live, do a small test transfer if the programme allows it. If not, walk the representatives through the screens. Interfaces and terms differ between programmes (one says retirement, another cancellation; one says account, another holding), and the cancellation screen is not one to see for the first time a week before a deadline.
 
-**Separate agreeing from executing.** The person who negotiates a purchase should not be the only one able to execute the transfer and the cancellation. This is ordinary financial control applied to an asset that is functionally money, and cancellation in particular is irreversible.
+## Step 5: Line up treasury
 
-**Document the procedure.** Who is authorised, what approval a cancellation requires, how the purpose designation is confirmed before execution, and what is recorded afterwards.
+Buying units means paying across borders. Foreign exchange, the regulatory route for the payment, the paperwork your bank will want, and the tax treatment all need answers. Bring finance and treasury in when the account is being set up, not at the first purchase. A payment stuck in bank compliance burns the same schedule margin as an account stuck in onboarding.
 
-**Review access on role change.** Registry access routinely outlives the job that justified it. Add it to your joiners, movers and leavers process.
+## Working back from the deadline
 
-## Test Before You Need It
+A worked example, in weeks before the cancellation deadline. The durations are the ranges we plan with; the placement is illustrative.
 
-Once the account is live, complete a small test transfer if the programme permits, or at minimum walk through the interface with the representatives.
+| Weeks before deadline | Activity | Allow |
+|---|---|---|
+| 26 | Start registry onboarding and treasury questions | 4–8 weeks |
+| 18 | Due diligence on the first tranche | 1–3 weeks per tranche |
+| 15 | Contract negotiation | 2–6 weeks |
+| 9 | Payment and transfer | 1–3 weeks |
+| 6 | Cancellation | days, plus processing |
+| 5 | Cancellation report and acknowledgement | 1–2 weeks |
+| 3 to 0 | Margin for anything that slipped | |
 
-The first real transfer should not be the first time anyone has used the system. Registry interfaces vary considerably, terminology differs between programmes, and the cancellation screen in particular is one you want to have seen before using it under deadline pressure.
+Registries have maintenance windows and busy spells around common deadlines, which is exactly when everyone else is cancelling. A plan that leaves cancellation to the final days is assuming processing time nobody has promised you. The full procurement sequence is in [buying CORSIA units](/insights/corsia-unit-procurement-process-india/).
 
-## Cancellation: The Step That Counts
+## Cancellation is where it counts
 
-Worth stating plainly because operators get this wrong.
+Buying units does not meet the obligation. Holding them does not either. **Cancellation does**, and only when it is reported.
 
-**Purchasing units does not discharge your obligation. Holding them does not discharge your obligation. Cancellation does.**
+Cancellation takes units out of circulation permanently and records why. For CORSIA it must be **designated for CORSIA compliance** using the programme's purpose field. A general retirement of the kind used for voluntary claims may not satisfy your national authority.
 
-Cancellation permanently removes the units from circulation and records the purpose. For CORSIA the cancellation must be **designated for CORSIA compliance** — programmes provide a specific purpose field. A generic retirement of the kind used for voluntary claims may not satisfy your national authority.
+A wrong designation is hard or impossible to reverse, and the units are gone either way. That alone justifies a written procedure and a second person checking before anyone presses the button.
 
-**Getting the designation wrong is difficult or impossible to reverse, and the units are consumed either way.** This is the single strongest argument for a documented procedure with a second pair of eyes before execution.
+After cancellation comes the Emissions Unit Cancellation Report to the [DGCA](https://www.dgca.gov.in/). Without the report, the loop is not closed.
 
-Record everything: serial numbers, cancellation reference, date, quantity, purpose designation, and the account from which cancellation occurred.
+## Records to keep on your own side
 
-## Timing and the Administrative Tail
+The registry is not your compliance file. Keep in your own systems:
 
-Working backwards from a cancellation deadline:
+- **Serial numbers at every stage**: contract, transfer confirmation, cancellation. A file with volumes but no serials cannot be reconciled to a registry, and reconciliation is the first thing an auditor tries.
+- **Each transfer confirmation**, not just the closing balance. The balance tells you where you ended up; the confirmations show how.
+- **The cancellation reference, filed with the report.** If the authority queries the submission, that reference is your answer.
+- **A running reconciliation** of obligation against cancellations for each compliance period. Built at period end, it surfaces discrepancies too late to investigate.
+- **One consolidated ledger across programmes**, reconciled monthly to each registry, so someone can say how much has been cancelled this period without logging into three systems.
+- **Approval status per programme**, with the date you last checked. Re-check before cancelling if time has passed; approvals can be full, conditional or lapsed, and change by Council decision.
 
-| Step | Allow |
-|---|---|
-| Registry account opening | 4-8 weeks |
-| Due diligence per tranche | 1-3 weeks |
-| Contract negotiation | 2-6 weeks |
-| Payment and transfer | 1-3 weeks |
-| Cancellation | days, plus processing |
-| Cancellation report and acknowledgement | 1-2 weeks |
+If a broker or adviser executes for you, your files still need the serials, confirmations and references. When that relationship ends, your compliance record should not end with it.
 
-Registry systems also have maintenance windows and load spikes near common deadlines — which is precisely when everyone else is cancelling. Leaving cancellation to the final days assumes processing time you do not control.
+Plan to retain these for ten years, and make sure they survive a system migration. An export sitting in a platform that has been switched off is not retained.
 
-## Keeping the Records Straight
+## Mistakes we see most often
 
-Registry activity generates the evidence that closes your compliance loop, and it needs holding in your own systems rather than only in the registry.
+1. Opening the account after agreeing the purchase.
+2. One authorised representative, who then goes on leave in the critical week.
+3. Choosing a registry before confirming where the supply actually sits.
+4. Using a voluntary retirement instead of a CORSIA-designated cancellation.
+5. Relying on the broker's records instead of your own.
 
-**Record serial numbers at every stage.** Contract, transfer confirmation, cancellation. A compliance file that references volumes without serials cannot be reconciled against a registry, and reconciliation is the first thing anyone auditing it will attempt.
+## Short answers
 
-**Keep the transfer confirmations**, not just the resulting balance. The balance shows where you ended; the confirmations show how you got there.
+**Can a broker hold units for us?** Practice differs by registry, but a cancellation reported for your compliance has to be traceable to you. Confirm the arrangement with your national authority first.
 
-**Store the cancellation reference with the report.** When the authority queries a submission, the reference is the answer.
+**What do accounts cost?** Programmes charge for maintenance, transfers and cancellations. Small next to unit cost, but put them in the budget.
 
-**Maintain a live reconciliation** of obligation against cancellations, per compliance period. Reconstructing it at period end means discovering discrepancies with no time to investigate them.
+**How long do transfers take?** Days within one registry. Transfers between registries are slower, and not every programme supports them.
 
-**Do not rely on an intermediary's records.** Where a broker or adviser executes on your behalf, your own files must still contain the serials, confirmations and references. When that relationship ends, your compliance record must not end with it.
+**Can a cancellation be undone?** Generally no. It is designed to be permanent.
 
-**Retain for the long term.** Verification and audit reach back further than people expect. Plan for ten years, and make sure the records survive a system migration — an export sitting in a decommissioned platform is not retained.
-
-## Cross-Border and Treasury Considerations
-
-Purchasing units involves cross-border payment, which for Indian entities raises questions worth resolving before a transaction rather than during one.
-
-Foreign exchange, the applicable regulatory route for the payment, documentation your bank will require, and the tax treatment of the purchase all need answers. Involve finance and treasury at account setup rather than at first purchase — a transaction held up in banking compliance consumes the same schedule contingency as one held up in the registry.
-
-## Managing Several Registries at Once
-
-Once you hold accounts with more than one programme, a small amount of structure prevents avoidable errors.
-
-**Keep one consolidated ledger.** No registry shows your total position across programmes. Maintain your own record of holdings and cancellations by programme, reconciled against each registry monthly. Without it, nobody can answer "how much have we cancelled this period" without logging into three systems.
-
-**Standardise the naming.** Registries use different terms for the same concepts — retirement versus cancellation, account versus holding. Map them to one internal vocabulary so your records stay comparable.
-
-**Track approval status per programme.** ICAO approval can be full, conditional or lapsed, and it changes by Council decision. Note the status and the date you checked it, per programme, and re-check before cancelling if time has passed.
-
-**Watch the fee structures.** They differ, and a programme cheap to hold may be expensive to transact in. Include this in the consolidate-versus-diversify decision.
-
-**Keep the representatives consistent.** Different authorised representatives across programmes multiplies the key-person risk rather than reducing it. Use the same two or three people wherever the documentation permits.
-
-The administrative overhead of multiple registries is real but modest. The concentration risk of a single one is occasional and material. For an operator with a growing obligation, the trade generally favours holding at least two.
-
-## Frequently Asked Questions
-
-**How long does registry account opening take?** Four to eight weeks typically, longer where notarisation, apostille or complex ownership disclosure is involved. Start well before you need it.
-
-**Do we need accounts with every programme?** No, only where your supply sits. Consolidating simplifies administration; diversifying reduces exposure to a single programme's approval status.
-
-**Can a broker hold units on our behalf?** Practice varies by registry, but a cancellation reported for your compliance should be traceable to you. Confirm the mechanism with your national authority before relying on it.
-
-**What do registry accounts cost?** Programmes charge account maintenance, transfer and cancellation fees. Modest relative to unit cost, but include them in the budget.
-
-**How long do transfers take?** Days for intra-registry. Inter-registry transfers are slower and are not supported by every programme.
-
-**Can a cancellation be reversed?** Generally no. It is designed to be permanent, which is why the purpose designation must be confirmed before execution.
-
-**What if we cancel under the wrong purpose?** Treat it as unrecoverable and plan accordingly. This is the argument for a documented procedure with a second check.
-
-**What comes next after cancellation?** The Emissions Unit Cancellation Report to the [DGCA](https://www.dgca.gov.in/). Cancellation without reporting does not close the loop. See [CORSIA reporting deadlines](/insights/corsia-reporting-deadlines-and-calendar/).
-
----
-
-**Sourcing or cancelling CORSIA units?** DSTechnoverse handles registry setup, pre-transaction due diligence, procurement support and cancellation reporting for Indian operators. See our [CORSIA carbon credit services](/services/). We are based in **Indore, Madhya Pradesh** and work across India.
-
-[Apply as a CORSIA buyer or seller](https://carboncredit.dstechnoverse.com/)
-
-[Talk to our carbon markets team](/contact/) about your position.
+If you would like the onboarding started while you are still deciding what to buy, [ask the desk](/contact/). We set up and test registry access for Indian operators so the account is ready before the contract is.

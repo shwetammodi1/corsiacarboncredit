@@ -1,124 +1,82 @@
 ---
-title: "CORSIA in India: DGCA, Indian Carriers and Project Developers"
-excerpt: "India participates in CORSIA with the DGCA as national authority. What that means for Indian carriers facing a steepening obligation, and for Indian project developers navigating the domestic carbon market interaction."
+title: "CORSIA in India: What It Means for Indian Airlines and Carbon Project Developers"
+excerpt: "India takes part in CORSIA and the DGCA is the national authority. Why Indian carriers face a cost curve steeper than their emissions, and why Indian developers must settle authorisation before anything else."
 section: "Governance & India"
 order: 26
 image: "/images/corsia/hero-corsia-consultant.svg"
 ---
 
-India is one of the world's fastest-growing aviation markets and a significant potential source of carbon credits. Both facts make CORSIA more consequential here than in most jurisdictions — Indian carriers face a steepening obligation, and Indian developers face a demand opportunity gated by a question that is still resolving.
+Two kinds of call reach our desk in Indore most weeks. One comes from an airline's compliance or finance team, asking what CORSIA will cost as the network grows. The other comes from a project developer with a biogas plant or a forestry programme, asking whether airlines will buy its credits. India sits on both sides of the scheme: its aviation market is among the fastest-growing anywhere, and it has large potential to generate credits. This page takes each side in turn.
 
-![CORSIA carbon credit consultant](/images/corsia/hero-corsia-consultant.svg)
+![Illustration of CORSIA advisory work](/images/corsia/hero-corsia-consultant.svg)
 
-## India's Participation
+## India's place in the scheme
 
-India participates in CORSIA. Indian operators conducting international flights above the 10,000 tonne threshold are in scope, and the **[Directorate General of Civil Aviation](https://www.dgca.gov.in/)** acts as national authority — approving Emissions Monitoring Plans, receiving Annual Emissions Reports, overseeing verification and receiving Emissions Unit Cancellation Reports.
+India participates in CORSIA. Any Indian operator whose international flights emit more than 10,000 tonnes of CO2 a year is in scope. The [Directorate General of Civil Aviation](https://www.dgca.gov.in/) is the national authority: it approves Emissions Monitoring Plans, receives Annual Emissions Reports, oversees verification and receives Emissions Unit Cancellation Reports. How national authorities work in general is covered in [national authorities and enforcement](/knowledge-base/corsia-national-authorities-and-enforcement/).
 
-Domestic flights are outside CORSIA entirely. For a carrier with a predominantly domestic network, the in-scope portion may be a modest share of total emissions — but the compliance machinery still has to exist and be maintained.
+Domestic flying is entirely outside CORSIA. For an airline whose network is mostly domestic, the covered share of emissions may be modest. The monitoring, reporting and verification machinery still has to be built and run every year regardless.
 
-## Why the Obligation Steepens for Indian Carriers
+## For Indian airlines
 
-Two structural features of the scheme interact badly with rapid growth.
+### Why the bill grows faster than the fuel burn
 
-::: accordion Route coverage expands in 2027
-Second-phase participation becomes mandatory for States above defined aviation activity thresholds. Routes generating no offsetting obligation today, because one end is non-participating, begin to count.
+Two design features of CORSIA bear down hard on a carrier that is growing quickly.
 
-Indian carriers with significant traffic to currently non-participating States will see coverage expand — and the change is entirely network-specific, so a generic percentage uplift will be wrong.
-:::
+**More routes count from 2027.** In the second phase, participation becomes mandatory for States above set aviation activity thresholds. Routes that create no obligation today, because the other end is a non-participating State, start to count. How much this matters depends entirely on where you fly, so a flat percentage uplift in the budget will be wrong.
 
-::: accordion The individual growth factor gains weight from 2030
-Early phases calculate obligations purely from sector-wide growth. From 2030 an operator's own growth rate progressively enters the calculation — 15% weight from 2030, 30% from 2033.
+**Your own growth starts to count from 2030.** Until then, obligations are worked out from the sector's growth alone. From 2030 an operator's own growth rate enters the formula with a 15% weight, rising to 30% from 2033. A carrier growing faster than the global sector, as several Indian airlines are, carries more of its own growth.
 
-A carrier expanding faster than the global sector, as several Indian operators are, carries proportionally more of its own burden.
-:::
+### Worked example
 
-The combined effect is that **a carrier's CORSIA cost curve is steeper than its emissions curve.** That deserves to be modelled explicitly against fleet and network plans rather than discovered when the invoice arrives.
+Illustrative figures only. An Indian carrier has 200,000 tonnes of covered emissions. Assume the sectoral growth factor is 6% and the carrier's individual growth factor is 12%.
 
-See [baseline and growth factors](/knowledge-base/corsia-baseline-and-growth-factors/) and [CORSIA phases and timeline](/knowledge-base/corsia-phases-and-timeline/).
+| Period | Formula | Effective rate | Offsetting requirement |
+|---|---|---|---|
+| Before 2030 | Sectoral factor only | 6.0% | 12,000 t |
+| 2030–2032 | 0.85 × 6% + 0.15 × 12% | 6.9% | 13,800 t |
+| 2033–2035 | 0.70 × 6% + 0.30 × 12% | 7.8% | 15,600 t |
 
-## Practical Issues for Indian Operators
+With emissions held flat, the requirement still rises by 30% across the three bands, before any extra routes arrive in 2027. Real growth in emissions would stack on top. That is why a fast-growing carrier's CORSIA cost curve is steeper than its emissions curve, and why it belongs in the fleet and network plan rather than being discovered when the bill arrives. The method is set out in [baseline and growth factors](/knowledge-base/corsia-baseline-and-growth-factors/) and the dates in [CORSIA phases and timeline](/knowledge-base/corsia-phases-and-timeline/).
 
-| Issue | What to watch |
-|---|---|
-| Monitoring plan approval | DGCA practice has its own emphases; engage early |
-| Data reconciliation | Mixed fleets, multiple fuel suppliers, varying station record-keeping |
-| Verifier availability | Limited accredited bodies in the region; demand clusters |
-| Registry access and FX | Cross-border payment and treasury questions, resolved before transacting |
-| Sustainable aviation fuel | Developing policy and blending targets; claims need full documentation |
+### Practical checklist for Indian operators
 
-::: accordion Data reconciliation is where the annual effort concentrates
-Fuel uplift dockets, flight operations data and finance records need to agree, or their disagreements need documented resolution rules.
+- **Talk to the DGCA early on the monitoring plan.** Its approval practice has its own emphases.
+- **Treat reconciliation as a data project.** Fuel uplift dockets, flight operations data and finance records must agree, or their differences must be settled by written rules. With mixed fleets, several fuel suppliers and uneven record-keeping at outstations, this is where most of the annual effort goes. Treating it as paperwork is what produces verification findings.
+- **Book a verifier ahead of time.** There are few accredited bodies in the region, and demand bunches around the same dates.
+- **Sort out registry access and foreign exchange before you buy.** Unit purchases usually mean cross-border payments, and treasury questions are better answered in advance.
+- **Be careful with SAF claims.** India's SAF policy and blending targets are still being developed. Eligible fuel does reduce the requirement, but the sustainability criteria and custody documents are demanding, and the claim depends on the paperwork, not just the fuel. See [CORSIA Eligible Fuels](/knowledge-base/corsia-eligible-fuels/).
 
-For operators with mixed fleets, several fuel suppliers and a range of station-level record-keeping practices, this is the bulk of the work. It is a data engineering problem before it is a carbon problem, and treating it as paperwork is what produces verification findings.
-:::
+## For Indian project developers
 
-::: accordion SAF policy is developing
-India has been developing SAF policy and blending targets. Qualifying CORSIA Eligible Fuels reduce the offsetting requirement, but the sustainability criteria and chain-of-custody documentation requirements are demanding.
+### The question that decides everything
 
-Claiming the reduction requires the paperwork, not just the fuel. See [CORSIA Eligible Fuels](/knowledge-base/corsia-eligible-fuels/).
-:::
+India can generate credits across renewable energy, energy efficiency, waste management, cookstoves, agriculture and forestry. Whether any of it reaches an airline depends almost entirely on whether the Government of India authorises corresponding adjustments.
 
-## The Position for Indian Project Developers
+Under Article 6 of the Paris Agreement, a host country that authorises credits for international use adds those tonnes back into its national accounts and cannot count them towards its NDC. For a country with ambitious domestic targets and a large pipeline of mitigation, that is a real concession.
 
-India has substantial credit-generating potential across renewable energy, energy efficiency, waste management, cookstoves, agriculture and forestry. Whether any of it can reach CORSIA depends almost entirely on one question.
+India has been building its own Carbon Credit Trading Scheme (CCTS) under the Energy Conservation Act framework, creating a domestic compliance market. The government has signalled in various contexts that it prefers to keep mitigation outcomes at home, and it has in the past restricted exports of certain credit types. How CCTS, Article 6 authorisation and CORSIA eligibility fit together is still being worked out. Background: [corresponding adjustments and Article 6](/knowledge-base/corresponding-adjustments-article-6/).
 
-**Will India authorise corresponding adjustments?**
+### How to plan around the uncertainty
 
-Under Article 6 of the Paris Agreement, a host State authorising credits for international use must add those tonnes back into its own national accounting, forgoing them against its NDC. For a country with ambitious domestic targets and a large mitigation pipeline, that is a meaningful concession.
+- **Do not assume authorisation.** A project can be technically excellent and fully verified and still be unable to supply CORSIA.
+- **Choose the route before the methodology.** The domestic scheme, the voluntary market and CORSIA are separate routes with separate requirements. Converting a project to a different standard later is costly and sometimes impossible.
+- **Have a fallback.** A financial model that only works if CORSIA buyers take the credits is a concentrated bet on one government decision.
+- **Work back from the dates.** Second-phase demand arrives on a known timetable. A new project usually needs eighteen months to three years to first issuance, and host-country authorisation is the least predictable part. Developers who want that demand should be pursuing authorisation now. Those who wait until buyers are visible will find the ready supply already contracted.
 
-India has been developing its own **Carbon Credit Trading Scheme** under the Energy Conservation Act framework, establishing a domestic compliance market. The government has also signalled a preference for retaining mitigation outcomes domestically in various contexts, and has previously restricted the export of certain credit types.
+### Which Indian project types are better placed
 
-The interaction between the domestic scheme, Article 6 authorisation and CORSIA eligibility **is still being worked through**.
+Assuming authorisation can be obtained:
 
-::: accordion What this means practically for a developer
-**Do not assume authorisation.** A project that is technically excellent and fully verified may still be unable to supply CORSIA.
+**Stronger candidates.** Waste methane, landfill gas and biogas projects, and wastewater treatment. Additionality is clean and permanence is not an issue.
 
-**Establish the pathway before committing to a methodology.** Domestic scheme participation, voluntary market sale and CORSIA supply are different routes with different requirements. Retrofitting a project onto a different standard later is expensive and sometimes impossible.
+**Possible, with care.** Industrial energy efficiency, where additionality depends on the intervention and there is overlap with the domestic scheme. Cookstoves, which have large potential but face continuing methodological scrutiny. Afforestation and forestry, where permanence, buffer adequacy and land tenure all need work.
 
-**Keep a fallback.** Building a financial model that only works with CORSIA placement, in a jurisdiction where authorisation is uncertain, is a concentrated bet on a government decision.
+**Hard.** Agriculture and soil carbon, where measurement and permanence methods are immature. Grid-connected renewables, where additionality is difficult to show because utility-scale solar and wind are now often the cheapest way to generate power in India. That is good news for the grid and bad news for the additionality case.
 
-See [corresponding adjustments](/knowledge-base/corresponding-adjustments-article-6/).
-:::
+## How we work
 
-## Which Indian Project Types Are Better Placed
+DSTechnoverse runs this desk from Indore as an environmental data and analytics consultancy, and our CORSIA work covers both operator compliance and developer market access. Most of the expensive mistakes in this field are data mistakes, in emissions accounting, growth factor arithmetic, unit diligence and registry reconciliation, so we write down our reasoning in a form a verifier can follow years later.
 
-Assuming the authorisation question can be resolved:
+We are also plain about what is unknown. India's authorisation position is unresolved, programme approvals change and vintage windows have moved before. Advice that presents those as settled is not worth paying for.
 
-| Type | Outlook | Why |
-|---|---|---|
-| Waste methane, landfill gas, biogas | Better placed | Clean additionality, no permanence issue |
-| Wastewater treatment | Better placed | Same reasoning |
-| Industrial energy efficiency | Workable | Additionality depends on the intervention; domestic scheme overlap |
-| Cookstoves | Workable with rigour | Large potential, sustained methodological scrutiny |
-| Afforestation and forestry | Workable with rigour | Permanence, buffer adequacy, land tenure |
-| Agriculture and soil carbon | Difficult | Measurement and permanence immaturity |
-| Grid-connected renewables | Difficult | Additionality hard where renewables are least-cost |
-
-The last row matters in India specifically, because utility-scale solar and wind are now frequently the cheapest generation option. That is excellent news generally and very bad news for the additionality argument.
-
-See [which carbon projects qualify](/insights/carbon-projects-qualify-for-corsia/).
-
-## The Timing Argument
-
-Second-phase demand arrives on a known date. A new project typically needs eighteen months to three years from concept to first issuance, with host-State authorisation the least predictable element.
-
-Working backwards from 2027 and the years following: developers who want to serve that demand need to be resolving authorisation **now**. Waiting until demand is visible means arriving after supply that was already ready has been contracted.
-
-## Working With DSTechnoverse
-
-We are an environmental data and analytics consultancy based in **Indore, Madhya Pradesh**, working with clients across India and internationally. Our CORSIA practice covers both sides — operator compliance and developer market access.
-
-The analytics background matters here. Emissions accounting, growth factor arithmetic, unit due diligence and registry reconciliation are data problems, and data problems are where the costly errors hide. We document reasoning so decisions defend themselves years later to a verifier who was not in the room.
-
-We are also direct about uncertainty. India's authorisation position is genuinely unresolved, programme approvals change, and vintage windows have moved before. Advice presenting any of that as settled is not worth paying for.
-
-See our [CORSIA carbon credit services](/services/).
-
-## Where to Go Next
-
-- [What is CORSIA](/knowledge-base/what-is-corsia/) — the fundamentals
-- [CORSIA scope and thresholds](/knowledge-base/corsia-scope-and-thresholds/) — whether you are in
-- [National authorities and enforcement](/knowledge-base/corsia-national-authorities-and-enforcement/) — the DGCA's role
-- [Corresponding adjustments](/knowledge-base/corresponding-adjustments-article-6/) — the developer's gate
-
-[Talk to our carbon markets team](/contact/) or [apply as a CORSIA buyer or seller](https://carboncredit.dstechnoverse.com/).
+Whether you are an airline sizing next year's obligation or a developer deciding which route to take, [tell us about your situation](/contact/). Developers can also [list credits for sale](https://carboncredit.dstechnoverse.com/sell) directly.

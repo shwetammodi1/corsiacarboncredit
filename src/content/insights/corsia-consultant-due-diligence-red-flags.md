@@ -1,148 +1,111 @@
 ---
-title: "CORSIA Consultant Red Flags: Due Diligence Before You Appoint"
-excerpt: "The warning signs that a CORSIA adviser has market knowledge but no delivery experience — guarantees they cannot make, conflicts they do not disclose, and the specific claims that should end a conversation."
+title: "Red Flags in a CORSIA Consultant: Vetting an Adviser Before and After Appointment"
+excerpt: "Knowing the carbon market is not the same as having delivered a CORSIA cycle. The phrases, gaps and contract positions that give an inexperienced or conflicted adviser away, and the checks that expose them early."
 date: "2026-08-23"
 topic: "Airline Compliance"
 tags: ["CORSIA consultant red flags","consultant due diligence","carbon consultant","conflict of interest","CORSIA India","procurement","advisory risk"]
 image: "/images/corsia-consultant/corsia-consultant-red-flags.svg"
 ---
 
-Carbon markets attract advisers faster than they build genuine expertise, and CORSIA — technical, regulated, and newly relevant to Indian operators — attracts more than most. The distinction that matters is between firms that know the market and firms that have delivered a compliance cycle.
+The pitch goes well. The slides are polished, the market outlook is fluent, the partner knows the ICAO acronyms and has opinions on unit prices. An hour later you realise nobody asked how your outstations record fuel uplift, or how many Air Operator Certificates your group holds.
 
-These are the signals that separate them.
+That gap is the thing to look for. CORSIA is technical, regulated and newly pressing for Indian operators, so it attracts advisers faster than the market produces people who have actually run a compliance cycle. Knowing the market and having delivered the work are different, and the signs that tell them apart are fairly consistent. We have arranged them by when you are likely to see them.
 
-![Red flags when appointing a CORSIA adviser](/images/corsia-consultant/corsia-consultant-red-flags.svg)
+![Warning signs to watch for when appointing a CORSIA adviser](/images/corsia-consultant/corsia-consultant-red-flags.svg)
 
-## The Six Serious Red Flags
+## Before the first meeting
 
-| Red flag | Why it matters |
-|---|---|
-| **Guarantees a verification outcome** | Nobody can promise an independent opinion |
-| **Sells credits and advises on them** | Undisclosed margin conflicts with the advice |
-| **Cannot name a verification body** | Has probably never been in the room |
-| **Vague on corresponding adjustments** | The single most important eligibility test |
-| **No named deliverables or dates** | Scope will expand and slip |
-| **No knowledge transfer offered** | You will pay the same fee every year |
+Some checks need no conversation at all.
 
-### "We guarantee your verification will pass"
+1. **The entity.** Its registration, how long it has traded and who owns it.
+2. **The people.** Who is named on the team, what they have delivered, and whether the experience they claim was gained at this firm or a previous one.
+3. **Commercial interests.** Whether the firm, or anyone connected to it, sells emissions units.
 
-Verification is an independent assurance engagement. The verifier forms their own opinion based on evidence, and no consultant can commit to that outcome. A firm offering this is either misunderstanding the process or misrepresenting it, and neither is a good start.
+None of these rules a firm out on its own. They tell you which questions to press in the room.
 
-What a competent firm says instead: *"We will prepare the plan and evidence so that verification is straightforward, we will support you through findings, and findings on our deliverables are closed at our cost."* That is a commitment they can actually make.
+## In the room: things that should end the conversation
 
-### Advising and selling
+### "Your verification will pass. We guarantee it."
 
-A firm that advises how many units you need and also sells those units has an interest in the answer. It is not automatically disqualifying — some firms manage this properly with disclosure and separation — but undisclosed, it is a serious problem.
+Verification is an independent assurance engagement. The verifier reaches its own opinion on the evidence, and no adviser can promise that result. A firm that offers to has either misunderstood the process or is misrepresenting it.
 
-Ask directly: do you sell emissions units, hold an interest in a firm that does, or receive any commission on units we purchase? Then ask for it in writing.
+What a firm that knows the work says instead is something like: *we will prepare the plan and evidence so verification is straightforward, we will support you through any findings, and findings on our deliverables are closed at our cost.* That is a promise within its power.
 
-### Cannot name a verification body
+### Advice on how many units to buy, from someone selling units
 
-Verification bodies are a small, identifiable community. Anyone who has delivered a CORSIA cycle has worked alongside one and will have views on how different verifiers approach sampling and findings. Vagueness here is the clearest single signal of inexperience.
+A firm that sizes your requirement and then supplies the units has an interest in the answer. Some firms manage this properly with disclosure and a clear separation of roles, so it is not automatically disqualifying. Undisclosed, it is serious.
 
-### Vague on corresponding adjustments
+Ask plainly: do you sell emissions units, hold an interest in a business that does, or earn commission on units we buy? Then ask for the answer in writing. This applies to any adviser that also trades, including a desk like ours that runs a marketplace.
 
-For any conversation about credit supply or procurement, the corresponding adjustment is the decisive eligibility test. A firm that treats it as a documentation step, or is unclear about who authorises it, has not worked on a CORSIA transaction. See [corresponding adjustments for Indian CORSIA projects](/insights/corsia-corresponding-adjustment-india/).
+### No verification body they can name
 
-## Softer Signals Worth Noticing
+Accredited CORSIA verifiers are a small, identifiable group. Anyone who has delivered a cycle has worked alongside at least one and will have views on how different verifiers sample and raise findings. Vagueness here is the single clearest sign of inexperience.
 
-**They present without asking questions.** A firm with delivery experience wants to know your entity structure, fuel data systems, outstations and existing reporting obligations. One that presents for an hour is selling.
+### Hand-waving about corresponding adjustments
 
-**They conflate MRV and offsetting.** The two obligations are separate tests. Confusing them in a pitch predicts confusing them in a deliverable.
+In any discussion of credit supply or purchasing, the corresponding adjustment is the test that decides eligibility. A firm that calls it a paperwork step, or is unsure who grants it, has not worked on a CORSIA transaction. For Indian supply specifically, see [corresponding adjustments for Indian CORSIA projects](/insights/corsia-corresponding-adjustment-india/).
 
-**They talk strategy but not data.** CORSIA compliance is largely data assurance. An hour of market outlook with no discussion of fuel records has avoided the actual work.
+## In the room: softer signals
 
-**Everything is certain.** Participating states, phase parameters and eligibility criteria change. A firm stating all of it as settled is out of date or overconfident.
+These do not end a conversation, but several together should.
 
-**The pitch team is not the delivery team.** Common across consulting, and worth pinning down: names, grades, availability, and whether substitution requires your consent.
+- **All talk, no questions.** An experienced firm wants to know your entity structure, fuel data systems, outstations and existing reporting duties before it says much. A firm that presents for an hour is selling.
+- **MRV and offsetting treated as one duty.** They are separate tests. Confusing them in a pitch predicts confusing them in the deliverable.
+- **Strategy without data.** CORSIA compliance is mostly data assurance. An hour of outlook with no mention of fuel records has skipped the actual job.
+- **Total certainty.** Participation lists, phase parameters and eligibility criteria change. Ask what the firm considers uncertain; a firm that says "nothing" is out of date or overconfident.
+- **"We handle everything."** A small firm claiming airline MRV, project development, unit trading and policy work all at once deserves close testing.
+- **A pitch team that will not be the delivery team.** Pin down names, grades, availability and whether substitutions need your consent.
+- **Reluctance to give references**, especially one where something went wrong and was handled well.
 
-**No stated limits.** "We handle everything" from a small firm covering airline MRV, project development, unit trading and policy engagement is a claim worth testing hard.
+Firm size matters less than evidence of delivery. Small specialists often have deeper CORSIA experience than large generalists.
 
-**Reluctance to provide references.** Particularly a reference where something went wrong and was handled well.
+## In the proposal and the contract
 
-## Practical Diligence Steps
+Diligence tells you who you are hiring. The contract decides what happens when things go wrong. Before signing, look for six positions, and treat resistance to any of them as information.
 
-1. **Check the entity.** Registration, how long it has traded, who owns it.
-2. **Check the individuals.** Named team, their track record, whether their claimed experience is with this firm or a previous one.
-3. **Ask for a redacted deliverable.** A monitoring plan excerpt or project design document tells you more than any credential.
-4. **Take a reference call** and ask specifically what went wrong and how it was handled.
-5. **Request the independence declaration** in writing.
-6. **Test with a small paid piece of work** before a full engagement.
-7. **Read the contract's exclusions** before the scope description.
+1. **Findings on the adviser's own deliverables are closed at the adviser's cost.**
+2. **Named staff**, with substitution only by your consent.
+3. **A written independence declaration**, kept current. A firm with no interest in credit sales at appointment may acquire one during a multi-year engagement, and the contract should oblige it to tell you.
+4. **You own every document and working file, in editable form.**
+5. **Replies to authority queries on the adviser's deliverables are included** in the fee.
+6. **Early termination comes with a defined handover.**
 
-Step 6 is the most reliable filter available. A paid gap analysis or a two-page scoping exercise costs little, reveals working style, and gives you a deliverable to judge rather than a presentation.
+The fourth is quietly the most important. A monitoring plan delivered only as a locked PDF, with the working files kept by the adviser, guarantees you come back next year, whatever was promised about knowledge transfer. Ask for editable files as a contractual deliverable.
 
-## What Good Looks Like
+Also read the exclusions before the scope. What a firm leaves out tells you more than what it lists, and "scope" written only in verbs like support and assist is not a scope. The contract as a whole is covered in [what to put in a CORSIA consultant scope of work](/insights/corsia-consultant-scope-of-work/).
 
-For balance, the positive signals:
+**A revealing test:** send a prospective firm these six positions and ask which it objects to and why. A firm confident in its delivery accepts them all. One that pushes back on both findings at its cost and your ownership of the files is telling you how its business model works.
 
-- Asks detailed questions about your operation before quoting
-- Distinguishes clearly between MRV, offsetting, and credit supply work
-- Names deliverables, dates and acceptance criteria without prompting
-- Raises the corresponding adjustment early in any supply discussion
-- States what they do not do, and who they would bring in for it
-- Explains what is uncertain and why
-- Offers knowledge transfer as a deliverable rather than a promise
-- Prices year two lower, and explains why
-- Discloses any commercial interest before being asked
+## A cheap way to find out for certain
 
-The last point is worth weighting heavily. A firm that volunteers a potential conflict before you ask is telling you something reliable about how they will behave when a difficult question arises mid-engagement.
+Most red flags are inferences. Two steps replace inference with evidence.
 
-Our companion pieces cover the selection process in [25 questions to ask a CORSIA consultant](/insights/questions-to-ask-a-corsia-consultant/) and the contract in [CORSIA consultant scope of work](/insights/corsia-consultant-scope-of-work/).
+**Ask for a redacted deliverable.** An excerpt from a monitoring plan or project design document the firm wrote tells you more than any credential slide.
 
-## Contractual Protections
+**Buy a small piece of paid work first.** A gap analysis or a two-page scoping note costs little, shows how the firm actually works, and leaves you with a document to judge instead of a presentation. Of all the checks here, this is the most reliable.
 
-Diligence tells you who you are appointing. The contract determines what happens when something goes wrong. Six clauses worth insisting on:
+When you take a reference call, ask what went wrong on the engagement and how it was dealt with. Everyone has a reference for the project that went smoothly.
 
-| Clause | What it should say |
-|---|---|
-| **Findings attribution** | Findings on consultant-produced deliverables are closed at their cost |
-| **Named staffing** | Named individuals, with substitution requiring your consent |
-| **Independence declaration** | Any interest in credit sales, disclosed and updated if it changes |
-| **Deliverable ownership** | All documents and working files belong to you, in editable format |
-| **Authority queries** | Responses to authority questions on their deliverables are included |
-| **Termination and handover** | What you receive if the engagement ends early |
+## What reassurance looks like
 
-The deliverable ownership clause is quietly the most important of the six. A monitoring plan supplied only as a locked PDF, with the underlying working files retained by the consultant, guarantees a return engagement next year regardless of how well the knowledge transfer session went. Ask for editable files as a contractual deliverable, not a courtesy.
+For balance, the good signs: detailed questions about your operation before any quote; a clear line between MRV, offsetting and credit supply work; deliverables, dates and acceptance criteria offered without prompting; corresponding adjustments raised early in any supply discussion; a plain statement of what the firm does not do and whom it would bring in; honesty about what is uncertain; knowledge transfer as a deliverable, not a promise; a lower price for year two, with the reason; and any commercial interest disclosed before you ask.
 
-The independence declaration should be a live obligation rather than a one-off statement. A firm with no credit sales interest at appointment may acquire one during a multi-year engagement, and the contract should require them to tell you.
+Weight the last one heavily. A firm that volunteers a possible conflict unprompted is showing you how it will behave when an awkward question comes up halfway through the engagement.
 
-**One test that reveals a great deal:** ask a prospective firm to review these six clauses and tell you which they object to and why. A firm confident in its delivery has no difficulty with any of them. A firm that pushes back on findings attribution and deliverable ownership together is telling you what its business model actually is.
+## After appointment: when to stop
 
-## When to Walk Away Mid-Engagement
+Sometimes the warning signs only appear once the work has started. These justify stopping rather than persevering:
 
-Occasionally the warning signs appear after appointment. Signals that justify stopping rather than persevering:
+- deliverables arriving late and thin, and the named senior people no longer involved;
+- a gap analysis that found nothing, followed by problems it should have caught;
+- a commercial interest in credit sales disclosed only when someone asked;
+- advice that changes materially between meetings with no new information;
+- unwillingness to put in writing a position stated in a meeting.
 
-- Deliverables arrive late and thin, with the named senior staff no longer involved
-- The gap analysis identified nothing, and problems emerge later that it should have caught
-- A commercial interest in credit sales is disclosed only when questioned
-- Advice changes materially between meetings without new information
-- The firm is unwilling to put a position in writing that it stated verbally
+Changing adviser mid-cycle has a real cost, but it is usually smaller than a failed verification or a monitoring plan the DGCA will not accept. Owning the editable working files is what makes leaving practical: a new firm starts from where you are rather than from nothing. If you are unsure about a plan already written, have its monitoring method reviewed independently first, since everything else depends on it.
 
-The cost of changing adviser mid-cycle is real, and it is usually smaller than the cost of a failed verification or an unaccepted monitoring plan. The deliverable ownership clause is what makes leaving possible — with editable working files in your hands, a replacement firm starts from your position rather than from nothing.
+For the full question list, see [25 questions to ask a CORSIA consultant](/insights/questions-to-ask-a-corsia-consultant/); for the wider selection process, [what a CORSIA consultant in India does](/insights/corsia-carbon-credit-consultant-in-india/).
 
-## Frequently Asked Questions
+If you are weighing up advisers, or want a second opinion on work already delivered, [talk to the desk](/contact/). We are happy to start with a small, bounded review.
 
-**What are the main red flags in a CORSIA consultant?** Guaranteeing verification outcomes, undisclosed credit sales interests, inability to name a verification body, vagueness on corresponding adjustments, no named deliverables and no knowledge transfer.
-
-**Can a consultant guarantee verification will pass?** No. Verification is an independent opinion. They can commit to preparing well and closing findings on their own deliverables at their cost.
-
-**Is it a problem if they also sell credits?** Only if it is undisclosed or the roles are not separated. Ask directly and get the answer in writing.
-
-**How do I test their experience?** Ask for a redacted monitoring plan or project design document, ask which verification bodies they have worked alongside, and ask what findings arose.
-
-**Should I take references?** Yes, and ask specifically about a situation that went wrong and how it was handled.
-
-**What is the cheapest way to test a firm?** A small paid piece of work — a gap analysis or scoping exercise — before committing to a full engagement.
-
-**What if they seem certain about everything?** Ask what they consider uncertain. CORSIA has genuinely moving parts, and total certainty is itself a warning sign.
-
-**Does firm size matter?** Less than delivery evidence. Small specialist firms often have deeper CORSIA delivery experience than large generalist ones.
-
-**What should be in writing before we start?** Named deliverables with dates and acceptance criteria, the staffing schedule, the findings attribution rule, exclusions, an independence declaration and the year-two price.
-
----
-
-**Planning your CORSIA position?** DSTechnoverse advises Indian operators and project developers on CORSIA compliance strategy — offsetting requirement forecasting, unit procurement due diligence, SAF and efficiency trade-offs, and readiness assessment before the compliance year begins. We are based in **Indore, Madhya Pradesh** and work with clients across India. See our [CORSIA carbon credit services](/services/), our carbon credit portal at [carboncredit.dstechnoverse.com](https://carboncredit.dstechnoverse.com/), or [talk to our team](/contact/).
-
-*This article is general information, not legal, financial or regulatory advice. CORSIA rules, participating-state lists and eligibility criteria change — verify the current position with ICAO and the DGCA before acting.*
+*General information only, not legal, financial or regulatory advice. CORSIA rules, participation lists and eligibility criteria change; confirm the current position with ICAO and the DGCA before acting.*

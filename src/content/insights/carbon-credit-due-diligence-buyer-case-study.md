@@ -1,78 +1,66 @@
 ---
-title: "Carbon Credit Due Diligence: A Buyer-Side Case Study"
-excerpt: "A step-by-step buyer-side case study: how a carbon credit purchase moves from procurement specification through integrity and KYC due diligence to registry transfer and retirement in the buyer’s name."
+title: "Carbon Credit Due Diligence Case Study: One Purchase From Specification to Retirement"
+excerpt: "An anonymised, representative buyer-side carbon credit purchase, gate by gate: exclusions, offer comparison, integrity and counterparty checks, registry transfer and retirement in the buyer's name."
 date: "2026-09-04"
 topic: "Case Studies"
 tags: ["carbon credit due diligence","buyer-side procurement","registry verification","KYC and sanctions screening","corresponding adjustment","retirement certificate"]
 image: "/images/carbon-case-studies/buyer-due-diligence-flow.svg"
 ---
 
-The individual project types — [renewable](/insights/renewable-energy-carbon-credits-due-diligence-case-study/), [REDD+](/insights/jurisdictional-redd-plus-carbon-credits-case-study/), [IFM](/insights/improved-forest-management-ifm-carbon-credits-case-study/), [ARR](/insights/afforestation-reforestation-arr-carbon-removals-case-study/) and [clean cooking](/insights/cookstove-clean-cooking-carbon-credits-case-study/) — each have their own integrity questions. But every purchase runs through the same **buyer-side workflow**. This representative case study steps through that workflow end to end, on the data and diligence side, so a first-time buyer can see how a credible carbon purchase actually happens.
+*This is an anonymised, representative case study. It illustrates our approach and does not identify any client, project, price or transaction.*
 
-## Why a Workflow, Not a Purchase
+Our other case studies each take one project type and the integrity questions peculiar to it: [renewables](/insights/renewable-energy-carbon-credits-due-diligence-case-study/), [jurisdictional REDD+](/insights/jurisdictional-redd-plus-carbon-credits-case-study/), [IFM](/insights/improved-forest-management-ifm-carbon-credits-case-study/), [ARR](/insights/afforestation-reforestation-arr-carbon-removals-case-study/) and [clean cooking](/insights/cookstove-clean-cooking-carbon-credits-case-study/). This one steps back. Whatever the project type, a buyer's purchase passes through the same stages, and the order matters more than most first-time buyers expect.
 
-Buyers who treat carbon credits like a commodity purchase — pick a price, pay, done — are the ones who end up holding units they cannot use or cannot defend. A credible purchase is a **sequence**, and each step gates the next. Skipping the early steps to save time simply moves the cost to the end, when a weak credit fails an audit.
+## The situation
 
-## The Workflow
+A buyer needed credits for a defined use and had received several offers. Its first instinct was to compare them on price and pick one. We suggested treating the purchase as a sequence of gates, where a project has to pass each one before the next begins. Buyers who skip the early gates do not save the cost; they meet it later, when a weak unit fails an audit and cannot be replaced cheaply.
 
-### 1. Requirement definition and screening
+Our role was on the specification, diligence and evidence side. We do not buy or sell credits ourselves; the purchase is directly between buyer and seller.
 
-Everything starts with a clear specification: what the credits are for (a voluntary claim, a compliance obligation, an ESG report), which project types and standards are acceptable, and — just as important — an **exclusion register** of what the buyer will not touch. Setting negative screens up front, rather than reacting to offers, is what keeps a procurement disciplined.
+## The timeline
 
-### 2. Sourcing and shortlisting
+**Gate 1: write down what you want, and what you will not accept.**
+We fixed the purpose of the credits (a voluntary claim, a compliance obligation or ESG reporting), the acceptable standards and project types, and an **exclusion register** listing what the buyer would refuse outright. Deciding exclusions before offers arrive keeps a buyer from talking itself into a bargain it should have declined.
 
-With the specification fixed, candidate sellers and projects are gathered into a longlist and narrowed to a shortlist, with an offer-comparison view that puts type, standard, vintage and delivery on the same page. Price is one column among several, deliberately not the first.
+**Gate 2: gather offers and compare them fairly.**
+Candidate projects went onto a longlist, then a shortlist. We built a comparison sheet with standard, project type, vintage and delivery terms alongside price. Price was one column, and not the first one.
 
-### 3. Due diligence — the core
+**Gate 3: diligence, in two parallel streams.**
 
-This is where the real work sits, and it has two halves.
+*The credit.* Each shortlisted project was assessed on the tests that matter for its type: additionality, baseline, permanence, leakage and whether the methodology was eligible for the intended use. Every unit was then checked against the **registry** of record for issuance, vintage and live, un-retired serial numbers.
 
-**Credit integrity.** The project is scored on the checks that matter for its type — additionality, baseline, permanence, leakage, methodology-level eligibility — and each unit is verified against the **registry** of record for issuance, vintage and live, un-retired serial numbers.
+*The seller.* At the same time, **KYC and sanctions screening** on the counterparty, and third-party credit checks where the deal size warranted it. A sound credit sold by a compromised party is still a bad deal.
 
-**Counterparty.** In parallel, **KYC and sanctions screening** on the seller and, where relevant, third-party credit checks. A clean credit from a compromised counterparty is not a clean deal.
+Where the buyer's use required it, the **Letter of Authorisation** and **corresponding adjustment** status were confirmed against the published source. A seller's word was not treated as evidence.
 
-Where the buyer's use requires it, the **Letter of Authorisation** and **corresponding adjustment** status is verified against the published source — never accepted on the seller's assertion.
+**Gate 4: contract and settle.**
+Terms went into the sale agreement or ERPA, with conditions precedent tying settlement to the diligence results. Settlement was by **registry transfer**, and every serial number was recorded.
 
-### 4. Documentation and settlement
+**Gate 5: retire, then document.**
+Receiving credits discharges nothing. Only when units are cancelled in the registry in the buyer's name does the claim exist. We closed with a **retirement certificate** and an evidence pack that an auditor or verifier could rely on.
 
-The commercial and technical terms are captured in the sale agreement or ERPA, with a conditions-precedent list that makes settlement contingent on the diligence outcomes. On settlement, the credits move by **registry transfer**, and every **serial number** is captured.
+## What the sequence achieved
 
-### 5. Retirement and evidence
+Its real value was that it failed cheaply. Weak projects dropped out at gates 1 and 3, before money moved. The buyer only contracted units likely to survive scrutiny, and ended with records that would still make sense years later.
 
-The final act is not receiving the credits — it is **retiring** them. Until a unit is cancelled in the registry in the buyer's name, no claim has actually been discharged. The engagement closes with a **retirement certificate** and an evidence pack that an auditor or a verifier can rely on.
+## Mistakes the gates are designed to stop
 
-## The Outcome
+- **Choosing on price, then checking.** Diligence done after a price is agreed tends to look for reasons to proceed.
+- **Accepting authorisation claims in an email.** Check the published source.
+- **Screening the project but not the seller.** Sanctions and identity problems can void a clean credit.
+- **Stopping at transfer.** Credits sitting un-retired in an account support no claim at all.
+- **Keeping no evidence pack.** The person asked to defend the purchase in two years may not be the person who made it.
 
-Run in this order, the process does something quietly valuable: it fails cheaply. Weak projects drop out at screening and diligence, before any money moves, so the buyer only ever contracts units that will survive scrutiny — and ends with documentation that stands up long after the transaction.
+Our [CORSIA credit due diligence checklist](/insights/corsia-credit-due-diligence-checklist/) turns gate 3 into a working list for compliance buyers.
 
-## Key Takeaways
+## Short answers
 
-| Stage | The gate it applies |
-|---|---|
-| Specification & screening | Defines what is acceptable and what is excluded |
-| Sourcing | Compares offers on more than price |
-| Due diligence | Integrity + KYC before any commitment |
-| Settlement | Registry transfer, serials captured |
-| Retirement | Cancelled in the buyer’s name; certificate issued |
+**What is buyer-side due diligence?** Checking a credit's integrity, eligibility and counterparty before purchase, and recording the result.
 
-## Frequently Asked Questions
+**What is an ERPA?** An Emission Reduction Purchase Agreement, the contract covering price, delivery and conditions.
 
-**What is buyer-side carbon credit due diligence?** The process of verifying a credit's integrity, eligibility and counterparty before purchase, and documenting it so the purchase can be defended.
+**Why insist on retirement?** Only a retired unit, in your name, supports a claim.
 
-**Why is retirement so important?** A credit only discharges a claim once it is cancelled (retired) in the registry in the buyer's name; holding it un-retired achieves nothing.
+**Do you trade the credits?** No. We do the specification, screening, diligence, verification and reporting.
 
-**What is an ERPA?** An Emission Reduction Purchase Agreement — the contract governing a carbon-credit sale, covering commercial terms, delivery and conditions.
-
-**What is KYC and sanctions screening?** Checks on the seller's identity and sanctions status, so an integrity-clean credit is not undermined by a compromised counterparty.
-
-**Do you buy or sell the credits yourselves?** No. We work on the specification, screening, due diligence, verification and reporting; the purchase sits directly between the buyer and the seller.
-
----
-
-**Evaluating carbon credits across standards and project types?** DSTechnoverse works on the data and integrity side of carbon procurement — project screening, registry and eligibility verification, MRV and monitoring-data analysis, reconciliation and defensible reporting. See our [CORSIA carbon credit services](/services/) and [data analytics](https://dstechnoverse.com/services/data-analytics). We are based in **Indore, Madhya Pradesh** and work across India and internationally.
-
-[Apply as a carbon credit buyer or seller](https://carboncredit.dstechnoverse.com/)
-
-[Talk to our team](/contact/), or start with [the complete carbon credits guide](/insights/corsia-carbon-credits-complete-guide/).
-
-*This is an anonymised, representative case study that illustrates our approach. It does not identify any specific client, project, price or transaction.*
+If you have offers on the table and want them run through these gates, send them via the [buyer intake form](https://carboncredit.dstechnoverse.com/buy/new). We will tell you which ones we would drop first, and why.

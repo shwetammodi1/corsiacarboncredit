@@ -1,73 +1,83 @@
 ---
-title: "CORSIA vs the Voluntary Carbon Market: What Actually Differs"
-excerpt: "CORSIA credits and voluntary offsets look similar but follow different rules. Compare who buys, what qualifies, how double counting is handled, and why the same project can produce very different credits."
+title: "CORSIA vs the Voluntary Carbon Market: Two Buyers, Two Rulebooks"
+excerpt: "An airline meeting a CORSIA duty and a company offsetting its travel may buy from the same project and still need different credits. Where eligibility, double counting and price split the two markets, and where they meet."
 date: "2026-09-08"
 topic: "CORSIA Fundamentals"
 tags: ["CORSIA vs voluntary carbon market","compliance carbon market","voluntary carbon offsets","eligible emissions units","carbon credit demand","corresponding adjustments"]
 image: "/images/corsia-markets/corsia-vs-vcm-compare.svg"
 ---
 
-People use "carbon credit" as if it means one thing. It doesn't. A credit's rules, price and credibility depend on the market it was created for — and the two markets most often confused are CORSIA, a compliance scheme, and the voluntary carbon market that companies use for their own climate claims. Understanding the difference stops a lot of expensive mistakes.
+Two buyers call the same broker on the same morning. One is the compliance lead at an Indian airline with a CORSIA obligation to settle. The other runs sustainability at a Bengaluru software company that wants to offset its staff's flights. Both ask for "carbon credits". They need quite different things, and a broker who treats the two requests as one will sell at least one of them the wrong product.
 
-## Compliance vs Voluntary: The Core Split
+The difference comes down to why each buyer is buying.
 
-A **compliance market** exists because a rule requires someone to surrender credits. CORSIA is compliance: airlines *must* offset their emissions growth, and only specific units are accepted. A **voluntary market** exists because a buyer chooses to act — a company offsetting business travel or claiming carbon neutrality. Nobody forces the purchase, and the buyer sets its own standard for what counts.
+## Obligation versus choice
 
-That single difference — obligation versus choice — cascades into almost everything else.
+The airline is in a **compliance market**. A rule requires it to hand in units, and the rule also decides which units are acceptable. Under CORSIA, operators must offset their emissions growth using units ICAO accepts. The airline has no say in the definition.
 
-| Dimension | CORSIA | Voluntary market |
+The software company is in the **voluntary market**. Nobody requires it to buy anything. It acts for its own targets, its ESG reporting or its reputation, and it sets its own bar for what counts.
+
+Nearly every other difference follows from that one.
+
+## How the two buyers' shopping lists differ
+
+**The airline's list is short and fixed.**
+- The unit must come from a programme that ICAO's Technical Advisory Body has assessed and the ICAO Council has approved.
+- Its vintage must fall inside CORSIA's timing rules.
+- For first-phase use, from 2024, it must carry a corresponding adjustment.
+- It will be cancelled to discharge a duty.
+
+**The company's list is long and open.**
+- Credits from any credible standard are possible: Verra, Gold Standard, ACR, Climate Action Reserve, ART and others.
+- A corresponding adjustment is often not needed for the kind of claim it plans to make.
+- It will retire the credits to support a public statement.
+- Because no regulator filters its supply, checking quality is its own job. See [evaluating offset quality](/insights/evaluating-carbon-offset-quality-airlines/).
+
+So "it's a Verra credit" answers the software company's first question and tells the airline almost nothing.
+
+## The accounting step that divides them
+
+Buyers new to the market underestimate this more than anything else.
+
+Under the Paris Agreement, a country counts reductions on its territory towards its own target. If an airline also claims that reduction, the tonne is counted twice. CORSIA's first phase closes the gap by requiring a **corresponding adjustment**: the host country deducts the transferred reduction from its national total.
+
+Many voluntary credits carry no such adjustment. For some voluntary claims that is acceptable. For CORSIA it is disqualifying. The same tonne of reduction can therefore be eligible or ineligible purely because of an accounting entry made by a government. [Eligible emissions units](/insights/corsia-eligible-emissions-units-explained/) walks through the full set of tests.
+
+## Why prices move differently
+
+The two markets draw on overlapping supply but respond to different forces.
+
+| | CORSIA units | Voluntary credits |
 |---|---|---|
-| Why buyers act | Legal/scheme obligation | Own targets, ESG, marketing |
-| Who accepts the credit | ICAO, via approved programmes | The buyer decides |
-| Eligible supply | Narrow, ICAO-approved units | Broad, many standards |
-| Double-counting rule | Corresponding adjustment required (first phase) | Often not required |
-| Price behaviour | Driven by scheme demand | Driven by sentiment and claims |
-| Typical use | Cancelled to meet a duty | Retired for a public claim |
+| What moves the price | Airline demand set by the scheme against the stock of eligible, adjusted units | Corporate sentiment, press scrutiny, views on project types |
+| Supply | Narrow | Broad, with many standards |
+| Typical end use | Cancelled to meet a duty | Retired to back a claim |
 
-## Where the Rules Diverge
+As eligibility tightened, the qualifying pool shrank and CORSIA-eligible units traded at a premium over generic voluntary credits. The high-integrity, adjusted end of the voluntary market sits much closer to CORSIA pricing than the average does. [Carbon pricing and airlines](/insights/carbon-pricing-impact-on-airlines/) follows the cost through to airline economics.
 
-Three structural differences do most of the work of separating the two markets.
+## One project, two products
 
-### Eligibility Is the Big One
+Here is an illustrative case; the project is hypothetical.
 
-Any credible standard — Verra, Gold Standard, ACR, Climate Action Reserve, ART and others — can issue voluntary credits. CORSIA accepts a **subset**: only credits from programmes ICAO's Technical Advisory Body has assessed and the ICAO Council has approved, and only vintages within the scheme's timing rules. A project can be perfectly legitimate in the voluntary market and still fail CORSIA eligibility. This is why "it's a Verra credit" tells you nothing about CORSIA acceptance on its own.
+A biogas programme in Madhya Pradesh issues 50,000 credits under a programme that ICAO has approved.
 
-### The Double-Counting Divide
+- **If India authorises the transfer and applies a corresponding adjustment**, and the vintage fits the window, those credits can go to the airline for CORSIA compliance.
+- **If India declines**, perhaps because it wants the reduction to count towards its own national target, the credits can still be sold to the software company for its travel offset. They cannot go into CORSIA.
 
-This is the difference most buyers underestimate. Under CORSIA's first phase (from 2024), an eligible unit must carry a **corresponding adjustment** — the host country formally deducts that reduction from its own national total so it cannot be counted twice under the Paris Agreement. Many voluntary credits do **not** carry a corresponding adjustment, which is acceptable for some voluntary claims but disqualifies the credit for CORSIA. The same tonne of reduction, in other words, can be CORSIA-eligible or not depending purely on this accounting step. We cover the mechanics in [CORSIA eligible emissions units](/insights/corsia-eligible-emissions-units-explained/).
+Same methane captured, same verification report. What decided the product was paperwork, not tonnes.
 
-### Price Tells the Same Story
+## Where the markets overlap
 
-Because the two markets draw on different (though overlapping) supply, they price differently. Voluntary prices swing on corporate sentiment, media scrutiny and the perceived quality of a project type. CORSIA prices respond to a more mechanical driver: how much airlines must offset versus how many eligible, corresponding-adjusted units exist. When eligibility tightened, the pool of qualifying units shrank and CORSIA-eligible credits commanded a premium over generic voluntary units. For how this feeds into airline economics, see [carbon pricing and its impact on airlines](/insights/carbon-pricing-impact-on-airlines/).
+They are not sealed off from each other.
 
-## Where the Two Markets Touch
+- **Developers** can register a project once and choose, batch by batch, where to sell: into CORSIA if they secure an adjustment, into the voluntary market if they cannot or if the price there is better. See the [seller guide](/insights/corsia-carbon-credit-seller-guide/).
+- **Airlines** often hold both. Eligible units settle the CORSIA duty; separately bought voluntary credits support corporate net-zero claims beyond the scheme.
+- **Serious corporate buyers** increasingly want adjusted, high-integrity units too. That puts them in competition with airlines for the same supply, which props up the price.
 
-They are not sealed off. A project developer may register a project once and then decide, credit by credit, whether to sell into CORSIA (if it can secure a corresponding adjustment) or the voluntary market (if it cannot or if voluntary prices are better). Buyers, too, sometimes hold both: an airline meets its CORSIA duty with eligible units and separately buys voluntary credits for corporate-level "net zero" claims that go beyond the scheme.
+## Common confusions
 
-## A Practical Example
+- **"CORSIA credits are simply better."** Not automatically. They pass extra filters, ICAO approval and in the first phase an adjustment, that many voluntary credits do not face.
+- **"A voluntary credit can be used for CORSIA if it's good enough."** Only if it also meets every CORSIA rule. Most generic voluntary credits fail, usually on the adjustment.
+- **"The voluntary market is small."** It has far more registered supply and variety. CORSIA is a large, concentrated block of compliance demand from airlines.
 
-Suppose a cookstove project in East Africa issues 100,000 credits. If the host country agrees to a corresponding adjustment and the crediting programme is CORSIA-approved, those units can be sold to an airline for compliance. If the host country will not authorise the adjustment — perhaps it wants the reduction for its own Paris target — the same credits can still be sold voluntarily to a company for a general offset claim, but not into CORSIA. One project, two very different products, decided by paperwork rather than tonnes.
-
-## Choosing the Right Frame
-
-If you are an airline, only the compliance frame matters: does the unit qualify, right now, for the phase you are covering? If you are a company acting voluntarily, you have more freedom but also more responsibility, because no regulator is filtering your supply for you — so [offset quality due diligence](/insights/evaluating-carbon-offset-quality-airlines/) becomes your job.
-
-## Frequently Asked Questions
-
-**Are CORSIA credits better quality than voluntary ones?** Not automatically, but they pass an extra filter — approval by ICAO and, in the first phase, a corresponding adjustment — that many voluntary credits skip.
-
-**Can I use a voluntary credit for CORSIA?** Only if it also meets CORSIA's eligibility rules. Most generic voluntary credits do not, usually because they lack a corresponding adjustment.
-
-**Why is the voluntary market cheaper on average?** It has broader supply and looser requirements, so low-cost credits are available — though the credible, adjusted end of the voluntary market is priced much closer to CORSIA units.
-
-**Which market is bigger?** The voluntary market has far more registered supply and diversity; CORSIA is a large, concentrated block of compliance demand concentrated among airlines.
-
-**Do the two markets compete for the same credits?** Increasingly, yes — high-integrity, corresponding-adjusted units are in demand from both airlines and serious corporate buyers, which supports their price.
-
----
-
-**Working on aviation emissions, CORSIA compliance or carbon credit due diligence?** DSTechnoverse handles the data side of carbon and environmental compliance — monitoring design, emissions reconciliation, verification support and defensible reporting. See our [CORSIA carbon credit services](/services/) and [data analytics](https://dstechnoverse.com/services/data-analytics). We are based in **Indore, Madhya Pradesh** and work across India and internationally.
-
-[Apply as a CORSIA buyer or seller](https://carboncredit.dstechnoverse.com/)
-
-[Talk to our team](/contact/), or start with [the complete carbon credits guide](/insights/corsia-carbon-credits-complete-guide/).
+Whichever of the two buyers you are, the first step is the same: check what the credit is eligible for before you agree a price. [Tell our desk](/contact/) what you need the credits to do and we will narrow the supply accordingly.

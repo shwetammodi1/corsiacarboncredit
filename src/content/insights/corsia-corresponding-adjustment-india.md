@@ -1,149 +1,126 @@
 ---
-title: "Corresponding Adjustments for Indian CORSIA Projects"
-excerpt: "What a corresponding adjustment is, why it decides whether an Indian carbon credit can be used for CORSIA at all, how authorisation works, and what a developer can and cannot do to secure one."
+title: "Corresponding Adjustments and Indian CORSIA Credits: A Developer's Guide"
+excerpt: "An Indian tonne only counts for an airline if the Government of India gives it up from its own accounts. How that authorisation works, why it is selective, and how developers and buyers should contract while it is pending."
 date: "2026-08-23"
 topic: "Airline Compliance"
 tags: ["corresponding adjustment","Article 6","CORSIA eligibility","double counting","NDC","CORSIA India","carbon credit authorisation"]
 image: "/images/corsia-consultant/corsia-ca-flow-india.svg"
 ---
 
-If you learn one thing about supplying CORSIA credits from India, learn this: **the corresponding adjustment is not paperwork.** It is a decision by the Government of India to give up a tonne from its own emissions ledger so that an airline somewhere else can count it.
+Take two Indian waste-to-energy projects, built to the same design, registered under the same approved programme, and verified in the same season with clean opinions from the verifier. One of them can sell to an airline meeting its CORSIA obligation. The other cannot, and nothing its engineers do will change that.
 
-That framing explains everything about why authorisation is selective, slow and outside a developer's control.
+The difference is a corresponding adjustment: a decision by the Government of India to release a tonne from the national account so that someone abroad may claim it. Developers who treat that decision as a form to fill in tend to find out late, and expensively, that it is nothing of the kind.
 
-![How a corresponding adjustment reaches a CORSIA credit](/images/corsia-consultant/corsia-ca-flow-india.svg)
+## One tonne, two claims
 
-## The Double Counting Problem
+Under the Paris Agreement each country has a nationally determined contribution (NDC), its stated commitment to cut emissions. A reduction achieved inside India counts towards India's NDC unless something says otherwise.
 
-Every country has a nationally determined contribution — a commitment under the Paris Agreement to reduce emissions by a stated amount. Emission reductions that occur inside India count towards India's NDC by default.
+Now let an airline use that same reduction to meet its CORSIA offsetting requirement. With no adjustment, India counts the tonne and so does the airline. The atmosphere saw one tonne of benefit; two parties have claimed it.
 
-Now suppose an Indian project reduces a tonne, and an airline uses that tonne to discharge a CORSIA obligation. Without an adjustment, the tonne is counted twice: once by India towards its NDC, once by the airline towards its offsetting requirement. The atmosphere gets one tonne of benefit and two claims are made against it.
+The corresponding adjustment removes the second claim. India adds the transferred tonne back onto its own reported emissions, which takes it out of the national ledger and leaves the airline's claim as the only one.
 
-The corresponding adjustment resolves it. India adds the transferred tonne back to its own reported emissions — effectively removing it from its ledger — so only the airline's claim stands.
+Seen from Delhi, each authorised export makes India's own target a little harder and has to be made up by extra effort at home. That is the whole reason authorisation is granted selectively, and why it moves at the pace of policy rather than the pace of a project plan. The broader mechanics are set out in our knowledge base under [corresponding adjustments and Article 6](/knowledge-base/corresponding-adjustments-article-6/), and the formal framework is on the [UNFCCC Article 6 pages](https://unfccc.int/process-and-meetings/the-paris-agreement/article-64-mechanism).
 
-**The consequence for policy is direct:** every authorised export makes India's own target marginally harder to meet, and must be replaced by additional domestic effort. That is why governments authorise selectively.
+![Flow from an Indian project's reductions, through government authorisation and adjustment, to a CORSIA-labelled unit cancelled by an airline](/images/corsia-consultant/corsia-ca-flow-india.svg)
 
-Our knowledge base covers the underlying mechanism in [corresponding adjustments explained](/insights/corresponding-adjustments-corsia-explained/), and the [UNFCCC Article 6 pages](https://unfccc.int/process-and-meetings/the-paris-agreement/article-64-mechanism) hold the formal framework.
+## The route from project to airline
 
-## The Chain a Credit Must Travel
+A credit has to pass five stages before an airline can use it:
 
-| Step | Who acts | What happens |
+1. **Reductions are generated and verified** by the developer and a verifier, under a programme ICAO has approved.
+2. **The host government authorises the transfer.** This is a policy call, and the developer does not make it.
+3. **The adjustment is applied** to India's national accounts, so the tonne leaves the NDC ledger.
+4. **The programme labels the unit** as CORSIA eligible, with the adjustment attached.
+5. **The airline cancels the unit** against its offsetting requirement.
+
+Stages one, four and five are procedure. Stages two and three are government decisions, and they explain why a technically first-rate project may still be unable to supply CORSIA.
+
+One confusion worth clearing up: the programme's label reflects the adjustment; it does not create it. A registry flag without a government authorisation behind it is worth nothing to a compliance buyer.
+
+## What sits within a developer's control
+
+You cannot will an authorisation into existence. You can make yourself an easier decision to approve.
+
+**Find out the current stance before you spend.** Government views on which activity types may be authorised for export change over time. Sometimes the honest answer to "will we get one?" is "not for this activity, at present", and it is better to hear that at feasibility.
+
+**Pick activities that match the policy direction.** Where the government favours particular sectors or technologies for international transfer, projects in those areas have a shorter road.
+
+**Use the proper channel, and use it early.** Requests go through the designated national authority by a defined route. Opening that conversation when a buyer is already waiting is far too late.
+
+**Make the file easy to say yes to.** Where the decision is discretionary, complete documentation, a clean verification and visible safeguards help.
+
+**Plan for time you do not own.** Put authorisation into the project plan as elapsed time outside your control, not as a task that runs quietly alongside everything else.
+
+**Tell buyers exactly where you stand.** "Applied for" and "granted" are different products at different prices. Blurring them ends relationships.
+
+## What a compliance buyer will want to see
+
+For airline buyers the adjustment is the first eligibility test, not a final formality. If an airline cancels units that lack a valid adjustment, it has spent the money and is still non-compliant, with the deadline unmoved. That is why airline procurement ranks adjustment status above price and above co-benefits.
+
+Expect a buyer to work down this list, and have the evidence ready:
+
+- **Granted or pending?** They will want the authorisation document itself.
+- **Scope.** Which project, which vintages, what quantity.
+- **Conditions.** Any conditions attached, and whether they are met.
+- **Revocation.** Whether, and on what terms, it can be withdrawn.
+- **Accounting.** Evidence the adjustment has been applied, or is committed.
+- **Registry.** The unit's label in the programme registry.
+
+A letter saying authorisation is expected will not satisfy anyone with a compliance date. Units in that state sell, if they sell, at a deep discount to authorised units. The full buyer-side routine is in the [CORSIA credit due diligence checklist](/insights/corsia-credit-due-diligence-checklist/).
+
+## Selling while authorisation is pending
+
+If you do sell before authorisation arrives, the contract must say who carries the risk. The usual tools:
+
+| Mechanism | How it works | Who it suits |
 |---|---|---|
-| 1. Project generates verified reductions | Developer and verifier | Under an ICAO-approved programme |
-| 2. Host country authorises the transfer | **Government** | A policy decision, not a developer one |
-| 3. Adjustment applied to national accounts | Government | The tonne leaves the NDC ledger |
-| 4. Programme labels the unit | Crediting programme | Marked CORSIA eligible with the CA attached |
-| 5. Airline cancels the unit | Buyer | Retired against the offsetting requirement |
+| Condition precedent | The sale completes only if authorisation is granted by a set date | Cleanest, if the buyer can afford to wait |
+| Price adjustment | A lower price now, topped up on authorisation | Parties willing to share the risk |
+| Substitution right | Seller must deliver other eligible units if authorisation fails | Only suppliers holding a portfolio |
+| Termination right | Either side may exit if authorisation has not arrived by a date | Most deals, as a backstop |
+| Revocation clause | Sets out what happens if a granted authorisation is later withdrawn | Every long-dated contract; templates often miss it |
 
-Steps 1, 4 and 5 are process. Steps 2 and 3 are policy, and they are the reason a technically excellent project can still be unable to supply CORSIA.
+Whichever you use, both parties should be able to say plainly, on the day of signing, what claim the buyer will be entitled to make. If they cannot, there is no defined product being sold. Our note on [offtake agreement terms](/insights/corsia-offtake-agreement-terms/) goes further into drafting.
 
-## What a Developer Can Actually Do
+## Common mistakes
 
-You cannot secure an authorisation by wanting one. You can improve your position:
+- **Reading a general policy statement as cover for your project.** Authorisations are specific to what they name.
+- **Leaving the adjustment until after issuance.** It should decide whether the project goes ahead at all.
+- **Marketing on expectation.** That is a contractual exposure and a reputational one.
+- **Ignoring revocation.** Long contracts need to say what happens if an authorisation changes.
+- **Treating the programme label as the authorisation.** The label follows the government decision; it cannot stand in for it.
 
-**1. Understand the current policy stance** for your activity type before spending. Policy on which activities may be authorised for export evolves, and the honest answer to "will we get a CA?" is sometimes "not for this activity, currently".
+## Back to the two projects
 
-**2. Choose activities aligned with the policy direction.** Where a government prioritises certain sectors or technologies for international transfer, projects in those areas face a shorter path.
-
-**3. Engage early through the correct channel.** Authorisation requests follow a defined route through the designated national authority. Starting that engagement at the point of sale is far too late.
-
-**4. Document impeccably.** Where authorisation is discretionary, a project with complete documentation, clean verification and demonstrable safeguards is an easier decision to approve than one with gaps.
-
-**5. Be honest with buyers about status.** "Authorisation applied for" and "authorisation granted" are different products at different prices. Presenting the first as the second destroys a relationship permanently.
-
-**6. Model the timeline as elapsed time you do not control.** Build it into the project plan rather than assuming it runs in parallel with everything else.
-
-## What Buyers Will Ask
-
-A compliance buyer's diligence on the CA covers:
-
-| Question | What satisfies it |
-|---|---|
-| Is authorisation granted, or pending? | The authorisation document itself |
-| What is its scope? | Project, vintages, quantity specified |
-| Is it conditional? | Conditions stated and assessed |
-| Is it revocable? | Terms of any revocation right |
-| Has the adjustment been applied or committed? | Evidence of the accounting treatment |
-| Does the programme reflect it on the unit? | The unit's label in the registry |
-
-**"Authorisation is expected" is not a document.** Buyers with a compliance deadline cannot take that risk, and units in that position trade — if at all — at a substantial discount to authorised units.
-
-## Contracting Around the Risk
-
-Where authorisation is pending, the contract has to allocate the risk explicitly:
-
-- **Condition precedent.** The sale completes only if authorisation is granted by a stated date. Cleanest, and the buyer may not wait.
-- **Price adjustment.** A lower price now, with an uplift on authorisation. Shares the risk.
-- **Substitution right.** The seller must deliver alternative eligible units if authorisation fails. Only workable for a supplier with a portfolio.
-- **Termination right.** Either party may walk if authorisation does not arrive by a date.
-- **Revocation allocation.** What happens if an authorisation is granted and later withdrawn — a genuine tail risk that most templates handle badly.
-
-Whatever the structure, both sides must be able to state plainly **what claim the buyer may make** on the day of the transaction. If neither can, the deal has no defined product.
-
-## Why It Also Matters to Airlines
-
-Buyer-side, the corresponding adjustment is the first eligibility check, not the last. An airline that cancels units lacking a valid CA has not discharged its obligation — it has spent money and remains non-compliant, with the deadline unchanged.
-
-This is why airline procurement processes weight CA status above every other attribute, including price and co-benefits. See [the CORSIA credit due diligence checklist](/insights/corsia-credit-due-diligence-checklist/).
-
-## Practical Positions to Avoid
-
-**Assuming a general policy statement covers your project.** Authorisations are specific.
-
-**Treating the CA as a step after issuance.** It shapes whether the project should proceed at all.
-
-**Selling on expectation.** It is a reputational and contractual exposure.
-
-**Ignoring revocation risk.** Long-dated contracts should say what happens if an authorisation changes.
-
-**Confusing programme labelling with government authorisation.** The programme reflects the CA; it does not create it.
-
-## A Worked Comparison: Two Identical Projects
-
-Two Indian biogas projects, same technology, same scale, same programme, both verified with clean opinions. One holds a corresponding adjustment authorisation; the other does not.
-
-| | Project A (authorised) | Project B (no CA) |
+| | Authorised project | Unauthorised project |
 |---|---|---|
-| Technical quality | Identical | Identical |
-| Verification opinion | Clean | Clean |
-| Usable for CORSIA compliance | **Yes** | **No** |
-| Addressable buyers | Airlines with obligations, plus voluntary | Voluntary market only |
-| Price achieved | Premium, driven by eligibility scarcity | Voluntary market level |
-| Diligence duration | Days, with the pack ready | Days — but fails the first test for airline buyers |
-| Contract structure | Straightforward spot or forward sale | Conditional structures if a CA is pursued |
+| Engineering and verification | Same | Same |
+| Can discharge a CORSIA obligation | Yes | No |
+| Buyers available | Airlines with obligations, plus voluntary | Voluntary buyers only |
+| Price | Premium, because eligible supply is scarce | Voluntary market level |
+| Airline diligence | Quick, with the pack ready | Quick, and fails at the first question |
+| Contract | Ordinary spot or forward sale | Conditional structures if authorisation is still pursued |
 
-Nothing about the physical project differs. The entire commercial gap comes from a government decision that neither developer influenced directly.
+Physically, nothing separates them. The whole commercial gap comes from a government decision that neither developer directly influenced.
 
-**Two lessons for a developer.** First, the corresponding adjustment is worth more than almost any technical improvement you could make to the project — which is why it belongs at the front of the development sequence, not the end. Second, if authorisation is not realistically available for your activity type, **that is not a failed project**; it is a voluntary-market project, and it should be developed, documented and priced as one from the start rather than pursued as a CORSIA project in hope.
+Two lessons for anyone building an Indian project. First, an authorisation is worth more than almost any technical improvement you could make, so it belongs at the start of development, not the end. Second, if authorisation is not realistically on offer for your activity, you do not have a failed project. You have a voluntary-market project, and it should be designed, documented and priced as one from day one. Developers who spend two years chasing an authorisation that policy was never going to give tend to learn this the hard way.
 
-Developers who accept that distinction early build viable businesses. Developers who spend two years pursuing an authorisation that policy was never going to grant do not.
+A related warning for anyone already holding unauthorised credits: do not count on converting them later. Authorisations are granted against defined scopes, and a vintage that has slipped outside the eligible window cannot be brought back. Market such units as voluntary units while they are still fresh; holding them in hope of a policy shift while the vintage ages gets you the worst of both.
 
-A closing practical note for developers already holding unauthorised credits: do not assume they can be retrofitted into CORSIA eligibility later. Authorisation is granted against defined scopes, and vintages that have already passed outside the eligible window cannot be brought back inside it. Units generated without an authorisation pathway in view are voluntary-market units, and the sooner they are marketed as such the better the price they achieve — waiting in hope of a policy change while the vintage ages is the worst of both routes.
+::: accordion Who grants the adjustment in India?
+The Government of India, through its designated authority. Not the crediting programme, and not the developer.
+:::
 
-## Frequently Asked Questions
+::: accordion How long does authorisation take?
+It varies, and the timing is outside the developer's hands. Treat it as a schedule risk, not a task with a fixed duration.
+:::
 
-**What is a corresponding adjustment?** The host country's accounting step that removes a transferred emission reduction from its own national ledger, preventing the same tonne being counted twice.
+::: accordion Can credits without an adjustment still be sold?
+Into parts of the voluntary market, yes. For CORSIA compliance, no.
+:::
 
-**Why is it required for CORSIA?** Because the airline is claiming the reduction. Without the adjustment, the host country would also claim it towards its NDC.
+::: accordion Does India authorise every project type?
+No. Policy on which activities may be authorised for international transfer changes, and some activities are kept for domestic use. Check the current position before committing capital.
+:::
 
-**Who grants it in India?** The Government of India through its designated authority. Not the crediting programme, and not the developer.
-
-**Can a developer obtain one directly?** No. A developer can apply through the correct channel, align the project with policy priorities and document thoroughly — but the decision is governmental.
-
-**How long does authorisation take?** Elapsed time varies and is outside developer control. Treat it as a project timeline risk rather than a task with a duration.
-
-**Can credits be sold without a CA?** Into parts of the voluntary market, yes. For CORSIA compliance, no.
-
-**What if authorisation is revoked?** A genuine tail risk. Contracts should allocate it explicitly; many templates do not.
-
-**Does a CA affect price?** Substantially. Authorised units command a large premium over units where authorisation is pending or absent.
-
-**How should we contract while authorisation is pending?** Condition precedent, price adjustment, substitution right or termination right — with revocation addressed separately.
-
-**Does India authorise all project types?** No. Policy on which activities may be authorised for international transfer evolves, and some activities are prioritised for domestic use. Check the current position before committing capital.
-
----
-
-**Developing CORSIA-eligible credits in India?** DSTechnoverse supports project developers with eligibility screening, methodology selection, monitoring design, documentation packs and buyer due diligence — and advises buyers on whether the units they are offered will actually count. We are based in **Indore, Madhya Pradesh** and work with clients across India. See our [CORSIA carbon credit services](/services/), our carbon credit portal at [carboncredit.dstechnoverse.com](https://carboncredit.dstechnoverse.com/), or [talk to our team](/contact/) about your project.
-
-*This article is general information, not legal, financial or regulatory advice. CORSIA eligibility criteria, approved programmes and vintage windows change — verify the current position with ICAO and your programme before committing capital.*
+Before you commit money to a CORSIA route, we can screen your activity type and tell you honestly whether authorisation looks realistic. [Get in touch](/contact/) with a short description of the project and its location.

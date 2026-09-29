@@ -1,62 +1,71 @@
 ---
-title: "How to Sell Carbon Credits: A Guide for Project Developers"
-excerpt: "Turning a climate project into sellable carbon credits — the path from project design and registration through verification, issuance and authorisation to sale, transfer and retirement in the buyer’s name."
+title: "How to Sell Carbon Credits: The Developer's Route From Methodology to Buyer"
+excerpt: "What a project developer has to do before a credit can be sold: methodology, registration, verified monitoring, issuance, authorisation where it pays, and the sale and transfer itself, plus the traits that make buyers pay more."
 date: "2026-09-08"
 topic: "Carbon Market Guides"
 tags: ["how to sell carbon credits","carbon credit project development","carbon credit registration","carbon credit verification","sell carbon offsets","carbon credit developer"]
 image: "/images/carbon-guides/how-to-sell-steps.svg"
 ---
 
-On the other side of every purchase is a project developer who turned a real climate outcome into a tradable unit. That journey is longer and more technical than buyers usually realise, and each stage is where value is either created or lost. This is how a carbon credit gets made and sold.
+A developer running biogas digesters on dairy farms in Gujarat rings us with a simple-sounding question: the digesters are working, the methane is being captured, so how do we sell the credits? The honest answer is that there are no credits yet. A reduction becomes a saleable unit only after it has been designed, counted, checked and issued according to someone else's rules. Buyers rarely see how long that takes. Sellers feel every month of it.
 
-## Step 1: Design and Register the Project
+## The route at a glance
 
-A sellable credit starts with a project designed *to a methodology* — the accounting recipe a standard such as Verra, Gold Standard or ACR requires for that activity. The developer selects the standard and methodology, sets a conservative **baseline** (what would have happened anyway), and demonstrates **additionality** (that carbon revenue is decisive). The project is then registered with the standard. Get the baseline and additionality right here and everything downstream is easier; get them wrong and the credits will struggle to sell at any price.
+| Stage | What the developer produces | Where value is lost |
+|---|---|---|
+| Design | A project built to a methodology, with baseline and additionality case | A generous baseline or a weak additionality argument that buyers later discount |
+| Registration | A listing with the chosen standard | Picking a standard your target buyers do not accept |
+| Monitoring | Data on the outcome: fuel saved, hectares protected, tonnes removed | Gaps or records a verifier cannot trace |
+| Verification | An independent audit by an accredited body | Findings that cut the volume issued |
+| Issuance | Serialised credits with a vintage, in your registry account | Vintages that age before they are sold |
+| Authorisation | A Letter of Authorisation and corresponding adjustment, where obtained | Missing the higher-value buyers altogether |
+| Sale and transfer | A signed agreement and a registry transfer | Poor contract terms, slow settlement |
 
-## Step 2: Monitor and Verify
+## Designing to a methodology
 
-Once running, the project **monitors** its results — fuel saved, hectares protected, tonnes removed — following the methodology's MRV rules. An accredited, independent **verification body** then audits that data. This third-party verification is what makes the resulting credits credible; a developer's own numbers, unverified, are not sellable to a serious buyer.
+Every credit starts from a methodology: the accounting rules a standard such as Verra, Gold Standard or ACR sets for a given activity. The developer picks the standard and methodology, sets a conservative **baseline** for what would have happened without the project, and shows **additionality**, meaning that carbon revenue made the difference. Then the project is registered.
 
-## Step 3: Issue the Credits
+Choosing the standard is partly commercial. Pick one whose methodologies fit the activity and whose credits your intended buyers accept. Verra, Gold Standard and ACR are the common choices; ART-TREES is used for jurisdiction-wide forestry.
 
-On a successful verification, the standard **issues** credits into the developer's registry account, each with a unique serial number and a **vintage** tied to the year of the reduction. At this point the credits exist as tradable units — but existing is not the same as being usable for every buyer.
+Effort spent on the baseline and additionality case at this stage pays back later. If either is weak, the credits will be hard to sell at any price.
 
-## Step 4: Secure Authorisation (Where It Adds Value)
+## Counting and checking the results
 
-For the highest-value buyers — compliance schemes such as CORSIA, and serious corporates avoiding double counting — the credit needs a host-country **Letter of Authorisation** and a **corresponding adjustment** under Article 6. Securing this is often the hardest step, because it depends on the host government, which may prefer to keep the reduction for its own national target. But an **authorised** unit is worth materially more than an unauthorised one from the same project, so it is usually worth pursuing where the government is willing.
+Once the project runs, it monitors its outcomes under the methodology's MRV rules. An accredited, independent verification body then audits that data. Without this, a developer's figures are just a developer's figures, and no serious buyer will pay for them. Our note on [digital MRV](/insights/dmrv-digital-monitoring-carbon-projects/) covers how sensor data is changing what verifiers can check.
 
-## Step 5: Market, Sell and Transfer
+After a successful verification the standard issues credits into the developer's registry account. Each has a unique serial number and a **vintage**, the year in which the reduction happened. The credits now exist and can be traded. That does not make them usable by every buyer.
 
-With issued (and ideally authorised) credits, the developer goes to market — directly, through brokers or exchanges, or via forward and **offtake** agreements signed even before issuance to fund the project. Terms are captured in a sale agreement or **ERPA**. On settlement, credits move by **registry transfer** to the buyer, who ultimately **retires** them in their own name. The developer's job is done when the units are transferred and settled; the buyer's, when they are retired.
+## Authorisation: the step that changes the price
 
-## What Makes Credits Sell Well
+Compliance schemes such as CORSIA, and corporates who want to avoid any double counting, need units that carry a host-country **Letter of Authorisation** and a **corresponding adjustment** under Article 6. This is often the hardest part, because it depends on the host government, which may prefer to keep the reduction for its own national target.
 
-| Factor | Why buyers pay for it |
-|---|---|
-| Strong additionality & baseline | Survives scrutiny and ratings |
-| A durable, well-monitored outcome | Higher-integrity, higher-value type |
-| Corresponding adjustment | Unlocks compliance buyers |
-| Recent vintage | Preferred by buyers and schemes |
-| Clean registry record | Frictionless transfer |
+For an Indian developer that means the Government of India's position decides whether the units can reach aviation buyers at all. An authorised unit is worth clearly more than an unauthorised one from the same project, so where the government is willing it is usually worth pursuing. We look at the Indian case in [corresponding adjustments for Indian CORSIA projects](/insights/corsia-corresponding-adjustment-india/).
 
-The mirror image of this, from the buyer's chair, is in [how to buy carbon credits](/insights/how-to-buy-carbon-credits/).
+## Finding a buyer and settling
 
-## Frequently Asked Questions
+Developers sell in several ways:
 
-**How do project developers sell carbon credits?** By designing a project to a methodology, registering it, monitoring and verifying results, having credits issued, and then selling them directly or through brokers, exchanges or offtake agreements.
+- **Direct** to corporate or compliance buyers.
+- **Through brokers or exchanges.**
+- **Through forward or offtake agreements**, where a buyer commits to future credits, often before issuance, and the money helps fund the project.
 
-**How long does it take to issue carbon credits?** It varies widely by project type and methodology — from months to years — because design, registration, monitoring and third-party verification all take time.
+Terms go into a sale agreement or an **ERPA**. On settlement the credits move by registry transfer to the buyer. The developer's work ends at transfer and payment. The buyer's ends when they retire the units in their own name.
 
-**Do I need a corresponding adjustment to sell credits?** Not for all buyers, but authorised units with a corresponding adjustment sell for more and unlock compliance demand such as CORSIA.
+## What makes buyers pay more
 
-**What is an offtake agreement?** A commitment by a buyer to purchase a project's future credits, often signed early to help finance the project.
+- A strong additionality case and a conservative baseline, which survive ratings and scrutiny.
+- A durable, well-monitored outcome.
+- A corresponding adjustment, which opens the door to compliance buyers.
+- A recent vintage.
+- A clean registry record, so the transfer goes smoothly.
 
-**Which standard should a developer choose?** The one whose methodologies fit the activity and whose credits the target buyers accept — commonly Verra, Gold Standard or ACR, and ART-TREES for jurisdictional forestry.
+## Mistakes developers make
 
----
+- **Choosing the methodology before the market.** Decide who will buy, then design to what they accept.
+- **Treating issuance as the finish line.** Unsold, unauthorised units are an inventory problem, not revenue.
+- **Leaving authorisation until the end.** If aviation buyers are the target, raise it at the design stage.
+- **Weak data from day one.** Verification can only confirm what monitoring recorded.
 
-**Buying, selling or evaluating carbon credits?** DSTechnoverse works on the data and integrity side of carbon procurement — project screening, registry and eligibility verification, MRV and monitoring-data analysis, reconciliation and defensible reporting. See our [CORSIA carbon credit services](/services/) and [data analytics](https://dstechnoverse.com/services/data-analytics). We are based in **Indore, Madhya Pradesh** and work across India and internationally.
+Timelines vary widely by project type and methodology, from months to years, because every stage above takes time.
 
-[Apply as a carbon credit buyer or seller](https://carboncredit.dstechnoverse.com/)
-
-[Talk to our team](/contact/), or start with [the complete carbon credits guide](/insights/corsia-carbon-credits-complete-guide/).
+The buyer's side of the same transaction is set out in [how to buy carbon credits](/insights/how-to-buy-carbon-credits/). If you have issued or soon-to-be-issued units, you can list them through our [seller intake](https://carboncredit.dstechnoverse.com/sell), and we will tell you which buyers they are likely to suit.

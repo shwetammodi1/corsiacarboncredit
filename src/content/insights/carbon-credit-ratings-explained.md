@@ -1,66 +1,69 @@
 ---
-title: "Carbon Credit Ratings: How Credits Get Graded (and Why It Matters)"
-excerpt: "Independent agencies like BeZero, Sylvera and Calyx now grade carbon credits on quality, not price. How carbon credit ratings work, what they assess, and how buyers use them to filter a confusing market."
+title: "Carbon Credit Ratings: What the Grades Mean and How to Use Them"
+excerpt: "Rating agencies such as BeZero, Sylvera and Calyx grade carbon credits on the odds that each one is a real tonne. What the grades cover, where they stop, and how a buyer can use them in a purchasing policy."
 date: "2026-09-10"
 topic: "Carbon Market Guides"
-tags: ["carbon credit ratings","carbon credit rating agencies","BeZero","Sylvera","carbon credit quality","carbon market integrity"]
+tags: ["carbon credit ratings","carbon credit rating agencies","BeZero","Sylvera","Calyx Global","carbon credit quality"]
 image: "/images/carbon-explainers/carbon-credit-ratings.svg"
 ---
 
-For years, judging a carbon credit's quality meant doing your own deep due diligence — or trusting the seller. That gap created an opening for a new kind of business: **carbon credit rating agencies**, which grade credits on integrity the way a credit-rating agency grades a bond. Names like **BeZero, Sylvera and Calyx** have become fixtures, and their ratings are reshaping how the market prices quality.
+Until fairly recently a buyer had two ways to judge a carbon credit: do the full diligence in-house, or take the seller's word. Rating agencies grew up to fill the space between. They grade credits on integrity in roughly the way a bond is graded on default risk, and their grades now shape what buyers are willing to pay.
 
-## What a Rating Actually Measures
+## One question per grade
 
-A carbon credit rating is a **quality score, not a price**. It answers one question: how likely is it that this credit represents a real, additional tonne of avoided or removed CO2? A high rating says the reduction is very likely genuine; a low rating flags serious doubts. Crucially, this is orthogonal to cost — a cheap credit can be low-rated, and a high-rated credit usually commands a premium, which is exactly the point.
+Strip away the scales and letters and a rating answers a single question: **how likely is it that this credit stands for a real, additional tonne** avoided or removed?
 
-## Who the Agencies Are
+A high grade says that is very likely. A low grade says there are serious doubts. The grade says nothing directly about price. In practice the two are linked, because better-graded credits tend to sell at a premium, but a rating is a view on quality, not a valuation.
 
-Several independent firms now rate credits, each with its own methodology:
+## The agencies buyers mention most
 
-| Agency | Role |
-|---|---|
-| **BeZero Carbon** | Risk-based rating of the likelihood a credit achieves a tonne |
-| **Sylvera** | Data-driven ratings, strong on forestry and geospatial analysis |
-| **Calyx Global** | Ratings emphasising over-crediting and additionality risk |
+Several independent firms publish ratings. The three names we hear most often:
 
-They differ in scale and emphasis, and they do not always agree — which itself is useful information. A credit rated highly by more than one agency is a stronger signal than one that splits opinion.
+- **BeZero Carbon** rates on risk: how likely a credit is to deliver its tonne.
+- **Sylvera** leans heavily on data, and is strong on forestry and satellite-based analysis.
+- **Calyx Global** puts particular weight on the risk of over-crediting and on additionality.
 
-## What They Assess
+Each has its own method and emphasis, and they do not always agree. That is useful. A project graded well by more than one agency is a stronger signal than one that splits them, and a split usually points to a particular risk worth reading about.
 
-The rating criteria will look familiar, because they are the same integrity questions that run through the whole market:
+## What goes into a grade
 
-- **Additionality** — did the reduction need carbon finance? (See [additionality explained](/insights/additionality-in-carbon-credits-explained/).)
-- **Baseline** — is the counterfactual conservative and evidenced?
-- **Permanence** — will the carbon stay stored, with reversal risk managed?
-- **Over-crediting risk** — is the project issuing more credits than the real reduction?
-- **Co-benefits and safeguards** — is there social or environmental harm?
+The inputs are the integrity questions that run through the whole market:
 
-The agencies gather project data, apply their methodology, and publish a rating on a scale — from high integrity down to high risk.
+1. **Additionality.** Did the reduction need carbon money? Our [additionality explainer](/insights/additionality-in-carbon-credits-explained/) sets out the tests.
+2. **Baseline.** Is the "without project" scenario conservative and backed by evidence?
+3. **Permanence.** Will stored carbon stay stored, and is reversal risk managed?
+4. **Over-crediting.** Is the project issuing more credits than its real effect?
+5. **Safeguards and co-benefits.** Has the project caused social or environmental harm?
 
-## How Buyers Use Ratings
+The agency gathers project data, applies its method and publishes a grade on a scale running from high integrity down to high risk.
 
-A rating is a **filter, not a substitute for judgement**. Sophisticated buyers use ratings to screen a large market down to a credible shortlist quickly, then still run their own [due diligence](/insights/carbon-credit-due-diligence-buyer-case-study/) on the finalists. Increasingly, ratings also feed price: high-rated credits trade at a premium, and some buyers set a minimum rating as a purchasing policy. For sellers, a strong rating is becoming a market-access advantage.
+## Using ratings in a purchasing policy
 
-## The Limits of Ratings
+Ratings work best as a **filter**. A practical approach we suggest to corporate buyers:
 
-Ratings are a huge improvement on "trust the seller," but they are not infallible. Methodologies differ, agencies can disagree, and a rating is only as good as the data behind it. Treat a high rating as strong evidence, not a guarantee — and where two respected agencies concur, trust it more than where they diverge.
+- **Screen.** Use ratings to cut a large market down to a credible shortlist quickly.
+- **Set a floor.** Some buyers write a minimum grade into their purchasing policy. This is simple for procurement to apply and easy to explain to a board.
+- **Look for agreement.** Where two respected agencies concur, give the result more weight than where they differ.
+- **Still do your own diligence** on the finalists, particularly for large purchases. Our [buyer-side due diligence case study](/insights/carbon-credit-due-diligence-buyer-case-study/) shows what that involves.
 
-## Frequently Asked Questions
+For sellers, the effect runs the other way: a good rating is becoming a way into buyers' shortlists.
 
-**What is a carbon credit rating?** An independent assessment of a credit's quality — the likelihood it represents a real, additional tonne of CO2 reduced or removed — separate from its price.
+## Where ratings stop
 
-**Who rates carbon credits?** Independent agencies such as BeZero Carbon, Sylvera and Calyx Global, each with its own methodology.
+Three limits are easy to overlook:
 
-**Do carbon credit ratings affect price?** Yes — higher-rated credits generally command a premium, and some buyers require a minimum rating before purchasing.
+- **Quality is not eligibility.** A highly graded credit without a corresponding adjustment still cannot be used for CORSIA. Eligibility is a separate check, covered in [CORSIA eligible emissions units](/insights/corsia-eligible-emissions-units-explained/).
+- **A grade depends on its data.** If the underlying information is thin or out of date, the grade inherits that weakness.
+- **Grades are snapshots.** Projects change after they are rated.
 
-**Can I rely on a rating alone?** It is a strong filter but not a full substitute for project-level due diligence, especially for large purchases.
+So a strong rating is good evidence, not a guarantee. It is a vast improvement on trusting the seller, and it is still not the same as reading the documents yourself.
 
-**Why do rating agencies sometimes disagree?** They use different methodologies and weightings; agreement between agencies is a stronger quality signal than a split verdict.
+## Short answers
 
----
+**Who rates carbon credits?** Independent agencies including BeZero Carbon, Sylvera and Calyx Global.
 
-**Working with carbon credits or a climate target?** DSTechnoverse works on the data and integrity side of carbon — project screening, registry and eligibility verification, MRV and monitoring-data analysis, reconciliation and defensible reporting. See our [CORSIA carbon credit services](/services/) and [data analytics](https://dstechnoverse.com/services/data-analytics). We are based in **Indore, Madhya Pradesh** and work across India and internationally.
+**Do ratings affect price?** Yes. Higher-graded credits generally carry a premium.
 
-[Apply as a carbon credit buyer or seller](https://carboncredit.dstechnoverse.com/)
+**Is a rating enough on its own?** For small purchases it may be a reasonable screen. For large ones, pair it with project-level diligence.
 
-[Talk to our team](/contact/), or start with [the complete carbon credits guide](/insights/corsia-carbon-credits-complete-guide/).
+If you want help setting a rating floor for your purchasing policy, or reading why agencies disagree on a project you are considering, [get in touch with the desk](/contact/).

@@ -1,128 +1,94 @@
 ---
-title: "How SAF Reduces Your CORSIA Offsetting Requirement"
-excerpt: "The arithmetic connecting a tonne of sustainable aviation fuel to a reduction in offsetting obligation, with worked examples, plus how to compare the cost of fuel against the cost of buying eligible units."
+title: "SAF and Your CORSIA Offsetting Requirement: The Arithmetic and the Trade-Off"
+excerpt: "How a tonne of certified sustainable aviation fuel turns into tonnes off a CORSIA obligation, why the effect is so much larger than burning less fuel, and how to set SAF against eligible units on cost."
 section: "Eligible Fuels"
 order: 19
 image: "/images/corsia/corsia-eligible-fuels.svg"
 ---
 
-Sustainable aviation fuel reduces a CORSIA obligation directly rather than through offsets. This article sets out exactly how much, with the arithmetic, and how to compare fuel against units as competing uses of the same budget.
+Finance teams often assume that because SAF is a small share of an airline's fuel, its effect on the CORSIA bill must be small too. It is not. A modest volume of certified fuel can take a surprisingly large bite out of the obligation, and the reason lies in how the two quantities are calculated. This page walks through the sums, then sets fuel against units as two ways of spending the same money.
 
-![CORSIA Eligible Fuels at a glance](/images/corsia/corsia-eligible-fuels.svg)
+![Summary graphic of CORSIA Eligible Fuels](/images/corsia/corsia-eligible-fuels.svg)
 
-## The Mechanism
+## How the reduction is calculated
 
-Under the CORSIA framework, the emissions reduction from an eligible fuel is calculated from the difference between the conventional jet fuel lifecycle value and the fuel's own lifecycle value, applied to the mass of fuel used.
-
-Conceptually:
+The CORSIA framework measures an eligible fuel's benefit as the gap between the lifecycle value of conventional jet fuel and the lifecycle value of the fuel actually used, applied to the mass of that fuel. In outline:
 
 > **Reduction (t CO2) = fuel mass (t) × (baseline lifecycle intensity − fuel lifecycle intensity) ÷ 1000**
 
-where lifecycle intensity is expressed in grams of CO2 equivalent per megajoule, converted using the fuel's energy content.
+Lifecycle intensity is stated in grams of CO2 equivalent per megajoule and converted using the fuel's energy content. ICAO defines the conventional jet fuel baseline for this purpose, and a fuel has to beat it by at least 10% to count at all.
 
-The **conventional jet fuel baseline** is defined by ICAO for this purpose. A fuel must beat it by at least 10% to qualify at all.
+Whatever reduction results is deducted from the gross offsetting requirement. Where that deduction sits in the overall calculation is shown in [how the offsetting requirement is calculated](/knowledge-base/corsia-offsetting-requirement-calculation/).
 
-The reduction is subtracted from the gross offsetting requirement.
+## Worked example
 
-## Worked Example
+All figures here are illustrative. They show the mechanics and are not real intensities, growth factors or prices.
 
-Illustrative figures, chosen to show the mechanics rather than to quote real prices or intensities.
+An Indian carrier has 250,000 tonnes of covered emissions in a year, and the growth factor for that year is 8%. Its gross offsetting requirement is therefore 20,000 tonnes.
 
-An operator has a gross offsetting requirement of **19,200 tonnes** for a year, from 320,000 tonnes of covered emissions at a 6% growth factor.
+It loads 1,500 tonnes of certified SAF with a lifecycle intensity 70% below the conventional baseline. For simplicity we express the saving as a share of the CO2 the same mass of Jet-A1 would have produced, at 3.16 kg CO2 per kg of fuel.
 
-It uplifts **2,000 tonnes** of certified SAF with a lifecycle intensity **80% below** the conventional baseline.
+| Line | Working | Tonnes |
+|---|---|---|
+| CO2 if the fuel had been conventional | 1,500 × 3.16 | 4,740 |
+| Lifecycle saving claimed | 4,740 × 0.70 | 3,318 |
+| Gross offsetting requirement | 250,000 × 8% | 20,000 |
+| Net requirement after the fuel claim | 20,000 − 3,318 | 16,682 |
 
-| Step | Value |
-|---|---|
-| SAF uplifted | 2,000 t |
-| CO2 from that fuel if it were conventional | 2,000 × 3.16 = 6,320 t |
-| Lifecycle saving at 80% | 6,320 × 0.80 = **5,056 t** |
-| Gross offsetting requirement | 19,200 t |
-| Less CEF reduction | −5,056 t |
-| **Net offsetting requirement** | **14,144 t** |
+Fifteen hundred tonnes of fuel cut the units the carrier must buy by about 17%.
 
-The 2,000 tonnes of SAF removed 5,056 tonnes from the obligation — a **26% reduction** in units the operator must buy.
+## Why a little fuel goes a long way
 
-## Why the Leverage Is High
+Compare two things the carrier could do with one tonne of fuel.
 
-Note what happened. The SAF represented a small fraction of total fuel burn, but it eliminated a quarter of the offsetting obligation.
+- **Swap it for SAF at a 70% saving.** That tonne comes off the obligation at 3.16 × 0.70, about 2.2 tonnes.
+- **Simply not burn it.** Covered emissions fall by 3.16 tonnes, but only the growth-factor share of covered emissions becomes an obligation. At 8% that is about 0.25 tonnes.
 
-The reason is that the obligation is only a **percentage of covered emissions** — 6% in this example — whereas the fuel reduction is a **percentage of the fuel's own emissions**, at close to 100%.
+So in this illustration, switching a tonne to SAF moves the obligation roughly nine times as much as saving a tonne of fuel outright. The reason is structural: the obligation is a small percentage of covered emissions, while the fuel claim is a large percentage of that fuel's own emissions. The exact ratio depends on the growth factor for the year and on the saving your fuel achieves, so run it on current numbers, not remembered ones.
 
-::: accordion The general form of the leverage
-Roughly, one tonne of SAF at an 80% lifecycle saving removes about 2.5 tonnes from the obligation. One tonne of conventional fuel adds about 3.16 tonnes to covered emissions, of which only the growth factor percentage — 6% here — becomes an obligation, or about 0.19 tonnes.
+## Setting SAF against units
 
-So the marginal effect of switching a tonne of fuel to SAF is roughly **13 times** larger on the obligation than the marginal effect of burning one tonne less fuel overall, at a 6% growth factor.
+The fair test is cost per tonne of obligation removed.
 
-This leverage grows as growth factors rise. It is the single strongest argument for running the SAF comparison on current numbers rather than remembered ones.
-:::
-
-## Comparing SAF Against Buying Units
-
-The comparison is a cost-per-tonne-of-obligation-removed calculation.
-
-**For units:** the cost per tonne removed is simply the price of an eligible unit.
-
-**For SAF:** the cost per tonne removed is the **premium** over conventional fuel, divided by the tonnes of obligation the fuel removes.
+- **Units:** the cost per tonne removed is the price of one eligible unit.
+- **SAF:** the cost per tonne removed is the extra you pay for SAF over conventional fuel, spread across the tonnes of obligation it removes.
 
 > Cost per tonne removed = (SAF price − conventional jet fuel price) × fuel mass ÷ obligation reduction
 
-Using the example above, if SAF carried a premium of a given amount per tonne over conventional fuel, that premium × 2,000 tonnes, divided by 5,056 tonnes of obligation removed, gives the effective cost per tonne — directly comparable with an eligible unit price.
+In the example, if the premium is P per tonne of fuel, the cost per tonne of obligation removed is P × 1,500 ÷ 3,318, or about 0.45 P. That figure can be set directly against the unit price you are being quoted.
 
-::: accordion What the comparison leaves out
-A pure cost-per-tonne comparison understates SAF, for several reasons worth naming:
+::: accordion What a straight cost-per-tonne test misses
+The simple comparison tends to understate the fuel.
 
-**SAF also reduces EU ETS and UK ETS exposure** where the operator is subject to them, because it reduces the emissions requiring allowances. The same fuel purchase serves multiple schemes.
+- **It works across schemes.** For an operator also under the EU ETS or UK ETS, the same fuel lowers the emissions that need allowances there. See [CORSIA vs EU ETS and other schemes](/knowledge-base/corsia-vs-eu-ets-and-other-schemes/).
+- **It supports claims offsets cannot.** Corporate customers and investors increasingly separate cutting emissions from compensating for them.
+- **It sidesteps unit supply risk.** Eligible units may not be available in the volume or at the moment you need them. A fuel contract carries a different kind of risk.
+- **A mandate may force the purchase anyway.** Where blending is compulsory, the fuel is bought regardless and the CORSIA claim is extra value on money already spent.
 
-**SAF supports voluntary and corporate claims** that offsets increasingly cannot. Corporate customers and investors distinguish between reducing emissions and compensating for them.
-
-**SAF is not exposed to eligible-unit supply risk.** The market for eligible units may not have the volume you need when you need it; a fuel contract is a different kind of exposure.
-
-**Mandates may require SAF regardless.** Where a blending mandate applies, the fuel is being bought anyway, and the CORSIA claim is incremental value on a cost already incurred.
-
-Against that, SAF has real constraints: availability is regional and thin, the documentation burden is genuine, and the premium is substantial.
+On the other side of the ledger: SAF supply is regional and scarce, the documentation takes real work, and the premium is large.
 :::
 
-## Where the Crossover Sits
+## Which way the balance is moving
 
-There is no general answer, and anyone offering one without your numbers is guessing.
+Nobody can tell you where the crossover lies without your figures. The direction of travel, though, is fairly clear:
 
-What is true directionally:
+| Factor | Direction | Effect on the comparison |
+|---|---|---|
+| Eligible unit prices | Upward pressure as second-phase demand meets limited supply | Favours SAF |
+| SAF production capacity | Growing, from a small base | Should ease premiums over time; favours SAF |
+| Growth factors | Rising | A bigger gross obligation, so more units to buy and more money riding on the choice |
 
-- **Eligible unit prices are under upward pressure** as second-phase demand arrives against constrained supply. See [supply and demand outlook](/knowledge-base/corsia-supply-and-demand-outlook/).
-- **SAF production capacity is expanding**, which should ease premiums over time, though from a small base.
-- **Growth factors rise**, which increases the leverage of every tonne of SAF.
+The [supply and demand outlook](/knowledge-base/corsia-supply-and-demand-outlook/) explains the pressure on unit prices. If your team decided a few years ago that units were the cheaper route, that conclusion may have gone stale.
 
-All three push the crossover in the same direction — toward SAF. An operator who ran this comparison three years ago and concluded units were cheaper may be carrying a stale conclusion.
+## Conditions for the claim to stand
 
-## Practical Requirements for the Claim
+The arithmetic above is worth nothing unless the fuel qualifies. In short, it must meet the CORSIA sustainability criteria, be certified by an approved Sustainability Certification Scheme, have a documented chain of custody to the point of uplift, be claimed in the Annual Emissions Report, pass independent verification, and not be claimed under any other scheme. Each requirement is explained in [CORSIA Eligible Fuels](/knowledge-base/corsia-eligible-fuels/).
 
-Recapping what must be in place, because the arithmetic is worthless without it:
+## Common modelling mistakes
 
-1. The fuel meets the **CORSIA Eligible Fuels sustainability criteria**
-2. It is certified under an **approved Sustainability Certification Scheme**
-3. **Chain of custody** is documented from production to uplift
-4. The claim appears in the **Annual Emissions Report**
-5. It survives **independent verification**
-6. The same fuel is **not claimed under another scheme**
+- **Using target volumes.** Model fuel you can actually buy, at airports you actually serve, with certification you can actually obtain.
+- **Looking at CORSIA alone.** For an operator also facing the EU ETS, a CORSIA-only view makes SAF look dearer than it is.
+- **Running it once.** Both sides of the comparison change every year. Redo it annually.
+- **Forgetting the admin.** Custody documentation takes real staff time, especially the first year.
 
-See [CORSIA Eligible Fuels](/knowledge-base/corsia-eligible-fuels/) for each in detail.
-
-## Modelling Advice
-
-**Model obtainable fuel, not target fuel.** Base the reduction on volumes you can actually secure at airports you actually serve, with certification you can actually get.
-
-**Model it against all schemes at once.** Assessed against CORSIA alone, SAF looks more expensive than it is for an operator also facing the EU ETS.
-
-**Re-run annually.** Both sides of the comparison are moving, and in the same direction.
-
-**Include the documentation cost.** Chain-of-custody administration is real effort, particularly on the first cycle.
-
-## Where to Go Next
-
-- [CORSIA Eligible Fuels](/knowledge-base/corsia-eligible-fuels/) — the qualification requirements
-- [The requirement calculation](/knowledge-base/corsia-offsetting-requirement-calculation/) — where the reduction applies
-- [CORSIA credit pricing](/knowledge-base/corsia-credit-pricing/) — the other side of the comparison
-- [CORSIA vs EU ETS](/knowledge-base/corsia-vs-eu-ets-and-other-schemes/) — why the fuel serves several schemes
-
-DSTechnoverse builds SAF-versus-units comparisons on current pricing and your actual network. [Talk to our carbon markets team](/contact/).
+We build SAF-against-units comparisons using your network and current quotes. [Contact the desk](/contact/) with your fuel volumes and route list and we will show you where your crossover sits.

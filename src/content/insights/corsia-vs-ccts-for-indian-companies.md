@@ -1,135 +1,112 @@
 ---
-title: "CORSIA or CCTS? Which Carbon Scheme Applies to an Indian Company"
-excerpt: "How CORSIA and India's Carbon Credit Trading Scheme differ in who they cover, what instruments they use, who buys, and what an Indian airline, manufacturer or project developer should actually be planning for."
+title: "CORSIA vs CCTS: Working Out Which Carbon Scheme Covers Your Indian Business"
+excerpt: "India's CCTS and ICAO's CORSIA both involve carbon credits but cover different companies, instruments and buyers. A four-question test for airlines, manufacturers and developers, and why a project must pick one route early."
 date: "2026-08-23"
 topic: "Airline Compliance"
 tags: ["CORSIA vs CCTS","Indian carbon market","carbon credit trading scheme","CORSIA India","compliance carbon","BEE","DGCA"]
 image: "/images/corsia-consultant/hero-corsia-market-strategy.svg"
 ---
 
-Two carbon schemes now bear on Indian companies, and they are frequently confused because both produce something called a carbon credit. They cover different entities, sit under different ministries, use different instruments and serve different buyers.
+"We've been told we need to comply with the carbon credit scheme." We hear that sentence from Indian companies surprisingly often, and the next question is always the same: which one? India now has two carbon schemes that matter to businesses here, and because both involve something called a carbon credit they get mixed up constantly. They answer to different authorities, cover different activities, use different instruments and serve different buyers.
 
-Working out which applies to you takes about ten minutes and prevents a great deal of misdirected effort.
+Sorting out which one touches you is quick. Getting it wrong can waste a year.
 
-![CORSIA market strategy](/images/corsia-consultant/hero-corsia-market-strategy.svg)
+![Choosing between carbon market routes for an Indian company](/images/corsia-consultant/hero-corsia-market-strategy.svg)
 
-## The Two Schemes Side by Side
+## A four-question test
 
-| | CORSIA | CCTS |
-|---|---|---|
-| **Established by** | ICAO, international | Energy Conservation Act, domestic |
-| **Administered by** | National authority (DGCA in India) | Bureau of Energy Efficiency, Ministry of Power |
-| **Covers** | International aviation | Notified energy-intensive sectors, plus offset projects |
-| **Obligation basis** | Emissions growth above a baseline | Greenhouse gas emission intensity targets |
-| **Instrument** | Eligible emissions units | Carbon Credit Certificates |
-| **Buyers** | Aircraft operators with offsetting duties | Obligated entities short of target |
-| **Trading venue** | Bilateral, brokers, programmes | Notified power exchanges |
-| **Geographic reach** | International route pairs | Domestic |
+Work through these in order. Most companies have their answer by question 2.
 
-## Which One Applies to You
+**1. Do you operate aircraft on international flights?**
+If yes, CORSIA applies to those flights, administered in India by the DGCA. Your domestic flying is outside CORSIA, however large it is. Whether you must monitor and report depends on the scheme's scope tests, and whether you must offset depends on the route pairs. See [CORSIA compliance for Indian airlines](/insights/corsia-compliance-for-indian-airlines/).
 
-**If you are an airline or aircraft operator:** CORSIA, for international flights. Your domestic operations sit outside CORSIA. See [CORSIA compliance for Indian airlines](/insights/corsia-compliance-for-indian-airlines/).
+**2. Are you an energy-intensive manufacturer whose sector and entity have been notified?**
+If yes, the Carbon Credit Trading Scheme applies, run by the Bureau of Energy Efficiency under the Ministry of Power. Sectors that have featured in notifications include aluminium, cement, iron and steel, pulp and paper, chlor-alkali, fertiliser, petrochemicals, refineries and textiles. Your obligation is a greenhouse gas emission intensity target. More in [the Indian carbon market and CCTS explained](/insights/indian-carbon-market-ccts-explained/).
 
-**If you are an energy-intensive manufacturer:** CCTS, if your sector and entity have been notified as obligated. Aluminium, cement, iron and steel, pulp and paper, chlor-alkali, fertiliser, petrochemicals, refineries and textiles have featured in the notified sectors. See [the Indian carbon market and CCTS explained](/insights/indian-carbon-market-ccts-explained/).
+**3. Do you develop projects that reduce or remove emissions?**
+Then you are a potential **supplier** under either scheme, not an obligated party, and you face a choice about which market to serve. That choice is the subject of most of this article.
 
-**If you are a project developer:** potentially both, and the choice matters. The domestic offset mechanism under CCTS issues Carbon Credit Certificates for the domestic market. CORSIA supply requires an ICAO-approved programme, an eligible vintage and a corresponding adjustment. The documentation, the buyer and the price differ substantially.
+**4. None of the above?**
+You have no compliance obligation under either scheme. You can still buy credits voluntarily. Decide what claim you want to make first, then buy the instrument that supports it.
 
-**If you are neither:** you may still be a voluntary buyer in either market, but you have no compliance obligation under either scheme.
+If you are unsure at any step, run the applicability tests for both schemes and write down the conclusion. A documented "no" is worth having when someone asks later.
 
-## Why a Developer Cannot Simply Do Both
+## How the two schemes differ
 
-The same emission reduction cannot be counted twice. A tonne credited under the domestic offset mechanism and used by an obligated Indian entity is a tonne that has been used domestically. The same tonne cannot also be exported with a corresponding adjustment for an airline's CORSIA obligation.
+**Origin.** CORSIA was set up by ICAO, the UN's aviation body, and applies internationally. CCTS rests on India's Energy Conservation Act and is purely domestic.
 
-That forces a genuine choice at project design stage:
+**Who runs it here.** CORSIA: the DGCA as national authority. CCTS: the Bureau of Energy Efficiency.
 
-| Route | Requires | Buyer | Trade-off |
+**What creates the obligation.** CORSIA: growth in international aviation emissions above a baseline. CCTS: emission intensity targets for notified entities.
+
+**The instrument.** CORSIA: eligible emissions units, issued under ICAO-approved programmes. CCTS: Carbon Credit Certificates.
+
+**Who buys.** CORSIA: aircraft operators with offsetting obligations. CCTS: obligated entities that fall short of their targets.
+
+**Where trading happens.** CORSIA units move bilaterally, through brokers and through programme registries. CCTS certificates trade on notified power exchanges.
+
+The two instruments are not interchangeable. A Carbon Credit Certificate cannot meet a CORSIA obligation, and a CORSIA unit does not help an entity with a CCTS target.
+
+## The developer's choice
+
+A single tonne of reduction can only be counted once. If it is credited under the domestic offset mechanism and used by an Indian obligated entity, it has been used in India. It cannot also be exported with a corresponding adjustment to cover an airline's CORSIA obligation.
+
+So a developer picks a route, and the routes differ in almost everything:
+
+- **Domestic CCTS offsets** need an approved domestic methodology and registration. Buyers are obligated entities and voluntary buyers. There is no exposure to export policy, and prices follow the domestic scheme.
+- **CORSIA supply** needs an ICAO-approved programme, an eligible vintage and a **corresponding adjustment** authorised by the government. Buyers are airlines with obligations. The price can carry a scarcity premium, but authorisation is a government decision outside the developer's control. See [corresponding adjustments for Indian CORSIA projects](/insights/corsia-corresponding-adjustment-india/).
+- **The voluntary market** needs a recognised standard. Buyers are companies with climate commitments. Access is broadest, and price depends on quality and the project's story.
+
+**Choose before you design the project, not after issuance.** Methodology, registry, documents and buyers all differ. Converting a project from one route to another later is costly and sometimes impossible, especially once vintages have aged out of an eligibility window.
+
+## Worked example: one group, three answers
+
+Illustrative. A family-owned group based in central India has three businesses:
+
+- **A small cargo airline** flying freighters to the Gulf and within India.
+- **A textile mill** in a notified sector.
+- **A biomass gasification unit** at an agro-processing plant, cutting diesel use and potentially generating credits.
+
+| Business | Scheme | What it means | First step |
 |---|---|---|---|
-| **Domestic CCTS offset** | Approved domestic methodology, registration | Obligated entities, voluntary buyers | No export policy exposure; price set by domestic scheme dynamics |
-| **CORSIA supply** | ICAO-approved programme, vintage, **corresponding adjustment** | Airlines with obligations | Scarcity premium; authorisation is a government decision |
-| **Voluntary market** | Recognised standard | Corporates with commitments | Broadest access; price driven by quality and story |
+| Cargo airline | CORSIA, for the Gulf flights only | Monitoring and reporting if the scope tests are met; offsetting depends on route pairs | Check applicability and monitoring plan status against the DGCA requirement |
+| Textile mill | CCTS, if the entity is notified | An emission intensity target | Confirm notification status and target; build the GHG inventory |
+| Biomass unit | Neither, as an obligated party | A potential credit supplier | Choose domestic offset, CORSIA or voluntary before development |
 
-**Decide before development, not after issuance.** The methodology, the registry, the documentation and the buyer differ, and retrofitting a project from one route to another is expensive and sometimes impossible — particularly where vintages have aged outside an eligibility window.
+What the table shows:
 
-## For a Company With Both Exposures
+- **The airline's domestic freighter flights do not count for CORSIA at all.** If most of its flying is domestic, its CORSIA footprint may be small, but the monitoring and reporting duty on the international part still applies in full.
+- **The mill's target is about intensity, not absolute emissions.** Making more cloth does not by itself breach it. Failing to improve efficiency does.
+- **The biomass unit's decision is one-way.** Once its tonnes go to the domestic mechanism, the CORSIA door is closed for those tonnes. The corresponding adjustment position should drive the decision.
 
-Some groups have both — an airline subsidiary with CORSIA obligations and a manufacturing arm within CCTS scope. Practical consequences:
+## Groups with obligations under both
 
-**Separate compliance functions, shared discipline.** The obligations are legally distinct and reported to different authorities on different timetables. The underlying capability — emissions data, controls, verification readiness — is the same discipline, and there is real value in a shared approach to data governance.
+Where a group has an airline in CORSIA and a plant in CCTS:
 
-**Do not cross-use instruments.** Carbon Credit Certificates under CCTS and CORSIA eligible emissions units are different instruments serving different obligations. One does not discharge the other.
+- **Keep the compliance functions separate.** The obligations are legally distinct, reported to different authorities on different timetables.
+- **Share the discipline underneath.** Emissions data, controls, verification readiness and record retention are the same craft in both. Build them once and apply them twice.
+- **Never cross-use instruments.** Certificates and CORSIA units settle different obligations.
+- **Keep one group register** of obligations, owners and deadlines. Two schemes and two calendars invite the classic failure where each team assumes the other was watching a change.
+- **Have one internal view of carbon prices**, rather than two teams forming separate ones.
 
-**One group-level tracker.** Two schemes, two authorities, two calendars. A single register of obligations, owners and deadlines prevents the classic failure of two functions each assuming the other was tracking a change.
+## Where the boundaries may shift
 
-**Shared market intelligence.** Both functions need a view on carbon pricing, and a single internal source of that view is more useful than two.
+Neither scheme is fixed. Three things are worth watching:
 
-## What to Do Next
+- **Recognition of instruments across schemes.** Whether a domestic instrument could ever count internationally, or the reverse, is a policy question. The rule that one tonne cannot serve two obligations is fundamental, but the routes by which projects choose a market could change.
+- **India's export stance.** How readily India authorises credits for international transfer decides how much Indian supply reaches CORSIA. That stance follows India's own NDC path and can tighten as easily as it loosens.
+- **CCTS coverage.** More sectors may be notified. A company outside scope today could be inside it later, and building an emissions inventory takes longer than any notice period is likely to allow.
 
-| If you are | First action |
-|---|---|
-| An aircraft operator | Confirm your MRV applicability and monitoring plan status with the DGCA requirement |
-| A notified obligated entity | Confirm your target, baseline and verification arrangements with BEE guidance |
-| A project developer | Decide the target market before design, and test the corresponding adjustment position if CORSIA |
-| A voluntary buyer | Decide what claim you need to make, then buy the instrument that supports it |
-| Unsure | Run the applicability tests for both schemes and document the conclusion |
+The practical answer to "which scheme should we prepare for?" is to prepare the data. A defensible GHG inventory, documented data flows, calibrated instruments and records ready for verification will serve whichever obligation arrives. A narrow process built around one scheme's current rules has to be rebuilt when the rules move.
 
-The authoritative sources are the [DGCA](https://www.dgca.gov.in/) for CORSIA in India, the [Bureau of Energy Efficiency](https://beeindia.gov.in/) for CCTS, and [ICAO](https://www.icao.int/environmental-protection/CORSIA/Pages/default.aspx) for the CORSIA framework itself. Treat summaries — including this one — as orientation rather than as the operative rule.
+For the rules themselves, go to the [DGCA](https://www.dgca.gov.in/) for CORSIA in India, the [Bureau of Energy Efficiency](https://beeindia.gov.in/) for CCTS, and [ICAO](https://www.icao.int/environmental-protection/CORSIA/Pages/default.aspx) for the CORSIA framework. Treat any summary, this one included, as orientation only.
 
-## A Worked Applicability Example
+## Short answers
 
-A diversified Indian group operates a regional airline, a cement plant and a distillery that captures methane from its effluent treatment. Three entities, three different answers.
+**Do both schemes need independent verification?** Yes, though under different frameworks and reported to different authorities.
 
-| Entity | Scheme | Obligation | First action |
-|---|---|---|---|
-| **Regional airline** | CORSIA | MRV on international sectors above the threshold; offsetting subject to the route-pair test | Confirm applicability and monitoring plan status with the DGCA requirement |
-| **Cement plant** | CCTS | Emission intensity target if notified as an obligated entity | Confirm notification status and target; build the GHG inventory |
-| **Distillery methane project** | Neither, by default | No compliance obligation; a potential credit **supplier** | Decide target market before development — domestic offset, CORSIA or voluntary |
+**Which route pays a developer better?** That depends on the corresponding adjustment position, domestic market conditions and the project type. Compare both before designing.
 
-Three observations from that table.
+*General information, not legal, financial or regulatory advice. Rules, participating-State lists and eligibility criteria change; confirm the current position with ICAO, the DGCA and BEE.*
 
-**The airline's domestic sectors are outside CORSIA entirely**, however large they are. A regional carrier with mostly domestic flying may have a very small CORSIA footprint and still carry a full MRV obligation on the international portion.
-
-**The cement plant's obligation is intensity-based, not absolute.** Growing output does not itself breach the target; failing to improve efficiency does.
-
-**The distillery project has a genuine choice, and it is a one-way door.** The same tonnes cannot serve the domestic offset mechanism and a CORSIA export. Making that decision at design stage — informed by the corresponding adjustment position — is worth more than any downstream optimisation.
-
-The group-level lesson: three entities, three authorities, three calendars, one shared discipline. The emissions data governance, verification readiness and record retention practices are the same craft in each case, and a group that builds them once and applies them three times is materially ahead of one treating each obligation as unrelated.
-
-## How the Two Schemes May Converge
-
-Both schemes are evolving, and an Indian company with exposure to either should watch three areas rather than assuming today's boundaries are permanent.
-
-**Instrument recognition.** Whether domestic instruments could ever be recognised for international purposes, or vice versa, is a policy question rather than a technical one. The accounting obstacle — that the same tonne cannot serve two obligations — is fundamental, but the routes by which a project chooses its market may change.
-
-**Export policy.** India's position on authorising credits for international transfer shapes how much domestic supply reaches CORSIA at all. That position responds to India's own NDC trajectory, which means it can tighten as much as loosen.
-
-**Sectoral coverage.** CCTS coverage expands as sectors are notified. A company outside scope today may be inside it in a future compliance cycle, and the lead time for building an emissions inventory is longer than the notice period is likely to be.
-
-The practical response is the same in each case: **build the underlying capability rather than the scheme-specific compliance.** An organisation with a defensible greenhouse gas inventory, documented data flows, calibrated instruments and verification-ready records can meet whichever obligation arrives. One that has built a narrow process around a single scheme's current requirements has to start again when the requirements move.
-
-That is also the honest answer to "which scheme should we prepare for?" — prepare the data, and the scheme becomes a reporting format rather than a project.
-
-## Frequently Asked Questions
-
-**What is the difference between CORSIA and CCTS?** CORSIA is ICAO's international aviation offsetting scheme administered in India by the DGCA. CCTS is India's domestic carbon market under the Energy Conservation Act, administered by the Bureau of Energy Efficiency.
-
-**Which applies to an Indian airline?** CORSIA, for international flights. Domestic aviation sits outside CORSIA.
-
-**Which applies to a manufacturer?** CCTS, if the sector and entity are notified as obligated.
-
-**Can a project sell into both?** Not the same tonnes. A reduction used domestically cannot also be exported with a corresponding adjustment.
-
-**Are Carbon Credit Certificates usable for CORSIA?** No. They are a domestic instrument. CORSIA requires eligible emissions units meeting its own criteria.
-
-**Which route pays better for a developer?** It depends on the corresponding adjustment position, domestic scheme dynamics and your project type. Assess both before designing the project.
-
-**Do both schemes require verification?** Yes, both rely on independent third-party verification, though under different frameworks and to different authorities.
-
-**What if my group has both exposures?** Keep the compliance functions separate, share the data governance discipline, and maintain one group-level obligations register.
-
-**Where do I find the current rules?** The DGCA for CORSIA in India, BEE for CCTS, and ICAO for the CORSIA framework.
-
----
-
-**Planning your CORSIA position?** DSTechnoverse advises Indian operators and project developers on CORSIA compliance strategy — offsetting requirement forecasting, unit procurement due diligence, SAF and efficiency trade-offs, and readiness assessment before the compliance year begins. We are based in **Indore, Madhya Pradesh** and work with clients across India. See our [CORSIA carbon credit services](/services/), our carbon credit portal at [carboncredit.dstechnoverse.com](https://carboncredit.dstechnoverse.com/), or [talk to our team](/contact/).
-
-*This article is general information, not legal, financial or regulatory advice. CORSIA rules, participating-state lists and eligibility criteria change — verify the current position with ICAO and the DGCA before acting.*
+If your group sits on both sides, or you are a developer deciding which market to build for, [talk it through with the desk](/contact/). We can document the applicability conclusion for each entity so the answer survives staff changes.

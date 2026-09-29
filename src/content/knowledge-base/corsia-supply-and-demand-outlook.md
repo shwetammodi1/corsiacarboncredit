@@ -1,123 +1,89 @@
 ---
-title: "CORSIA Supply and Demand: Why a Shortfall Is Projected"
-excerpt: "Demand rises on a known schedule while supply depends on unpredictable government decisions. What drives each side, why analyses keep projecting a shortfall, and what buyers and sellers should do about the asymmetry."
+title: "CORSIA Supply and Demand Outlook: Why Eligible Units May Run Short"
+excerpt: "Demand for CORSIA units grows on a published timetable, while supply waits on government authorisations nobody can forecast. Why studies keep pointing to a gap, and how buyers and developers should respond."
 section: "Market & Pricing"
 order: 22
 image: "/images/corsia/hero-corsia-market.svg"
 ---
 
-The structural feature of the CORSIA market is an asymmetry: **demand rises on a schedule everyone can read, while supply depends on decisions dozens of governments have not yet made.** Every credible analysis of the balance reaches the same qualitative conclusion.
+One side of the CORSIA market runs on a timetable. The other runs on the decisions of dozens of governments, most of which have not yet been taken. That mismatch, more than any price chart, is what anyone buying or selling eligible units needs to understand. Serious studies of the balance keep landing on the same broad conclusion: supply is likely to trail demand.
 
-![The CORSIA market](/images/corsia/hero-corsia-market.svg)
+![Illustration of the CORSIA unit market](/images/corsia/hero-corsia-market.svg)
 
-## The Demand Side Is Predictable
+## Demand: already written into the scheme
 
-Three forces push demand up, all of them scheduled rather than speculative.
+Nothing in the demand picture waits on a future decision. It is built into CORSIA's design.
 
-| Force | Timing | Effect |
-|---|---|---|
-| Traffic growth above the 2019 baseline | Continuous | Raises the sectoral growth factor |
-| Mandatory second-phase participation | From 2027 | Expands covered route pairs substantially |
-| Individual growth factor weighting | From 2030, again 2033 | Raises obligations for faster-growing carriers |
+- **All the time:** traffic growing above the 2019 baseline lifts the sectoral growth factor.
+- **From 2027:** participation becomes mandatory in the second phase, and many more route pairs are covered.
+- **From 2030, and again from 2033:** the individual growth factor carries more weight, raising obligations for carriers that grow faster than the sector.
 
-None of these depends on a decision still to be taken. They are in the scheme's design.
+The 2027 change is the largest single step. A route that produces no obligation today because one end is in a non-participating State starts to count. For an airline with heavy traffic to such States, the obligation may multiply, not just rise. The dates are set out in [CORSIA phases and timeline](/knowledge-base/corsia-phases-and-timeline/).
 
-The second is the largest single step. Routes that generate no obligation today, because one end is non-participating, begin to count. For carriers with significant traffic to currently non-participating States, the obligation can multiply rather than merely increase.
+## Supply: three gates, one of them political
 
-## The Supply Side Is Not
+A unit reaches CORSIA only if the project sits under an ICAO-approved crediting programme, the unit falls in an eligible vintage window, and the host government has authorised a corresponding adjustment.
 
-Supply of CORSIA-eligible units requires all of:
+The first two are administrative hurdles. The third is a sovereign choice, and that is where supply gets stuck.
 
-1. A project under an **ICAO-approved crediting programme**
-2. Units in an **eligible vintage window**
-3. A **host-State corresponding adjustment**
+::: accordion Why governments hesitate
+Authorising an adjustment means the host country adds those tonnes back into its national accounts and can no longer count them towards its Nationally Determined Contribution.
 
-The first two are administrative. The third is sovereign, and it is the bottleneck.
+Each government weighs that against the investment and revenue on offer, and they reach different conclusions. Some authorise freely. Some authorise only certain project types. Some attach fees or revenue-sharing terms. Many have no designated authority or published procedure at all, which in practice means no, whatever their stated intentions.
 
-::: accordion Why the third condition dominates
-Authorising a corresponding adjustment means the host State adds those tonnes back into its own national accounting, forgoing them against its Nationally Determined Contribution.
-
-Governments weigh that against investment and revenue, and reach different answers. Some authorise readily. Some authorise selectively by project type. Some attach fees or revenue-sharing conditions. Many have no designated authority or published process at all — which functionally means no, regardless of stated intent.
-
-None of this is forecastable. It depends on how ambitious each NDC is, how much cheap domestic mitigation remains, whether a domestic carbon market is being built, and political judgement about the trade.
-
-See [corresponding adjustments](/knowledge-base/corresponding-adjustments-article-6/).
+How each will behave depends on how ambitious its NDC is, how much cheap mitigation it has left at home, whether it is building a domestic carbon market, and plain political judgement. None of that can be forecast reliably. [Corresponding adjustments and Article 6](/knowledge-base/corresponding-adjustments-article-6/) covers the mechanics.
 :::
 
-## Why Analyses Keep Projecting a Shortfall
+## Why the studies keep pointing the same way
 
-Assessments of CORSIA supply and demand have repeatedly concluded that adjusted supply is likely to lag obligations, particularly as second-phase demand arrives.
+Different assessments use different numbers but share the same reasoning:
 
-The reasoning is consistent across them:
-
-- Most existing credits **predate Article 6 mechanics** and were designed without authorisation in mind
-- The share of global supply carrying an adjustment is, by every estimate, a **small minority**
-- New projects take **eighteen months to three years** from concept to first issuance
-- **Authorisation is the least predictable step** in that timeline
-- Corporate voluntary buyers **compete for the same adjusted pool**
-- Demand's increase is **scheduled and known**
-
-Whether an actual shortfall materialises depends on how many governments choose to authorise, and how quickly. Nobody can predict that with confidence, and anyone presenting a specific supply forecast as settled should be treated with suspicion.
-
-## What an Asymmetric Risk Means in Practice
-
-The risk is not symmetric. Supply could improve faster than expected, in which case prices soften and a buyer who purchased forward has slightly overpaid. Or supply could fall short, in which case a buyer who waited faces high prices, thin availability, and an unmet legal obligation.
-
-Those outcomes are not equally bad. That asymmetry, rather than any price forecast, is the argument for acting early.
-
-## What Buyers Should Do
-
-::: accordion Acquire progressively rather than at the deadline
-Every operator in the scheme reaches its purchasing decision in the same window at the end of a compliance period. Buying across the period averages price exposure and avoids competing with the entire sector simultaneously.
-
-The cost is committing before the final number is confirmed — which argues for buying a conservative portion early and reserving the final window for reconciliation.
-:::
-
-::: accordion Contract forward selectively
-Forwards secure existence, not merely price. In an illiquid market that is the more valuable property. Allocate authorisation, vintage and delivery risk explicitly in the agreement.
-:::
-
-::: accordion Diversify deliberately
-Across programmes, host States, project types and vintages. Concentration in any one is concentration of regulatory risk, and programme approvals have lapsed and vintage windows have moved.
-:::
-
-::: accordion Reduce the obligation itself
-Fuel efficiency and qualifying SAF both lower the requirement. A tonne not owed is a tonne you never have to source, at any price and in any market condition. See [how SAF reduces your requirement](/knowledge-base/saf-and-corsia-offsetting-reduction/).
-:::
-
-::: accordion Contract for unavailability
-What happens if supply cannot be sourced? Silence allocates that risk to you. It is a foreseeable scenario and belongs in the agreement.
-:::
-
-## What Sellers Should Do
-
-**Resolve authorisation first, before anything else.** It is the gate. A project that is technically excellent and fully verified may still be unable to supply CORSIA, and discovering that after spending a validation budget is the most expensive avoidable mistake in this market.
-
-**Work backwards from the demand ramp.** Second-phase demand arrives on a known date. A new project needs eighteen months to three years to first issuance. Developers targeting that demand need to be moving on authorisation now — waiting until demand is visible means arriving after ready supply has been contracted.
-
-**Keep a voluntary fallback.** Design for eligibility while retaining the option to sell without an adjustment. If authorisation arrives you capture the premium; if it does not, the project still reaches a market. This costs little at design stage and is very hard to retrofit.
-
-**Build the documentation package as you go.** Buyers reject on documentation gaps as often as on project quality.
-
-## Signals Worth Tracking
-
-| Signal | Where |
+| Factor | What it means for supply |
 |---|---|
-| Programme approvals and conditions | ICAO CORSIA emissions units page |
-| Vintage window decisions | ICAO Council decisions |
-| State participation changes | ICAO participation list |
-| Article 6 authorisation practice | UNFCCC Article 6 reporting; host-State announcements |
-| Domestic carbon market developments | National policy, where they compete for the same outcomes |
+| Most credits in existence were created before Article 6 rules | They were never designed to carry an authorisation |
+| Adjusted units are a small minority of global supply on every estimate | The eligible pool starts small |
+| A new project takes eighteen months to three years to first issuance | New supply arrives slowly |
+| Authorisation is the least predictable step in that timeline | Even the slow arrival is uncertain |
+| Corporate voluntary buyers want the same adjusted units | Airlines are not the only bidders |
+| Demand growth is fixed and public | The gap widens on a known date |
 
-Capture what these say on the date you rely on them. Published positions change, and a link is not evidence of what a page said on the day.
+Whether a real shortfall occurs depends on how many governments authorise, and how fast. No one knows. Treat any supply forecast presented as settled with suspicion.
 
-## Where to Go Next
+## The risk is lopsided
 
-- [CORSIA credit pricing](/knowledge-base/corsia-credit-pricing/) — the price consequence
-- [The CORSIA market](/knowledge-base/corsia-market-structure/) — how to transact in it
-- [Corresponding adjustments](/knowledge-base/corresponding-adjustments-article-6/) — the bottleneck
-- [CORSIA phases and timeline](/knowledge-base/corsia-phases-and-timeline/) — the demand schedule
+| | Supply turns out loose | Supply turns out tight |
+|---|---|---|
+| **Operator bought early** | Paid a little more than it needed to | Holds the units it needs |
+| **Operator waited** | Buys cheaply | Faces high prices, little on offer and a legal obligation it may not meet |
 
-Current positions are published by [ICAO](https://www.icao.int/environmental-protection/CORSIA/Pages/CORSIA-Emissions-Units.aspx).
+Three of those outcomes are tolerable. One is not. That imbalance, not a price prediction, is the case for moving early. The price effects are discussed in [CORSIA credit pricing](/knowledge-base/corsia-credit-pricing/).
 
-DSTechnoverse works both sides of this market. [Talk to our team](/contact/) or [apply as a CORSIA buyer or seller](https://carboncredit.dstechnoverse.com/).
+## Checklist for operators
+
+- **Buy through the period.** Every operator hits its purchasing decision at the end of the same compliance period. Buying in stages averages your exposure and avoids bidding against the whole sector at once. Since the final figure is not confirmed until late, buy a cautious share early and keep the last window for topping up.
+- **Use forwards where you are confident.** In a thin market, a forward's main value is that the units will exist for you. Spell out who carries authorisation, vintage and delivery risk.
+- **Spread the risk.** Mix programmes, host countries, project types and vintages. Approvals have lapsed and windows have moved before.
+- **Cut the obligation.** Fuel efficiency and eligible SAF both reduce what you owe, and a tonne not owed never has to be found. See [how SAF reduces your offsetting requirement](/knowledge-base/saf-and-corsia-offsetting-reduction/).
+- **Write non-delivery into the contract.** If the seller cannot source the units, what happens? Leave it out and the problem is yours.
+
+## For developers, including in India
+
+**Deal with authorisation before anything else.** A project can be technically excellent and fully verified and still be unable to sell into CORSIA. Finding that out after paying for validation is the costliest avoidable error in this market. For an Indian developer, that means understanding early what the Government of India's authorisation route requires for your project type.
+
+**Plan backwards from 2027.** The second-phase demand arrives on a known date and a new project needs eighteen months to three years to first issuance. Developers who wait until the demand is visible will find the ready supply already contracted.
+
+**Keep the voluntary option.** Design the project to qualify while keeping the ability to sell without an adjustment. If authorisation comes, you earn the premium; if not, you still have a market. This is cheap at the design stage and very hard to add later. Indian developers should also keep an eye on the domestic scheme, CCTS, since a domestic market can compete for the same outcomes.
+
+**Assemble documents as you go.** Buyers turn down projects for missing paperwork about as often as for project quality.
+
+## What to watch
+
+- ICAO's [CORSIA emissions units page](https://www.icao.int/environmental-protection/CORSIA/Pages/CORSIA-Emissions-Units.aspx) for programme approvals and their conditions.
+- ICAO Council decisions on vintage windows.
+- ICAO's list of participating States.
+- UNFCCC Article 6 reporting and host-country announcements on authorisation practice.
+- National policy on domestic carbon markets.
+
+When you rely on any of these, save a copy of what it said that day. Published positions change, and a link does not prove what a page once showed.
+
+Whether you are sizing a purchase programme or deciding when to pursue authorisation, we can walk through the numbers with you. See what the desk offers on our [services page](/services/).

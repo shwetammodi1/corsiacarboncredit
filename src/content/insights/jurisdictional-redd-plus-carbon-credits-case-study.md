@@ -1,71 +1,70 @@
 ---
-title: "Jurisdictional REDD+ Carbon Credits: An Integrity Case Study"
-excerpt: "REDD+ forestry credits have driven both the biggest volumes and the biggest controversies. A case study in verifying baselines, permanence, leakage and host-country authorisation before a jurisdictional REDD+ purchase."
+title: "Jurisdictional REDD+ Case Study: Separating Authorised Credits From Pipeline"
+excerpt: "An anonymised, representative review of a large jurisdictional REDD+ offer. How we tested the baseline, buffer and leakage, and why confirming host-country authorisation split the allocation into two very different halves."
 date: "2026-09-08"
 topic: "Case Studies"
 tags: ["jurisdictional REDD+","REDD+ carbon credits","ART-TREES","forestry carbon credits","permanence and leakage","corresponding adjustment"]
 image: "/images/carbon-case-studies/redd-plus-integrity.svg"
 ---
 
-Few credit types carry as much promise, or as much scrutiny, as forestry. **Jurisdictional REDD+** — reducing emissions from deforestation and forest degradation across a whole state or country rather than a single project — offers large volumes and a genuine climate story. It has also been at the centre of the market's hardest integrity debates. This representative case study shows how a jurisdictional REDD+ offer is checked before a buyer relies on it.
+The offer arrived with three reassurances: a recognised programme, accounting across an entire jurisdiction, and, in the seller's words, host-country authorisation already in place. The credits were jurisdictional REDD+, issued under a forest-carbon standard such as ART-TREES, and the allocation was large. Our job was to check all three reassurances ourselves.
 
-## The Brief
+## Why the jurisdictional label matters, and why it is not enough
 
-A buyer was offered a substantial allocation of jurisdictional REDD+ credits issued under a forest-carbon standard such as ART-TREES. The offer looked strong on paper: a recognised programme, a whole-jurisdiction accounting boundary, and — the seller said — host-country authorisation in place. Our mandate was to verify the integrity and the authorisation independently, not to take the seller's word for either.
+REDD+ pays for reducing emissions from deforestation and forest degradation. Project-level REDD+ draws a boundary around one area, and some of those projects drew generous baselines that credited deforestation which was never going to happen. That criticism has followed the whole category.
 
-## The Four Questions That Decide a Forest Credit
+A **jurisdictional** programme accounts across a whole state or country instead. That makes it much harder to pick a convenient project area, and it catches some displaced logging inside the same boundary. It does not remove the need to test the numbers. REDD+ offers high volumes and a real climate case, and it has also hosted the market's hardest integrity arguments, so buyers are right to look closely.
 
-Forestry credits live or die on four technical judgements. We worked through each.
+## Our findings, question by question
 
-### Baseline credibility
+::: accordion Was the baseline conservative?
+A REDD+ credit is measured against the deforestation expected without the programme. An inflated expectation creates reductions on paper only.
 
-A REDD+ credit is measured against a **baseline** — what deforestation *would* have happened without the programme. Inflate that baseline and you manufacture reductions that never occurred; this is precisely the criticism that has dogged some project-level REDD+. The jurisdictional approach helps, because the accounting boundary is a whole state rather than a cherry-picked project area, but the baseline still has to be conservative and evidence-based. We examined how it was set and how recently it had been reset.
+We looked at how the reference level was built, what historical data it relied on, and how recently it had been reset. A jurisdiction-wide baseline is harder to game than a project one, but it still has to be evidence-based and cautious. This one held up to review.
+:::
 
-### Permanence and the buffer
+::: accordion Was permanence properly protected?
+A tonne kept in a forest that later burns or is cleared was never really reduced. We checked the length of the monitoring commitment and the contribution to the **buffer pool**, the reserve that standards withhold to cover reversals. Our test is proportion: a thin buffer against high reversal risk is a warning sign. Here the buffer was adequate for the risk profile.
+:::
 
-A tonne stored in a forest that later burns or is cleared has not been reduced. We checked the **permanence** provisions: the length of the monitoring commitment and the contribution to a **buffer pool** — the shared reserve that standards hold back to cover reversals. A thin buffer against a high reversal risk is a red flag.
+::: accordion Was leakage measured and deducted?
+If protection in one district pushes clearing into the next, emissions have moved rather than fallen. A jurisdictional boundary absorbs some of that, but not leakage across the border. We looked for a measured leakage figure and a deduction, not an assumption that it was zero.
+:::
 
-### Leakage
+::: accordion Was the authorisation real?
+For the buyer's intended use, each unit needed a host-country **Letter of Authorisation (LoA)** and a **corresponding adjustment**, meaning the government deducts the traded tonnes from its national total under Article 6 so the reduction is claimed once.
 
-If protecting one area simply pushes logging into the next valley, the emissions have **leaked** rather than been avoided. We looked at how leakage was measured and deducted, since a jurisdictional boundary reduces but does not eliminate the risk.
+We checked status against the published source. It did not fully match the seller's description. Part of the allocation was authorised. Part was what we call *arrangeable*: credible, and likely to be authorised, but not yet authorised.
+:::
 
-### Authorisation and double counting
+## The split
 
-This is where many forestry offers stall. For the buyer's intended use, the unit needed a host-country **Letter of Authorisation (LoA)** and a **corresponding adjustment** — the government formally deducting the traded tonnes from its own national total under Article 6, so the same reduction is not counted twice. We verified that status against the published source. As with many forestry offers, part of the pipeline turned out to be *arrangeable* rather than *authorised* — credible, but pending authorisation, and therefore not yet safe to rely on for a compliance claim.
+| Portion | Status | What the buyer did |
+|---|---|---|
+| Authorised, with corresponding adjustment | Conservative baseline, adequate buffer, LoA confirmed | Cleared for retirement in the buyer's name, with an evidence pack |
+| Pipeline, awaiting authorisation | Genuine units, no LoA yet | Kept out of the compliance claim; recorded as indicative only |
 
-## What the Review Produced
+That distinction between *authorised now* and *pending authorisation* was the most valuable output of the review. Buyers who contract the whole allocation as if it were all authorised end up with volume they cannot use for the purpose they bought it for. The same principle runs through [corresponding adjustment risk and how to contract for it](/insights/corresponding-adjustments-corsia-explained/).
 
-The output was a clear split between what was ready and what was still pending. The authorised, corresponding-adjusted portion, backed by a conservative baseline and an adequate buffer, was cleared for retirement in the buyer's name with an evidence pack. The pipeline portion — genuine, but awaiting host-country authorisation — was kept out of the compliance claim and flagged as indicative only.
+## What we would carry into the next REDD+ review
 
-That distinction, *authorised now* versus *pending authorisation*, is the single most useful thing a REDD+ buyer can get straight before contracting.
+- Treat the jurisdictional boundary as a strength, then test the baseline anyway.
+- Judge the buffer against the reversal risk, not in isolation.
+- Look for a leakage number with a deduction attached.
+- Read "authorisation in place" as a claim to verify from the source, every time.
 
-## Key Takeaways
+The double-counting rules that make authorisation decisive for aviation buyers are set out in [CORSIA eligible emissions units](/insights/corsia-eligible-emissions-units-explained/), and forest project risks more generally in [REDD+ and afforestation carbon projects](/insights/redd-and-afforestation-carbon-projects/).
 
-- A **jurisdictional** boundary strengthens the baseline story but does not remove the need to check it.
-- **Permanence** depends on the monitoring period and a real buffer pool, not a promise.
-- **Leakage** must be measured and deducted, not assumed away.
-- For compliance use, verify the **LoA and corresponding adjustment** against the live source — never on the seller's assertion.
+## Short answers
 
-The same double-counting logic runs through [CORSIA eligible emissions units](/insights/corsia-eligible-emissions-units-explained/).
+**What is jurisdictional REDD+?** REDD+ accounted across a whole state or country rather than one project area.
 
-## Frequently Asked Questions
+**Why is REDD+ controversial?** Some project baselines overstated the deforestation that would otherwise have happened.
 
-**What is jurisdictional REDD+?** A REDD+ programme accounted at the level of a whole state or country, rather than a single project, which reduces baseline-gaming and leakage risk.
+**What does "pending authorisation" mean?** The units exist, but the host country has not yet issued the LoA and corresponding adjustment a compliance claim needs.
 
-**Why has REDD+ been controversial?** Mainly because some project baselines over-estimated the deforestation that would otherwise have occurred, inflating credit volumes.
+**Can these credits be used for CORSIA?** They can, where the programme is approved and the units carry the authorisation and adjustment required for the phase.
 
-**What is a buffer pool?** A shared reserve of credits standards withhold to cover reversals such as fire or clearance, protecting the integrity of issued units.
+Forestry offers often arrive with authorisation described more confidently than the record supports. If you have one in hand, [send it to us](/contact/) and we will check status against the source before you sign.
 
-**What does "pending authorisation" mean?** The credits are real but the host country has not yet issued the Letter of Authorisation and corresponding adjustment needed for a compliance claim.
-
-**Do jurisdictional REDD+ credits qualify for CORSIA?** They can, where the programme is approved and the units carry the required authorisation and corresponding adjustment for the phase.
-
----
-
-**Evaluating carbon credits across standards and project types?** DSTechnoverse works on the data and integrity side of carbon procurement — project screening, registry and eligibility verification, MRV and monitoring-data analysis, reconciliation and defensible reporting. See our [CORSIA carbon credit services](/services/) and [data analytics](https://dstechnoverse.com/services/data-analytics). We are based in **Indore, Madhya Pradesh** and work across India and internationally.
-
-[Apply as a carbon credit buyer or seller](https://carboncredit.dstechnoverse.com/)
-
-[Talk to our team](/contact/), or start with [the complete carbon credits guide](/insights/corsia-carbon-credits-complete-guide/).
-
-*This is an anonymised, representative case study that illustrates our approach. It does not identify any specific client, project, price or transaction.*
+*This is an anonymised, representative case study that illustrates our approach. It does not identify any client, project, price or transaction.*

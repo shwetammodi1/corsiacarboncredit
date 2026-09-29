@@ -1,159 +1,99 @@
 ---
-title: "How to Engage a CORSIA Consultant: Four Models and When Each Fits"
-excerpt: "Assessment, build, annual cycle or transaction — buying the wrong shape of advisory is the most common procurement error in CORSIA. What each model covers, what it should cost, and the sequencing that avoids paying twice."
+title: "CORSIA Consultant Engagement Models: Assessment, Build, Annual Cycle and Transaction"
+excerpt: "CORSIA advice comes in four shapes, and buying them in the wrong order is the costliest procurement mistake. What each model delivers, a three-year sequence for an illustrative operator, and how to make the annual engagement shrink."
 date: "2026-09-01"
 topic: "Airline Compliance"
-tags: ["CORSIA consultant engagement","advisory models","CORSIA consulting India","retainer vs project","consultant scope","CORSIA advisory cost","procurement"]
+tags: ["CORSIA consultant engagement","advisory models","CORSIA consulting India","retainer vs project","consultant scope","knowledge transfer","procurement"]
 image: "/images/corsia-consultant/corsia-engagement-models.svg"
 ---
 
-Most disappointing CORSIA advisory engagements are not the result of a poor consultant. They are the result of buying the wrong shape of work, usually in the wrong order.
+When a CORSIA advisory relationship disappoints, the consultant is usually not the problem. The operator bought the wrong kind of work, or the right kinds in the wrong order. A large ongoing arrangement signed before anyone checked the data; a monitoring plan written before anyone tested what the fuel records could support; unit sourcing folded into a general retainer with no one answerable for eligibility.
 
-![Ways to engage a CORSIA consultant](/images/corsia-consultant/corsia-engagement-models.svg)
+It helps to think of CORSIA advice as four separate purchases rather than one. Each answers a different question and has its own natural length.
 
-## The Four Models
+![The four ways to engage a CORSIA consultant](/images/corsia-consultant/corsia-engagement-models.svg)
 
-| Model | Answers | Typical duration |
-|---|---|---|
-| Assessment | Are we in scope, and what state are we in? | 1-4 weeks |
-| Build | Establishing the machinery that then runs | 2-4 months |
-| Annual cycle | Recurring reporting and verification support | Ongoing, seasonal |
-| Transaction | Sourcing and executing a unit purchase | Episodic |
+## Four purchases, four questions
 
-They are sequential more often than parallel, and the sequence matters.
+- **Assessment** answers: are we in scope, and what state are we in? Typically one to four weeks.
+- **Build** answers: what machinery do we need, and can someone set it up? Typically two to four months.
+- **Annual cycle** answers: who helps us through reporting and verification each year? Ongoing and seasonal.
+- **Transaction** answers: who helps us buy and cancel units when we need to? Episodic.
 
-## 1. Assessment
+They are usually bought one after another, and the order matters more than the choice of firm.
 
-**What it covers.** Scope and threshold determination, entity identification, data readiness testing, gap analysis against what verification will test, and a view on feasibility and effort.
+## Worked example: one operator over three years
 
-**What it produces.** A written position with a prioritised list of what needs doing, sized in days.
+The operator here is **illustrative**. Operator Z is an Indian carrier that has just crossed the 10,000-tonne international emissions threshold after adding routes to the Gulf.
 
-**When it fits.** First. Almost always first.
+**Months 1–2: assessment.** Operator Z commissions a bounded assessment. It covers scope and threshold, identifies the operator entity for each certificate, tests one month of real fuel data, and runs a gap analysis against what a verifier will test. The output is a written position and a prioritised list of work sized in days. It finds that uplift data from two outstations arrives weeks late and in inconsistent formats, which rules out the monitoring method the team had assumed.
 
-**Why it comes first.** It is cheap relative to everything else and it prevents committing budget to the wrong work. An operator who discovers at assessment that they are below the threshold has saved the entire remaining programme.
+The assessment must be capable of concluding that things are in reasonable order. Had Operator Z been below the threshold, it would have saved the whole remaining programme. A firm that will not start with a bounded diagnostic, or whose diagnostics always end in a large follow-on engagement, is not offering a diagnostic.
 
-**The signal to watch for:** a consultant unwilling to start with a bounded assessment, or one whose assessment always concludes that a large follow-on engagement is required. A genuine diagnostic must be capable of concluding that you are in reasonable shape.
+**Months 3–6: build.** The consultant drafts the monitoring plan around a method the data can support, handles the DGCA engagement, builds the data pipeline, writes the reconciliation rules, sets up the evidence structure and a decision log, and trains the staff who will run it. Operator Z names its finance manager as internal counterpart for the whole build, sitting alongside the consultant rather than receiving the output at the end.
 
-## 2. Build
+Operator Z owns everything produced: the working papers, the rules, the reasoning, not a summary PDF. This is where outside help earns most, because the work is specialised and the outputs last. A build that leaves the logic inside the consultant's own spreadsheet has created a dependency, not a capability.
 
-**What it covers.** The monitoring plan, authority engagement, the data pipeline, reconciliation rules, the evidence structure, and role-based training on what was built.
+**Year 1: annual cycle, full support.** The consultant supports data collection, report compilation, verifier liaison and the requirement calculation. In the second month, with the consultant available but not leading, the internal counterpart runs the monthly reconciliation. (Not the first month, when everything is new; not the twelfth, when habits have set.)
 
-**What it produces.** Artefacts that persist — an approved plan, documented rules, a working pipeline, a decision log format.
+**Year 2: annual cycle, reduced.** Before cutting support, Operator Z tests the handover: the internal team produces the monthly figure end to end and explains it. They can, so the consultant moves to review before verification.
 
-**When it fits.** After assessment, before the reporting year.
+**Year 3: on call, plus a transaction.** Offsetting now applies on some routes, so Operator Z engages transaction support separately: requirement calculation, sourcing, due diligence, contract support and registry execution. The contract states who bears the loss if sourced units prove ineligible.
 
-**The critical term:** **you own the artefacts.** Not a summary, not a PDF — the working papers, the rules, the reasoning. A build engagement that leaves the logic in the consultant's model rather than in your documentation has created a dependency, not a capability.
+The taper from full to reduced to on-call was written into the original contract, which made it a commitment rather than a hope. The engagement cost more in year one and noticeably less over three years.
 
-This is where an operator gets the best return from external help, because the outputs are durable and the work is genuinely specialised.
+## Each model in more detail
 
-## 3. Annual Cycle
+::: accordion Assessment
+**Covers:** scope and threshold determination, operator entity identification, data readiness testing, gap analysis, and a view on effort. **Produces:** a written position and a prioritised, sized work list. **Comes:** first, nearly always, even if you already know you are in scope, because data readiness is what decides whether the monitoring plan will work. See [CORSIA gap analysis](/insights/corsia-gap-analysis-service/).
+:::
 
-**What it covers.** Recurring support through data collection, report compilation, verification liaison and requirement calculation.
+::: accordion Build
+**Covers:** monitoring plan, authority engagement, data pipeline, reconciliation rules, evidence structure, role-based training. **Produces:** lasting artefacts you own. **Comes:** after assessment, before the reporting year. Buying a build without an assessment gives you a well-written plan resting on an untested assumption about your data.
+:::
 
-**When it fits.** Where internal capacity genuinely does not exist, and **after** the build.
+::: accordion Annual cycle
+**Covers:** recurring support through collection, compilation, verification liaison and requirement calculation. **Fits:** where internal capacity genuinely does not exist, and only after the build. Buying it before the build means paying every year to maintain a defective plan; the error resurfaces at every verification. An annual engagement that never shrinks is not transferring anything.
+:::
 
-**The trap:** buying the annual cycle before the build. Recurring support wrapped around a defective monitoring plan is expensive maintenance of a problem rather than a fix. If the plan is wrong, no amount of annual support corrects it — the error surfaces at verification every year.
+::: accordion Transaction
+**Covers:** requirement calculation, supply identification, pre-purchase diligence, contract support and registry execution. **Fits:** when a purchase is genuinely close. The key term is risk allocation: if sourced units turn out to be ineligible, who absorbs the loss? Agree it in writing, separately from any compliance scope. The buying process itself is set out in [procuring CORSIA units in India](/insights/corsia-unit-procurement-process-india/).
+:::
 
-**Watch for scope creep** in the other direction too. Once the build is done and the pipeline works, much of the annual cycle is work an internal team can run. An engagement that never shrinks is an engagement that is not transferring capability.
+## Retainers: one good kind, one bad
 
-## 4. Transaction
+An open retainer with loose scope suits the consultant more than the client. There is one version worth paying for: a **market and regulatory watch**, tracking ICAO Council decisions on programme approvals and vintage windows, participation changes and supply conditions, with a defined output such as a quarterly note and availability when something material happens. Priced modestly and defined like that, it earns its place.
 
-**What it covers.** Requirement calculation, supply identification, pre-purchase due diligence, contract support, and registry execution.
+"Ongoing support" with no stated deliverable does not. If you cannot say what you receive each month, you are paying for availability, not work.
 
-**When it fits.** When a purchase is actually imminent.
+## Two expensive sequences to avoid
 
-**The term that matters most is risk allocation.** If the consultant sources units that prove ineligible, who absorbs that? Agree it in writing before the engagement, separately from any compliance scope. Bundling sourcing into a general advisory retainer leaves the question unanswered until it matters.
+**Starting with the big ongoing arrangement.** It feels like covering the risk. It costs more, transfers less, and leaves the assessment undone.
 
-## On Retainers
+**Building without assessing.** The plan may read well, but it rests on an unchecked assumption about what your data can do.
 
-Open-ended retainers with vague scope suit the consultant more than the client.
+The sound order is: assess, build, run internally, and bring in transaction support when you are buying.
 
-There is a legitimate version: **market and regulatory watch**. Tracking ICAO Council decisions on programme approvals and vintage windows, participation changes, and supply conditions — with a defined output such as a quarterly note and availability when something material happens. Define it as that, with a modest fee, and it earns its place.
+## Reading the proposal for each model
 
-What does not earn its place is "ongoing support" with no defined deliverable. If you cannot state what you receive each month, you are buying availability rather than work.
+The written proposal shows what the conversation hides. Look for these gaps:
 
-## Sequencing to Avoid Paying Twice
+| What you see | What it usually means |
+|---|---|
+| Scope written only as verbs: support, assist, advise, manage | You will not know what you hold at the end, and neither will they |
+| A monitoring proposal that never asks to see your fuel and flight records | Written from a template; the method cannot be chosen from a conversation |
+| Generic talk of market volatility, nothing on vintages, approvals, authorisation or participation | Scheme-specific risks not considered |
+| A unit price with no vintage, programme, volume or authorisation status | A number with nothing behind it |
+| A timetable that treats DGCA review, verifier slots, registry onboarding and host-State authorisation as instant | Third parties not thought about |
+| No named team | Sold by a partner, delivered by someone you have not met |
+| Nothing on working papers | Ask before signing whether the reasoning is yours |
 
-**Assess, then build, then run internally, with transaction support when purchasing.**
+## What stays with you, whichever model you buy
 
-The most common expensive pattern is the reverse: engaging a large ongoing arrangement first, because it feels like covering the risk. It costs more, transfers less capability, and leaves the underlying assessment undone.
+- **Ownership of the obligation.** A consultant can prepare; only the operator is accountable.
+- **Understanding of your own data.** If nobody internal can explain the fuel figures, verification will be painful whoever wrote the report.
+- **The power to decline a purchase.** Diligence that cannot stop a transaction is not diligence.
 
-A second pattern worth avoiding is buying the build without the assessment. It produces a monitoring plan that may be well written and built on an untested assumption about what your data can support.
+One firm can cover all four advisory models. It cannot also verify, since verification must be independent of anyone who advised, so plan for two suppliers. For the fees attached to each model, see [CORSIA consultant fees in India](/insights/corsia-consultant-cost-and-fees-india/); for keeping the relationship inside a clear line of ownership, [CORSIA board reporting and governance](/insights/corsia-board-reporting-and-governance/).
 
-## Scoping the Contract
-
-**Define deliverables concretely.** "Compliance support" is not a deliverable. An approved monitoring plan, documented reconciliation rules, a verified emissions report, a documented requirement calculation, a completed cancellation — these are.
-
-**Allocate risk explicitly**, particularly on sourcing.
-
-**Require documentation standards.** Working papers, sources and reasoning delivered, and owned by you.
-
-**Name the team.** Sold by a partner, delivered by a junior is a familiar pattern. Ask who does the work and whether you will meet them.
-
-**Keep internal capability.** Someone in your organisation must be able to explain your own data. Outsourcing understanding is how organisations become permanently dependent, and the accountability cannot be outsourced regardless.
-
-## Judging a Proposal
-
-The written proposal reveals what the conversation does not.
-
-**Scope described only in verbs.** "Support", "assist", "advise" and "manage" are not deliverables. If you cannot tell from the document what you will hold at the end, neither will the consultant.
-
-**No request to see your data.** A proposal for monitoring work that does not ask to examine your actual fuel and flight records before recommending a method has been written from a template. The method decision cannot be made from a conversation.
-
-**Generic risk language.** Boilerplate about market volatility with no reference to vintage windows, programme approval status, host-State authorisation or participation change indicates the risks specific to this scheme have not been considered.
-
-**A price with no basis.** A CORSIA unit price quoted without stating the vintage, programme, volume and authorisation status is a number with nothing behind it.
-
-**A timeline that ignores third parties.** Authority review, verifier availability, registry onboarding and host-State authorisation all sit outside the consultant's control. A schedule treating them as instantaneous has not been thought through.
-
-**No named team.** Ask who does the work and whether you will meet them before signing.
-
-**Silence on working papers.** You need the reasoning, not just the conclusion. If the contract does not say the working papers are yours, ask before it is signed rather than after.
-
-## What to Keep In-House Regardless
-
-**Ownership of the obligation.** The operator is accountable. A consultant can prepare; they cannot be accountable.
-
-**Understanding of your own data.** If nobody internally can explain where the fuel figures come from, verification will be painful whoever wrote the report.
-
-**Authority to decline a transaction.** Diligence that cannot stop a purchase is not diligence.
-
-## Transferring Capability Deliberately
-
-The measure of a good build engagement is that the annual engagement afterwards is smaller. That does not happen by itself.
-
-**Name an internal counterpart** for the duration of the build, who sits alongside the consultant rather than receiving the output at the end. They will not do the specialist work; they will understand why each decision was made, which is what matters later.
-
-**Require the reasoning in writing**, not just the conclusion. A monitoring plan states the method; the working note explaining why that method was chosen against your data is what allows someone internal to defend it two years on.
-
-**Have the internal counterpart run the second month.** Not the first, when everything is new, and not the twelfth, when the habit is set. The second month, with the consultant available but not driving.
-
-**Agree a taper in the contract.** Full support for the first cycle, reduced for the second, on-call for the third. Writing it in makes the transfer a commitment rather than an intention.
-
-**Test the transfer.** Before the annual engagement reduces, have the internal team produce a figure end to end and explain it. If they cannot, the transfer has not happened and reducing the support will simply produce a gap.
-
-An engagement designed this way costs more in year one and materially less across three. One that is not tends to run at a constant level indefinitely, which is a comfortable arrangement for the consultant and an expensive one for the operator.
-
-## Frequently Asked Questions
-
-**What should a CORSIA consultant cost?** It varies with scope. Ask for scope-based pricing tied to defined deliverables rather than a day rate against an open scope. See [CORSIA consultant cost and fees](/insights/corsia-consultant-cost-and-fees-india/).
-
-**Can one firm do everything?** Advisory, yes. Verification, no — that requires independence from anyone who advised. Plan for two suppliers.
-
-**Should we start with an assessment even if we know we are in scope?** Yes. The scope question is only part of it; data readiness is the part that determines whether the monitoring plan will work.
-
-**How do we avoid becoming dependent?** Own the artefacts, keep a named internal owner, and expect the annual engagement to shrink as capability transfers.
-
-**Is a retainer ever worth it?** As a defined market and regulatory watch with a stated output, yes. As undefined ongoing support, rarely.
-
-**What if we have already engaged badly?** Get an independent view on the monitoring plan specifically. It is the document everything else depends on, and correcting it early is far cheaper than at verification.
-
-**Who should own the relationship internally?** Whoever owns the obligation. See [board reporting and governance](/insights/corsia-board-reporting-and-governance/).
-
----
-
-**Planning your CORSIA position?** DSTechnoverse provides [CORSIA carbon credit services](/services/) for Indian operators and project developers — scope and readiness assessment, monitoring plans, data pipelines, verification support, unit sourcing and second-phase modelling. We are based in **Indore, Madhya Pradesh** and work across India.
-
-[Apply as a CORSIA buyer or seller](https://carboncredit.dstechnoverse.com/)
-
-[Talk to our carbon markets team](/contact/) about your position.
+If you already have an engagement that feels mis-shaped, the monitoring plan is the place to start: an independent look at it now costs far less than correcting it at verification. [Ask the desk](/contact/) for a bounded review.

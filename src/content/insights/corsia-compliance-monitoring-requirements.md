@@ -1,77 +1,85 @@
 ---
-title: "CORSIA Compliance: Monitoring, Reporting and Verification Explained"
-excerpt: "Before an airline buys a single credit, it must prove its emissions. A practical guide to the CORSIA MRV cycle — the emissions monitoring plan, fuel-use methods, third-party verification and the annual deadlines."
+title: "CORSIA Monitoring and Reporting Requirements: The MRV Cycle for Operators"
+excerpt: "Most CORSIA effort goes into proving the emissions figure, not buying credits. How the monitoring plan, fuel method, annual report and verification fit together, with a worked conversion and common verifier findings."
 date: "2026-09-08"
 topic: "CORSIA Fundamentals"
 tags: ["CORSIA compliance","CORSIA MRV","emissions monitoring plan","aviation emissions verification","annual emissions report","ICAO"]
 image: "/images/corsia-markets/corsia-mrv-timeline.svg"
 ---
 
-Everyone talks about the credits. But the part of CORSIA that consumes most of an airline's compliance effort happens long before any unit is bought: proving, to an auditor's satisfaction, exactly how much CO2 it emitted. This is the MRV layer — Monitoring, Reporting and Verification — and getting it wrong invalidates everything downstream.
+On the first morning of a CORSIA verification, the verifier rarely asks about carbon credits. The questions are about fuel: where the uplift figures come from, why one aircraft's records have a gap in March, and whether the method in use matches the one the authority approved. The credit purchase that follows months later depends entirely on the answers.
 
-## Why MRV Comes First
+That is the MRV layer, short for monitoring, reporting and verification, and for most operators it is where the bulk of the compliance work sits.
 
-An offsetting obligation is a number, and that number is only as trustworthy as the data behind it. CORSIA therefore builds a rigorous measurement process ahead of any market activity. No verified emissions, no valid obligation; no valid obligation, no meaningful offsetting. MRV is the foundation the rest of the scheme stands on.
+## Why the measurement has to come first
 
-## The MRV Process, Step by Step
+An offsetting obligation is a figure calculated from emissions. If the emissions figure cannot be trusted, neither can the obligation, and cancelling units against it proves nothing. So CORSIA puts a formal measurement process in front of any market activity. Verified emissions come first; everything else is built on them. Our [knowledge base guide to MRV](/knowledge-base/corsia-mrv-explained/) covers the scheme design in more depth.
 
-The measurement side of CORSIA runs through four connected stages.
+## The documents and who handles each
 
-### The Emissions Monitoring Plan
+| Stage | What it is | Prepared by | Checked or approved by |
+|---|---|---|---|
+| Emissions Monitoring Plan | The operator's rulebook: covered flights, fuel method, handling of data gaps, systems and controls | Operator | National authority, before the monitoring year |
+| Fuel monitoring | Day-to-day recording of fuel use by the approved method | Operator | Internal controls, then the verifier |
+| Annual Emissions Report | Total covered emissions for the year, broken down as the scheme requires, with supporting records | Operator | Verification body |
+| Verification opinion | Independent view on completeness, correct method and freedom from material misstatement | Accredited verification body | Accepted by the State |
+| State submission | Verified report lodged with the authority | Operator | State, which aggregates and reports to ICAO |
 
-Compliance begins with an **Emissions Monitoring Plan (EMP)** — a document each covered operator prepares and has approved by its national authority *before* the monitoring year. The EMP specifies which flights are covered, which fuel-use monitoring method the operator will use, how data gaps will be handled, and the systems and controls that keep the data reliable. Think of it as the audit-ready rulebook the airline commits to in advance, so it cannot choose a convenient method after seeing the results.
+### The monitoring plan
 
-### Monitoring Fuel Burn
+The plan is agreed with the authority *before* the year it covers. That timing matters: the operator commits to a method in advance and cannot pick a more convenient one after seeing the numbers. For an Indian operator, the plan goes to the DGCA. What it must contain is set out in [the emissions monitoring plan](/knowledge-base/corsia-emissions-monitoring-plan/).
 
-CORSIA emissions derive from fuel burned, converted to CO2 with standard factors. Operators use one of several ICAO-defined **fuel-use monitoring methods** — for example, methods based on fuel uplift and tank readings, or on block-off/block-on fuel measurement. Larger operators typically use aircraft data; smaller ones may use a simplified estimation tool that ICAO provides. The chosen method must match what the EMP declared and must be applied consistently across the year.
+### Measuring fuel
 
-### Compiling the Emissions Report
+CORSIA emissions are calculated from fuel burnt, converted to CO2 with standard factors. ICAO defines several fuel-use monitoring methods, for example methods built on uplift and tank readings, or on fuel measured between block-off and block-on. Larger operators generally use aircraft data; smaller ones may use a simplified estimation tool that ICAO supplies. Whichever method is chosen must be the one in the plan and must be applied consistently all year. The options are compared in [fuel monitoring methods](/knowledge-base/corsia-fuel-monitoring-methods/).
 
-After the year closes, the operator assembles an **annual Emissions Report** from its monitored data: total covered emissions, broken down as CORSIA requires, with the documentation to support each figure. This is where weak data discipline during the year turns into a painful reconciliation exercise — missing uplift records or unexplained gaps have to be resolved before an auditor will sign off.
+### The report and the verifier
 
-### Independent Verification
+After year-end the operator compiles the Emissions Report from its monitored data. This is where loose habits during the year come back: missing uplift records and unexplained gaps must be resolved before a verifier will sign.
 
-The Emissions Report must be checked by an **accredited verification body** — an independent third party, not the airline's own staff. The verifier assesses whether the data is complete, the method was applied correctly, and the reported figure is free of material misstatement, then issues a verification opinion. Only a verified report is valid for the scheme. This independence is what gives states and ICAO confidence in aggregated figures they never see the raw data behind.
+The verifier is an accredited, independent body, never the operator's own staff. Only a verified report counts. That independence is what lets States and ICAO rely on totals built from data they never see.
 
-### Submission and the State's Role
+### The State's part
 
-The verified report goes to the operator's **state**, which implements CORSIA in national law, aggregates operator data, and reports to **ICAO**. States are the enforcement layer: they approve monitoring plans, oversee verification, and act on non-compliance. CORSIA is an ICAO framework, but the legal obligations land on operators through their national authorities.
+The State writes CORSIA into national law, approves monitoring plans, oversees verification, receives verified reports, aggregates them and reports to ICAO. It also acts when an operator falls short. The framework is ICAO's, but the legal duty reaches the operator through its own authority.
 
-## The Compliance Calendar
+## Worked example: fuel to CO2 (illustrative)
 
-The cycle is predictable, which is its saving grace:
+A hypothetical operator's approved method records 12,000 tonnes of Jet-A1 burnt on international flights during the year. The figure is illustrative.
 
-| Stage | Timing |
-|---|---|
-| Emissions Monitoring Plan approved | Before the monitoring year |
-| Monitor fuel use | Throughout the year |
-| Compile Emissions Report | After year-end |
-| Third-party verification | Following report compilation |
-| Submit verified report to the state | On the state's deadline |
-| Offsetting settled with cancelled units | Per the compliance-period schedule |
+- Conversion factor for Jet-A/Jet-A1: 3.16 tonnes CO2 per tonne of fuel.
+- 12,000 × 3.16 = 37,920 tonnes CO2.
 
-Only after this chain completes does the [credit-buying workflow](/insights/how-airlines-use-carbon-credits-corsia/) begin in earnest.
+That is well above the 10,000 tonne threshold, so full monitoring and reporting apply. The arithmetic is trivial. The work lies in proving that 12,000 is right: every uplift reconciled, every gap explained by the procedure in the plan, and every flight correctly classed as international or not.
 
-## Where Operators Get Caught Out
+## The year in sequence
 
-The recurring failures are mundane but costly: monitoring plans that do not match actual practice, fuel data with unexplained gaps, late engagement of a verifier, and treating verification as a formality rather than a real audit. None of these are exotic — they are the same data-governance failures that undermine any reporting regime, which is why building clean data pipelines during the year is the single highest-leverage investment an operator can make.
+1. **Before the year starts:** monitoring plan approved.
+2. **Throughout the year:** fuel monitored by the approved method, with monthly checks for gaps.
+3. **After year-end:** Emissions Report compiled.
+4. **Next:** third-party verification.
+5. **By the State's deadline:** verified report submitted.
+6. **On the compliance-period schedule:** offsetting settled by cancelling eligible units.
 
-## Frequently Asked Questions
+The cycle repeats every year, including years when nothing is owed. Once it is complete, the [credit side of the process](/insights/how-airlines-use-carbon-credits-corsia/) can proceed.
 
-**What does MRV stand for in CORSIA?** Monitoring, Reporting and Verification — the process of measuring emissions, reporting them and having them independently checked.
+## What verifiers find most often
 
-**What is an Emissions Monitoring Plan?** A document approved before the monitoring year that sets out which flights are covered and how the operator will monitor and report fuel use and emissions.
+- **A plan that no longer matches practice.** Systems or suppliers changed; the plan did not.
+- **Fuel records with unexplained holes.** Especially at outstations and with new handling agents.
+- **A verifier booked late.** Accredited bodies have limited capacity near deadlines.
+- **Treating verification as a formality.** It is an audit, and it will test samples back to source.
 
-**Who verifies an airline's emissions?** An accredited independent verification body, separate from the airline, which issues a formal opinion on the emissions report.
+None of these is exotic. They are ordinary data-governance failures, which is why a clean data pipeline built during the year is the most valuable single investment an operator can make.
 
-**Do small operators follow the same process?** They are covered above a threshold but may use simplified monitoring methods and tools that ICAO provides to reduce the burden.
+## Short answers
 
-**Who enforces CORSIA compliance?** The operator's state, which implements the scheme in national law, oversees verification and reports aggregated data to ICAO.
+::: accordion Do small operators follow the same process?
+Operators above the threshold are covered, but smaller ones may use simplified monitoring methods and an ICAO-supplied tool to reduce the load.
+:::
 
----
+::: accordion Who enforces compliance?
+The operator's State, under its national law. In India that is the DGCA.
+:::
 
-**Working on aviation emissions, CORSIA compliance or carbon credit due diligence?** DSTechnoverse handles the data side of carbon and environmental compliance — monitoring design, emissions reconciliation, verification support and defensible reporting. See our [CORSIA carbon credit services](/services/) and [data analytics](https://dstechnoverse.com/services/data-analytics). We are based in **Indore, Madhya Pradesh** and work across India and internationally.
-
-[Apply as a CORSIA buyer or seller](https://carboncredit.dstechnoverse.com/)
-
-[Talk to our team](/contact/), or start with [the complete carbon credits guide](/insights/corsia-carbon-credits-complete-guide/).
+If your monitoring plan was written before your systems or suppliers changed, it is worth a review before the next verification. Our [services page](/services/) sets out how we help with MRV, or you can [contact us](/contact/) directly.

@@ -1,97 +1,78 @@
 ---
-title: "National Authorities and CORSIA Enforcement"
-excerpt: "ICAO writes the standards but cannot fine an airline. How States implement CORSIA in domestic law, what national authorities do, how enforcement varies, and what an operator is actually accountable for."
+title: "CORSIA Enforcement and the Role of National Authorities"
+excerpt: "ICAO sets CORSIA's standards, but only a national authority can penalise an operator. How States write the scheme into their own law, which authority you answer to, how penalties differ, and where accountability sits."
 section: "Governance & India"
 order: 25
 image: "/images/corsia/corsia-governance.svg"
 ---
 
-ICAO writes the standards. It cannot fine an airline. Everything that actually binds an operator arrives through the law of the State responsible for it, which is why the obligation is uniform but the consequence of ignoring it is not.
+Operators sometimes ask what ICAO will do if they miss a CORSIA submission. The short answer is nothing directly. ICAO has no power to fine anyone. What binds an Indian airline is Indian law, applied by the DGCA; what binds a French airline is French law. That is why every operator faces the same obligation, while the price of ignoring it depends on where the operator is based.
 
-![Who decides what in CORSIA](/images/corsia/corsia-governance.svg)
+![Chart of who decides what in CORSIA](/images/corsia/corsia-governance.svg)
 
-## The Implementation Chain
+## From ICAO resolution to domestic law
 
-1. The **ICAO Assembly** adopts the scheme by resolution
-2. Standards are placed in **Annex 16, Volume IV** to the Chicago Convention
-3. **Member States** transpose those standards into national law
-4. The **national authority** administers and enforces against operators
+The obligation travels in four steps. The ICAO Assembly adopts the scheme by resolution. The detailed standards go into Annex 16, Volume IV to the Chicago Convention. Each Member State writes those standards into its own law. Then the national authority administers them and enforces against operators.
 
-Step 3 is where variation enters. States implement on their own timetable, through their own legislative instruments, with their own penalties and their own submission calendars.
+The third step is where States diverge. Each moves at its own pace, uses its own legal instruments, and sets its own penalties and filing dates. The ICAO bodies above this layer are described in [CORSIA governance](/knowledge-base/corsia-governance-icao-bodies/).
 
-## What the National Authority Does
+## Which authority is yours
 
-| Function | Detail |
-|---|---|
-| Approve the Emissions Monitoring Plan | Reviews for completeness, consistency, plausibility |
-| Receive Annual Emissions Reports | Verified reports, on the State's calendar |
-| Oversee verification | Recognition of accredited bodies, review of findings |
-| Report to ICAO | Aggregated data feeding the sectoral growth factor |
-| Receive Cancellation Reports | Closing the compliance loop |
-| Enforce | Under domestic law |
+As a rule, the State of the Operator: the State that issued your Air Operator Certificate.
 
-## Which State Is Responsible for You
+That is not necessarily the State where your aircraft are registered, and it is not the State where your parent company is headquartered. A group holding certificates in more than one country may answer to more than one authority.
 
-Generally the State that issued the operator's **Air Operator Certificate** — the State of the Operator.
+::: accordion Illustrative case: a group with two certificates
+Suppose an Indian group runs its main airline under an Indian AOC and a smaller subsidiary under a certificate issued in another country. The Indian airline deals with the DGCA. The subsidiary deals with the authority of the country that certificated it, under that country's law and filing calendar, even though the group's head office is in India.
 
-This is not always the State of registry of the aircraft, and it is not the State where the operator's parent company sits. For groups holding multiple certificates across jurisdictions, each certificate can bring a different authority into play.
-
-::: accordion Why this needs settling early
-Establishing which authority you answer to determines which submission calendar applies, which national implementing law binds you, and where your monitoring plan goes for approval.
-
-Operators with complex structures — multiple certificates, wet leases, franchise arrangements — should document the determination and the reasoning. It will be tested, and it is not a question you want to be resolving in a reporting window.
-
-See [CORSIA scope and thresholds](/knowledge-base/corsia-scope-and-thresholds/) for the related question of which entity is the operator.
+Structures involving several certificates, wet leases or franchise flying should have the answer worked out and written down, with the reasoning. It decides which filing calendar applies, which national law binds you and where your monitoring plan is submitted. It will be tested, and a reporting window is the wrong time to be debating it. The related question of which entity counts as the operator is covered in [CORSIA scope and thresholds](/knowledge-base/corsia-scope-and-thresholds/).
 :::
 
-## How Enforcement Varies
+## What the authority does through the year
 
-Because penalties are set nationally, they differ. Across implementing States they have included:
+Following the cycle in order:
 
-- Administrative financial penalties, sometimes scaled to the shortfall
-- Publication of non-compliance
-- Conditions or restrictions on operating permissions in serious cases
-- Escalating penalties for repeat failures
+1. **Approves your Emissions Monitoring Plan**, checking it for completeness, consistency and plausibility. See [the Emissions Monitoring Plan](/knowledge-base/corsia-emissions-monitoring-plan/).
+2. **Oversees verification**, recognising accredited bodies and reviewing their findings.
+3. **Receives your verified Annual Emissions Report** on the State's own calendar.
+4. **Passes aggregated data to ICAO**, which feeds into the sectoral growth factor.
+5. **Receives your Emissions Unit Cancellation Report**, closing the loop for the period.
+6. **Enforces** under national law where something has gone wrong.
 
-The practical point is not the specific instrument. It is that **enforcement is real, domestic and local to you**, and that a general statement about CORSIA penalties is meaningless without naming the State.
+## Penalties differ by country
 
-## Deadlines Are National
+Because each State sets its own sanctions, they vary. Among implementing States they have included administrative fines, sometimes scaled to the size of the shortfall; public naming of non-compliant operators; conditions on, or in serious cases restrictions to, operating permissions; and heavier penalties for repeat failures.
 
-Exact submission dates for monitoring plans, Annual Emissions Reports and Emissions Unit Cancellation Reports are set in national implementing law.
+The specific tool matters less than the fact that enforcement is real, domestic and applied by your own regulator. A general claim about "CORSIA penalties" means nothing until you name the State.
 
-> Check your authority's published calendar. Do not assume a date common to all States, and do not assume this year's date matches last year's.
+## Dates are set nationally too
 
-## What the Operator Is Accountable For
+The exact deadlines for monitoring plans, emissions reports and cancellation reports sit in each State's implementing law. Check your own authority's published calendar every year. Do not assume a single date applies everywhere, or that this year's date matches last year's. The general pattern is in [compliance periods and deadlines](/knowledge-base/corsia-compliance-periods-and-deadlines/).
 
-This is worth stating plainly, because it is frequently blurred by the number of parties involved.
+## Who carries the responsibility
 
-**The operator is accountable.** Not the consultant who prepared the report, not the verifier who checked it, not the broker who sourced the units.
+With so many parties involved, this gets blurred. It should not.
 
-A consultant can prepare a monitoring plan; the operator submits it and is bound by it. A verification body can verify; the operator remains responsible for the underlying data. An intermediary can source units; the operator carries the eligibility risk if they fail.
+| Party | What they do | What stays with the operator |
+|---|---|---|
+| Consultant | Drafts the monitoring plan, prepares reports | Submitting the plan and being bound by it |
+| Verification body | Checks the report | Responsibility for the underlying data |
+| Broker or intermediary | Sources units | The risk that a unit turns out ineligible |
+| Operator | Everything above | Everything above |
 
-::: accordion The practical consequence for how you resource this
-Something in your organisation must be able to explain your own data. If nobody internally can say where the fuel figures come from, how discrepancies were resolved, or why a particular unit was accepted, verification will be painful and enforcement exposure is real.
+::: accordion What this means for staffing
+Someone inside your organisation has to be able to explain your own numbers: where the fuel figures come from, how discrepancies were settled, why a given unit was accepted. If nobody can, verification will be hard work and your enforcement exposure is real.
 
-Outsourcing execution is normal and sensible. Outsourcing understanding is how organisations become unable to defend their own filings.
+Handing out the execution is normal and sensible. Handing out the understanding is how companies end up unable to defend their own filings.
 :::
 
-## Working With Your Authority
+## Working well with the DGCA, or any authority
 
-**Engage early on the monitoring plan.** Approval practice varies, and familiarity with a specific authority's emphases has genuine value. This is one of the few aspects of CORSIA that is meaningfully local.
+- **Start early on the monitoring plan.** Approval practice differs between authorities, and knowing what yours focuses on is worth a great deal. This is one of the few genuinely local parts of CORSIA.
+- **Ask in advance.** Where the implementing rules are unclear, authorities generally prefer a question beforehand to a correction afterwards.
+- **Keep a record.** Note guidance received, positions agreed and clarifications given. Years later, they are part of the evidence behind a decision.
+- **Flag problems before they bite.** An authority warned early about a supply difficulty or an open verification finding has room to respond. One that learns of it from a missed filing does not.
 
-**Ask rather than assume.** Where implementation detail is ambiguous, authorities generally prefer a question in advance to a correction afterwards.
+India-specific points are gathered in [CORSIA in India](/knowledge-base/corsia-in-india/). The standards themselves are published by [ICAO](https://www.icao.int/environmental-protection/CORSIA/Pages/default.aspx), and Indian operators can find the regulator at [dgca.gov.in](https://www.dgca.gov.in/).
 
-**Document interactions.** Guidance received, positions agreed, clarifications given. These become part of the evidence trail defending a decision years later.
-
-**Raise difficulties while they are still hypothetical.** An authority told in advance about a supply constraint or an unresolved finding has options available to it; one that discovers the same problem through a missed submission does not.
-
-## Where to Go Next
-
-- [CORSIA governance](/knowledge-base/corsia-governance-icao-bodies/) — the ICAO layer above this
-- [CORSIA in India](/knowledge-base/corsia-in-india/) — DGCA specifics
-- [The Emissions Monitoring Plan](/knowledge-base/corsia-emissions-monitoring-plan/) — the first submission
-- [Compliance periods and deadlines](/knowledge-base/corsia-compliance-periods-and-deadlines/) — the calendar
-
-Indian operators deal with the [DGCA](https://www.dgca.gov.in/). Standards are published by [ICAO](https://www.icao.int/environmental-protection/CORSIA/Pages/default.aspx).
-
-DSTechnoverse manages authority engagement and submissions for operators. [Talk to our team](/contact/).
+We prepare submissions and manage day-to-day contact with the authority for operators who want support on it. Our [services page](/services/) sets out what that covers.

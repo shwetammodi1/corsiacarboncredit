@@ -1,154 +1,102 @@
 ---
-title: "SAF or Offsets: Meeting a CORSIA Obligation Two Ways"
-excerpt: "How CORSIA eligible fuels and emissions units both discharge an obligation, what each actually costs and requires in evidence, and how to think about the trade-off over a multi-year planning horizon."
+title: "CORSIA Strategy: Sustainable Aviation Fuel, Emissions Units, or a Sequence of Both"
+excerpt: "Eligible fuel shrinks a CORSIA obligation; cancelled units settle it. The seven questions a board should ask before choosing, why SAF documentation matters more than SAF volume, and the position for Indian operators."
 date: "2026-08-24"
 topic: "Airline Compliance"
-tags: ["sustainable aviation fuel","SAF","CORSIA eligible fuels","emissions units","CORSIA strategy","CORSIA India","aviation decarbonisation"]
+tags: ["sustainable aviation fuel","SAF","CORSIA eligible fuels","emissions units","CORSIA strategy","CORSIA India","chain of custody"]
 image: "/images/corsia-consultant/corsia-saf-vs-offsets.svg"
 ---
 
-CORSIA gives an operator two routes to discharge an offsetting obligation. Buy emissions units and cancel them, or use CORSIA eligible fuel and reduce the requirement itself.
+Operators tend to frame this as a choice: fuel or offsets. In CORSIA terms the two work differently. Cancelling emissions units **settles** an offsetting requirement. Using CORSIA eligible fuel **reduces the requirement** in the first place. Both end in the same place on the compliance form, but they get there by different routes, cost different amounts, and need different evidence.
 
-They are not interchangeable. They differ in cost, in availability, in the evidence required, and in what else they deliver.
+We usually get asked about this just before a board discussion. So this piece is organised around the questions a board will put, and how we would answer each.
 
-![SAF or offsets: two routes to the same obligation](/images/corsia-consultant/corsia-saf-vs-offsets.svg)
+![Two routes to meeting a CORSIA offsetting obligation](/images/corsia-consultant/corsia-saf-vs-offsets.svg)
 
-## The Two Routes Compared
+## The two routes side by side
 
-| | CORSIA eligible fuel | Emissions units |
+| | Eligible fuel | Emissions units |
 |---|---|---|
-| Mechanism | **Reduces** the offsetting requirement | **Cancels** units against it |
-| Cost profile | High per tonne today | Market price per tonne |
-| Availability in India | Limited but growing | Available via approved programmes |
-| Evidence needed | Certified life-cycle values and chain of custody | Registry cancellation record |
-| Secondary benefit | Counts towards wider climate claims | Limited beyond compliance |
-| Planning horizon | Multi-year supply agreements | Can be procured closer to the deadline |
+| What it does | Lowers the requirement | Is cancelled against the requirement |
+| Cost per tonne of CO2 today | Generally higher, often by a wide margin | Market price |
+| Supply for an Indian operator | Limited, developing | Available through approved programmes |
+| Evidence | Certified life-cycle value and chain of custody | Registry cancellation record |
+| Beyond compliance | Real emissions reduction that supports wider climate claims | Little |
+| Lead time | Multi-year supply arrangements | Closer to the deadline, though still needing diligence and transfer time |
 
-## How Eligible Fuel Reduces the Requirement
+## Question 1: What will our obligation be over the next three years?
 
-CORSIA recognises certain fuels — sustainable aviation fuels and lower carbon aviation fuels meeting the scheme's sustainability criteria — and allows the emissions reduction they deliver to reduce the offsetting requirement.
+Answer as a range, not a single number. The obligation depends on covered emissions, the growth factor and unit prices, none of which you control fully. A low, central and high case gives the board something to test decisions against. The mechanics are in [how the offsetting requirement is calculated](/knowledge-base/corsia-offsetting-requirement-calculation/).
 
-The reduction depends on the **life-cycle emissions value** of the specific fuel, certified under an approved sustainability certification scheme, compared against the baseline value for conventional jet fuel. Different feedstocks and production pathways deliver very different life-cycle values, so the reduction claimable per tonne of fuel varies substantially between batches.
+## Question 2: What does a tonne cost under each route, today?
 
-Three practical requirements follow, and each has caught operators out:
+On cost per tonne of CO2 abated, eligible fuel is generally the dearer route today. SAF sells at a large premium over conventional jet fuel, and the resulting cost per tonne usually exceeds unit prices by a wide margin.
 
-**1. The fuel must qualify** under the scheme's criteria, certified by an approved certification body. Not every fuel marketed as sustainable qualifies for a CORSIA claim.
+That is true, and incomplete. Four things change the picture:
 
-**2. The chain of custody must be documented** from production through to uplift, in a form a verifier can trace. This is a supply chain documentation problem as much as a fuel problem.
+- **Physical supply.** You cannot meet an obligation with fuel that is not available at your stations.
+- **What you get for the money.** Units settle a CORSIA obligation and not much else. Fuel cuts real emissions, which supports corporate climate targets, customer and investor reporting, and increasingly the travel procurement requirements of corporate customers.
+- **Direction of travel.** SAF costs are expected to fall as production scales, while high-integrity units face constrained supply. A five-year comparison will look different from a one-year one.
+- **Build time.** Using fuel needs supply agreements, blending arrangements and documentation systems. Deciding to start is a separate decision from deciding to scale.
 
-**3. The claim must be evidenced in your emissions report** and stand up at verification. Using eligible fuel and failing to evidence the claim means paying for the fuel *and* buying the units — the worst of both.
+## Question 3: How much qualifying fuel can we actually get?
 
-See [CORSIA eligible fuels](/insights/corsia-eligible-emissions-units-criteria/) and our knowledge base at [carboncredit.dstechnoverse.com](https://carboncredit.dstechnoverse.com/) for the certification detail.
+For an Indian operator this is the question that usually settles the near term. Domestic production capacity and blending mandates are still developing. The useful test is not whether SAF exists somewhere, but whether **certified** qualifying fuel is available in meaningful volume at the stations you actually fly from.
 
-## The Honest Cost Comparison
+Certification matters as much as supply. The fuel has to meet the CORSIA sustainability criteria and be certified under an approved scheme. Fuel that is sustainable in a general sense, or marketed as such, does not support a CORSIA claim without that certification. Confirm it before contracting. Details on which fuels qualify are in [CORSIA eligible fuels](/knowledge-base/corsia-eligible-fuels/).
 
-On a pure cost-per-tonne-of-CO₂ basis today, eligible fuel is generally the more expensive route. SAF carries a substantial price premium over conventional jet fuel, and the resulting cost per tonne of CO₂ abated typically exceeds emissions unit prices by a wide margin.
+## Question 4: What if unit prices double, or halve?
 
-That comparison is real and it is also incomplete, for four reasons:
+Run the obligation range from question 1 against a doubled and a halved unit price. If the high case with doubled prices is unaffordable, that is an argument for starting fuel work and efficiency work now, even at small scale, because neither can be switched on quickly later. If the halved case barely moves the budget, the urgency is lower but the lead-time argument still applies.
 
-**Availability.** SAF supply is constrained. An operator cannot simply buy its way out of an obligation with fuel if the fuel is not physically available at its stations.
+## Question 5: What can we say publicly under each route?
 
-**Scope of benefit.** Emissions units discharge a CORSIA obligation and little else. Eligible fuel reduces actual emissions, which supports corporate climate commitments, customer and investor reporting, and increasingly corporate travel procurement requirements. One is compliance; the other is compliance plus positioning.
+Units cancelled for CORSIA have discharged a legal obligation. Using the same cancellation to back a marketing claim is double counting. Fuel is different: it reduces emissions, and the reduction can support wider reporting provided it is documented and not claimed twice across schemes. Whatever claim is made needs evidence that would survive scrutiny.
 
-**Trajectory.** Unit prices and SAF prices move in different directions over time — SAF costs are expected to fall with production scale while high-integrity unit prices face constrained supply. A five-year view differs from a one-year view.
+## Question 6: What does fuel efficiency contribute?
 
-**Infrastructure.** SAF uptake requires supply agreements, blending arrangements and documentation systems. Those take time to build, which means the decision to start is separate from the decision to scale.
+This is the question that tends to get lost when the discussion is framed as fuel against offsets. Every tonne of fuel not burned cuts emissions, the offsetting requirement, the fuel bill and the volume of SAF you would need. No other lever improves every one of those at once.
 
-## The India Position
+## Question 7: What happens if a SAF claim fails verification?
 
-For an Indian operator, three factors shape the calculation:
+Boards rarely expect this one. The answer: you have paid the fuel premium **and** you still have to buy units for the reduction you did not get to claim. That is the worst outcome available, and it follows from paperwork, not from the fuel.
 
-**SAF availability is developing.** Domestic production capacity and blending mandates are evolving, and the practical question is whether qualifying fuel is available at your operating stations in meaningful volume — not whether it exists somewhere.
+### A worked example of that failure
 
-**Certification matters as much as supply.** Fuel that is sustainable in a general sense but not certified under an approved scheme cannot support a CORSIA claim. Confirm the certification position before contracting.
+Illustrative, not based on any real operator. An Indian carrier buys a small first parcel of SAF at a Gulf station and plans to claim the reduction in its next emissions report. The fuel supplier provides a sustainability certificate for the production batch, and uplift receipts at the station.
 
-**Both routes need lead time.** SAF requires supply agreements; units require diligence, contracting and registry transfer. Neither is a last-quarter decision.
+At verification, the verifier asks for records linking the certified batch to the blended fuel delivered to the aircraft: blend ratios, storage and transport custody. The supply contract never required them, and the supplier is slow to produce them. The claim cannot be verified in time.
 
-## A Multi-Year Framework
+The carrier has paid the SAF premium, cannot reduce its requirement, and must buy and cancel units to cover the gap. On a small parcel, that is an expensive lesson. On a large one it would be a material loss.
 
-Rather than treating this as an either/or, most operators land on a sequence:
+## Where a fuel claim is won or lost
+
+Proving that a particular fuel, with a particular certified life-cycle value, reached your aircraft is the hard part. Each link needs its own evidence:
+
+1. **Production:** certification under an approved sustainability scheme.
+2. **Life-cycle value:** the certified value for that batch or pathway.
+3. **Blending:** blend ratio and volumes.
+4. **Transport and storage:** custody records through the supply chain.
+5. **Uplift:** delivery documents identifying the fuel supplied.
+6. **The claim:** claimed volume reconciled to uplift records.
+
+The claimable reduction depends on the certified life-cycle value against the baseline for conventional jet fuel, and that varies a lot between feedstocks and pathways, so one batch can be worth considerably more than another.
+
+Since blended fuel normally shares tanks and pipelines with conventional fuel, the claim rests on documented custody rather than physical separation. The paperwork is the asset. That means **the fuel supply agreement is where a claimable position is created or lost**. Write the documentation obligations into the contract. The supplier will provide what the contract requires, and after the fuel has been burned your leverage to ask for more is small.
+
+## How most operators sequence it
 
 | Horizon | Typical position |
 |---|---|
-| **Immediate** | Units for the current obligation; diligence and staged procurement |
-| **1-2 years** | Small SAF volumes where available, to build the documentation capability |
-| **3-5 years** | Scaled SAF where supply and price allow; units for the balance |
-| **Throughout** | Fuel efficiency programme, which reduces both routes' requirement |
+| Now | Units for the current obligation, with diligence and staged buying |
+| One to two years | Small SAF volumes where available, mainly to build the evidence process |
+| Three to five years | Scaled SAF where supply and price allow; units for the rest |
+| Throughout | A fuel efficiency programme |
 
-The efficiency row underpins everything and is often overlooked in a discussion framed as "fuel versus offsets". Every tonne of fuel not burned reduces the emissions, the offsetting requirement, the fuel bill and the SAF volume needed — it is the only lever that improves every line simultaneously.
+Running even a small fuel claim through one full cycle is worth more than its size suggests. It tests whether your supply documentation holds up, finds custody gaps while the volume is small, gives the verifier a precedent, and shows what scaling would take. Operators who expect to use fuel at scale later are the ones putting small claims through verification now; waiting until the obligation bites leaves no time to build the supply and documentation.
 
-## Building the SAF Documentation Capability Early
+For how the reduction is calculated, see [how SAF reduces the offsetting requirement](/knowledge-base/saf-and-corsia-offsetting-reduction/). For the buying side, see [buying CORSIA units](/insights/corsia-unit-procurement-process-india/).
 
-Even at small volumes, running an eligible fuel claim through a compliance cycle once is disproportionately valuable:
+*General information, not legal, financial or regulatory advice. Rules, participating-State lists and eligibility criteria change; confirm the current position with ICAO and the DGCA.*
 
-- It tests whether your fuel supply documentation can actually support a claim
-- It exposes chain-of-custody gaps while the volume is small
-- It gives the verifier a precedent to work from
-- It tells you what scaling would require operationally
-
-Discovering a documentation gap on a small claim is a lesson. Discovering it on a large one is a material cost, because the fuel premium is already spent and the claim cannot be made.
-
-## Chain of Custody and the Claim
-
-The practical obstacle to claiming a fuel reduction is rarely the fuel itself. It is proving, to a verifier's satisfaction, that the specific fuel with the specific certified life-cycle value reached your aircraft.
-
-| Link in the chain | Evidence typically required |
-|---|---|
-| Production | Certification under an approved sustainability scheme |
-| Life-cycle value | The certified value for that batch or pathway |
-| Blending | Records showing the blend ratio and volumes |
-| Transport and storage | Custody documentation through the supply chain |
-| Uplift | Delivery documentation identifying the fuel supplied |
-| Claim | Reconciliation of claimed volume against uplift records |
-
-Where fuel is physically blended and commingled in shared infrastructure — which is normal — the accounting relies on documented custody rather than on physical segregation. That makes the paperwork the asset, and it means **the supply agreement is where a claimable SAF position is created or lost**. Negotiate the documentation obligations into the fuel contract rather than requesting them afterwards.
-
-## Questions a Board Will Ask
-
-Before committing to either route at scale, expect these, and have the answers:
-
-1. What is our forecast offsetting requirement over the next three years, as a range?
-2. What is the cost per tonne of CO₂ under each route, at today's prices?
-3. What volume of qualifying fuel is actually available at our stations?
-4. What happens to our position if unit prices double? If they halve?
-5. What claims can we make publicly under each route, and what evidence supports them?
-6. What does our fuel efficiency programme contribute, and what would accelerating it cost?
-7. What is the downside if a SAF claim fails verification?
-
-Question 7 is the one most often unprepared for. The answer is that you pay the fuel premium and still buy the units — which is why the documentation capability, not the fuel supply, is the thing to build first.
-
-## What Not to Assume
-
-Three assumptions that cost operators money in this area:
-
-**That any sustainable fuel supports a claim.** It must meet the scheme's criteria and be certified under an approved scheme. Marketing language is not certification.
-
-**That the supplier will provide what a verifier needs.** They will provide what the contract requires. If chain-of-custody documentation is not in the supply agreement, expect to negotiate for it after the fuel has been burned.
-
-**That the SAF decision can wait until the offsetting obligation bites.** Supply agreements, blending arrangements and documentation systems take years to build. The operators who will be able to use fuel at scale when it matters are the ones running small claims through verification now.
-
-## Frequently Asked Questions
-
-**Does SAF reduce a CORSIA obligation?** Yes. CORSIA eligible fuels reduce the offsetting requirement based on their certified life-cycle emissions value.
-
-**Which fuels qualify?** Sustainable aviation fuels and lower carbon aviation fuels meeting the scheme's sustainability criteria, certified under an approved certification scheme.
-
-**Is SAF cheaper than buying units?** Generally not on cost per tonne of CO₂ today. SAF's advantages are actual emissions reduction, wider climate claims and a different cost trajectory.
-
-**What evidence is needed to claim a SAF reduction?** Certified life-cycle values and a documented chain of custody from production to uplift, traceable at verification.
-
-**What happens if we use SAF but cannot evidence it?** You pay the fuel premium and still buy the units. Evidence the claim or do not rely on it.
-
-**Is SAF available in India?** Availability is developing. The practical test is whether certified qualifying fuel is available in volume at your operating stations.
-
-**Should we do both?** Most operators do — units for the immediate obligation, small SAF volumes to build the capability, scaling as supply and price allow.
-
-**What about fuel efficiency?** It reduces emissions, the offsetting requirement and the fuel bill simultaneously. It is the lever that improves every line.
-
-**How far ahead should we plan?** SAF supply agreements are multi-year. Unit procurement can be closer in but still needs diligence and transfer time.
-
----
-
-**Planning your CORSIA position?** DSTechnoverse advises Indian operators and project developers on CORSIA compliance strategy — offsetting requirement forecasting, unit procurement due diligence, SAF and efficiency trade-offs, and readiness assessment before the compliance year begins. We are based in **Indore, Madhya Pradesh** and work with clients across India. See our [CORSIA carbon credit services](/services/), our carbon credit portal at [carboncredit.dstechnoverse.com](https://carboncredit.dstechnoverse.com/), or [talk to our team](/contact/).
-
-*This article is general information, not legal, financial or regulatory advice. CORSIA rules, participating-state lists and eligibility criteria change — verify the current position with ICAO and the DGCA before acting.*
+If your board wants the three-year range and the price sensitivity before deciding, [our calculator](/calculator/) gives a first estimate, and [the desk](/contact/) can build the full comparison on your own routes.

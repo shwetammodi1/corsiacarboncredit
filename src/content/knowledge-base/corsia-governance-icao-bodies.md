@@ -1,108 +1,76 @@
 ---
-title: "CORSIA Governance: Who Decides What"
-excerpt: "The ICAO Assembly, Council, CAEP and Technical Advisory Body each control different parts of CORSIA, and national authorities enforce it. A map of which body sets which rule, and where to watch for change."
+title: "CORSIA Governance Explained: The ICAO Bodies and Who Controls Each Rule"
+excerpt: "The ICAO Assembly, the Council, CAEP and the Technical Advisory Body each hold a different lever over CORSIA, and national authorities apply it. Which body sets which rule, and which ones to follow for your own exposure."
 section: "Governance & India"
 order: 24
 image: "/images/corsia/corsia-governance.svg"
 ---
 
-CORSIA is governed by several ICAO bodies with distinct remits, and implemented by national authorities. Knowing which body controls which parameter tells you where to watch when something is likely to change.
+When a crediting programme's approval lapses, a vintage window is extended or a new growth factor appears, clients ask us who made the call. The answer is almost never "ICAO" in the loose sense. CORSIA is run by several bodies inside ICAO, each with its own job, and applied on the ground by national authorities. Knowing which body holds which lever tells you where the next change is likely to come from.
 
-![Who decides what in CORSIA](/images/corsia/corsia-governance.svg)
+![Chart of who decides what in CORSIA](/images/corsia/corsia-governance.svg)
 
-## The Bodies
+## Four layers of decision
 
-| Body | What it controls |
-|---|---|
-| ICAO Assembly | Adopts the scheme; conducts periodic review |
-| ICAO Council | Approves crediting programmes, vintage windows, growth factors, State participation lists |
-| CAEP | Develops technical standards and recommends to the Council |
-| Technical Advisory Body (TAB) | Assesses crediting programmes against the Emissions Unit Criteria |
-| National authorities | Approve monitoring plans, receive reports, enforce |
-| Accredited verification bodies | Independently verify operator reports |
+Think of the scheme in layers, from the slowest-moving to the most day-to-day.
 
-## The ICAO Assembly
+| Layer | Body | Its levers |
+|---|---|---|
+| Foundations | ICAO Assembly | Adopting the scheme; the periodic review |
+| Operating decisions | ICAO Council | Programme approvals, vintage windows, growth factors, the participation list, Annex 16 standards |
+| Technical advice | CAEP and the Technical Advisory Body | Drafting standards; assessing crediting programmes |
+| Application | National authorities and verification bodies | Plan approvals, reports, verification, enforcement |
 
-ICAO's sovereign body, meeting every three years, with all Member States represented.
+## Foundations: the Assembly
 
-The Assembly **adopted CORSIA** by Resolution A39-3 in 2016 and has revisited it at subsequent sessions. It conducts the **periodic review** of the scheme, which can change its fundamental design — participation rules, phase structure, and whether it continues beyond 2035.
+The Assembly is ICAO's sovereign body. Every Member State sits in it and it meets once every three years.
 
-This is the body to watch for structural change rather than parameter adjustment.
+It adopted CORSIA in 2016 through Resolution A39-3 and has returned to it at later sessions. It also runs the periodic review, which is where the basic architecture can change: who must participate, how the phases are structured, and whether the scheme carries on after 2035. Watch the Assembly for changes of design, not for adjustments to parameters. The background to that 2016 decision is in [why CORSIA exists](/knowledge-base/why-corsia-exists/).
 
-## The ICAO Council
+## Operating decisions: the Council
 
-A 36-State governing body meeting continuously between Assemblies. In practice this is where most CORSIA decisions are actually taken.
+The Council has 36 member States and sits continuously between Assemblies. Most of the decisions that affect a CORSIA transaction are made here. It:
 
-The Council:
+- approves crediting programmes, acting on the TAB's recommendations;
+- sets the eligible vintage window for each compliance period;
+- publishes the growth factors;
+- adopts Standards and Recommended Practices into Annex 16, Volume IV;
+- keeps the list of participating States.
 
-- **Approves crediting programmes**, on TAB recommendation
-- **Sets eligible vintage windows** for each compliance period
-- **Publishes growth factors**
-- **Adopts Standards and Recommended Practices** into Annex 16, Volume IV
-- **Maintains the list of participating States**
+::: accordion Why traders and developers should follow the Council
+Nearly every number a buyer or developer relies on is a Council decision, and the Council has shown it will revise them.
 
-::: accordion Why Council decisions matter commercially
-Every parameter a buyer or developer depends on sits here.
+It changed the baseline from an average of 2019 and 2020 to 2019 alone. It has approved programmes, attached conditions to approvals and let approvals lapse. It sets vintage windows and has extended them.
 
-The Council reset the baseline from a 2019-2020 average to 2019 alone. It has approved, conditioned and allowed programme approvals to lapse. It sets and has extended vintage windows.
-
-A market participant who tracks only Assembly outcomes will miss almost everything that affects a transaction. Council decisions are the operative layer.
+Someone who only follows Assembly outcomes will miss most of what moves a deal.
 :::
 
-## CAEP
+## Technical advice: CAEP and the TAB
 
-The **Committee on Aviation Environmental Protection** is ICAO's technical committee on aviation environmental matters, with member and observer States and a range of observer organisations.
+**CAEP**, the Committee on Aviation Environmental Protection, is ICAO's technical committee on environmental matters. Member States, observer States and various observer organisations take part, and the detailed work happens in specialist working groups. CAEP drafts the technical content: monitoring methods, the sustainability criteria for CORSIA Eligible Fuels, and standards sent to the Council for adoption. It recommends and does not decide, but the Council usually follows its work, so CAEP's direction tells you what is coming.
 
-CAEP develops the technical detail — monitoring methodologies, sustainability criteria for CORSIA Eligible Fuels, and standards that go to the Council for adoption. It works through specialist working groups.
+**The Technical Advisory Body (TAB)** is a panel of independent experts. It reviews applications from crediting programmes against the Emissions Unit Criteria and recommends to the Council that each be approved, approved with conditions, or refused. Its review covers governance, how methodologies are developed, additionality, quantification, permanence, oversight of validation and verification, registry systems, protection against double counting, and social and environmental safeguards.
 
-CAEP does not decide; it recommends. But because Council decisions typically follow CAEP work, CAEP's direction is a leading indicator.
+The TAB also reassesses programmes periodically. Approval is not permanent, and it has lapsed in some cases. More in [approved crediting programmes](/knowledge-base/corsia-approved-crediting-programmes/).
 
-## The Technical Advisory Body
+## Application: national authorities and verifiers
 
-The **TAB** is a group of independent experts that assesses applications from crediting programmes against the Emissions Unit Criteria and recommends approval, conditional approval, or refusal to the Council.
+ICAO has no power to fine an airline. The obligation reaches operators through domestic law, administered by national authorities: the [DGCA](https://www.dgca.gov.in/) in India, the FAA in the United States, and national competent authorities in Europe. They approve Emissions Monitoring Plans, receive Annual Emissions Reports, oversee verification, receive Emissions Unit Cancellation Reports and enforce. The detail is in [national authorities and enforcement](/knowledge-base/corsia-national-authorities-and-enforcement/).
 
-It examines governance, methodology development processes, additionality requirements, quantification, permanence, validation and verification oversight, registry infrastructure, double-counting safeguards and social and environmental safeguards.
+Verification bodies are independent third parties that check operator reports. They are accredited under national accreditation arrangements against the applicable standards. Independence is strict: a firm that helped write your monitoring plan cannot verify your report against it.
 
-The TAB also conducts **periodic reassessment**. Approvals are not permanent, and have lapsed.
+## What to follow, by who you are
 
-See [approved crediting programmes](/knowledge-base/corsia-approved-crediting-programmes/).
+**If you are an operator**, follow the Council's growth factor publications for the size of this year's obligation, its participation list for which routes come into cover, the CAEP work programme and later Annex 16 amendments for monitoring rules, and your own authority and verifier for whether your plan and report are accepted.
 
-## National Authorities
+**If you are a developer**, follow Council decisions and TAB reassessments for your programme's approval status, and Council decisions on vintage windows for whether your issuance stays eligible.
 
-ICAO cannot fine an airline. The obligation reaches operators through domestic law.
+**If you are a buyer of units**, follow the same programme and vintage decisions as a developer, plus the Assembly's periodic review for whether demand continues after 2035.
 
-National authorities — the [DGCA](https://www.dgca.gov.in/) in India, the FAA in the United States, competent authorities across Europe — approve Emissions Monitoring Plans, receive Annual Emissions Reports, oversee verification, receive Emissions Unit Cancellation Reports, and enforce.
+## Expect change
 
-See [national authorities and enforcement](/knowledge-base/corsia-national-authorities-and-enforcement/).
+CORSIA is still being built. Approvals come and go, windows move, participation shifts and second-phase details are still being settled. Advice that treats today's parameters as fixed until 2035 is either not following the scheme or selling a certainty nobody has. The scheme's own record argues for plans with room to adjust.
 
-## Accredited Verification Bodies
+The source texts are listed in [CORSIA official documents](/knowledge-base/corsia-official-documents/), and ICAO publishes decisions on its [CORSIA pages](https://www.icao.int/environmental-protection/CORSIA/Pages/default.aspx).
 
-Independent third parties that verify operator reports. They are accredited under national accreditation arrangements against the applicable standards, and their independence from the party being verified is a hard requirement — a firm that advised on your monitoring plan cannot verify against it.
-
-## Who to Watch for What
-
-| If you care about | Watch |
-|---|---|
-| Whether the scheme continues past 2035 | Assembly, periodic review |
-| Whether your programme stays approved | Council decisions, TAB reassessment |
-| Whether your vintage stays eligible | Council decisions |
-| Your obligation size this year | Council growth factor publication |
-| Whether a route becomes covered | Council participation list |
-| Technical monitoring rules | CAEP work programme, then Annex 16 amendments |
-| Whether your plan is approved | Your national authority |
-| Whether your report passes | Your verification body |
-
-## A Note on Change
-
-CORSIA is a scheme still under construction. Programme approvals change, vintage windows move, participation shifts, and second-phase details continue to be worked through.
-
-Any advice presenting these as settled is either not following the scheme closely or is selling certainty that does not exist. Build flexibility into plans rather than assuming today's parameters hold to 2035 — the scheme's own history is the argument against that assumption.
-
-## Where to Go Next
-
-- [National authorities and enforcement](/knowledge-base/corsia-national-authorities-and-enforcement/) — the implementing layer
-- [Approved crediting programmes](/knowledge-base/corsia-approved-crediting-programmes/) — what the TAB does
-- [Official documents](/knowledge-base/corsia-official-documents/) — where the rules are written
-- [Why CORSIA exists](/knowledge-base/why-corsia-exists/) — how this governance came about
-
-ICAO publishes decisions and documents at [icao.int](https://www.icao.int/environmental-protection/CORSIA/Pages/default.aspx).
+We track Council and TAB decisions for the clients whose programmes and portfolios depend on them. If you want to know how a recent decision affects your position, [ask the desk](/contact/).

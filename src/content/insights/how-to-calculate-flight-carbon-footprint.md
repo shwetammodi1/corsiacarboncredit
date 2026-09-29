@@ -1,59 +1,71 @@
 ---
-title: "How to Calculate a Flight’s Carbon Footprint"
-excerpt: "A flight’s carbon footprint is more than just distance. How flight emissions are calculated — distance, aircraft and load, cabin class, and the non-CO2 uplift — and why two calculators can give different numbers."
+title: "Flight Carbon Footprint: How the Calculation Works and Why Tools Disagree"
+excerpt: "Two calculators, one trip, two answers. A walk through the steps behind a flight's carbon footprint, from fuel burn to per-seat CO2e, with an illustrative example and the one setting that can nearly double the result."
 date: "2026-09-06"
 topic: "Buying Credits"
 tags: ["flight carbon footprint","flight emissions calculator","aviation CO2 per passenger","travel carbon footprint","CO2e","carbon footprint"]
 image: "/images/aviation-buyers/flight-carbon-footprint.svg"
 ---
 
-Type "flight carbon footprint calculator" into two different tools for the same trip and you will often get two different numbers. That is not because one is wrong — it is because a flight's footprint depends on several variables, and different calculators weight them differently. Here is what actually goes into the number, so you can read any estimate critically.
+Run a Mumbai to London return through two online calculators and the answers may be far apart. Usually neither is broken. They have made different choices about a handful of variables, and once you know what those are you can read any estimate with a sensible degree of trust.
 
-## It Starts With Fuel, So It Starts With Distance
+## The calculation in five steps
 
-A flight's CO2 comes from the fuel it burns, and fuel burn scales — roughly — with **distance**. Longer flights burn more fuel and emit more CO2 in total. But per kilometre the picture is subtler: take-off and climb are the most fuel-hungry phases, so very short flights are surprisingly inefficient *per kilometre*, while the cruise phase of a long flight is more efficient per kilometre even though the total is large.
+### 1. Estimate fuel burn for the flight
 
-## The Variables That Change the Number
+Everything starts from fuel, because the CO2 comes from burning it. Fuel burn rises with distance, but not in a straight line. Take-off and climb use the most fuel, so a short hop is relatively inefficient per kilometre. A long flight burns far more in total but spends most of its time in the more economical cruise phase.
 
-Beyond distance, four factors move a per-passenger footprint:
+### 2. Adjust for the aircraft
 
-| Factor | Effect on the footprint |
-|---|---|
-| Aircraft type & age | Newer, efficient aircraft burn less |
-| Load factor (how full) | More passengers share the emissions |
-| Cabin class | Premium seats take more space and weight |
-| Non-CO2 uplift | An optional multiplier for altitude effects |
+A newer, more efficient type burns less than an older one on the same route. Some calculators know the aircraft; others assume an average.
 
-Cabin class matters more than people expect: a business-class seat can be allocated several times the emissions of an economy seat on the same flight, because it occupies far more of the cabin.
+### 3. Convert fuel to CO2
 
-## The Non-CO2 Question
+The chemistry is fixed: each kilogram of Jet-A or Jet-A1 produces 3.16 kg of CO2.
 
-Here is the biggest reason calculators diverge. As covered in [aviation emissions explained](/insights/aviation-emissions-explained/), flying's warming impact is not only CO2 — contrails and NOx at altitude add substantially. Some calculators apply a **radiative forcing multiplier** (often around 1.7–2×) to reflect this; others report CO2 only. That single choice can nearly double the result, which is why comparing calculators means checking whether they include non-CO2 effects.
+### 4. Split among the passengers
 
-## From Fuel to CO2e
+The flight's total is shared across the people on board. Two things change your share:
 
-Once fuel burn is estimated, it is converted to CO2 using standard factors, allocated per passenger by cabin class, and — if the tool includes it — uplifted for non-CO2 effects, giving a final figure in [CO2e](/insights/what-is-co2e-carbon-dioxide-equivalent/). That per-passenger CO2e is what a passenger offset, or a company's [business-travel footprint](/insights/offsetting-corporate-business-travel/), is based on.
+- **Load factor.** A fuller aircraft spreads the same emissions across more seats.
+- **Cabin class.** Premium seats take up more floor space and weight, so they are allocated more. A business-class seat can carry several times the emissions of an economy seat on the same aircraft.
 
-## A Practical Takeaway
+### 5. Decide whether to add non-CO2 effects
 
-You do not need to compute this by hand — reputable calculators exist. What matters is reading their output critically: does it account for cabin class, and does it include non-CO2 effects? Two honest estimates can differ by a factor of two purely on that last choice, so know which one you are looking at before you offset against it.
+This is the setting that separates most calculators. At altitude, contrails and nitrogen oxides add warming beyond CO2, as covered in [aviation emissions explained](/insights/aviation-emissions-explained/). Some tools apply a **radiative forcing multiplier**, often around 1.7 to 2 times, to reflect this. Others report CO2 only. The final figure is given in [CO2e](/insights/what-is-co2e-carbon-dioxide-equivalent/).
 
-## Frequently Asked Questions
+## A worked example (illustrative figures)
 
-**How is a flight's carbon footprint calculated?** From the fuel burned (driven by distance, aircraft and load), converted to CO2, allocated per passenger by cabin class, and often uplifted for non-CO2 effects to give CO2e.
+These numbers are invented to show the arithmetic, not taken from any airline.
 
-**Why do flight calculators give different results?** Mainly because some include a non-CO2 (radiative forcing) multiplier and others report CO2 only, and they make different assumptions about aircraft and load.
+| Step | Assumption | Result |
+|---|---|---|
+| Fuel burnt on the sector | 30,000 kg | |
+| Convert at 3.16 | 30,000 × 3.16 | 94,800 kg CO2 |
+| Passengers on board | 240, all treated equally | 395 kg CO2 per seat |
+| Business-class weighting | Say 3 times an economy seat | Business seat higher, economy seats lower |
+| With a 2× non-CO2 multiplier | 395 × 2 | 790 kg CO2e per seat |
 
-**Does business class have a bigger footprint than economy?** Yes — premium seats are allocated more emissions because they occupy more of the cabin's space and weight per passenger.
+The last row is the point. The same seat is 395 kg in one tool and 790 kg in another, purely because of step 5. Neither tool is wrong; they are answering different questions.
 
-**What is the non-CO2 multiplier?** An uplift (often around 1.7–2×) applied to reflect the extra warming from contrails and nitrogen oxides at altitude, beyond CO2.
+## Reading a calculator's output
 
-**Are short flights worse per kilometre?** Often yes — take-off and climb are the most fuel-intensive phases, so short hops can be inefficient per kilometre despite a smaller total.
+Before you offset against a figure, or roll it into a company's [business travel footprint](/insights/offsetting-corporate-business-travel/), check three things:
 
----
+- Does it distinguish cabin class?
+- Does it include a non-CO2 multiplier, and if so, which one?
+- Does it state its assumptions about aircraft and load?
 
-**Buying carbon credits or measuring travel and freight emissions?** DSTechnoverse works on the data and integrity side of carbon — footprint measurement, project screening, registry and eligibility verification, and defensible reporting. See our [CORSIA carbon credit services](/services/) and [data analytics](https://dstechnoverse.com/services/data-analytics). We are based in **Indore, Madhya Pradesh** and work across India and internationally.
+If you are comparing years or suppliers, keep the same method throughout. A change of calculator can look like a change in emissions.
 
-[Apply as a carbon credit buyer or seller](https://carboncredit.dstechnoverse.com/)
+## Short answers
 
-[Talk to our team](/contact/), or start with [the complete carbon credits guide](/insights/corsia-carbon-credits-complete-guide/).
+**Why do calculators disagree?** Mainly the non-CO2 multiplier, plus different assumptions about aircraft and load.
+
+**Is business class really worse?** Yes. It is allocated more because each seat takes more of the cabin.
+
+**Are short flights worse per kilometre?** Often, because take-off and climb dominate a short trip.
+
+**Do I need to calculate by hand?** No, but you should know which choices your tool has made.
+
+For a quick estimate, try our [calculator](/calculator/). If you need figures that an auditor will read, we can document the method alongside the numbers.

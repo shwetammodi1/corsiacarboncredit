@@ -1,83 +1,77 @@
 ---
-title: "How Airlines Actually Use Carbon Credits Under CORSIA"
-excerpt: "From monitoring fuel burn to cancelling units in a registry — a step-by-step look at the annual CORSIA workflow airlines run, how sustainable fuel lowers the bill, and where operators most often slip up."
+title: "How Airlines Use Carbon Credits Under CORSIA: The Yearly Workflow"
+excerpt: "For a covered airline, CORSIA is a recurring job: measure fuel, get the report verified, receive the requirement, buy eligible units, cancel them. Who does each step, what evidence it leaves, and where the chain tends to break."
 date: "2026-09-08"
 topic: "CORSIA Fundamentals"
 tags: ["airlines carbon credits CORSIA","offsetting requirements","operator compliance","credit retirement","sustainable aviation fuel","aviation emissions reporting"]
 image: "/images/corsia-markets/airline-offsetting-cycle.svg"
 ---
 
-For an airline, CORSIA is not an abstract policy — it is an annual operational task with deadlines, auditors and a bill at the end. Once you see it as a recurring cycle rather than a one-off rule, the mechanics become clear. Here is how a covered operator actually runs it.
+Ask an airline's finance team what CORSIA is and you may hear "a carbon credit bill". Ask the flight operations team and you may hear "a fuel reporting job". Both are right, and both are describing different links in one chain. The credits come at the end of it. Everything before decides how many are needed and whether the purchase counts.
 
-## The Cycle, Not the Rule
+Here is the chain as a covered operator runs it each year.
 
-CORSIA repeats every year on the same rhythm: monitor, report, verify, receive an obligation, procure, cancel, record. Miss a step and the whole chain breaks — a beautifully bought portfolio of credits is useless if the underlying emissions report was never verified on time.
+## Five links
 
-### Step one — monitor the right flights
+| Link | Who does it | What it produces |
+|---|---|---|
+| 1. Monitor fuel on covered international routes | Flight operations, under the approved Emissions Monitoring Plan | Fuel burn per flight, by the agreed method |
+| 2. Report and verify | Compliance team, then an accredited verification body | A verified emissions report sent to the national authority, which aggregates and passes data to ICAO |
+| 3. Receive the offsetting requirement | ICAO's methodology, published on a set schedule | The number of tonnes to cover for the compliance period |
+| 4. Buy eligible units | Procurement, through brokers, exchanges or direct deals with developers | CORSIA Eligible Emissions Units in the operator's registry account |
+| 5. Cancel and file | Registry representatives | Cancellation records kept as evidence |
 
-The operator tracks fuel burn on its covered international routes throughout the year, using a fuel-monitoring method agreed in advance in its emissions monitoring plan. Precision here matters because every downstream number derives from it. (The full monitoring and verification side is covered in [CORSIA compliance requirements](/insights/corsia-compliance-monitoring-requirements/).)
+A few points on the links that cause the most trouble.
 
-### Step two — report and verify
+**Monitoring.** Every figure further down is derived from this one, so the method is fixed in advance in the monitoring plan and applied consistently all year. The detail is in [CORSIA monitoring, reporting and verification](/insights/corsia-compliance-monitoring-requirements/).
 
-After year-end, the airline compiles an emissions report and has it checked by an **accredited verification body**. Only verified emissions feed into the offsetting calculation. The verified report goes to the operator's state, which aggregates and passes data to ICAO.
+**Verification.** Only verified emissions count in the offsetting calculation. An unverified report stalls everything after it.
 
-### Step three — receive the offsetting requirement
+**The requirement.** The airline does not set its own number. ICAO's methodology turns sector growth, and increasingly the operator's own growth, into a requirement. [How the calculation works](/insights/corsia-offsetting-requirements-calculation/) shows how to estimate it early.
 
-The airline does not invent its own number. ICAO's methodology converts sector and operator growth into an offsetting requirement for the compliance period, published on a defined schedule. The operator then knows how many tonnes it must cover.
+**Buying.** Units must be eligible for the phase you are settling. From 2024 that means carrying a corresponding adjustment. [What qualifies as an eligible unit](/insights/corsia-eligible-emissions-units-explained/) lists the tests.
 
-### Step four — procure eligible units
+**Cancelling.** A unit sitting in your account has discharged nothing. It has to be cancelled, permanently retired in the registry so it can never be sold or used again, and the records kept.
 
-Now the market comes in. The airline buys **CORSIA Eligible Emissions Units** from approved crediting programmes, usually through brokers, exchanges or direct deals with project developers. It must buy units that are eligible for the specific phase — which, from 2024, means units carrying a corresponding adjustment.
+## The fuel lever
 
-### Step five — cancel and record
+Credits are one way to settle. Fuel is the other. When an airline uses **CORSIA Eligible Fuels**, mainly sustainable aviation fuel that meets the scheme's sustainability criteria, the associated emissions reduction comes straight off the offsetting requirement.
 
-Buying is not enough. The airline must **cancel** (retire) the units in the relevant registry so they can never be resold or reused, then keep the cancellation records as evidence. A credit that sits un-cancelled in an account has not discharged any obligation.
+Most larger carriers use both: SAF where it can be obtained at a bearable price, units for the rest. As SAF supply grows, the share settled with credits is expected to fall. Eligible fuels could in principle cut the requirement a long way, but supply and cost mean most operators will still need units for the balance for some time. See [SAF or offsets](/insights/corsia-saf-vs-offsets-strategy/) for the trade-off.
 
-## Lowering the Bill With Sustainable Fuel
+## Worked example
 
-Credits are one route; fuel is the other. When an airline uses **CORSIA Eligible Fuels** — principally sustainable aviation fuel (SAF) meeting the scheme's sustainability criteria — the associated emissions reductions lower its offsetting requirement directly. In practice, larger carriers pursue a blend: SAF where it is available and affordable, eligible units for the remainder. As SAF supply grows, the credit share of compliance is expected to shrink.
+The figures are illustrative, not any real carrier's.
 
-## A Worked Example
+A Delhi-based airline's requirement for a compliance period comes to 60,000 tonnes.
 
-Take an airline with a 200,000-tonne offsetting requirement for a period.
+- It uplifted certified SAF worth a reduction of 4,000 tonnes, with the documentation to support the claim.
+- Net requirement: 60,000 − 4,000 = 56,000 tonnes.
+- It buys 35,000 units from one approved programme and 21,000 from another: 56,000 in total.
+- It cancels all 56,000 in the two registries, against the right compliance period, and files the confirmations with its compliance evidence.
 
-- It used SAF that qualifies for a reduction equivalent to 30,000 tonnes.
-- Its net requirement falls to 170,000 tonnes.
-- It procures 170,000 eligible units across two approved programmes.
-- It cancels all 170,000 in the registries and files the certificates with its compliance evidence.
+None of the arithmetic is hard. The work lies in finishing each link on time and being able to prove it later.
 
-The arithmetic is simple; the discipline is in doing each step on time and being able to prove it.
+## Where the chain breaks
 
-## Where Operators Slip Up
+**An ineligible purchase.** A real, cheap credit from a programme that is not approved, or without a corresponding adjustment, cannot be used. Check eligibility before signing, not after delivery.
 
-Three mistakes recur.
+**A purchase treated as compliance.** Units bought but not cancelled leave the obligation open. This mix-up is more common than it should be.
 
-**Buying ineligible units.** A credit that is genuine and cheap but lacks a corresponding adjustment or comes from a non-approved programme cannot be used. Eligibility must be checked *before* purchase, not after.
+**Fuel data that does not stand up.** If verification challenges the fuel figures, the emissions number is in question and every later deadline slips. Consistent data work through the year avoids the scramble.
 
-**Leaving units un-cancelled.** Procurement is confused with compliance. Until the unit is retired in the registry, nothing has been discharged.
+**No one owns the whole chain.** Operations, compliance, procurement and treasury each hold a link. Someone needs to own the handovers.
 
-**Weak monitoring evidence.** If fuel-burn data cannot survive verification, the emissions figure is challenged and the whole timeline slips. Good data discipline during the year prevents a scramble after it.
+## The order is the point
 
-## Why the Order Matters
+The market step sits near the end for a reason. The final quantity to cancel is the settlement of a number that monitoring and verification produce first. Some operators buy ahead to manage price risk, which is sensible, but they then settle against the verified requirement. Buying a fixed volume without any view of the requirement is speculation, not compliance.
 
-Notice that the market step sits near the end. An airline cannot sensibly buy credits until it knows its verified emissions and its published offsetting requirement — buying earlier is speculation, not compliance. The credits are the settlement of a number that the monitoring and verification process produces first.
+::: accordion What if an airline does not comply?
+Enforcement sits with the operator's State, which gives CORSIA effect in national law. Penalties and consequences are set at that level.
+:::
 
-## Frequently Asked Questions
+::: accordion How often do airlines buy and cancel?
+Units are cancelled for each compliance period on the schedule ICAO sets. Purchases can be spread across the period.
+:::
 
-**Do airlines buy credits every year?** They procure and cancel units for each compliance period, on the schedule ICAO sets. Some buy ahead to manage price risk, but the obligation is periodic.
-
-**Can an airline meet CORSIA entirely with SAF?** In principle eligible fuels can reduce the requirement substantially, but SAF supply and cost mean most operators still use units for the balance.
-
-**What does "cancelling" a credit mean?** Permanently retiring it in a registry so it cannot be transferred or used again. This is the act that actually meets the obligation.
-
-**Who checks the airline's emissions?** An accredited third-party verification body, before the report goes to the operator's national authority and on to ICAO.
-
-**What happens if an airline does not comply?** Enforcement sits with the operator's state, which implements CORSIA in national law; penalties and consequences are set at that level.
-
----
-
-**Working on aviation emissions, CORSIA compliance or carbon credit due diligence?** DSTechnoverse handles the data side of carbon and environmental compliance — monitoring design, emissions reconciliation, verification support and defensible reporting. See our [CORSIA carbon credit services](/services/) and [data analytics](https://dstechnoverse.com/services/data-analytics). We are based in **Indore, Madhya Pradesh** and work across India and internationally.
-
-[Apply as a CORSIA buyer or seller](https://carboncredit.dstechnoverse.com/)
-
-[Talk to our team](/contact/), or start with [the complete carbon credits guide](/insights/corsia-carbon-credits-complete-guide/).
+If one link in your chain is weaker than the others, [tell us which](/contact/). We work on the data end as much as the credit end.

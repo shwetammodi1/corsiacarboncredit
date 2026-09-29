@@ -1,56 +1,63 @@
 ---
-title: "Aviation Emissions Explained: Sources, Scope and Why They’re Hard to Cut"
-excerpt: "Aviation is one of the hardest sectors to decarbonise. Where flying’s emissions come from, the difference between CO2 and non-CO2 effects, how they’re counted, and why there’s no easy fix for long-haul."
+title: "Aviation Emissions Explained: Fuel, Contrails and Why Flying Resists Decarbonisation"
+excerpt: "Nearly all of flying's direct climate effect starts with jet fuel, but CO2 is not the whole story. How aviation emissions are produced and counted, what CORSIA leaves out, and why long-haul has no quick fix."
 date: "2026-09-09"
 topic: "Buying Credits"
 tags: ["aviation emissions","flight emissions","aviation CO2","non-CO2 effects","contrails","aviation decarbonization"]
 image: "/images/aviation-buyers/aviation-emissions-explained.svg"
 ---
 
-Before you can offset, price or regulate flying's climate impact, it helps to understand what that impact actually is. Aviation emissions are simpler than the jargon suggests in one way, and more complicated in another — and both matter for how the sector is being decarbonised.
+Buyers who come to us wanting to offset flights usually start with a number from a travel agency report. It helps to know what that number includes, what it leaves out, and why the sector producing it is so slow to change. Aviation emissions are straightforward at the core and messy at the edges.
 
-## Where the Emissions Come From
+## The core: fuel in, CO2 out
 
-Almost all of aviation's direct climate impact comes from **burning jet fuel**. Kerosene combusts to CO2 and water vapour, and the CO2 is the core measured emission behind carbon accounting and schemes like CORSIA. The amount is driven by how much fuel a flight burns — which depends on distance, aircraft efficiency, weight and how full the plane is.
+Jet engines burn kerosene. Combustion produces carbon dioxide and water vapour, and the CO2 is what carbon accounting and CORSIA measure. Because the chemistry is fixed, the CO2 follows directly from the mass of fuel burnt: 3.16 kg of CO2 for each kg of Jet-A or Jet-A1.
 
-## The Complication: Non-CO2 Effects
+How much fuel a flight burns depends on:
 
-Here is where aviation is unusual. Flying's warming impact is **not only CO2**. At altitude, aircraft also produce:
+- distance flown
+- how efficient the aircraft type is
+- weight, including cargo
+- how full the aircraft is, which decides how many people share the result
 
-- **Contrails** — the condensation trails that can form cirrus clouds and trap heat.
-- **Nitrogen oxides (NOx)** — which affect atmospheric chemistry in warming ways.
+**A worked example (illustrative figures).** Suppose a Delhi to Singapore sector burns 20,000 kg of fuel. At 3.16, that is 63,200 kg, or 63.2 tonnes, of CO2. Spread across 180 passengers equally it would be about 351 kg each. In practice premium seats take a larger share, as explained below.
 
-These **non-CO2 effects** may roughly double aviation's warming impact beyond CO2 alone, according to current science. Crucially, most carbon accounting and CORSIA cover **only CO2** — so the headline numbers understate the full climate effect. It is an active area of science and policy, and a reason offsetting alone does not fully "neutralise" a flight.
+## The edges: warming that is not CO2
 
-## How Emissions Are Counted
+Aviation differs from most sectors because burning fuel at cruise altitude causes additional warming beyond the CO2:
 
-For accounting, a flight's CO2 is estimated from fuel burn and expressed in [CO2e](/insights/what-is-co2e-carbon-dioxide-equivalent/). Two distinctions matter:
+- **Contrails.** Condensation trails can spread into cirrus cloud that traps heat.
+- **Nitrogen oxides (NOx).** These alter atmospheric chemistry in ways that add warming.
 
-- **Domestic vs international** — international aviation sits under CORSIA, while domestic aviation falls under national policy.
-- **Per-passenger allocation** — a flight's emissions are shared across passengers, and premium cabins are allocated more because they use more space and weight per person.
+Current science suggests these non-CO2 effects may roughly double flying's warming impact compared with CO2 alone. Most carbon accounting, and CORSIA, count **CO2 only**. The headline figures therefore understate the full effect, which is one reason an offset alone does not make a flight climate-neutral. The science and the policy response are both still moving.
 
-The mechanics of a single flight are in [how to calculate a flight's carbon footprint](/insights/how-to-calculate-flight-carbon-footprint/).
+## How a flight's number reaches a report
 
-## Why Aviation Is So Hard to Decarbonise
+| Question | How it is usually handled |
+|---|---|
+| What unit? | CO2 from fuel burn, reported in [CO2e](/insights/what-is-co2e-carbon-dioxide-equivalent/) |
+| Domestic or international? | International flights fall under CORSIA; domestic flights are left to national policy |
+| How is one flight split among travellers? | Shared across passengers, with premium cabins given more for the space and weight they take |
+| Non-CO2 effects included? | Usually not, unless a methodology adds them explicitly |
 
-Most sectors have a clear electric path. Aviation does not — yet. Batteries are far too heavy for long-haul, the energy density of jet fuel is hard to match, and the aircraft flying today will be in service for decades. That is why aviation leans on a stack of partial solutions — efficiency, **sustainable aviation fuel**, new propulsion for short-haul, and carbon markets as a bridge — rather than one silver bullet, as explored in [can carbon markets cut aviation emissions](/insights/carbon-markets-reducing-aviation-emissions/).
+If you want to run the calculation yourself, see [how to calculate a flight's carbon footprint](/insights/how-to-calculate-flight-carbon-footprint/).
 
-## Frequently Asked Questions
+## Why there is no quick fix
 
-**Where do aviation emissions come from?** Overwhelmingly from burning jet fuel, which produces CO2 — the amount driven by distance, aircraft efficiency, weight and occupancy.
+Road transport and power have clear electric routes. Aviation does not yet:
 
-**What are non-CO2 effects in aviation?** Warming impacts beyond CO2 — mainly contrails and nitrogen oxides at altitude — which may roughly double aviation's climate effect but are not covered by most carbon accounting.
+1. **Batteries are too heavy** for long-haul flight.
+2. **Jet fuel's energy density** is very hard to match.
+3. **Aircraft have long service lives**, so today's fleet will fly for decades.
 
-**Does CORSIA cover non-CO2 effects?** No — CORSIA accounts only for CO2; non-CO2 effects are a separate scientific and policy issue.
+The response is a combination of partial measures: more efficient aircraft and operations, **sustainable aviation fuel**, new propulsion for short routes, and carbon markets as a bridge while the rest matures. None of these does the job alone. Whether markets actually shift emissions is examined in [can carbon markets cut aviation emissions](/insights/carbon-markets-reducing-aviation-emissions/).
 
-**Why is aviation so hard to decarbonise?** Batteries are too heavy for long-haul, jet fuel's energy density is hard to replace, and aircraft stay in service for decades, so there is no quick electric fix.
+## Short answers
 
-**How are a flight's emissions allocated per passenger?** By sharing the flight's emissions across passengers, with premium cabins allocated more because they take up more space and weight.
+**What produces aviation emissions?** Mainly burning jet fuel, with the amount set by distance, aircraft, weight and load.
 
----
+**Does CORSIA cover contrails or NOx?** No. It accounts for CO2 only.
 
-**Buying carbon credits or measuring travel and freight emissions?** DSTechnoverse works on the data and integrity side of carbon — footprint measurement, project screening, registry and eligibility verification, and defensible reporting. See our [CORSIA carbon credit services](/services/) and [data analytics](https://dstechnoverse.com/services/data-analytics). We are based in **Indore, Madhya Pradesh** and work across India and internationally.
+**Why do premium seats carry more emissions?** They take up more of the aircraft's space and weight per person.
 
-[Apply as a carbon credit buyer or seller](https://carboncredit.dstechnoverse.com/)
-
-[Talk to our team](/contact/), or start with [the complete carbon credits guide](/insights/corsia-carbon-credits-complete-guide/).
+Most flight figures we see from companies are close enough to use, but rarely documented well enough to defend. The [calculator](/calculator/) gives a quick estimate, and we can help turn it into something auditable.

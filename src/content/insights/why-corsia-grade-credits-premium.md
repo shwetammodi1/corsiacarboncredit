@@ -1,53 +1,58 @@
 ---
-title: "Why CORSIA-Grade Carbon Credits Command a Premium"
-excerpt: "CORSIA-eligible credits cost noticeably more than generic voluntary credits — and buyers pay it on purpose. The eligibility filters, corresponding adjustments and scarcity that create the premium, and when it’s worth paying."
+title: "The CORSIA-Grade Premium: Why Eligible Carbon Credits Cost More"
+excerpt: "CORSIA-eligible units trade well above generic voluntary credits, and experienced buyers pay the gap on purpose. How each filter shrinks supply, why the corresponding adjustment matters most, and when it pays."
 date: "2026-09-07"
 topic: "Buying Credits"
 tags: ["CORSIA carbon credit price","CORSIA-grade credits","high-integrity carbon credits","corresponding adjustment","carbon credit premium","eligible emissions units"]
 image: "/images/aviation-buyers/corsia-grade-premium.svg"
 ---
 
-Put a CORSIA-eligible credit and a generic voluntary credit side by side and the price gap is obvious — the CORSIA-grade unit costs more, sometimes several times more. That premium is not a markup for the label; it is the market pricing in real scarcity and integrity. Understanding why it exists tells you when it is worth paying.
+Buyers comparing quotes for the first time are often surprised that a CORSIA-eligible unit can cost several times what a generic voluntary credit does. It is fair to ask whether that is branding. It is not. The gap reflects how few units survive the eligibility process and how many airlines are obliged to compete for them.
 
-## The Premium Is an Eligibility Filter
+## Follow the supply through the filters
 
-A CORSIA-eligible credit has passed through filters that most voluntary credits never face. It must come from a crediting programme ICAO has approved, meet the [eligibility criteria](/insights/corsia-eligible-emissions-units-explained/), fall in the right vintage window, and — for the first phase — carry a corresponding adjustment. Each filter removes supply. What is left is a smaller, higher-quality pool, and scarcity of the good stuff is what moves price.
+Think of the whole voluntary market as a large pool. Each CORSIA requirement drains some of it.
 
-## The Four Drivers of the Premium
+1. **Programme approval.** Only credits from programmes ICAO has approved stay in. Everything issued elsewhere is out.
+2. **Eligibility criteria.** Units must meet the scheme's rules, explained in [what actually qualifies](/insights/corsia-eligible-emissions-units-explained/).
+3. **Vintage window.** Credits from outside the permitted years are excluded.
+4. **Corresponding adjustment (first phase).** The host country must authorise the transfer and deduct it from its own accounts.
 
-| Driver | Why it lifts the price |
+What remains is a small pool of units that have cleared every step. Demand then arrives from operators who have a legal obligation to buy, which adds steady pressure that the generic market lacks.
+
+## Why the adjustment is usually the tightest step
+
+The first three filters depend on documents and rules. The fourth depends on a government's decision.
+
+Some host countries prefer to keep reductions in their own national accounts so they count towards their own targets. Without authorisation there is no corresponding adjustment, and without it the unit cannot be used in the first phase. Authorised supply is therefore short in a structural way, not just a temporary one. The treaty background is in [Article 6 of the Paris Agreement](/insights/article-6-paris-agreement-explained/), and for India-specific context see [corresponding adjustments for Indian CORSIA projects](/insights/corsia-corresponding-adjustment-india/).
+
+## What the buyer gets for the money
+
+- **An integrity signal.** The unit has passed a strict external standard.
+- **Protection from double counting.** The adjustment means only one party claims the tonne.
+- **A claim that survives review.** Auditors, regulators and customers have less to question.
+
+For an organisation whose statements will be examined, that is modest insurance against a much larger reputational bill. It also explains the close fit between CORSIA-grade units and the [ICVCM Core Carbon Principles](/insights/icvcm-core-carbon-principles/).
+
+## Matching the credit to the claim
+
+| Purpose | Is the premium justified? |
 |---|---|
-| Programme approval | Only ICAO-approved programmes qualify |
-| Corresponding adjustment | Host-country authorisation is hard to get |
-| Scarcity | Few units clear every filter |
-| Compliance demand | Airlines *must* buy, adding steady pull |
+| CORSIA compliance for an aircraft operator | Required, not optional |
+| Public net-zero or neutrality claim that will be audited | Usually yes |
+| Purchase a buyer expects to defend to customers or investors | Usually yes |
+| Internal or goodwill gesture with little scrutiny | Often not; a well-rated voluntary credit may do |
 
-The corresponding adjustment is often the decisive one. Not every host country will authorise it — some prefer to keep the reduction for their own national target — so authorised, adjusted supply is structurally short against demand, as covered in [Article 6](/insights/article-6-paris-agreement-explained/).
+Within the eligible pool, prices still vary with project type, vintage and integrity, so paying the premium does not end the need for diligence. Non-airline buyers weighing this should also read [can companies buy CORSIA-eligible credits](/insights/can-companies-buy-corsia-eligible-credits/).
 
-## Why Buyers Pay It Willingly
+## Short answers
 
-For a serious buyer, the premium buys three things a cheap credit cannot: an **integrity signal** (it cleared a strict standard), **protection against double counting** (the corresponding adjustment), and **audit resilience** (a claim that survives scrutiny). For anyone whose climate claims will be examined — by a regulator, a customer, or an auditor — that is cheap insurance against a far more expensive reputational problem. It is also why CORSIA-grade units overlap so heavily with what the [ICVCM Core Carbon Principles](/insights/icvcm-core-carbon-principles/) demand.
+**Is the premium just a label?** No. It reflects filtered supply and compliance demand.
 
-## When It Is Worth Paying — and When It Is Not
+**Which filter matters most?** Usually the corresponding adjustment, because it needs host-country authorisation.
 
-The premium is not always necessary. For a low-stakes gesture, a well-rated ordinary voluntary credit may do the job at lower cost. The premium earns its keep when the **claim matters**: a compliance obligation, a high-profile net-zero statement, or a purchase you will have to defend. Match the credit's pedigree to the weight of the claim, and the premium becomes a rational spend rather than an overpay — the corporate-buyer logic in [can companies buy CORSIA-eligible credits](/insights/can-companies-buy-corsia-eligible-credits/).
+**Who decides which programmes qualify?** ICAO publishes the approved programmes and criteria, on the basis of assessments by its Technical Advisory Body.
 
-## Frequently Asked Questions
+**Do all eligible units cost the same?** No. Project type, vintage and integrity still create a range.
 
-**Why do CORSIA-eligible credits cost more?** Because eligibility filters — programme approval, corresponding adjustment, vintage — remove most supply, leaving a scarce, higher-integrity pool that compliance demand competes for.
-
-**What is the corresponding adjustment premium?** The extra value of a credit whose host country has authorised it and deducted the tonnes from its own total, preventing double counting; such authorised supply is scarce.
-
-**Is a CORSIA-grade credit always worth the premium?** Not always — for low-stakes offsetting a good voluntary credit may suffice; the premium is worth it when the claim must be defended.
-
-**Do prices vary between CORSIA-eligible credits?** Yes — project type, vintage and integrity still create a range within the eligible pool.
-
-**Who sets which programmes are CORSIA-eligible?** ICAO, based on assessments by its Technical Advisory Body, publishes the approved programmes and criteria.
-
----
-
-**Buying carbon credits or measuring travel and freight emissions?** DSTechnoverse works on the data and integrity side of carbon — footprint measurement, project screening, registry and eligibility verification, and defensible reporting. See our [CORSIA carbon credit services](/services/) and [data analytics](https://dstechnoverse.com/services/data-analytics). We are based in **Indore, Madhya Pradesh** and work across India and internationally.
-
-[Apply as a carbon credit buyer or seller](https://carboncredit.dstechnoverse.com/)
-
-[Talk to our team](/contact/), or start with [the complete carbon credits guide](/insights/corsia-carbon-credits-complete-guide/).
+Our [marketplace](/marketplace/) shows eligibility status and adjustment details where they exist, so you can compare like with like before asking for a price.

@@ -1,142 +1,133 @@
 ---
-title: "Renewable Energy Carbon Projects: Why Additionality Got Harder"
-excerpt: "Grid-connected renewables once dominated carbon crediting and now face the hardest additionality test in the market. Why methodologies have narrowed, where renewable projects still credit credibly, and how off-grid differs from utility scale."
+title: "Renewable Energy Carbon Credits: How Cheap Solar and Wind Made Additionality Hard to Prove"
+excerpt: "Grid solar and wind once supplied most carbon credits. Now they struggle to show carbon revenue mattered. Where renewable crediting still stands up, why off-grid is a separate case, how grid factors skew volumes, and what India shows."
 date: "2026-09-05"
 topic: "Carbon Market Guides"
 tags: ["renewable energy carbon credits","solar carbon projects","additionality","off-grid solar","solar lamps","carbon methodology","grid emission factor"]
 image: "/images/carbon-credits/carbon-project-types-compared.svg"
 ---
 
-Grid-connected renewable energy was once the largest category in carbon crediting. It is now the hardest to credit credibly, and the reason is entirely good news for the climate: renewables got cheap.
+A developer with a newly commissioned solar park in Rajasthan asks us whether it can earn carbon credits. Our first question back is whether the park would have been built without them. In most such cases the honest answer is yes, and that answer is the whole story of what happened to renewable energy crediting.
 
-![Carbon project types compared](/images/carbon-credits/carbon-project-types-compared.svg)
+Grid-connected renewables used to be the biggest category in the carbon market. Today they are the hardest to credit with a straight face, for a reason that is good news for the climate: they became cheap.
 
-## The Additionality Problem
+![How the main carbon project types compare](/images/carbon-credits/carbon-project-types-compared.svg)
 
-Additionality requires demonstrating that the project needed carbon revenue to proceed.
+## What changed
 
-In 2010, a utility-scale solar farm in most markets did not compete with fossil generation on cost. Carbon revenue plausibly made the difference between built and not built, and the additionality argument was straightforward.
+Additionality means showing that a project needed carbon revenue to go ahead.
 
-By the mid-2020s, solar and wind are frequently the **least-cost generation option** in the same markets. A project that would be built anyway on commercial grounds cannot claim that carbon revenue was decisive.
+| | Around 2010 | By the mid-2020s |
+|---|---|---|
+| Cost of utility solar against fossil power, in most markets | Higher | Often the cheapest option |
+| Did carbon revenue plausibly decide whether the plant was built? | Often yes | Usually no |
+| Additionality case | Straightforward | Hard to make |
+| Methodology availability | Broad | Narrowed or retired in markets where renewables pay for themselves |
 
-The consequence has been methodological rather than rhetorical. Standards have **narrowed or retired methodologies** for grid-connected renewables in markets where they are commercially viable, and several have restricted eligibility to specific country contexts or to projects facing documented barriers.
+Standards responded with rule changes, not just statements. They restricted grid-renewable methodologies to certain country contexts, or to projects that can show specific barriers, and withdrew them elsewhere.
 
-This is the market working as intended. Additionality is supposed to become harder to demonstrate as a technology becomes commercially normal.
+That is how the system is supposed to work. As a technology becomes commercially ordinary, proving that it needed extra support should get harder.
 
-## Where Renewables Still Credit Credibly
+## Where the argument still holds
 
-The category is narrowed, not eliminated. Four contexts where the argument still holds:
+The category has shrunk, not vanished. Renewable projects can still make a credible case in four situations:
 
-**Least developed country contexts**, where financing costs, grid reliability and off-take risk mean renewables are not automatically the cheapest option despite falling equipment costs.
+1. **Least developed countries**, where financing costs, unreliable grids and offtake risk mean renewables are not automatically cheapest, whatever panels cost.
+2. **Technologies that are genuinely early**, still at the cost stage solar was at about fifteen years ago.
+3. **Projects with documented barriers**, such as regulatory, financing or grid-connection problems that this particular project can prove rather than claim in general terms.
+4. **Off-grid and distributed systems**, where the alternative is not grid power at all.
 
-**Genuinely early-stage technologies** at a deployment stage where cost has not yet fallen — the position solar occupied fifteen years ago.
+In every case the argument must be about this project's circumstances, not about renewables in general.
 
-**Projects facing documented barriers** — regulatory, financing or grid access constraints that a specific project can evidence rather than assert generically.
+## Off-grid is a different case
 
-**Off-grid and distributed applications**, where the counterfactual is not grid electricity at all but kerosene, diesel or no energy access. This is a genuinely different proposition and is discussed below.
+Solar lamps, home solar systems and mini-grids should be judged separately from utility-scale generation.
 
-The common thread: the argument has to be **specific to the project's circumstances**, not to renewables in general.
+| | Utility-scale grid project | Off-grid lamp or home system |
+|---|---|---|
+| What it replaces | Grid electricity | Kerosene, candles or no energy at all |
+| Is it commercially viable on its own? | Often yes | Frequently no; households cannot meet the upfront cost even when lifetime savings are good |
+| Co-benefits | Limited | Cleaner indoor air, safety, more hours for study, lower fuel spend |
+| Main measurement problem | Largely solved by metering | Handing out a device does not prove it is used |
 
-## Off-Grid Is a Different Proposition
+Kerosene lighting is expensive per unit of light and pollutes the home, so the case for carbon finance filling a real gap is strong. But off-grid projects share the cookstove problem: a lamp that is broken, unused or sold on reduces nothing. Credible projects measure use rather than assuming it. We cover the methods in [digital MRV](/insights/dmrv-digital-monitoring-carbon-projects/).
 
-Solar lamps, solar home systems and mini-grids sit in a different analytical position from utility-scale generation, and it is worth separating them.
+## The grid emission factor
 
-**The counterfactual is different.** A household using a solar lamp was previously using kerosene, candles or nothing. The displaced emission is kerosene combustion, not grid electricity, and kerosene lighting is both expensive per unit of light and locally polluting.
+For a grid-connected project, the credited quantity is the electricity generated multiplied by the **grid emission factor**: the emissions per unit of power the project is assumed to displace.
 
-**Commercial viability is genuinely constrained.** Households at the relevant income level frequently cannot pay the upfront cost even where lifetime economics are favourable. Carbon finance closes a real gap.
+Two technical points can move the result a long way.
 
-**The co-benefits are substantial** — household air quality, safety, study hours, and displaced fuel expenditure.
+- **Operating margin and build margin.** The operating margin reflects the generation displaced today. The build margin reflects new capacity avoided over time. Methodologies usually combine the two, and the weighting matters.
+- **Grids get cleaner.** As a grid adds low-carbon power, its factor falls, and a project displacing that grid displaces less. Methodologies increasingly require the factor to be revised during the crediting period rather than fixed at the start.
 
-**But the same measurement problems appear** as in cookstoves: distribution is not usage. A lamp distributed and not used, broken and not repaired, or resold produces no reduction. Credible projects measure usage rather than assuming it — see [digital MRV](/insights/dmrv-digital-monitoring-carbon-projects/).
+**Illustrative example; the figures are invented.** A wind farm generates 100,000 MWh in a year.
 
-## The Grid Emission Factor
-
-For grid-connected projects, the credited quantity depends on the **grid emission factor** — the emissions per unit of electricity the project displaces.
-
-Two subtleties that materially affect the answer:
-
-**Operating margin versus build margin.** The operating margin reflects what generation is displaced right now; the build margin reflects what new capacity is avoided over time. Methodologies typically combine them, and the weighting matters.
-
-**Grids decarbonise.** As a grid's own generation mix cleans up, the emission factor falls, and a project displacing that grid displaces less. A crediting period spanning a decade of grid decarbonisation should reflect that, and methodologies increasingly require periodic revision rather than a fixed factor.
-
-For a buyer, this means checking whether the emission factor used is current. A project crediting against a decade-old factor in a rapidly decarbonising grid is over-crediting relative to what it actually displaces.
-
-## Assessing a Renewable Project
-
-| Question | What a good answer looks like |
+| Factor used | Tonnes credited |
 |---|---|
-| Is the methodology current? | Not registered under a revision since narrowed |
-| What is the additionality argument? | Project-specific barriers, evidenced |
-| Is it grid-connected or off-grid? | Different counterfactuals, assess accordingly |
-| Which grid emission factor, from when? | Current, with a revision mechanism |
-| What is the country context? | Renewables least-cost, or genuinely constrained |
-| For off-grid, how is usage measured? | Sensor or verified sampling, not distribution counts |
-| Was the investment analysis independently reviewed? | Yes, with the counterfactual stated |
+| An old factor of 0.8 tCO2 per MWh | 80,000 |
+| An updated factor of 0.6 tCO2 per MWh | 60,000 |
 
-**The screening question for a buyer:** would this project have been built without carbon revenue? If the honest answer is probably yes, the credit is weak regardless of how well documented it is.
+Same turbines, same output, a quarter fewer credits once the factor reflects a cleaner grid. A project still crediting against a decade-old factor on a fast-decarbonising grid is claiming more than it displaces. Buyers should check the factor's date.
 
-## What Replaced Renewables in the Market
+## Checking a renewable project
 
-As grid renewables narrowed, credit supply shifted toward categories where the additionality argument holds better. Understanding that shift helps a buyer read the current market.
+Put these questions to any renewable offer:
 
-**Methane avoidance** — landfill gas, wastewater treatment, biogas, coal mine methane — has strengthened. The counterfactual is usually venting rather than a commercially attractive alternative, which makes additionality comparatively clean. Permanence is not an issue because avoided emissions do not reverse. The main test is regulatory additionality: whether capture was already legally required.
+- Is the methodology current, or was the project registered under a version since narrowed?
+- What is the additionality case, and are the barriers evidenced for this project?
+- Grid-connected or off-grid? Judge each against its own alternative.
+- Which grid factor, from which year, and does it get revised?
+- In this country, are renewables already the cheapest option, or genuinely held back?
+- For off-grid, is use measured by sensors or verified sampling, or just counted at distribution?
+- Was the investment analysis reviewed independently, with the counterfactual spelt out?
 
-**Engineered removals** — direct air capture, biochar, enhanced weathering, bioenergy with carbon capture — have grown from a very small base. Additionality is rarely questioned because nobody does these without carbon revenue, and permanence is strong for geological storage. The constraints are cost and volume.
+One question sits above the rest: would this project have been built without carbon revenue? If the honest answer is "probably", the credit is weak however good the paperwork.
 
-**Waste and industrial gas destruction** occupies a middle position, with additionality generally clean but methodology availability narrower after historic abuses in the category.
+## What filled the gap
 
-**Household energy** — cookstoves, solar lamps, water treatment — remains large by volume and carries the measurement difficulties discussed elsewhere in this cluster.
+As grid renewables faded, supply moved towards categories with cleaner additionality.
 
-For a buyer, the practical implication: **the categories with the cleanest additionality arguments are generally not the cheapest.** A portfolio weighted toward the lowest price will be weighted toward the categories under most scrutiny, which is the opposite of what most buyers intend.
+| Category | Additionality | Other points |
+|---|---|---|
+| Methane avoidance (landfill gas, wastewater, biogas, coal mine methane) | Usually clean, since the alternative is venting; check capture was not already legally required | Avoided emissions cannot reverse |
+| Engineered removals (direct air capture, biochar, enhanced weathering, bioenergy with carbon capture) | Rarely questioned; nobody does these without carbon revenue | Strong permanence with geological storage; limited by cost and volume |
+| Waste and industrial gas destruction | Generally clean | Fewer methodologies after past abuses in the category |
+| Household energy (cookstoves, solar lamps, water treatment) | Depends on circumstances | Large volumes; measurement is the main problem |
 
-## The Indian Context
+The categories with the cleanest additionality are generally not the cheapest. A portfolio built on lowest price will lean towards the categories under most scrutiny, which is usually the opposite of what the buyer wanted. [Direct air capture](/insights/direct-air-capture-carbon-removal/) sits at the far end of that trade-off.
 
-India is the clearest illustration of why this category narrowed.
+## India as the clearest example
 
-Utility-scale solar and wind are now among the cheapest generation available, supported by a mature auction mechanism and substantial deployment. A grid-connected solar project claiming that carbon revenue was decisive faces a difficult argument in that environment, and buyers should expect to see it made carefully rather than assumed.
+India shows why the category narrowed. Utility-scale solar and wind are among the cheapest power available there, backed by a mature auction system and large-scale deployment. A grid-connected solar park claiming carbon revenue was decisive has a hard argument to make, and buyers should expect to see it made with care, if at all.
 
-**Where Indian renewable crediting remains more defensible:**
+**More defensible in India:** off-grid and distributed systems where the grid is unreliable; projects replacing diesel generation rather than grid power; projects with documented financing or land constraints that a comparable commercial project would not overcome.
 
-Off-grid and distributed applications in areas with limited grid reliability. Applications where the counterfactual is diesel generation rather than grid supply. Projects facing documented financing or land constraints that a comparable commercial project would not overcome.
+**Difficult:** a standard utility-scale solar farm in a state with an established auction pipeline, such as the Rajasthan park in our opening. Do not assume that because methodologies were available in the past, they still are.
 
-**Where it is difficult:** a standard utility-scale solar farm in a state with an established auction pipeline. Approach with realistic expectations rather than assuming that past methodology availability transfers.
+## The lesson for other project types
 
-## The Lesson for Other Categories
+Renewables are the first category to go through this, not the last.
 
-The renewable energy story is worth generalising, because the same trajectory will affect other categories.
+- **Additionality wears away as a technology becomes normal.** A methodology that keeps crediting a technology after it stops needing help is crediting business as usual.
+- **The change is gradual and uneven by country**, which is why renewable methodologies were narrowed market by market rather than withdrawn everywhere at once.
+- **Developers should expect rules to tighten within a long crediting period.** A financial model that assumes today's methodology survives fifteen years is optimistic.
+- **Older vintages in maturing categories deserve more caution**, because they were credited under assumptions that have since been revisited.
 
-**Additionality erodes as a technology becomes commercially normal.** This is not a flaw in the system — it is the system working. A methodology that credits a technology indefinitely, regardless of whether it needs support, is crediting business as usual.
+Categories to watch: battery storage, electric vehicles, and efficiency measures in sectors riding a steep cost curve. Each is credible today in particular settings, and each will face the renewable question as costs fall. The useful test for a developer is not only "does a methodology exist now?" but "will my additionality case still stand in year eight?". For how additionality is judged more generally, see [additionality in carbon credits](/insights/additionality-in-carbon-credits-explained/).
 
-**The erosion is gradual and geographically uneven.** Renewables became least-cost in different markets at different times, which is why methodologies narrowed by country context rather than being withdrawn globally.
+## Short answers
 
-**Developers who plan on a decade-long crediting period should assume tightening.** A methodology available today may be revised or restricted before a crediting period ends. Building a financial model that assumes today's rules hold for fifteen years is optimistic.
+::: accordion Can renewable credits be used for CORSIA?
+Subject to the usual tests. In practice the obstacle is more often methodology availability and additionality than the CORSIA criteria themselves.
+:::
 
-**Buyers should treat older vintages in maturing categories with more caution**, because they were credited under assumptions that have since been reconsidered.
+::: accordion Should a company buy renewable energy credits?
+For a voluntary claim, only if you are ready to defend the additionality case. Many buyers now exclude the category or limit it to off-grid and least developed country projects.
+:::
 
-Categories where this dynamic is worth watching: battery storage, electric vehicles, and efficiency measures in sectors where the technology is on a steep cost curve. Each is credible today in specific contexts and each will face the same question renewables faced as costs fall.
+::: accordion Are RECs the same thing?
+No. RECs and Guarantees of Origin certify attributes of electricity. They are not carbon credits and cannot be retired against an emissions obligation.
+:::
 
-The practical instruction for a developer is to ask not only whether a methodology exists now, but **whether the underlying additionality argument will still hold in year eight of the crediting period.**
-
-## Frequently Asked Questions
-
-**Can solar projects still generate carbon credits?** Some can, but grid-connected utility-scale solar in markets where it is least-cost faces a hard additionality test. Several methodologies have been narrowed or retired.
-
-**Why did renewable energy credits fall out of favour?** Because renewables became commercially competitive, which undermines the claim that carbon revenue was necessary. This is the mechanism working correctly.
-
-**Are off-grid solar projects different?** Yes, materially. The counterfactual is kerosene or no access rather than grid electricity, and commercial viability is genuinely constrained at the relevant income levels.
-
-**What is a grid emission factor?** The emissions per unit of electricity a project displaces. It falls as a grid decarbonises, which reduces what a project can credibly claim over a long crediting period.
-
-**Can renewable credits be used for CORSIA?** Subject to the usual tests. The practical constraint is more often methodology availability and additionality than the CORSIA criteria specifically.
-
-**Should I buy renewable energy credits?** For voluntary claims, be prepared to defend the additionality argument. Many buyers now exclude the category or restrict it to off-grid and least-developed-country contexts.
-
-**What about renewable energy certificates?** RECs and Guarantees of Origin certify the attributes of generated energy. They are not carbon credits and cannot be retired against an emissions obligation.
-
----
-
-**Developing a carbon project, or assessing one before you buy?** DSTechnoverse provides [CORSIA carbon credit services](/services/) — eligibility screening, host-State authorisation assessment, methodology selection and buyer matching. We are based in **Indore, Madhya Pradesh** and work across India and internationally.
-
-[Apply as a CORSIA buyer or seller](https://carboncredit.dstechnoverse.com/)
-
-[Talk to our carbon markets team](/contact/), or start with [the complete carbon credits guide](/insights/corsia-carbon-credits-complete-guide/).
+If you are developing a renewable project and want a frank view on whether it can credit, or you are screening renewable credits for purchase, [send us the details](/contact/). We will start with the additionality question, because everything else depends on it.

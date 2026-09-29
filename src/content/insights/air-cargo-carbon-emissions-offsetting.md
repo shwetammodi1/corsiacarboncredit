@@ -1,63 +1,65 @@
 ---
-title: "Air Cargo Carbon Emissions: Offsetting Options for Shippers"
-excerpt: "Air freight is the most carbon-intensive way to move goods — and the emissions belong to the shipper, not just the airline. How to measure air-cargo emissions, cut them, and offset the rest credibly."
+title: "Air Cargo Carbon Emissions: How Shippers Measure, Cut and Offset Them"
+excerpt: "When your goods fly, part of the carbon is yours. A shipper's sequence for air freight emissions: count tonne-kilometres, move what can go by sea or rail, consider SAF book-and-claim, then retire credits for the rest."
 date: "2026-09-12"
 topic: "Buying Credits"
 tags: ["air cargo emissions","air freight carbon","logistics emissions","Scope 3 freight","carbon credits for shipping","supply chain emissions"]
 image: "/images/aviation-buyers/air-cargo-offset.svg"
 ---
 
-Speed has a carbon price, and nowhere is it steeper than in air freight. Moving a tonne of goods by air can emit many times what the same journey by sea would — and increasingly, the companies whose goods are flying, not just the airlines, are being asked to account for it. If your supply chain uses air cargo, these emissions are partly yours.
+Picture a pharmaceutical exporter in Hyderabad sending a rush consignment to Frankfurt by air because a customer cannot wait three weeks for a ship. The airline burns the fuel. The exporter created the reason for burning it. That second fact is why air freight now shows up in shippers' carbon accounts, not only in airlines'.
 
-## Whose Emissions Are They?
+## The accounting position
 
-This is the point shippers often miss. The airline owns the flight, but the **shipper owns the demand** — and under greenhouse-gas accounting, the emissions from freighting your goods fall into *your* **Scope 3**. A retailer air-freighting stock, a manufacturer expediting components, an e-commerce firm promising next-day delivery — all carry the carbon of that choice in their value-chain footprint. Customers and regulators are starting to ask about it.
+Greenhouse-gas accounting places the emissions from transporting your goods in **Scope 3**, the value-chain category, of the company that bought the transport. The carrier reports the same flight in its own direct emissions. Both entries are legitimate; they answer different questions.
 
-## Why Air Freight Is So Carbon-Intensive
+In practice this catches more companies than expect it:
 
-The comparison is stark:
+- retailers who fly in seasonal stock
+- manufacturers expediting a missing component to keep a line running
+- e-commerce sellers whose delivery promise depends on air legs
+- exporters of perishables, electronics and medicines
 
-| Mode | Relative carbon per tonne-km |
+Customers asking for supplier footprints, and regulators asking for value-chain disclosure, both reach this line. For how Scope 3 sits against Scopes 1 and 2, see our note on [GHG accounting scopes](/insights/ghg-accounting-scope-1-2-3-explained/).
+
+## Why a small air share dominates the total
+
+Per tonne-kilometre, the modes rank roughly like this:
+
+| Freight mode | Carbon per tonne-km, relative |
 |---|---|
-| Sea freight | Lowest |
-| Rail | Low |
+| Air | By far the highest |
 | Road | Moderate |
-| Air freight | Highest by far |
+| Rail | Low |
+| Sea | Lowest |
 
-Air's intensity is why a small share of freight moved by air can dominate a logistics footprint. That also makes it a high-leverage place to act.
+The consequence is lopsided. A company that moves only a sliver of its volume by air can find that sliver accounts for most of its logistics emissions. The upside is that the same sliver is where effort pays back fastest.
 
-## Step 1: Measure the Tonne-Kilometres
+## A four-part plan, in order
 
-Freight emissions are driven by **weight × distance**, converted with an emission factor for air transport. Capturing shipment weight and route data across your air-freight activity gives you a defensible number to manage — the freight equivalent of measuring a [flight's footprint](/insights/how-to-calculate-flight-carbon-footprint/).
+**1. Count it.** Emissions follow weight multiplied by distance, converted using an emission factor for air transport. Pull shipment weights and origin–destination pairs from your freight forwarder or booking system. Without this, every later step is a guess. The logic mirrors [working out a single flight's footprint](/insights/how-to-calculate-flight-carbon-footprint/), with tonnes of cargo in place of passengers.
 
-## Step 2: Shift Modes Where You Can
+**2. Stop flying what does not need to fly.** This is usually the largest cut available, and it often lowers the freight bill too. Go through air shipments lane by lane and ask which ones actually needed air speed. Planned replenishment that was flown because someone ordered late is a process problem, not a logistics requirement.
 
-The single biggest reduction is often to **move less by air**. Not everything needs to fly. Reviewing which shipments genuinely require air speed — and shifting the rest to sea or rail — can cut the freight footprint dramatically, usually while saving money too.
+**3. Pay for cleaner fuel where air is unavoidable.** Under SAF book-and-claim, a shipper funds sustainable aviation fuel used somewhere in the carrier's network and is allocated the emissions reduction, even though that fuel never enters the aircraft carrying its boxes. This reduces aviation emissions rather than compensating for them elsewhere. Background is in [SAF and CORSIA](/insights/sustainable-aviation-fuel-corsia/).
 
-## Step 3: Buy the Fuel Benefit (SAF Book-and-Claim)
+**4. Retire credits for what remains.** The residual can be covered with high-integrity carbon credits retired in your company's name, after the same checks you would apply to any purchase.
 
-For freight that must fly, **sustainable aviation fuel via book-and-claim** lets a shipper pay for the emissions reduction of SAF used in the network, even though that specific fuel is not in your specific plane. It is a way to cut the actual aviation emission rather than only compensating for it — see [SAF and CORSIA](/insights/sustainable-aviation-fuel-corsia/).
+## Mistakes we see from shippers
 
-## Step 4: Offset the Remainder
+- **Offsetting before measuring.** Buying a round number of credits for "our air freight" gives you nothing to defend when someone asks how the figure was reached.
+- **Treating the forwarder's annual summary as final.** Check that it covers all lanes and uses a stated emission factor.
+- **Skipping mode shift because it involves other departments.** Procurement and planning control most of the air volume, not the sustainability team.
+- **Buying the cheapest credits to cover a large volume.** A smaller quantity of credits you can explain beats a large pile you cannot. Our [offset quality guide](/insights/evaluating-carbon-offset-quality-airlines/) sets out what to check.
 
-For the residual you cannot yet reduce, high-integrity carbon credits, retired in your name, close the gap — subject to the same [quality checks](/insights/evaluating-carbon-offset-quality-airlines/) as any purchase. As always, a smaller volume of credible credits beats a large volume of cheap ones.
+## Short answers
 
-## Frequently Asked Questions
+**Is air cargo carbon the shipper's problem or the airline's?** Both. The airline reports it as its own fuel use; the shipper reports it as Scope 3.
 
-**Are air cargo emissions the shipper's responsibility?** Under greenhouse-gas accounting, the emissions from freighting your goods are part of your Scope 3 footprint, even though the airline operates the flight.
+**How is it measured?** Tonne-kilometres by air, multiplied by an air-transport emission factor.
 
-**How much more carbon does air freight emit than sea?** Far more per tonne-kilometre — air is the most carbon-intensive freight mode by a wide margin, which is why shifting modes has a big impact.
+**What does book-and-claim actually buy?** The emissions benefit of SAF used elsewhere in the network, attributed to your shipments.
 
-**How do I measure air freight emissions?** From shipment weight and distance (tonne-kilometres), converted with an air-transport emission factor.
+**Can the remainder be offset?** Yes, once you have measured and reduced, using credits that pass due diligence.
 
-**What is SAF book-and-claim for freight?** A mechanism to pay for the emissions benefit of sustainable aviation fuel used in the network, attributing the reduction to your shipments without the fuel being physically in your flight.
-
-**Can I offset air cargo emissions?** Yes — after measuring and reducing, buy and retire high-integrity credits for the residual, with proper due diligence.
-
----
-
-**Buying carbon credits or measuring travel and freight emissions?** DSTechnoverse works on the data and integrity side of carbon — footprint measurement, project screening, registry and eligibility verification, and defensible reporting. See our [CORSIA carbon credit services](/services/) and [data analytics](https://dstechnoverse.com/services/data-analytics). We are based in **Indore, Madhya Pradesh** and work across India and internationally.
-
-[Apply as a carbon credit buyer or seller](https://carboncredit.dstechnoverse.com/)
-
-[Talk to our team](/contact/), or start with [the complete carbon credits guide](/insights/corsia-carbon-credits-complete-guide/).
+If you want help turning forwarder data into a footprint you can defend, or sourcing credits for the residual, [write to us](/contact/). We usually start by asking for one year of shipment records.

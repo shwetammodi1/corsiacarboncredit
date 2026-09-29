@@ -1,119 +1,98 @@
 ---
-title: "CORSIA Eligible Fuels: SAF, LCAF and the Sustainability Criteria"
-excerpt: "What qualifies as a CORSIA Eligible Fuel, the sustainability criteria a fuel must meet, the certification and chain-of-custody requirements, and why burning sustainable fuel without the paperwork produces no CORSIA claim."
+title: "CORSIA Eligible Fuels Explained: SAF, LCAF and What It Takes to Qualify"
+excerpt: "A CORSIA Eligible Fuel must meet ICAO's sustainability criteria, carry certification from an approved scheme and have a documented chain of custody. Miss any one and the fuel earns no reduction, however green it is."
 section: "Eligible Fuels"
 order: 18
 image: "/images/corsia/corsia-eligible-fuels.svg"
 ---
 
-Qualifying fuel reduces a CORSIA offsetting requirement directly. But **CORSIA Eligible Fuel** is a defined term with hard criteria, and fuel that is genuinely sustainable in every ordinary sense can fail to qualify on documentation alone.
+Picture an airline that buys a consignment of used-cooking-oil jet fuel at a foreign hub, flies on it, and then finds at verification that it cannot claim a single tonne. The fuel was real and the emissions saving was real. What was missing were the certificates and custody records. Under CORSIA, "eligible fuel" is a defined term, and the definition is as much about paperwork as about chemistry.
 
-![CORSIA Eligible Fuels at a glance](/images/corsia/corsia-eligible-fuels.svg)
+![Summary graphic of CORSIA Eligible Fuels](/images/corsia/corsia-eligible-fuels.svg)
 
-## Two Categories
+## The two kinds of eligible fuel
 
-CORSIA Eligible Fuels (CEF) come in two forms:
+ICAO recognises two families, together called CORSIA Eligible Fuels (CEF).
 
-**Sustainable Aviation Fuel (SAF)** — a renewable or waste-derived aviation fuel meeting the CORSIA sustainability criteria. Feedstocks include used cooking oil, animal fats, agricultural and forestry residues, municipal solid waste, and power-to-liquid pathways using renewable electricity.
+| | Sustainable Aviation Fuel (SAF) | Lower Carbon Aviation Fuel (LCAF) |
+|---|---|---|
+| Origin | Renewable or waste-derived | Fossil |
+| How it gets its saving | Feedstock and production pathway | Lower lifecycle carbon intensity than conventional jet fuel, for instance through carbon capture at the refinery or less flaring upstream |
+| Typical feedstocks or routes | Used cooking oil, animal fats, farm and forestry residues, municipal solid waste, power-to-liquid using renewable electricity | Conventional crude, produced more cleanly |
+| Size of reduction per tonne | Generally much larger | Smaller |
 
-**Lower Carbon Aviation Fuel (LCAF)** — a fossil-based aviation fuel produced with a lower lifecycle carbon intensity than the conventional baseline, for example through carbon capture at the refinery or reduced flaring upstream.
+Both reduce the offsetting requirement. SAF usually does far more per tonne.
 
-Both reduce the offsetting requirement. SAF generally delivers far larger reductions per tonne.
+## The qualifying path, in order
 
-## The Three Conditions
+A fuel only earns a CORSIA reduction if it gets through every one of these stages. There is no partial credit.
 
-All three must hold. Failing any one means no claim.
+1. **It meets the sustainability criteria** set by ICAO (below).
+2. **It is certified** under a Sustainability Certification Scheme (SCS) that ICAO has approved.
+3. **Its chain of custody is documented** from the producer to the point of uplift.
+4. **The operator claims it** in the Annual Emissions Report.
+5. **The claim survives verification** by the independent verifier.
 
-| Condition | Requirement |
+Genuinely sustainable fuel that stalls at step 2 or 3 still helps the climate, but it does nothing for your CORSIA obligation. This is the most expensive misunderstanding in the area.
+
+## The sustainability criteria
+
+| Criterion | What it requires |
 |---|---|
-| 1. Sustainability criteria | The fuel meets the CORSIA sustainability criteria |
-| 2. Certification | Certified under an approved Sustainability Certification Scheme |
-| 3. Chain of custody | Documented from production through to uplift |
+| Lifecycle saving | At least a 10% cut in lifecycle greenhouse gas emissions compared with the conventional jet fuel baseline. Lifecycle means well-to-wake: growing or collecting the feedstock, transport, conversion, distribution and combustion, not burning alone. |
+| Protecting carbon stocks | No biomass from land converted after 1 January 2008 from high carbon stock land, meaning primary forest, wetland or peatland. The rule exists so nobody clears carbon-rich land to grow fuel crops. |
+| Induced land use change (ILUC) | Where relevant, an ILUC value is added to the lifecycle figure to reflect emissions from food production being pushed onto other land. Values differ widely between feedstocks, which is one reason wastes and residues are favoured: they displace nothing. |
+| Wider themes | The framework also covers water, soil, air quality, conservation, waste and chemicals, human and labour rights, land use rights, local and social development, and food security. How deeply each is assessed depends on the certification scheme, and this part continues to evolve. |
 
-> Burning genuinely sustainable fuel without the certification and chain-of-custody documentation produces a real environmental benefit and **no CORSIA claim whatsoever**. This is the point operators most often miss, and it is expensive.
+## Certification and the custody problem
 
-## The Sustainability Criteria
+The approved SCS audits the producer, checks the lifecycle values and the eligibility of the feedstock, and certifies the fuel.
 
-::: accordion Lifecycle emissions reduction
-The fuel must achieve at least a **10% reduction** in lifecycle greenhouse gas emissions compared with the conventional jet fuel baseline.
+The harder part comes next. Jet fuel is a commingled commodity: SAF enters tanks and pipelines alongside conventional fuel, so the molecules that reach your aircraft are not the ones that left the SAF plant. Chain of custody is the record that carries the sustainability attribute across that gap.
 
-Lifecycle means well-to-wake: feedstock production, collection, transport, conversion, distribution and combustion. It is not the combustion emissions alone.
+::: accordion Mass balance versus book-and-claim
+**Mass balance** follows the attribute through a physically connected supply chain. Mixing is allowed, but quantities in and out must balance over a set period. This is the standard model, and CORSIA's custody requirements are designed around it.
+
+**Book-and-claim** separates the attribute from physical delivery altogether, so a buyer can claim SAF that was burnt somewhere else in the system. It addresses a genuine problem, since most airports have no SAF, but CORSIA treats it more restrictively than voluntary programmes do. Confirm the position before assuming you can claim this way.
+
+Settle the custody model before you sign the fuel contract. Discovering afterwards that your supply route cannot support a claim is a costly lesson.
 :::
 
-::: accordion Carbon stock protection
-The fuel must **not** be made from biomass obtained from land converted after **1 January 2008** from land with high carbon stock — primary forest, wetlands, or peatland.
+## What the verifier will want to see
 
-This prevents the perverse outcome of clearing carbon-rich land to grow fuel feedstock.
-:::
+The claim sits in the Annual Emissions Report and is checked with the same rigour as your emissions figures. Have ready:
 
-::: accordion Induced land use change
-Where relevant, an **ILUC** value is added to the lifecycle emissions figure, accounting for the emissions caused when fuel feedstock production displaces food production onto other land.
+- the approved scheme's certification for each batch;
+- custody records linking each batch to your uplift;
+- the lifecycle emissions value you applied and where it came from;
+- fuel volumes and the aerodromes where they were loaded;
+- a reconciliation of fuel purchase records against the quantities claimed.
 
-ILUC values vary substantially by feedstock and are one reason waste and residue feedstocks are favoured — they displace nothing.
-:::
+Gaps mean the claim is refused and the obligation goes back to its unreduced size. That usually comes to light at verification, well after the budget was set on the lower figure. How verification works is covered in [CORSIA MRV explained](/knowledge-base/corsia-mrv-explained/).
 
-::: accordion Wider sustainability themes
-Beyond the core criteria, the CORSIA sustainability framework addresses water, soil, air quality, conservation, waste and chemicals, human and labour rights, land use rights, local and social development, and food security.
+## The commercial reality
 
-The depth of assessment varies by certification scheme, and this is an area that has continued to develop.
-:::
+Supply is thin and patchy. Most airports cannot offer SAF, and where it exists, volumes are small and already allocated. A plan built on fuel you cannot actually buy overstates the reduction and understates the cost.
 
-## Certification and Chain of Custody
+SAF is expensive. It sells at a multiple of the conventional price. Whether it beats buying eligible units depends on both prices and on what else the fuel does for you; the arithmetic is in [how SAF reduces your offsetting requirement](/knowledge-base/saf-and-corsia-offsetting-reduction/), and the unit side in [CORSIA credit pricing](/knowledge-base/corsia-credit-pricing/).
 
-A fuel batch must be certified under a **Sustainability Certification Scheme (SCS)** that ICAO has approved. The scheme audits the producer, verifies lifecycle values and feedstock eligibility, and issues certification.
+Other schemes have their own rules. Fuel counted towards an EU or UK mandate, or claimed under a voluntary programme, may not be separately claimable under CORSIA. Verifiers look specifically for the same fuel being counted twice.
 
-**Chain of custody** then tracks the sustainability attribute from the producer to the aircraft. This is where practical difficulty concentrates, because aviation fuel is a commingled commodity — the physical molecules that entered the pipeline as SAF are not the molecules that reach your wing.
+## A note for Indian operators
 
-::: accordion Mass balance and book-and-claim
-**Mass balance** tracks the sustainability attribute through a physically connected supply chain, allowing commingling but requiring the quantities to balance over a defined period. This is the standard approach and is what CORSIA's chain-of-custody requirements are built around.
+India's SAF policy is still taking shape. Blending targets and domestic production capacity are both moving, and how Indian-produced SAF will sit alongside CORSIA claims is something to watch rather than assume. Any claim an Indian carrier makes still goes through its report to the DGCA and its verifier, with the same evidence standard as anywhere else. [CORSIA in India](/knowledge-base/corsia-in-india/) has the wider picture.
 
-**Book-and-claim** decouples the attribute from physical delivery entirely, allowing a buyer to claim SAF used elsewhere in the system. It solves a real problem — SAF is not available at most airports — but the treatment of book-and-claim under CORSIA is more restrictive than in voluntary programmes, and operators should confirm the position before assuming a claim.
+## Before you count on a fuel claim
 
-The practical instruction: establish the chain-of-custody model **before** contracting for fuel, not after.
-:::
+Run through these before a SAF volume goes into the budget:
 
-## Making the Claim
+- Is the fuel certified by an ICAO-approved scheme, batch by batch?
+- Do we know which custody model applies, and does our supply route support it?
+- Is the volume one we can actually obtain at airports we fly to?
+- Has the ILUC component been included in the lifecycle value?
+- Is anyone else, under any other scheme, claiming the same fuel?
+- Are the documents flowing to us now, rather than being chased at year end?
 
-The claim is made in the **Annual Emissions Report** and is subject to the same independent verification as the emissions figures.
+The criteria and the list of approved certification schemes are published by [ICAO](https://www.icao.int/environmental-protection/CORSIA/Pages/default.aspx).
 
-Evidence a verifier will expect:
-
-- Certification documentation from the approved scheme for each batch
-- Chain-of-custody records connecting the batch to your uplift
-- The lifecycle emissions value applied, and its basis
-- Fuel volumes and the aerodromes at which they were uplifted
-- Reconciliation between fuel purchase records and the claimed quantities
-
-Missing or incomplete documentation means the claim is disallowed, and the offsetting requirement reverts to the unreduced figure — typically discovered at verification, after the budget was set on the reduced number.
-
-## Practical Realities
-
-**Availability is regional and thin.** SAF is not available at most airports, and where it is, volumes are limited and allocated. Modelling a claim on fuel you cannot actually obtain overstates the reduction and understates the budget.
-
-**Price premiums are substantial.** SAF costs a multiple of conventional jet fuel. Whether it beats buying eligible units depends on both prices and on what other value the fuel delivers — see [how SAF reduces your requirement](/knowledge-base/saf-and-corsia-offsetting-reduction/).
-
-**Other schemes have different rules.** SAF used to satisfy an EU or UK mandate, or claimed under a voluntary programme, may not be separately claimable under CORSIA. Double claiming across schemes is exactly what verification looks for.
-
-**India's SAF policy is developing.** Blending targets and domestic production capacity are evolving, and the interaction with CORSIA claims is worth tracking. See [CORSIA in India](/knowledge-base/corsia-in-india/).
-
-## Common Mistakes
-
-| Mistake | Consequence |
-|---|---|
-| Assuming any SAF qualifies | No claim without approved-scheme certification |
-| Not securing chain-of-custody documentation | Claim disallowed at verification |
-| Budgeting on aspirational SAF volumes | Obligation and budget both understated |
-| Claiming the same fuel under two schemes | Double claiming; verification finding |
-| Ignoring the ILUC component | Overstated lifecycle saving |
-| Leaving the CoC model undecided until after contracting | Fuel purchased that cannot support a claim |
-
-## Where to Go Next
-
-- [How SAF reduces your requirement](/knowledge-base/saf-and-corsia-offsetting-reduction/) — the arithmetic
-- [The requirement calculation](/knowledge-base/corsia-offsetting-requirement-calculation/) — where the reduction applies
-- [CORSIA MRV explained](/knowledge-base/corsia-mrv-explained/) — how the claim is verified
-- [CORSIA credit pricing](/knowledge-base/corsia-credit-pricing/) — the alternative to fuel
-
-Criteria and approved certification schemes are published by [ICAO](https://www.icao.int/environmental-protection/CORSIA/Pages/default.aspx). Industry context is available from [IATA](https://www.iata.org/).
-
-DSTechnoverse models fuel claims against unit purchase on current numbers. [Talk to our team](/contact/).
+If you are weighing a fuel purchase against buying units, we can model both on your own network and numbers. [Get in touch](/contact/) and tell us which routes you are considering.

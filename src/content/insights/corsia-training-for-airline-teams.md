@@ -1,170 +1,114 @@
 ---
-title: "CORSIA Training for Airline Teams: Who Needs to Know What"
-excerpt: "Generic CORSIA training explains the scheme and prepares nobody for a verifier question. What each role actually needs to know, how to train on your own data, and the knowledge concentration that puts compliance at risk."
+title: "CORSIA Training for Airlines: A Role-by-Role Plan Built on Your Own Data"
+excerpt: "A scheme overview for everyone prepares no one for verification. A training matrix by role, a sample role card for a fuel data analyst, three tests of whether training worked, and the handling agents nobody thinks to brief."
 date: "2026-08-30"
 topic: "Airline Compliance"
-tags: ["CORSIA training","airline compliance training","CORSIA awareness","staff training","CORSIA consultant India","emissions reporting training","knowledge transfer"]
+tags: ["CORSIA training","airline compliance training","role cards","staff training","emissions reporting training","knowledge transfer","handling agents"]
 image: "/images/corsia-consultant/corsia-governance-raci.svg"
 ---
 
-A verifier asks a fuel data analyst why a particular discrepancy was resolved the way it was. The analyst has attended a two-hour CORSIA overview covering the phases, the growth factors and the eligibility criteria. None of it helps.
+The request we get most often is for "a CORSIA session for the whole team". We understand why. It feels efficient, and everyone leaves knowing what the phases are and roughly how growth factors work. Then, months later, a verifier asks a fuel analyst why a particular mismatch between two data sources was settled the way it was, and nothing from that session helps.
 
-Training that does not connect to what someone actually does is a compliance cost with no compliance benefit.
+Training only earns its cost when it is tied to what each person actually does, on the organisation's actual data. That means different content for different people, and much less of it than most programmes deliver.
 
-![Who owns what in CORSIA compliance](/images/corsia-consultant/corsia-governance-raci.svg)
+![Responsibility matrix for CORSIA compliance roles](/images/corsia-consultant/corsia-governance-raci.svg)
 
-## Train by Role, on Your Own Data
+## Two rules
 
-The two principles that make training effective here.
+**Train by role.** A flight operations coordinator and a treasury analyst share almost nothing beyond knowing that CORSIA exists.
 
-**By role**, because a flight operations coordinator and a treasury analyst need entirely different things and share almost nothing beyond the fact that CORSIA exists.
+**Train on your own pipeline.** Verification questions are about your data flow, your reconciliation rules and your judgement calls, not about the scheme in the abstract.
 
-**On your own data**, because the questions that arise in verification are about your pipeline, your reconciliation rules and your judgement calls — not about the scheme in general.
+A single session for everyone satisfies neither rule.
 
-A single all-hands session covering the scheme satisfies neither.
+## The training matrix
 
-## What Each Role Needs
+| Role | Must know | Can skip | Format | Time |
+|---|---|---|---|---|
+| **Compliance owner** | Scope logic, the monitoring plan, the annual cycle, what verification tests, how the requirement is calculated, procurement and cancellation, and what they are accountable for and cannot hand off | Nothing important | Structured session | Half a day |
+| **Fuel and data analysts** | Every reconciliation rule, escalation thresholds, the gap procedure, the decision log, and how to explain a figure to someone who was not there | Market structure, eligibility criteria | At a screen, on real records | Half a day |
+| **Flight operations** | Why the flight list must be complete (especially positioning and ferry legs), how flights are classified for scope, what to escalate | Growth factors, eligibility, markets | Briefing with examples from your own operation | One hour |
+| **Finance and treasury** | Budget structure, obligation timing, that cancellation and not purchase settles the obligation, cross-border payment and foreign exchange, registry fees | Monitoring methods | Briefing | One hour, shared with procurement |
+| **Procurement** | What documents to obtain before buying, what "CORSIA-ready" really means, why lowest price can buy unusable units | Monitoring methods | Briefing | As above |
+| **Leadership and board** | Size of the obligation, the 2027 and 2030 trajectory, supply and price exposure, consequences of non-compliance | Monitoring methods | Short paper and discussion | Thirty minutes |
 
-### The compliance owner
+Two groups deserve a comment.
 
-Needs the whole picture: scope determination logic, the monitoring plan, the annual cycle, verification, the requirement calculation, procurement and cancellation.
+**Data analysts are the most important group and the most often under-trained.** Verifier questions are almost all about where a number came from. The only training that prepares people for that is walking the real pipeline with real records. Finish the session by asking each analyst to trace a figure they did not prepare.
 
-Also needs to know **what they are accountable for and cannot delegate** — the obligation sits with the operator regardless of who executes the work.
+**Flight operations need concrete cases, not concepts.** Which certificate covered that charter? Was that genuinely a medical flight? Why is this sector international? Use flights from your own schedule.
 
-### Flight operations
+For finance, the purchase-versus-cancellation point matters beyond compliance: it affects when cost is recognised and what "done" means for the year.
 
-Needs to know why the flight list must be complete, including positioning and ferry legs that generate no revenue and are the ones most often missing.
+## A sample role card
 
-Needs to understand scope classification well enough to answer questions about specific flights: which certificate covered this charter, was this genuinely a medical flight, why is this sector international.
+The session fades. A one-page card stays on the desk. Here is an illustrative card for a fuel data analyst at an Indian operator:
 
-Does **not** need growth factors, eligibility criteria or market structure.
+> **Role:** Fuel data analyst, CORSIA
+> **Monthly, first week:** run completeness check against sectors flown; run anomaly check by aircraft type; check units and duplicates; reconcile to fuel purchase records; update gap log.
+> **Escalate to compliance lead if:** a discrepancy exceeds the threshold in the reconciliation rules; an outstation feed is late by more than the agreed period; a flight's scope classification is unclear.
+> **Never:** overwrite a source value; fill a gap by any method not in the monitoring plan.
+> **Where the rules live:** reconciliation rules v3, gap procedure, decision log (shared drive, CORSIA folder).
+> **Ask:** compliance lead; deputy if unavailable.
 
-### Fuel and data analysts
+One card per role, plus the recorded walkthrough and the written rules, is what survives staff turnover.
 
-The most important group, and the most often under-trained.
+## Session plan for a first cycle
 
-Needs deep knowledge of the reconciliation rules, the escalation thresholds, the gap-filling procedure, and — critically — **how to explain a figure to someone who was not there**. Verifier questions are almost entirely about data provenance.
+Roughly two days of facilitation in total:
 
-Should be trained by walking through the actual pipeline with real records, not by slides.
+1. Compliance owner, half a day.
+2. Data and fuel analysts, half a day at a screen.
+3. Flight operations, one hour.
+4. Finance, procurement and treasury together, one hour.
+5. Leadership, thirty minutes.
 
-### Finance and treasury
+Record every session. Someone will join in month four, and re-running a session for one person almost never happens. Refresh each year **before** the reporting cycle, not after. Build a path for new joiners: recording, role card, then time with whoever owns the process.
 
-Needs the budget structure, the timing of the obligation, cross-border payment and foreign exchange considerations for unit purchase, and registry fee handling.
+Set that two days against the cost of one verification finding raised because nobody could explain a figure.
 
-Needs to understand that purchase does not discharge the obligation — cancellation does — because that distinction affects when cost is recognised and what "complete" means.
+## The one-person problem
 
-### Procurement
+The biggest structural risk we see is a pipeline only one person understands. They wrote the reconciliation logic, they remember why March was adjusted, and they can answer anything a verifier asks. When they leave, the organisation cannot explain its own report.
 
-Needs the eligibility criteria at a practical level: what documents must be obtained before transacting, what "CORSIA-ready" actually means, and why the usual lowest-price approach can produce unusable units.
+Three responses:
 
-### Leadership and the board
+- **Write it down rather than teach it.** Rules and a decision log outlive staff turnover; memory does not.
+- **Cross-train a second person** to explain the process, even if they do not run it day to day.
+- **Test the documents.** Ask someone uninvolved to reproduce a figure from the files alone. If they cannot, the process depends on a person rather than a record.
 
-Needs materiality, trajectory and risk. What is the obligation now, what does it become in 2027 and 2030, what is the supply and price exposure, and what happens if the organisation does not comply.
+## Did the training work?
 
-Does not need the monitoring method.
+Most programmes measure attendance, which tells you nothing about capability. Three cheap tests, run a few weeks after training, do:
 
-## Formats That Work
+**Reconstruction.** Hand someone a reported figure they did not produce and ask them to explain it from the files. This is exactly what a verifier does. See [what verifiers test](/insights/corsia-internal-audit-preparation/).
 
-**Walkthroughs beat presentations.** Sit with the team and trace a real flight from source record to reported figure. It takes an hour and teaches more than a day of slides.
+**Escalation.** Give a realistic edge case, such as a discrepancy over the threshold, a flight that might be exempt, or a gap in an outstation feed, and ask what they would do and whom they would tell. Wrong answers are cheap to fix now.
 
-**Written reference beats memory.** A one-page role card — what you do, when, what to escalate, who to ask — outlasts any session.
+**Absence.** Ask who could do this job if the main person were away for a month. If the honest answer is "nobody", the training has missed the real risk however well it was received.
 
-**Record the sessions.** Someone joins in month four and needs the same material. Re-running a session for one person rarely happens; a recording is always available.
+When results are poor, the fix is usually more documentation, not more training. A written rule someone can consult beats a remembered one.
 
-**Refresh annually**, before the reporting cycle rather than after it.
+## What training will not fix
 
-**Include the new joiner path.** Training that exists only as a one-off event decays as people move.
+Training does not rescue a monitoring method your data cannot support. It does not substitute for writing down reconciliation rules; writing them down is the fix, and training follows. It does not create ownership where nobody owns the obligation. And a well-trained team running a manual process is still running a manual process. Build the process first, then train on the process that exists. Ownership questions are covered in [board reporting and governance](/insights/corsia-board-reporting-and-governance/).
 
-## A Practical Training Plan
+## People outside the airline
 
-For an operator running its first cycle, this covers the ground without over-investing.
+Some of those whose actions shape your data do not work for you, and nobody trains them.
 
-**Session 1 — Compliance owner, half a day.** Scope determination and its reasoning, the monitoring plan in detail, the annual cycle and its deadlines, verification and what it tests, the requirement calculation, procurement and cancellation. Accountability that cannot be delegated.
+- **Handling agents** produce fuel dockets. If they do not know a docket must be per flight, must reach you within an agreed time and must be kept, you will learn this at verification. Attach a one-page brief to the handling agreement.
+- **Outstation fuel suppliers** may report by volume, by day, or in formats that differ by country. Agree the requirement in writing before the first uplift.
+- **Charter brokers and lessors** can affect which certificate a flight operates under, which has compliance consequences they may not appreciate.
 
-**Session 2 — Data and fuel analysts, half a day, at a screen.** Walk the actual pipeline end to end with real records. Every reconciliation rule, the escalation threshold, the gap procedure, and the decision log. Finish by having each person trace a figure they did not prepare.
+The usual failure is a **new station**. A route opens, say a new Gulf or Central Asian destination, nobody tells the local handler what data is needed, and three months of dockets are missing before anyone notices. Put the CORSIA data requirement on the station-opening checklist beside the operational items, name a contact, and check monthly that records are arriving. The [fuel supplier and handling agent guide](/insights/corsia-fuel-supplier-data-coordination/) has more detail.
 
-**Session 3 — Flight operations, one hour.** Why completeness matters, which flights are easily missed, how scope classification works, and what to escalate. Concrete examples from your own operation.
+## Short answers
 
-**Session 4 — Finance, procurement and treasury, one hour.** Budget structure, obligation timing, why cancellation rather than purchase discharges it, registry and cross-border payment mechanics, and what documents procurement must obtain before transacting.
+**External or internal trainers?** External for the first build, when the scheme is new to everyone. Internal afterwards, on your own pipeline.
 
-**Session 5 — Leadership, thirty minutes.** Current obligation, trajectory through 2027 and 2030, supply and price exposure, consequence of non-compliance.
+**Is there certified CORSIA training for operator staff?** There is no ICAO-recognised certification for it. Be wary of anything sold as an official credential.
 
-**Artefacts, not just sessions.** One role card per group, the recorded walkthrough, and the written rules. These are what survive; the sessions themselves fade.
+**When should training happen?** After the pipeline and rules exist, and before the reporting year starts.
 
-Total investment is roughly two days of facilitation. Compare that against the cost of a single verification finding caused by nobody being able to explain a figure.
-
-## The Knowledge Concentration Risk
-
-The most common structural risk in CORSIA compliance is that one person understands the pipeline.
-
-They wrote the reconciliation logic, they know why the March figures were adjusted, and they can answer any verifier question. When they leave — and eventually they will — the organisation cannot explain its own reported figures.
-
-Three mitigations:
-
-**Document rather than train.** Written rules and a decision log survive turnover; knowledge in a head does not.
-
-**Cross-train a second person.** Not to run the process, but to be able to explain it.
-
-**Test the documentation.** Ask someone uninvolved to reproduce a figure from the files alone. If they cannot, the process depends on a person rather than on a record — and that is the finding waiting to happen.
-
-## Measuring Whether Training Worked
-
-Attendance is not evidence of capability, and it is the only thing most training programmes measure.
-
-Three checks that actually tell you something, all cheap:
-
-**The reconstruction test.** Give someone a reported figure they did not prepare and ask them to explain it from the files. This is precisely what a verifier does, and it tests documentation and understanding together.
-
-**The escalation test.** Present a realistic edge case — a discrepancy above the threshold, a flight that might be exempt, a gap in an outstation feed — and ask what they would do and who they would tell. Wrong answers here are cheap to correct now and expensive during a reporting year.
-
-**The absence test.** Ask who else could do this if the primary person were unavailable for a month. If the honest answer is nobody, the training has not addressed the actual risk, however well it was received.
-
-Run these a few weeks after training rather than immediately, when the retention question is real.
-
-Where results are poor, the fix is usually not more training. It is more documentation — a written rule that can be consulted beats a remembered rule every time, and it survives the person leaving.
-
-## What Training Cannot Fix
-
-Being clear about this saves money.
-
-Training does not fix a monitoring method your data cannot support. It does not fix undocumented reconciliation rules — writing them down is the fix, and training on them comes after. It does not create accountability where nobody owns the obligation. And it does not substitute for a pipeline; a well-trained team running a manual process is still running a manual process.
-
-Train after the process exists, on the process that exists.
-
-## Training External Parties
-
-Some of the people whose behaviour affects your compliance do not work for you, and nobody trains them.
-
-**Handling agents** supply fuel dockets. If they do not know the docket must be per flight, must reach you within an agreed period, and must be retained, you will find out at verification. A one-page brief attached to the handling agreement costs nothing.
-
-**Fuel suppliers** at outstations may report by volume, by day, or in formats that vary by country. Establishing the requirement in writing before the first uplift is far easier than reconstructing afterwards.
-
-**Charter brokers and lessors**, where they influence which certificate a flight operates under, need to understand that the operator determination has compliance consequences.
-
-**New station openings** are the moment this most often fails. A route launches, the data requirement is never communicated to the local handler, and three months of dockets are missing before anyone notices. Add the CORSIA data requirement to the station opening checklist alongside the operational items.
-
-This is not training in the classroom sense. It is a written requirement, a named contact and a monthly check that the records are arriving.
-
-## Frequently Asked Questions
-
-**How much training does a team need?** Less than most programmes deliver, and better targeted. A half-day for the compliance owner, an hour-long walkthrough for the data team, and a short briefing for flight operations covers most operators.
-
-**Should training be external or internal?** External for the first build, because the scheme is unfamiliar. Internal thereafter, on your own pipeline, because that is what people actually need.
-
-**Do we need certified training?** There is no ICAO-recognised CORSIA training certification for operator staff. Be wary of anything presented as an official credential — see [consultant due diligence red flags](/insights/corsia-consultant-due-diligence-red-flags/).
-
-**How do we train new joiners?** Recorded walkthroughs plus role cards, then a session with whoever owns the process. Do not rely on re-running the original programme.
-
-**What if our data analyst leaves?** If the rules and decision log are documented, this is manageable. If they are not, this is the problem to fix now rather than after the resignation.
-
-**Who should train the board?** Whoever owns the obligation, with materiality and trajectory rather than mechanics. See [board reporting and governance](/insights/corsia-board-reporting-and-governance/).
-
-**When should training happen?** After the pipeline and rules exist, before the reporting year starts. Training on a process that has not been built teaches nothing durable.
-
----
-
-**Need CORSIA compliance that survives verification?** DSTechnoverse builds monitoring plans, data pipelines and reporting processes for Indian operators, and supports project developers through eligibility and placement. See our [CORSIA carbon credit services](/services/). We are based in **Indore, Madhya Pradesh** and work across India.
-
-[Apply as a CORSIA buyer or seller](https://carboncredit.dstechnoverse.com/)
-
-[Talk to our carbon markets team](/contact/) about your position.
+If you would like a walkthrough session built around your own data rather than a slide deck, [talk to us](/contact/). We run them at your desk, on your records, with the people who will face the verifier.

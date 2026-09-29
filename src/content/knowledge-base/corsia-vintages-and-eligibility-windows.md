@@ -1,103 +1,92 @@
 ---
-title: "CORSIA Vintages and Eligibility Windows"
-excerpt: "What a vintage is, how ICAO sets eligible vintage windows per compliance period, why windows have moved before, and the timing risk that creates for anyone holding or contracting for units."
+title: "CORSIA Vintages and Eligibility Windows: Timing Rules for Units"
+excerpt: "A unit's vintage is the period in which its reduction happened, and ICAO only accepts certain vintages for each compliance period. How the windows are set, why they move, and who carries the risk when they do."
 section: "Eligible Emissions Units"
 order: 16
 image: "/images/corsia/corsia-unit-lifecycle.svg"
 ---
 
-A unit's vintage is when the reduction actually happened. ICAO restricts which vintages may be used for which compliance period, and that restriction quietly removes a large share of otherwise-qualifying supply.
+Two batches of credits from the same Indian wind project can look identical on a seller's offer sheet: same methodology, same registry, same host-country authorisation. One is accepted for CORSIA and the other is not. The difference is usually the year the tonnes were produced. That year is the vintage, and it is one of the quieter reasons so much apparently good supply never reaches an airline's compliance account.
 
-![The life of a CORSIA unit](/images/corsia/corsia-unit-lifecycle.svg)
+![Diagram of a CORSIA unit's life from project to cancellation](/images/corsia/corsia-unit-lifecycle.svg)
 
-## What a Vintage Is
+## Vintage means the year of the reduction
 
-The **vintage** is the monitoring period during which the emission reduction or removal physically occurred.
+The vintage is the monitoring period in which the emission reduction or removal took place. It is not the date the registry created the unit.
 
-> The vintage is not the issuance date. A unit issued in 2026 may carry a 2021 vintage, because verification and issuance follow the reduction by a considerable margin.
+Those two dates can sit years apart. A project verifies its tonnes some time after they occur, and issuance comes after verification, so a credit issued in 2026 may well carry a 2021 vintage. When a seller calls a lot "freshly issued", that tells you nothing about its vintage. Only the registry record answers the question.
 
-This distinction catches buyers. A seller describing units as "recently issued" is not telling you the vintage, and the registry record is what settles it.
+## Why ICAO limits vintages at all
 
-## Why Windows Exist
+There are two motives, and they point the same way.
 
-Two reasons, one environmental and one economic.
+The first is integrity. A tonne claimed long ago, perhaps under a methodology that has since lost credibility, in market conditions that no longer exist, is a weaker claim than a recent one. A vintage limit keeps the oldest and most disputed stock out of the scheme.
 
-**Environmental integrity.** A reduction achieved fifteen years ago, under a methodology since discredited, in a market that has changed completely, is a weaker claim than a recent one. Restricting vintages keeps CORSIA away from the oldest and most contested inventory.
+The second is economic. Years of accumulated historical credits exist. Let all of them in and prices would fall through the floor, and airlines would be paying to clear old inventory rather than to fund new mitigation. The limit is what makes CORSIA create fresh demand.
 
-**Market function.** Without a window, the enormous stock of historical credits would flood in, prices would collapse, and CORSIA would provide no meaningful incentive for new mitigation. The window is what makes the scheme demand-creating rather than inventory-clearing.
+## Who decides the window, and how firm it is
 
-## How Windows Are Set
+The ICAO Council sets the eligible vintage window for each compliance period, acting on advice from the Technical Advisory Body (TAB).
 
-Eligible vintage windows are set by **ICAO Council decision** for each compliance period, on TAB advice.
+Because a window is a Council decision and not a fixed rule of the scheme, it can be revised. It has been: windows have been extended in the past when supply looked thin. Read the current position on ICAO's [CORSIA emissions units page](https://www.icao.int/environmental-protection/CORSIA/Pages/CORSIA-Emissions-Units.aspx) for the specific period you are complying for, rather than carrying a general rule around in your head. The [compliance periods and deadlines](/knowledge-base/corsia-compliance-periods-and-deadlines/) page shows which period applies to you.
 
-Because they are Council decisions rather than fixed rules, they can change — and they have. Windows have been extended before, in response to supply concerns.
+## One test among several
 
-The current position is published on the [ICAO CORSIA emissions units page](https://www.icao.int/environmental-protection/CORSIA/Pages/CORSIA-Emissions-Units.aspx). Check it for **your** compliance period rather than assuming a general rule.
+A correct vintage is necessary and nowhere near sufficient. Every condition in the [emissions unit criteria](/knowledge-base/corsia-emissions-unit-criteria/) has to hold at once:
 
-## The Timing Risks
+| Vintage inside the window? | Corresponding adjustment? | Programme approved? | Result |
+|---|---|---|---|
+| Yes | No | Yes | Not eligible |
+| No | Yes | Yes | Not eligible |
+| Yes | Yes | Approval has lapsed | Not eligible |
+| Yes | Yes | Yes | Eligible, subject to the remaining criteria |
 
-::: accordion For buyers — the boundary problem
-Units near a window boundary carry the risk that the boundary moves, or that you cannot complete cancellation before the window closes.
+Being strong on one dimension never compensates for failing another.
 
-Cancellation is not instantaneous. Registry account opening takes weeks, transfers take days, and the cancellation report has its own processing time. A unit that is eligible when you contract may not be by the time you actually cancel.
+## Where the timing risk falls
 
-**Mitigations:** avoid concentration near a boundary; verify the window before cancelling as well as before purchasing; build the administrative tail into your timeline.
+::: accordion Operators buying for compliance
+The exposure sits near the edges of a window. The boundary may move, or you may simply fail to finish cancelling before it closes.
+
+Cancelling takes longer than people expect. A registry account can take weeks to open, a transfer takes days, and the cancellation report then needs processing. A unit that qualified on the day you signed may not qualify on the day you cancel.
+
+What helps: spread purchases so they do not bunch near a boundary, check the window again immediately before cancelling as well as before buying, and put the administrative lead time into your plan.
 :::
 
-::: accordion For sellers — inventory ageing out
-A project that issues credits but cannot place them before the window closes finds its inventory has moved from the premium eligible tier to the general voluntary tier — a significant loss of value with no change to the underlying credits.
+::: accordion Developers holding inventory
+Credits that are issued but not sold before their window closes drop out of the eligible tier and into the general voluntary market. Nothing about the tonnes has changed, but their value has.
 
-This is why authorisation delay is doubly costly for developers: it burns time against a vintage clock as well as deferring revenue.
+That is why a slow authorisation process hurts a developer twice. Revenue is pushed back, and the vintage clock keeps running while it is. An Indian developer waiting on authorisation from the Government of India is exposed in exactly this way.
 
-**Mitigations:** run authorisation in parallel with development; do not assume a placement timeline you have not tested; keep a voluntary fallback.
+What helps: pursue authorisation alongside project development rather than after it, test any sales timeline before relying on it, and keep a voluntary-market route open.
 :::
 
-::: accordion For forward contracts — allocating the risk
-If the eligible window shifts between contracting and delivery, who absorbs it?
+::: accordion Forward contracts
+Suppose the window shifts between signing and delivery. If the contract says nothing, the buyer bears the consequence by default.
 
-Silence in the contract allocates it to the buyer by default. A well-structured forward names the risk and says what happens — price adjustment, substitution, termination, or acceptance at a reduced price.
+A properly drafted forward names the risk and sets out the remedy: a price adjustment, substitution with eligible units, termination, or acceptance at a lower price.
 :::
 
-## Vintage and the Other Criteria
+## Worked example: checking a lot before you commit
 
-Vintage interacts with, but does not substitute for, the rest of the [emissions unit criteria](/knowledge-base/corsia-emissions-unit-criteria/).
+An illustrative case. A seller offers an Indian airline 20,000 units from a biomass project, describing them as "recent vintage".
 
-| Situation | Eligible? |
-|---|---|
-| Correct vintage, no corresponding adjustment | No |
-| Corresponding adjustment, vintage outside window | No |
-| Both correct, programme approval lapsed | No |
-| Both correct, programme approved | Yes, if the remaining criteria are met |
+1. The airline's team asks for the registry record rather than the offer sheet.
+2. The record shows two monitoring periods: 12,000 tonnes from one year and 8,000 from the year before.
+3. They compare both periods with the published window for the compliance period they are buying for. Suppose the earlier 8,000 fall just outside it. Only 12,000 units are usable.
+4. The 12,000 sit close to the start of the window, so the team notes a boundary risk and plans to cancel well before the deadline.
+5. They save a copy of the registry record and of ICAO's published window as they stood on the date of the check.
 
-All conditions are simultaneous. A unit does not qualify by being strong on one dimension.
+The last step is easy to skip. If the window changes later, you need to be able to show what the position was when you relied on it.
 
-## Checking a Unit's Vintage
+## Habits that reduce vintage risk
 
-1. Obtain the **registry record**, not a seller summary.
-2. Identify the **monitoring period** in which the reduction occurred.
-3. Compare against the window for **your** compliance period.
-4. Note how close it sits to a boundary.
-5. Capture the registry record and the published window as at the date you relied on them.
+- **Spread vintages.** Buying a single vintage year concentrates regulatory risk; it does not make life simpler.
+- **Cancel early.** Vintage risk lives in the gap between buying and cancelling, so shorten the gap.
+- **Check again before cancelling.** If months have passed since purchase, confirm the window and the programme's approval status. It takes minutes.
+- **Refuse vague labels.** "Recent vintage" is not a description. Ask for the monitoring period.
+- **Deal with it in the contract.** Any forward delivering more than a few months out should say what happens if the window moves.
 
-Point 5 matters. If a window later moves, you need to be able to show what the position was when you transacted.
+The mechanics of moving and cancelling units are covered in [registries and cancellation](/knowledge-base/corsia-registries-and-cancellation/), and the broader eligibility picture in [CORSIA Eligible Emissions Units](/knowledge-base/corsia-eligible-emissions-units/).
 
-## Practical Guidance
-
-**Diversify across vintages.** Concentration in a single vintage year is concentration of regulatory risk, not simplification.
-
-**Cancel earlier than the deadline.** The gap between contracting and cancelling is where vintage risk lives.
-
-**Re-verify before cancelling.** If significant time has passed since purchase, confirm both the vintage window and the programme's approval status. It is a few minutes of work against a material risk.
-
-**Do not accept "recent vintage" as a description.** Ask for the monitoring period from the registry record.
-
-**Model the window into forward deals.** For anything settling more than a few months out, the contract should address what happens if the window moves.
-
-## Where to Go Next
-
-- [The emissions unit criteria](/knowledge-base/corsia-emissions-unit-criteria/) — all criteria together
-- [CORSIA Eligible Emissions Units](/knowledge-base/corsia-eligible-emissions-units/) — the two-layer test
-- [Registries and cancellation](/knowledge-base/corsia-registries-and-cancellation/) — the timing tail
-- [Compliance periods and deadlines](/knowledge-base/corsia-compliance-periods-and-deadlines/) — which window applies to you
-
-DSTechnoverse verifies vintage against the applicable window as part of pre-transaction due diligence. [Get in touch](/contact/).
+We check vintage against the applicable window as a standard part of our pre-purchase review. If you have a lot under offer and want a second opinion before signing, [send us the details](/contact/).

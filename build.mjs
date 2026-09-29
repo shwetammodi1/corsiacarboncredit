@@ -189,8 +189,8 @@ ${programmeStrip()}
 
 <section class="section"><div class="wrap">
   <div class="sec-head">
-    <div><p class="eyebrow"><span class="n">01</span> Two sides, one specification</p><h2 class="h2">We work both sides of the market.</h2></div>
-    <p class="lede" style="max-width:44ch">Buyer advice informed by what supply actually looks like. Seller advice informed by what buyers actually accept.</p>
+    <div><p class="eyebrow"><span class="n">01</span> Who we work with</p><h2 class="h2">We work both sides of the market.</h2></div>
+    <p class="lede" style="max-width:44ch">Airlines need units that will stand up to a verifier. Developers need buyers who will actually pay. We sit between the two.</p>
   </div>
   <div class="sides reveal">
     <div class="side">
@@ -208,7 +208,7 @@ ${programmeStrip()}
     <div class="side">
       <p class="eyebrow">For sellers</p>
       <h3 class="h3">Project developers, aggregators and traders</h3>
-      <p>We assess whether your project can realistically produce CORSIA-eligible units before you spend on a pathway that cannot complete — then connect supply to buyers.</p>
+      <p>Before you pay for validation or a registry listing, we check whether the host government will authorise your units. If it will, we help you get them issued and put them in front of buyers.</p>
       <ul class="ticks">
         <li>Eligibility screening against ICAO-approved programmes</li>
         <li>Host-State authorisation and corresponding adjustment check</li>
@@ -240,21 +240,21 @@ ${programmeStrip()}
 <section class="section section--forest"><div class="wrap">
   <div class="sec-head">
     <div><p class="eyebrow"><span class="n">03</span> How a purchase works</p><h2 class="h2">From shortlist to certificate</h2></div>
-    <p class="lede" style="max-width:40ch">Issuance and retirement are recorded on the registry — not on our books.</p>
+    <p class="lede" style="max-width:40ch">The registry keeps the official record of every transfer and retirement. We take care of the paperwork around it.</p>
   </div>
   <div class="steps">
-    <div class="step"><div class="step__n">01</div><h3>Select &amp; reserve</h3><p>Pick your volume and reserve it. We confirm availability, vintage and registry details in writing.</p></div>
+    <div class="step"><div class="step__n">01</div><h3>Choose &amp; hold</h3><p>Tell us the lot and the quantity. We hold it for you and put availability, vintage and registry details in writing.</p></div>
     <div class="step"><div class="step__n">02</div><h3>Due diligence</h3><p>PDD, validation and verification reports and the issuance record are shared and checked against your requirement.</p></div>
-    <div class="step"><div class="step__n">03</div><h3>Transfer &amp; retire</h3><p>Credits move to your registry account, or are retired on your behalf with the beneficiary you name.</p></div>
-    <div class="step"><div class="step__n">04</div><h3>Certificate</h3><p>You receive the retirement certificate, serial numbers and a documentation pack for your auditors.</p></div>
+    <div class="step"><div class="step__n">03</div><h3>Transfer or retire</h3><p>Units go into your own registry account, or we retire them for you in the name of the beneficiary you choose.</p></div>
+    <div class="step"><div class="step__n">04</div><h3>Proof in hand</h3><p>The retirement certificate and serial numbers come to you with a file your auditors can check line by line.</p></div>
   </div>
 </div></section>
 
 <section class="section"><div class="wrap split">
   <div>
     <p class="eyebrow"><span class="n">04</span> Eligibility</p>
-    <h2 class="h2" style="margin-top:18px">A carbon credit is not automatically a CORSIA credit.</h2>
-    <p class="lede" style="margin-top:18px">Most of the voluntary market cannot be used for CORSIA compliance. A unit has to pass three gates — and the third is where most otherwise good projects fail.</p>
+    <h2 class="h2" style="margin-top:18px">Most carbon credits can’t be used for CORSIA.</h2>
+    <p class="lede" style="margin-top:18px">An airline can only cancel units that pass three tests. Plenty of well-run projects clear the first two and fall at the last one.</p>
     <ol class="conds">
       <li><span class="no">1</span><b>An ICAO-approved programme</b><p>Issued under a crediting programme the ICAO Council has approved for the relevant compliance period.</p></li>
       <li><span class="no">2</span><b>An eligible vintage</b><p>Reductions must fall inside the vintage window set for that compliance period.</p></li>
@@ -338,8 +338,8 @@ ${phead({
   crumbs: [{ label: "Marketplace" }],
   img: PHOTOS.marketplace,
   eyebrow: `<span class="n">${projects.length}</span> projects · ${fmt(totalVolume)} tCO₂e available`,
-  title: "Verified projects, <em class=\"it\">one transparent market.</em>",
-  lede: "Every listing is a registry-issued or registry-pipeline project. Prices are per tonne and indicative until availability, vintage and eligibility are confirmed in writing.",
+  title: "Carbon credits you can <em class=\"it\">check before you buy.</em>",
+  lede: "Each project shows its registry, methodology and vintage up front. Prices are per tonne and become firm only once we confirm availability and eligibility in writing.",
 })}
 <div id="market" data-view="grid">
   <div class="mk-bar"><div class="wrap">
@@ -373,14 +373,14 @@ ${phead({
   <div class="sides">
     <div class="side">
       <p class="eyebrow">Can’t see what you need?</p>
-      <h3 class="h3">Post a requirement once.</h3>
-      <p>Describe volume, programmes, vintages, CORSIA or Article 6 conditions and exclusions. We match it against listed and off-market inventory and tell you why each lot fits — or doesn’t.</p>
+      <h3 class="h3">Tell us what you’re looking for.</h3>
+      <p>Share the volume, the programmes and vintages you accept, any CORSIA or Article 6 conditions, and anything you want to avoid. We check listed and unlisted supply and explain each match.</p>
       <div class="actions"><a class="btn" href="${site.intake.buy}" target="_blank" rel="noopener">Post a buy requirement ${arrow}</a></div>
     </div>
     <div class="side">
       <p class="eyebrow">Have credits to sell?</p>
       <h3 class="h3">List your project and lots.</h3>
-      <p>Register the project once — registry ID, methodology, host country, authorisation status — then attach vintages, quantities and asking prices.</p>
+      <p>Give us the project details once: registry ID, methodology, host country and where authorisation stands. Then add each lot with its vintage, quantity and asking price.</p>
       <div class="actions"><a class="btn" href="${site.intake.sell}" target="_blank" rel="noopener">List inventory ${arrow}</a><a class="btn btn--ghost" href="/contact/?topic=sell">Talk to us first</a></div>
     </div>
   </div>
@@ -423,7 +423,7 @@ function projectPage(p) {
     </div>
     <div class="pd-block">
       <h2>Registry documentation</h2>
-      <p>Released to verified buyers before contract. Issuance and retirement are recorded on the ${esc(p.registry)} registry, not by us.</p>
+      <p>Shared with qualified buyers before any contract is signed. The ${esc(p.registry)} registry, not this desk, is the official record of issuance and retirement.</p>
       <ul class="docs">${["Project Design Document (PDD)", "Validation report", "Verification report", "Registry issuance record"].map((d) => `<li>${d}<span>On request</span></li>`).join("")}</ul>
     </div>
     <div class="pd-block">
@@ -476,16 +476,20 @@ ${ctaBand()}`;
 
 // ---------------------------------------------------------------- services
 function services() {
-  const sec = (h) => service.sections.find((s) => s.heading === h);
-  const intro = sec("CORSIA Carbon Credit Consultants for Buyers and Sellers");
-  const req = sec("What CORSIA Actually Requires");
-  const buyers = sec("Services for Aircraft Operators and Buyers");
-  const sellers = sec("Services for Project Developers and Sellers");
-  const crit = sec("What Makes a Unit CORSIA Eligible");
-  const progs = sec("Approved Crediting Programmes");
-  const india = sec("The Indian Context");
-  const how = sec("How DSTechnoverse Works");
-  const faq = sec("Frequently Asked Questions");
+  const sec = (k) => {
+    const s = service.sections.find((x) => x.key === k);
+    if (!s) throw new Error(`corsia-service.json: missing section "${k}"`);
+    return s;
+  };
+  const intro = sec("intro");
+  const req = sec("requires");
+  const buyers = sec("buyers");
+  const sellers = sec("sellers");
+  const crit = sec("criteria");
+  const progs = sec("programmes");
+  const india = sec("india");
+  const how = sec("how");
+  const faq = sec("faq");
   const noLinks = (arr) => arr.filter((p) => !/^\[.*\]\(https:\/\/carboncredit/.test(p));
   const splitDash = (s) => { const i = s.indexOf(" — "); return i > 0 ? [s.slice(0, i), s.slice(i + 3)] : [s, ""]; };
   const phases = req.numbered.slice(0, 4).map((t) => {
@@ -756,8 +760,8 @@ ${phead({
   crumbs: [{ label: "About" }],
   img: PHOTOS.about,
   eyebrow: `A DSTechnoverse desk · since ${site.parent.founded}`,
-  title: "Carbon markets, treated as a <em class=\"it\">data problem</em> first.",
-  lede: "The emissions accounting, the growth-factor arithmetic, the unit due diligence and the registry reconciliation are where errors become expensive. That is where we start.",
+  title: "Carbon credits run on data. <em class=\"it\">We start there.</em>",
+  lede: "Fuel records, growth factors, unit serial numbers and registry balances decide whether a compliance filing holds up. Getting those numbers right is most of our job.",
 })}
 <section class="section"><div class="wrap split">
   <div>
@@ -767,7 +771,7 @@ ${phead({
   <div class="prose">
     <p>${esc(site.name)} is the carbon markets desk of <a href="${site.parent.url}" target="_blank" rel="noopener">DSTechnoverse</a>, founded in ${site.parent.founded} in Indore, Madhya Pradesh. Over the last decade DSTechnoverse has grown from a software and digital agency into an environmental data and analytics consultancy — air quality analysis, AERMOD dispersion modelling, EIA data work, socio-economic surveys and statistical analysis — serving ${site.clients} clients.</p>
     <p>That background shapes how we approach carbon credits. We work on both sides of the market: aircraft operators managing CORSIA compliance, companies retiring credits against their claims, and project developers trying to place units with buyers who will actually accept them.</p>
-    <p>We are candid about what is uncertain. CORSIA is still under construction — programme approvals change, vintage windows shift, host-State authorisation practice varies enormously, and the second phase continues to be negotiated. Anyone presenting it as settled is selling certainty they do not have.</p>
+    <p>We are also open about what nobody knows yet. ICAO still revises programme approvals and vintage windows, host governments handle authorisation very differently, and the rules for the second phase are still being negotiated. We tell clients where the ground is firm and where it isn’t.</p>
   </div>
 </div></section>
 
@@ -781,10 +785,10 @@ ${phead({
 <section class="section"><div class="wrap">
   <div class="sec-head"><div><p class="eyebrow"><span class="n">02</span> Principles</p><h2 class="h2">How we work</h2></div></div>
   <div class="values">
-    <div><b>Assessment first</b><p>We tell you whether a pathway is viable before you commit budget to it.</p></div>
-    <div><b>Documented reasoning</b><p>A decision made today should be defensible to a verifier or auditor in three years.</p></div>
-    <div><b>Both sides of the market</b><p>Buyer advice informed by real supply; seller advice informed by what buyers accept.</p></div>
-    <div><b>Plain statements about risk</b><p>Vintage, authorisation, programme approval and price risk are named, not glossed.</p></div>
+    <div><b>Will it work? First.</b><p>Our first answer tells you whether the route you have in mind can work at all, before you pay anyone to pursue it.</p></div>
+    <div><b>A written trail</b><p>Every recommendation is written down with its reasons, so it still makes sense to a verifier or auditor years later.</p></div>
+    <div><b>Buyers and sellers</b><p>Working with both tells us what supply really exists and what buyers will accept.</p></div>
+    <div><b>Risks spelled out</b><p>Vintage, authorisation, approval and price risk are set out in writing, not buried in a footnote.</p></div>
   </div>
 </div></section>
 

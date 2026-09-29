@@ -1,160 +1,108 @@
 ---
-title: "CORSIA Data Systems: Building a Pipeline That Survives Verification"
-excerpt: "Most CORSIA effort is spent reconciling fuel and flight data that disagrees. How to design a pipeline with documented rules, a real audit trail and the right split between automation and human judgement."
+title: "Designing a CORSIA Emissions Data Pipeline Verifiers Can Trace"
+excerpt: "The emissions sum is one multiplication; the effort goes into turning disagreeing fuel records into one figure you can defend. A layer-by-layer pipeline design, how to write reconciliation rules, and what to automate."
 date: "2026-08-30"
 topic: "Airline Compliance"
 tags: ["CORSIA data systems","emissions data pipeline","fuel data reconciliation","CORSIA automation","audit trail","CORSIA consultant India","MRV data"]
 image: "/images/corsia-consultant/corsia-data-architecture.svg"
 ---
 
-Ask any operator who has been through a CORSIA verification where the time went, and the answer is reconciliation. Not the emissions arithmetic, which is a multiplication. The work is in getting three systems that disagree about how much fuel went into an aircraft to produce one defensible number.
+A verifier sitting with your compliance team will do two things with your data. First, they pick a number from the Annual Emissions Report and ask you to show the source records behind it. Then they reverse the direction: they pick a fuel docket from, say, a Kathmandu turnaround and ask you to show where it ended up in the report.
 
-![A CORSIA data pipeline that survives verification](/images/corsia-consultant/corsia-data-architecture.svg)
+Most operators prepare for the first test. The second is the one that catches them, because a flight that never reached the report can never be sampled from the report. A data pipeline for CORSIA exists to pass both tests without anyone having to remember anything.
 
-## Why the Sources Disagree
+## Four records, four different truths
 
-This surprises people new to it, and it is worth being clear that disagreement is normal rather than a symptom of a broken process.
+Before designing anything, accept that your fuel sources will not agree, and that this is normal.
 
-**The fuel uplift docket** records what the bowser delivered, measured by the supplier's meter, at the moment of fuelling.
+- **The uplift docket** shows what the bowser delivered, by the supplier's meter, at fuelling.
+- **The flight operations record** shows what the crew noted, often from cockpit indications, at block times.
+- **The finance system** shows what was invoiced. It may be batched, may include or leave out certain charges, and may be adjusted later.
+- **Aircraft-derived data** shows tank quantity from the aircraft's own sensors, with their own tolerances.
 
-**The flight operations record** captures what the crew recorded, often from cockpit indications, at block times.
+Each measures something slightly different, at a slightly different moment, with a different instrument. A process that expects them to match will spend every month chasing ordinary variation. The verifier's question is not why they differ. It is what rule you use to settle the difference, and whether you applied it every time.
 
-**The finance system** holds what was invoiced, which may be batched, may include or exclude certain charges, and may be adjusted after the fact.
+![Layered data pipeline from source systems through validation and reconciliation to reporting](/images/corsia-consultant/corsia-data-architecture.svg)
 
-**Aircraft-derived data** measures tank quantity by its own sensors with their own tolerances.
+## The pipeline, layer by layer
 
-Each is measuring a slightly different thing at a slightly different moment with a different instrument. They will not agree exactly, and a process that assumes they should is a process that will spend every month investigating normal variation.
+Give each layer one job and keep them separate:
 
-The question verification asks is not "why do they differ" but **"what is your rule for resolving the difference, and did you apply it consistently"**.
+| Layer | Its single job | What goes wrong without it |
+|---|---|---|
+| Extraction | Scheduled, automated pulls from each source system | Manual exports miss months, introduce typing errors and depend on one person remembering |
+| Raw landing | Keep exactly what arrived, untouched | You cannot show what you originally received once a value is corrected |
+| Validation | Range, completeness, format and duplicate checks, producing an exception list | Problems either pass silently or vanish silently |
+| Reconciliation | Apply written rules where sources disagree, logging which rule fired and on what inputs | Each month is settled differently |
+| Scope classification | International or domestic, aircraft mass threshold, exempt flight type, covered route pair | Flights sorted by whoever happens to be looking |
+| Calculation | Fuel mass to CO2 using the approved method and factor | Rarely the problem, if the earlier layers are right |
+| Audit store | Link every reported value to its source records and the rules used | Nobody can answer the verifier's trace questions |
+| Reporting | Produce the Annual Emissions Report, and later the cancellation report, from the same dataset | A separately assembled report drifts from the data |
 
-## The Layered Design
+The last row deserves emphasis. When the report is built in a spreadsheet apart from the operational data, the two drift apart, and nobody sees the drift until someone has to reconcile them against a deadline.
 
-A pipeline that holds up has distinct layers, each with one job.
+## Reconciliation rules: the document that usually is not there
 
-**Source extraction.** Scheduled pulls from each system. Automated rather than manual export — manual export is where missed months and transcription errors originate, and it makes the process dependent on one person remembering.
+If you write only one thing, write this. Each rule has four parts: the condition that triggers it, the source treated as authoritative, the point at which a person must review, and what gets recorded.
 
-**Raw landing.** Store what arrived, unmodified. Never edit at source. If a value later proves wrong, you need to be able to show what was originally received.
+**Worked example (illustrative figures).** Suppose your rule says: where the uplift docket and flight operations fuel differ by more than 2%, use the docket as the metered measurement; where they differ by more than 10%, send the record for manual review; in every case, store both values, the rule applied and the result.
 
-**Validation.** Range checks, completeness counts, format checks, duplicate detection. Output an exception list rather than silently passing or silently dropping.
+- A sector shows 8,000 kg on the docket and 8,250 kg in flight operations. The gap is 250 kg, about 3.1% of the docket figure.
+- That is above 2% and below 10%, so the rule fires automatically and the docket figure stands.
+- At 3.16 kg CO2 per kg of Jet-A1, the sector is recorded as 25,280 kg CO2, with both source values and the rule reference kept alongside.
+- Had flight operations shown 9,000 kg, the 12.5% gap would have gone to a person, who records the decision and the reason.
 
-**Reconciliation.** Apply the documented rules where sources disagree. Record which rule fired and what the inputs were.
+Write a rule for every kind of discrepancy you actually meet. Six to ten usually covers most cases; the rest go to review.
 
-**Scope classification.** International or domestic, aircraft mass threshold, exempt flight type, covered route pair. Rule-based decisions applied identically every time.
+How to know the rules are complete: give a new analyst the raw data and the rule set. If they arrive at the same reported figure as your usual preparer, the rules are complete. If not, part of the real logic is still in someone's head.
 
-**Calculation.** Fuel mass to CO2 by the approved factor and method.
+One caution. If two sources are consistently 15% apart, do not write a rule to paper over it. Find the cause first; a steady gap that size points to a measurement or process fault.
 
-**Audit store.** Every reported value traceable to the source records that produced it, with the rules applied recorded alongside.
+## Where the machine decides and where a person does
 
-**Reporting.** The Annual Emissions Report and, later, the cancellation report, generated from the same dataset rather than assembled separately.
+**Let the system do it:** extraction, validation checks, scope classification, the CO2 calculation, the exception list and the audit trail. These are rules, and rules are best applied identically.
 
-That last point matters more than it looks. Where the report is assembled separately from the operational data, the two drift, and the drift is invisible until someone reconciles them under time pressure.
+**Let the system raise a flag, and a person decide:** gaps above the review threshold, odd values, readings that do not change, records that fail cross-checks.
 
-## Writing the Reconciliation Rules
+**Keep it human:** excluding unusual values, judging whether a large fuel figure is an error or a genuinely long sector, and anything that needs knowledge of what happened operationally that day.
 
-This is the single highest-value document in a CORSIA data process, and it is usually the one that does not exist.
+Too little automation gives you a slow, person-dependent process that differs month to month. Too much gives you something worse: real data quietly removed by a rule nobody remembers writing.
 
-A rule needs four parts:
+## The audit trail in practice
 
-| Part | Example |
-|---|---|
-| The condition | Uplift docket and flight ops fuel differ by more than 2% |
-| The authoritative source | Uplift docket, as the metered measurement |
-| The threshold for escalation | Difference above 10% routes to manual review |
-| What is recorded | Both values, the rule applied, the resulting figure |
+For each reported value, store the source records used, the rules applied, any manual decision with its reason, who made it, and when. That is a few extra columns and a decision log, not a large system. The alternative is trying to reconstruct your reasoning from memory two years later, which fails.
 
-Write one for every discrepancy type you actually encounter. Six to ten rules typically covers the great majority of cases, and the residue goes to review.
+Plan to keep the data for ten years. Verification and audit look further back than people expect, and retention periods are set nationally.
 
-The test of a good rule set: **a new analyst, given the raw data and the rules, produces the same reported figure as the person who normally does it.** If they do not, the rules are incomplete and the real logic is in someone's head.
+## Run it monthly
 
-## What to Automate and What Not To
+The single habit that most improves a CORSIA dataset is running the pipeline every month rather than once a year. An outstation whose dockets never reach the system is a nuisance in February and a permanent gap by December. A misconfigured extraction is a two-hour fix in the first month and a year of lost records if found at year end. Twelve routine runs are also easier to staff than one big rebuild under pressure, and the quality is better because nobody is rushing.
 
-**Automate fully:** extraction, validation checks, scope classification, the emissions calculation, exception list generation, and the audit trail. These are rule-based and benefit from being applied identically every time.
+## Tooling to match your size
 
-**Automate the flag, not the decision:** discrepancies above the escalation threshold, unusual values, stuck readings, cross-source failures. The system identifies them; a person decides.
+- **Small operator:** scheduled spreadsheet imports, written rules, a decision log and retained raw files. Not elegant; perfectly adequate.
+- **Mid-sized operator:** a database with scripted transformations. The gain is repeatability and traceability, not sophistication.
+- **Large operator:** a full data platform. The layers stay the same; only the tools change.
 
-**Do not automate:** exclusion of unusual values, judgement about whether a large fuel figure is an error or a genuine long sector, and anything requiring knowledge of what was happening operationally that day.
+Whatever your size, write the rules before you buy a compliance product. Software cannot settle a discrepancy you have not decided how to settle. It will apply its own default, and you will own that choice without having made it. Your existing fuel management system will usually serve as a source, but rarely as the whole pipeline, since it was built for cost control rather than scope rules and audit trails.
 
-The failure mode at each extreme is instructive. Too little automation and the process is manual, slow, inconsistent between months, and dependent on individuals. Too much and genuine data is silently removed by a rule nobody remembers writing — which is worse, because it is invisible.
+## One dataset, several reports
 
-## The Audit Trail
+Most operators of any size report emissions to more than one audience from the same underlying data:
 
-Verification will pick a reported figure and ask you to show where it came from. Then it will pick a source record and ask you to show it reached the report.
+- **CORSIA:** international flights, covered route pairs, the approved monitoring method, its own scope rules.
+- **EU ETS or UK ETS, where they apply:** a different geographic scope, a separate monitoring plan approved by another authority, verification under a different accreditation framework.
+- **Corporate sustainability reporting:** total operational emissions, usually domestic included, often on a financial year rather than a calendar year.
+- **Customers:** charter clients and freight forwarders who need per-flight or per-shipment figures for their own scope 3.
 
-Both directions must work. The second is the one that catches completeness problems, because a flight missing from the report will never be sampled from the report.
+Build one authoritative emissions layer and filter it per scheme downstream. The common alternative, four teams each reconciling the raw data separately, wastes effort and produces reports that occasionally disagree with one another. A mismatch between your own reports is exactly what a verifier or auditor asks about first. The shared layer tends to go unowned because it sits between departments, so assign it explicitly.
 
-Practically, this means storing per reported value: the source records used, the rules applied, any manual decision with its reason and who made it, and a timestamp. It sounds heavy and is not — it is a few extra columns and a decision log.
+## Common mistakes
 
-The alternative is reconstructing the reasoning from memory two years later, which does not work.
+Exporting by hand. Correcting values at source. Reconciling by feel rather than by written rule. Having no exception list. Assembling the report outside the dataset. Running the process once a year. Automating exclusions. Keeping no decision log. Each of these shows up eventually as either a verification finding or a figure nobody can explain.
 
-## Monthly Rather Than Annual
+Ownership matters as much as design. The pipeline needs an owner who understands both the data and the operation: a purely technical owner writes rules that make no operational sense, and a purely operational one lets the audit trail lapse.
 
-The operational habit that matters most.
+Related reading: [fuel data quality management](/insights/corsia-fuel-data-quality-management/), [what verifiers actually test](/insights/corsia-internal-audit-preparation/) and [fuel monitoring methods compared](/knowledge-base/corsia-fuel-monitoring-methods/).
 
-Running the pipeline monthly surfaces problems while they are fixable. An outstation whose dockets never reach the system is a nuisance in February and a permanent data gap in December. A misconfigured extraction is a two-hour fix if caught early and a year of missing records if not.
-
-It also spreads effort. Twelve routine exercises are far easier to resource than one large reconstruction under deadline pressure, and the quality is better because nobody is rushing.
-
-## Tooling: Proportionate to Scale
-
-**A small operator** can run this on scheduled spreadsheet imports with documented rules and a decision log. It is not elegant and it works, provided the rules are written down and the raw files are retained.
-
-**A mid-sized operator** benefits from a database with scripted transformations. The gain is repeatability and the audit trail, not sophistication.
-
-**A large operator** will want a proper data platform, but the design principles are identical. Scale changes the tooling, not the structure.
-
-Resist buying a compliance platform before the rules are written. A tool cannot resolve a discrepancy you have not decided how to resolve — it will simply implement whatever it defaults to, and you will own that default without having chosen it.
-
-## Integrating With Other Reporting
-
-Most operators of any size report emissions in more than one place, and the same underlying data feeds all of them.
-
-**CORSIA** needs international flights on covered route pairs, under an approved monitoring method, with its own scope rules.
-
-**EU ETS or UK ETS**, where applicable, needs a different geographic scope, a separate monitoring plan approved by a different authority, and verification under a different accreditation framework.
-
-**Corporate sustainability reporting** needs total operational emissions, usually including domestic, and often on a financial-year rather than calendar-year basis.
-
-**Customer requests** — corporate charter clients and freight forwarders reporting their own scope 3 — need per-flight or per-shipment figures.
-
-Four outputs, one dataset. The efficient design is a single authoritative emissions layer with scheme-specific filtering applied downstream, so every report derives from the same numbers.
-
-The inefficient and common alternative is four separate exercises, each reconciling the source data independently. Beyond the wasted effort, it produces figures that occasionally disagree — and a discrepancy between your own reports is exactly what a verifier or an auditor will ask about first.
-
-Build the shared layer once. It is usually the highest-return piece of work available to a multi-scheme operator, and it tends to go unowned because it sits between functions rather than inside one.
-
-## Common Failures
-
-| Failure | Consequence |
-|---|---|
-| Manual export from source systems | Missed months, transcription errors, key-person risk |
-| Editing at source | Cannot show what was originally received |
-| Undocumented reconciliation | Findings at verification; inconsistent months |
-| No exception list | Problems pass silently |
-| Report assembled separately from the data | Two versions that drift |
-| Annual rather than monthly running | Problems found when unfixable |
-| Over-automated exclusions | Real data removed invisibly |
-| No decision log | Reasoning irrecoverable |
-
-## Frequently Asked Questions
-
-**How much does a CORSIA data pipeline cost to build?** It depends far more on how many source systems and how bad their agreement is than on emissions volume. A single-source operator is straightforward; four systems with no reconciliation history is a project.
-
-**Can we use our existing fuel management system?** Usually as a source, rarely as the whole pipeline. Fuel systems are built for cost control, not for emissions reporting scope rules and audit trails.
-
-**Do we need to automate at all?** No, but you do need documented rules, a decision log and a retained raw record. Automation makes those cheaper to sustain, it does not replace them.
-
-**Who should own the pipeline?** Someone who understands both the data and the operation. A purely technical owner will implement rules that make no operational sense; a purely operational owner will not maintain the audit trail.
-
-**What if our sources disagree by a lot?** Investigate the cause before writing a rule. A consistent 15% gap is a measurement or process problem, not something to paper over with a resolution rule.
-
-**How long should we retain the data?** Plan for ten years. Verification and audit reach back further than people expect, and retention periods are set nationally.
-
-**What is the first thing to build?** The reconciliation rules, before any tooling. Everything else implements them. See [the CORSIA gap analysis](/insights/corsia-gap-analysis-service/).
-
----
-
-**Need CORSIA compliance that survives verification?** DSTechnoverse builds monitoring plans, data pipelines and reporting processes for Indian operators, and supports project developers through eligibility and placement. See our [CORSIA carbon credit services](/services/). We are based in **Indore, Madhya Pradesh** and work across India.
-
-[Apply as a CORSIA buyer or seller](https://carboncredit.dstechnoverse.com/)
-
-[Talk to our carbon markets team](/contact/) about your position.
+If your fuel sources disagree and nobody has written down why, that is where we would start. Have a look at our [CORSIA services](/services/) and tell us which systems you are pulling from.

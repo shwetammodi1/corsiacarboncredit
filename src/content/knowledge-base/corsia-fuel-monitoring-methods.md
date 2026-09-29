@@ -1,135 +1,84 @@
 ---
-title: "CORSIA Fuel Use Monitoring Methods Compared"
-excerpt: "The five fuel use monitoring methods plus the CERT tool for small emitters — what data each requires, where each fails in practice, and how to choose one your systems can actually sustain."
+title: "CORSIA Fuel Monitoring Methods: Five Methods and CERT Side by Side"
+excerpt: "ICAO lets operators work out fuel burn five ways, with the CERT estimation tool for small emitters and data gaps. The records each method depends on, where each breaks down, and how to pick one your operation can sustain."
 section: "Monitoring, Reporting & Verification"
 order: 11
 image: "/images/corsia/corsia-fuel-monitoring-methods.svg"
 ---
 
-ICAO permits several ways to determine the fuel burned on a flight. They differ sharply in the data they demand, and choosing one your systems cannot sustain is the most expensive early mistake in CORSIA compliance.
+CORSIA needs one number per flight: the fuel it consumed. No airline records that number directly. What it has are fuel uplift dockets from suppliers, readings of fuel in the tanks at certain moments, and block times. Each ICAO method is a recipe for turning some combination of those records into fuel burn. The right recipe is simply the one whose ingredients your operation captures on every flight, at every station, all year.
 
-![Fuel use monitoring methods compared](/images/corsia/corsia-fuel-monitoring-methods.svg)
+![Comparison chart of CORSIA fuel use monitoring methods](/images/corsia/corsia-fuel-monitoring-methods.svg)
 
-## The Underlying Problem
+## The options in one table
 
-You need fuel consumed **per flight**. What operators actually record is some combination of fuel uplifted into the tanks, tank quantity readings at various moments, and block times.
-
-Each method is a different way of getting from what you record to what you need. None is inherently correct — the right one is the one your systems can feed reliably, every flight, all year.
-
-## The Methods
-
-| Method | Determines fuel burn from | Needs per-flight tank data | Typical data burden |
+| Method | Fuel burn is worked out from | Tank readings needed per flight | Data effort |
 |---|---|---|---|
-| Fuel Uplift | Uplift plus change in remaining fuel | Yes | Moderate |
-| Block-off / Block-on | Tank quantity at block-off minus block-on | Yes | High |
-| Block-on / Block-off | Tank at block-on, then next block-off, plus uplift | Yes | High |
-| Fuel Allocation with Block Hour | Block hours × a determined burn rate | No | Low |
-| Fuel Uplift with Density | Uplift volume converted using measured density | Yes | Moderate |
-| CERT | ICAO estimation tool | No | Lowest |
+| Fuel Uplift | Fuel uplifted, adjusted for the change in fuel remaining on board | Yes | Moderate |
+| Block-off / Block-on | Tank quantity at block-off less tank quantity at block-on | Yes | High |
+| Block-on / Block-off | Tank at block-on, the following uplift, and tank at the next block-off | Yes | High |
+| Fuel Allocation with Block Hour | Block hours multiplied by a determined burn rate | No | Low |
+| Fuel Uplift with Density | Uplift volume converted to mass using density | Yes | Moderate |
+| CERT (ICAO CO2 Estimation and Reporting Tool) | ICAO's estimation from flight data | No | Lowest |
 
-### Fuel Uplift
+## A quick calculation, to fix the idea
 
-Fuel burn is derived from the quantity uplifted before the flight, adjusted for the change in fuel remaining on board between the start of one flight and the start of the next.
+Using Block-off / Block-on, with illustrative readings: the tanks show 12,400 kg at block-off and 3,100 kg at block-on. Fuel burnt is 12,400 − 3,100 = 9,300 kg. At 3.16 kg CO2 per kg of Jet-A1, the flight emitted 9,300 × 3.16 = 29,388 kg, about 29.4 tonnes of CO2.
 
-**Works when** uplift dockets are reliable, consistently captured at every station, and can be matched to individual flights.
+The arithmetic is the same under every method. What differs is where the two fuel figures come from and how reliably they turn up for every flight.
 
-**Fails when** stations record uplift inconsistently, dockets are captured for billing rather than operations, or aircraft reposition without a matching record.
+## Method by method
 
-### Block-off / Block-on
+**Fuel Uplift.** Burn is the fuel loaded before the flight, corrected for the difference in fuel on board from one flight's start to the next.
+- *Suits:* operators whose uplift dockets are captured consistently at every station and can be tied to individual flights.
+- *Breaks down:* when stations record uplift in different ways, when dockets exist for billing rather than operations, or when an aircraft repositions without a matching record.
 
-Fuel burn is the difference between tank quantity at block-off and at block-on.
+**Block-off / Block-on.** Burn is the tank reading at block-off less the reading at block-on.
+- *Suits:* fleets whose aircraft systems record tank quantity at those moments and keep it in a form that can be extracted.
+- *Breaks down:* when the reading depends on the crew writing it down, or when the data sits on the aircraft but is never routinely downloaded and stored.
 
-**Works when** aircraft systems record and retain tank quantities at those exact moments and the data is extractable.
+**Block-on / Block-off.** Uses the tank reading at block-on, the next uplift, and the reading at the following block-off.
+- *Suits:* operators with dependable tank and uplift records and well-captured ground time.
+- *Breaks down:* for the same reasons as above, plus the difficulty of chaining consecutive flights correctly across night stops and maintenance visits.
 
-**Fails when** the recording depends on crew action, or the data exists in the aircraft but is not systematically downloaded and stored.
+**Fuel Allocation with Block Hour.** Burn is block hours times a fuel burn rate the operator determines.
+- *Suits:* operators without real per-flight tank data but with reliable block times.
+- *Trade-off:* far less data work, but the burn rate has to be set and justified, and the result is less precise. That imprecision is in your own reported emissions.
 
-### Block-on / Block-off
+**Fuel Uplift with Density.** Uplift delivered by volume is turned into mass using measured or standard density.
+- *Suits:* operators whose suppliers invoice in volume, which is common in some regions.
+- *Watch:* document the density approach. Using a standard density where the actual density is known and differs materially invites findings.
 
-A variant using tank quantity at block-on, the subsequent uplift, and tank quantity at the next block-off.
+## CERT: useful, with a catch
 
-**Works when** you have reliable tank readings and uplift, and the aircraft's ground time is well captured.
+CERT estimates emissions from flight data without fuel monitoring. It may be used by **small emitters** below defined thresholds, and to fill gaps in an otherwise monitored dataset.
 
-**Fails** in the same ways, with the added complication of linking consecutive flights correctly across overnight stops and maintenance.
+The catch is growth. An operator that relies on CERT while below the threshold and then crosses it has to move to a full monitoring method. If it never built any fuel monitoring, it makes that move in a hurry and with no history to check against. For operators approaching the [10,000 tonne threshold](/knowledge-base/corsia-scope-and-thresholds/), including growing Indian charter and business aviation operators, the sensible course is to start capturing fuel data before CERT stops being an option.
 
-### Fuel Allocation with Block Hour
+## Choosing: five questions
 
-Fuel burn is estimated from block hours multiplied by a determined fuel burn rate.
+1. **What do we genuinely capture today?** Not what the system could capture. Ask for an actual data extract, not a specification.
+2. **Which stations behave differently?** A method that works at the hub can fail at outstations where handling agents record fuel their own way.
+3. **Does every aeroplane type provide the same data?** Mixed fleets often differ. The plan can handle this, but it has to be designed in.
+4. **Would we rather be precise or consistent?** A precise method you cannot keep up is worse than a plainer one you can. Verification asks whether you followed your plan, not whether your method was elegant.
+5. **Can we justify the choice in writing, from evidence?** The plan must explain why the method fits. That explanation will be read again years later, so base it on trial results rather than general argument.
 
-**Works when** per-flight tank data is genuinely unavailable and block times are reliable.
+On the trial itself: a method that needs manual fixes on 5% of flights in a trial month will need them on thousands of flights over a year. The way the choice is recorded is covered in [the Emissions Monitoring Plan](/knowledge-base/corsia-emissions-monitoring-plan/).
 
-**Trade-off:** much lower data burden, but the burn rate must be determined and justified, and the method is less precise. Precision matters because it is your own emissions being estimated.
+## Switching methods later
 
-### Fuel Uplift with Density
+It can be done, but it costs. The monitoring plan has to be revised and re-approved, and the change creates a break in your data series that verifiers will examine. A step change in reported emissions caused by a method switch, rather than by operations, has to be explained, and the break also affects your own trend analysis and the data that feeds the sector's growth factor. Getting it right at the start is far cheaper.
 
-Uplift measured by volume is converted to mass using measured or standard density.
+## Symptoms and their causes
 
-**Works when** your suppliers provide volume rather than mass, which is common in some regions.
+- **Verification fails on a closed year:** the method was chosen on paper and never tried on real data.
+- **"It works for them" but not for you:** the method was copied from another operator with different systems.
+- **Hub data clean, outstation data patchy:** station-level recording differences were not checked.
+- **Tank readings missing for whole months:** data recorded on board was assumed to be stored and retrievable.
+- **Findings on fuel mass:** density assumptions were not documented.
+- **A rushed method change after growth:** CERT was kept after the threshold came into view.
+- **A new aircraft type that does not fit:** fleet plans were not considered at method selection.
 
-**Watch:** density assumptions must be documented. Using a standard density where actual density is available and materially different attracts findings.
+Method definitions are in Annex 16, Volume IV, and CERT is published by [ICAO](https://www.icao.int/environmental-protection/CORSIA/Pages/default.aspx). How the method's output moves through reporting and verification is in [CORSIA MRV explained](/knowledge-base/corsia-mrv-explained/).
 
-### CERT — the ICAO CO2 Estimation and Reporting Tool
-
-CERT estimates emissions from flight data without requiring fuel monitoring.
-
-::: accordion Who may use CERT, and the trap in it
-CERT is available to **small emitters** — operators below defined thresholds — and to fill data gaps within an otherwise monitored dataset.
-
-The trap is growth. An operator using CERT because it sat below the threshold, and then crossing it, must move to a full monitoring method. If no fuel monitoring infrastructure was ever built, that transition happens under time pressure with no historical data to validate against.
-
-Operators near the threshold should build monitoring capability before they need it, even while CERT remains available.
-:::
-
-## How to Choose
-
-::: accordion Step 1 — inventory what you actually record
-Not what your systems are capable of recording. What is genuinely captured, for every flight, at every station, and retained. Ask for a real extract rather than a system specification.
-:::
-
-::: accordion Step 2 — test against a sample month
-Take one month of real operations and try to produce the figures each candidate method requires. Note every gap, every manual step, every station that behaves differently.
-
-A method that needs manual intervention for 5% of flights in a test month will need it for thousands of flights a year.
-:::
-
-::: accordion Step 3 — weigh precision against sustainability
-A more precise method you cannot sustain is worse than a less precise one you can. Verification tests whether you did what your plan says, not whether you chose the most elegant approach.
-:::
-
-::: accordion Step 4 — consider the fleet mix
-Different aeroplane types may have very different data availability. The plan can address this, but the complexity is real and needs to be designed rather than discovered.
-:::
-
-::: accordion Step 5 — document the justification
-The plan must explain why the method suits your operation. Write that justification from the test results, not from general reasoning. It is also the document that defends the choice years later.
-:::
-
-## Changing Method Later
-
-Possible, but disruptive. It requires the monitoring plan to be revised and re-approved, and it creates a discontinuity in your data series that verification will examine.
-
-Comparability across years matters — for your own trend analysis, for the growth factor inputs, and for explaining a step change in reported emissions that reflects a method change rather than an operational one.
-
-The practical conclusion: **choosing correctly the first time is much cheaper than correcting later.**
-
-## Common Mistakes
-
-| Mistake | Consequence |
-|---|---|
-| Choosing on paper without testing data | Failure surfaces at verification, year unrecoverable |
-| Copying another operator's method | Their systems are not your systems |
-| Ignoring station-level inconsistency | Works at hub stations, fails at outstations |
-| Assuming aircraft data is retained | Recorded on board is not the same as stored and extractable |
-| Undocumented density assumptions | Findings on fuel volume conversion |
-| Staying on CERT past the threshold | Forced transition with no monitoring history |
-| Not planning for fleet changes | New type arrives, method does not fit it |
-
-## Where to Go Next
-
-- [The Emissions Monitoring Plan](/knowledge-base/corsia-emissions-monitoring-plan/) — where the method is declared
-- [CORSIA MRV explained](/knowledge-base/corsia-mrv-explained/) — the cycle the method feeds
-- [The requirement calculation](/knowledge-base/corsia-offsetting-requirement-calculation/) — what the data becomes
-- [CORSIA scope and thresholds](/knowledge-base/corsia-scope-and-thresholds/) — the 10,000 tonne test
-
-Method definitions are in Annex 16 Volume IV; CERT is published by [ICAO](https://www.icao.int/environmental-protection/CORSIA/Pages/default.aspx).
-
-DSTechnoverse tests method choice against a real sample of your operational data before the plan is written — the step that prevents the expensive failure. [Talk to our team](/contact/).
+If you are choosing a method, or suspect the one you have is not holding up, send us a month of fuel records and we will tell you what it supports. [Contact the desk](/contact/).

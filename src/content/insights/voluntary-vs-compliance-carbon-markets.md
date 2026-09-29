@@ -1,152 +1,104 @@
 ---
-title: "Voluntary vs Compliance Carbon Markets: The Practical Differences"
-excerpt: "Two markets, different buyers, different rules and very different prices. What separates them, why a credit valid in one may be useless in the other, and how the boundary is blurring as corporate buyers start demanding compliance-grade units."
+title: "Voluntary and Compliance Carbon Markets: Who Sets the Rules, and Why Credits Don't Always Cross Over"
+excerpt: "One market answers to buyers, the other to regulators. How that changes the instruments, prices and mechanics, why a credit accepted voluntarily can fail a compliance test, and why the gap between the two is narrowing."
 date: "2026-09-04"
 topic: "Carbon Market Guides"
 tags: ["voluntary carbon market","compliance carbon market","VCM","emissions trading","carbon markets explained","CORSIA","carbon credit demand"]
 image: "/images/carbon-credits/vcm-vs-compliance-markets.svg"
 ---
 
-People talk about "the carbon market" as though it were one thing. It is at least two, and confusing them is why buyers end up with credits they cannot use for the purpose they bought them for.
+In the same week, two teams at an Indian airline go shopping for carbon credits. The compliance team needs units to cancel under CORSIA. The sustainability team wants credits to support the group's net zero commitment. They are in the same building, using the same word, and they are buying in two different markets with different rules. If one team's purchase is handed to the other, it may be worthless.
 
-![Voluntary and compliance carbon markets compared](/images/carbon-credits/vcm-vs-compliance-markets.svg)
+"The carbon market" is a convenient phrase for something that is really at least two markets. This note sets out where they differ and why it matters.
 
-## The Core Distinction
+![Chart comparing the voluntary and compliance carbon markets](/images/carbon-credits/vcm-vs-compliance-markets.svg)
 
-| | Voluntary market | Compliance market |
+## The question that separates them
+
+Ask who decides what counts as an acceptable credit.
+
+- In the **voluntary market**, the buyer decides. Companies purchase by choice, usually to back a public claim or respond to investors. Standards and prices vary enormously because every buyer draws its own line. Getting it wrong damages reputation.
+- In a **compliance market**, the regulator decides. Regulated entities buy because the law says so, and no buyer preference changes the rule. Getting it wrong brings a legal penalty.
+
+Most other differences follow from that one. Compliance instruments are defined by law: allowances, or credits within set rules. Compliance prices sit in a narrower band and are generally higher. Voluntary prices spread across a very wide range. Examples of compliance systems include the EU ETS, CORSIA and India's CCTS; the typical voluntary use is a corporate net zero claim.
+
+## Compliance markets come in three shapes
+
+People often lump these together. They work differently, and so does what "compliance" asks of you.
+
+| Structure | How it works | Instrument | Example |
+|---|---|---|---|
+| Cap-and-trade | A limit is set on total emissions and permits are issued within it | Allowances: permits to emit, not reductions made elsewhere | EU ETS, the largest; most such systems restrict or exclude offset credits |
+| Baseline-and-credit | An intensity benchmark is set; those who beat it earn credits | Credits against the benchmark | India's Carbon Credit Trading Scheme, for obligated entities |
+| Offsetting | Credits must be bought and cancelled against an obligation | Eligible project credits | CORSIA, which does not cap aviation emissions but requires growth above a baseline to be offset |
+
+## Why credits don't travel freely
+
+Units that satisfy a compliance scheme are a small subset of all credits. A credit a corporate buyer is happy with can fail a compliance test for several reasons:
+
+- The programme that issued it is not approved by the relevant regulator.
+- Its vintage is outside the eligible window.
+- The host country has not made a corresponding adjustment.
+- Its methodology is excluded under a conditional approval.
+
+Movement the other way is easy. A compliance-eligible unit will nearly always satisfy a voluntary buyer, and increasingly sells at a premium there too.
+
+**Our rule of thumb:** if there is any chance you will need compliance-grade units, buy to that standard. Finding out later that your voluntary credits cannot be used for an obligation is an expensive lesson. Our explainer on [CORSIA eligible emissions units](/insights/corsia-eligible-emissions-units-explained/) covers the aviation tests in detail.
+
+## The two markets behave differently day to day
+
+Beyond the rules, a buyer who works in both will find the mechanics quite different.
+
+| | Allowance markets (cap-and-trade) | Credit markets (voluntary, and the adjusted segment) |
 |---|---|---|
-| Who buys | Corporates, by choice | Regulated entities, by law |
-| What drives demand | Claims, reputation, investor pressure | Legal obligation |
-| Instrument | Carbon credits | Allowances, or credits within defined rules |
-| Quality bar | Set by the buyer | Set by the regulator |
-| Price | Very wide range | Narrower, generally higher |
-| Consequence of not buying | Reputational | Legal penalty |
-| Examples | Corporate net zero claims | EU ETS, CORSIA, India's CCTS |
+| Where trading happens | On exchanges, with continuous public prices and a visible forward curve | Mostly bilateral; the adjusted segment is thinner still, with no dependable public price |
+| Finding the price | Look it up | Talk to several sellers and work out what the documents support |
+| Are units interchangeable? | Yes, one allowance equals another | No, and they cannot be made so without losing information a buyer needs |
+| Counterparty risk | Cleared centrally | You are exposed to the seller, so payment terms matter much more |
+| Settlement | An administrative surrender in a regulated register | Registry accounts, transfers that take days, and a purpose designation that cannot be undone |
 
-The operative difference is **who sets the quality bar.** In the voluntary market a buyer decides what it will accept, which produces enormous variation in both standards and prices. In a compliance market the regulator decides, and no amount of buyer preference changes it.
+The practical upshot is to resource them differently. A treasury desk can manage an ETS position against a screen price. A credit purchase is a procurement project with a diligence workstream attached. Budgeting for one as if it were the other is a common mistake. First-time credit buyers who skip the diligence often overpay, or buy cheaply and take on risks they have not priced.
 
-## Why a Credit Can Be Valid in One and Useless in the Other
+## Why voluntary prices spread so widely
 
-This is the practical consequence people run into.
+A published "average voluntary price" mixes very different products. An old renewable credit with contested additionality and a verified engineered removal share the label "carbon credit" and little else. The main drivers are project type (removals at the top, renewables at the bottom), vintage (recent preferred), co-benefits (SDG-linked projects fetch more), the standard's reputation, a corresponding adjustment (a large premium where present) and volume (discounts, limited by thin liquidity). The detail is in [carbon credit prices explained](/insights/carbon-credit-prices-explained/).
 
-Compliance eligibility is a **strict subset** of what exists. A credit accepted enthusiastically by a corporate voluntary buyer may fail a compliance test on any of several grounds:
+## The line is blurring from the voluntary side
 
-- The issuing programme is not approved by the relevant regulator
-- The vintage falls outside an eligible window
-- No host-State corresponding adjustment has been applied
-- The methodology is excluded under a conditional approval
+The most important change in recent years has come from corporate buyers. Criticised over the integrity of their claims, especially double counting, a growing number now ask for **corresponding-adjusted units**, the strongest available answer, because the host country has then given up the reduction in its own accounts. They will pay for this with no legal obligation at all.
 
-The reverse rarely happens. A compliance-eligible unit will almost always satisfy a voluntary buyer — and increasingly commands a premium there too, for reasons below.
+That has two effects:
 
-**The practical rule:** buy for the stricter of the two purposes if you might need either. Buying for voluntary use and later discovering you need compliance-grade units is an expensive discovery.
+- **Sellers** of adjusted units have a wider market than compliance buyers alone, which supports prices.
+- **Compliance buyers** now compete with corporates for the same limited pool. Supply forecasts often leave this out. Our [supply and demand outlook](/knowledge-base/corsia-supply-and-demand-outlook/) takes it into account.
 
-## Inside the Compliance World
+## Placing yourself
 
-Compliance markets are not uniform either. Three structures, frequently conflated:
-
-**Cap-and-trade systems** set a quantity limit and issue **allowances** within it. The EU ETS is the largest. Allowances are permits to emit, not credits representing reductions elsewhere. Most such systems restrict or exclude offset credits entirely.
-
-**Baseline-and-credit systems** set an intensity benchmark and credit those who beat it. India's Carbon Credit Trading Scheme is structured this way for obligated entities.
-
-**Offsetting mechanisms** require the purchase and cancellation of credits against an obligation. CORSIA is the clearest example — it does not cap aviation emissions; it requires growth above a baseline to be offset.
-
-The instrument differs in each, and so does what "compliance" actually requires of you.
-
-## Why Voluntary Prices Vary So Much
-
-Published voluntary market averages are close to useless, because they blend fundamentally different products.
-
-A 2014-vintage renewable energy credit with contested additionality and a verified engineered removal are both "carbon credits". They serve different purposes, satisfy different claims and price accordingly. Averaging them describes nothing you can buy.
-
-What actually differentiates price:
-
-| Factor | Effect |
+| Your position | What follows |
 |---|---|
-| Project type | Removals highest, renewables lowest |
-| Vintage | Recent generally preferred |
-| Co-benefits | SDG-linked projects command more |
-| Standard | Some carry a reputational premium |
-| Corresponding adjustment | Substantial premium where present |
-| Volume | Discounts, limited by illiquidity |
+| You have a legal duty to offset | You are a compliance buyer; the regulator's rules bind you |
+| You make a public claim | Voluntary rules apply, but reputational risk is real and the integrity questions look more and more like compliance ones |
+| You have both, like the airline in our opening | Run two separate purchases. Units cancelled for CORSIA have discharged a legal duty; claiming them again for a voluntary target is a double claim, and disclosure regulators watch for it |
+| You are a project developer | Design for compliance eligibility where the host government allows it, and keep the voluntary route open. It costs little at design stage and is hard to add later |
 
-See [carbon credit prices explained](/insights/carbon-credit-prices-explained/).
+## What is changing
 
-## The Boundary Is Blurring
+- **Article 6 is maturing.** As more governments set up designated national authorities and authorisation procedures, adjusted supply should grow. How quickly depends on many separate national decisions, not on one policy.
+- **Integrity efforts are converging.** Work on both the supply side and the claims side has pushed voluntary criteria towards compliance-style criteria. The gap between a good voluntary credit and a compliance-eligible one is closing on everything except the corresponding adjustment.
+- **Disclosure rules are tightening.** Reporting standards increasingly want credits shown with their type, standard and quality, not as one total. A poor purchase becomes visible instead of being averaged away.
 
-The most interesting development in this market is that the distinction is eroding from the voluntary side.
+The likely end state is two segments told apart mainly by who is obliged to buy, not by what quality is accepted. So buying to the stricter standard is increasingly the low-regret option: the premium you pay now covers a gap that is closing anyway.
 
-Corporate buyers have faced sustained criticism over the integrity of their claims, particularly on double counting. A **corresponding-adjusted unit** is the strongest available answer, because it means the host country has given up the reduction in its own accounting.
+::: accordion Which market is bigger?
+Compliance markets, by value, because of the large cap-and-trade allowance systems. The voluntary market is smaller and more varied.
+:::
 
-So a growing set of voluntary buyers now demand what was previously a compliance-only feature — and will pay for it, with no regulatory obligation at all.
+::: accordion Is the voluntary market regulated?
+Not formally. But standard-setters, ratings agencies, disclosure frameworks and consumer-protection regulators policing claims all shape it more each year.
+:::
 
-Two consequences follow:
+::: accordion Should a company buy voluntary credits at all?
+Only alongside real reductions, never in their place. SBTi and most credible frameworks say so explicitly.
+:::
 
-**For sellers**, the market for adjusted supply is wider than the compliance market alone, which supports pricing on both sides.
-
-**For compliance buyers**, you are competing with corporate demand for the same scarce adjusted pool. This is routinely omitted from supply forecasts and it matters — see [carbon credit supply and demand](/knowledge-base/corsia-supply-and-demand-outlook/).
-
-## How the Two Markets Behave Differently
-
-Beyond the rules, the markets have different mechanics, and a buyer moving between them finds the experience genuinely different.
-
-**Liquidity.** Cap-and-trade allowance markets are exchange-traded with continuous public pricing and a visible forward curve. The voluntary market is largely bilateral. The corresponding-adjusted segment is thinner still — transactions are negotiated individually and there is no reliable public reference price.
-
-**Price discovery.** In a liquid market you look up the price. In a bilateral one you talk to several sellers and work out what the documentation actually supports. That cost is real and it is why first-time buyers frequently overpay or, worse, buy cheaply and acquire risk they have not priced.
-
-**Standardisation.** Allowances are fungible — one is identical to another. Credits are not, and cannot be made so without discarding the information a careful buyer needs.
-
-**Counterparty risk.** Exchange-traded markets clear centrally. Bilateral credit transactions leave you exposed to the seller, which is why payment structure and security matter far more here.
-
-**Settlement.** Allowance surrender is an administrative step in a regulated register. Credit retirement involves registry accounts you had to open, transfers that take days, and a purpose designation that is irreversible if wrong.
-
-The practical consequence for anyone facing both: **do not staff and budget them the same way.** An ETS position can be managed by treasury against a screen price. A credit purchase is a procurement exercise with a due diligence workstream attached.
-
-## Which Market Are You Actually In?
-
-A short diagnostic:
-
-**Do you have a legal obligation to offset?** If yes, you are a compliance buyer and the regulator's rules bind you regardless of preference.
-
-**Are you making a public claim?** Then voluntary market rules apply but reputational risk is real, and the integrity questions increasingly resemble compliance ones.
-
-**Are you doing both?** Common for airlines with a CORSIA obligation and a corporate net zero commitment. **Keep them separate.** Units cancelled for CORSIA discharge a legal obligation; claiming them again as a voluntary achievement is a double claim of a different kind, and disclosure regulators are alert to it.
-
-**Are you a developer?** Design for compliance eligibility where the host State makes it possible, and retain the option to sell voluntarily. That hedge costs little at design stage and is hard to retrofit.
-
-## Where the Markets Are Heading
-
-Three developments are worth tracking, because each shifts the boundary between the two markets.
-
-**Article 6 is maturing.** As more governments establish designated national authorities and authorisation processes, the pool of corresponding-adjusted supply should grow. How fast is the open question, and it depends on dozens of separate sovereign decisions rather than on any single policy.
-
-**Integrity initiatives are converging.** Independent efforts on the supply side and on the claims side have pushed the voluntary market toward criteria that look increasingly like compliance criteria. The practical effect is that the quality gap between a good voluntary credit and a compliance-eligible one is narrowing on everything except the corresponding adjustment.
-
-**Disclosure regulation is tightening.** Sustainability reporting standards increasingly require credits to be disclosed with their type, standard and quality attributes rather than as a single number. That transparency changes buyer behaviour, because a low-quality purchase becomes visible rather than aggregated away.
-
-The direction of travel is toward a market where the voluntary and compliance segments are distinguished mainly by who is obliged to buy, rather than by what quality is acceptable. For a buyer today, the planning implication is straightforward: **buying to the stricter standard is increasingly the low-regret choice**, because the gap it costs you now is the gap that is closing anyway.
-
-## Frequently Asked Questions
-
-**What is the difference between voluntary and compliance carbon markets?** Voluntary buyers choose to purchase and set their own quality bar; compliance buyers must purchase under law, and the regulator sets the bar.
-
-**Is one market larger?** Compliance markets are far larger by value, driven by cap-and-trade allowance systems. The voluntary market is smaller and more varied.
-
-**Can I use a voluntary credit for compliance?** Only if it independently meets the compliance rules — programme approval, vintage and, for CORSIA, a corresponding adjustment. Most do not.
-
-**Why are compliance credits more expensive?** Scarcity created by the eligibility requirements, particularly host-State authorisation.
-
-**Is the voluntary market unregulated?** Not formally, but it is increasingly shaped by standard-setters, ratings agencies, disclosure frameworks and consumer protection regulators policing claims.
-
-**Should a company buy voluntary credits at all?** Only alongside genuine reductions, never as a substitute. Most credible frameworks, including SBTi, are explicit that credits cannot replace required reductions.
-
-**Do the two markets ever trade with each other?** Indirectly. A project can issue units that go to either market, and adjusted supply is increasingly contested by both compliance and voluntary buyers.
-
-**What is India's compliance market?** The Carbon Credit Trading Scheme under the Energy Conservation Act framework, alongside CORSIA for international aviation.
-
----
-
-**Working out what to buy and what it should cost?** DSTechnoverse provides [CORSIA carbon credit services](/services/) — requirement modelling, supply sourcing, pre-transaction due diligence and registry execution. We are based in **Indore, Madhya Pradesh** and work across India and internationally.
-
-[Apply as a CORSIA buyer or seller](https://carboncredit.dstechnoverse.com/)
-
-[Talk to our carbon markets team](/contact/), or start with [the complete carbon credits guide](/insights/corsia-carbon-credits-complete-guide/).
+If you are not sure which market a purchase belongs in, or you need to keep compliance and voluntary buying apart inside one group, [talk to us](/contact/). We can set out which rules apply before anyone signs.

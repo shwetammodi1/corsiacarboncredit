@@ -1,65 +1,78 @@
 ---
-title: "Improved Forest Management (IFM) Credits: A Verification Case Study"
-excerpt: "IFM credits reward managing a forest for more carbon than business-as-usual. A case study in verifying the management baseline, inventory data and permanence controls behind an improved forest management portfolio."
+title: "IFM Carbon Credits Case Study: Checking a Working Forest's Baseline and Inventory"
+excerpt: "An anonymised, representative review of an improved forest management portfolio. Where the integrity sits when a forest keeps producing timber: the business-as-usual harvest, the plot data, growth models and reversal controls."
 date: "2026-09-07"
 topic: "Case Studies"
 tags: ["improved forest management","IFM carbon credits","ACR","forestry carbon credits","forest carbon inventory","permanence"]
 image: "/images/carbon-case-studies/ifm-verification.svg"
 ---
 
-Not all forest carbon comes from stopping deforestation. **Improved Forest Management (IFM)** credits are earned by managing an existing, working forest so that it stores more carbon than it would under business-as-usual — longer harvest rotations, lighter thinning, or a shift from timber extraction toward conservation. The climate logic is sound, and the accounting is subtle. This representative case study shows how an IFM portfolio is checked.
+Improved Forest Management (IFM) credits come from a forest that stays in business. The owner still harvests, but harvests less, or later, or more carefully, and the extra carbon kept in the trees is credited. Rotations get longer, thinning gets lighter, or part of the estate moves from extraction to conservation. The idea is sound. The accounting takes care, because the credit is the gap between what happened and what would have happened.
 
-## The Engagement
+## The review in brief
 
-A buyer was considering an IFM portfolio issued under a forest-carbon standard such as ACR. Unlike a conservation project, an IFM project keeps producing — it is a managed forest — so the credit rests on a comparison between two management scenarios rather than on avoided clearance. Our role was to test whether that comparison, and the data behind it, would survive scrutiny.
+| | |
+|---|---|
+| Portfolio | IFM units issued under a forest-carbon standard such as ACR |
+| Buyer's question | Would the management comparison, and the data under it, stand up to scrutiny? |
+| Where the work concentrated | The business-as-usual baseline and the growth modelling |
+| Result | Cleared for retirement after adopting the more conservative estimates |
 
-## Where IFM Integrity Is Won or Lost
+## Two scenarios, one credit
 
-### The management baseline
+A conservation project is credited for clearing that did not happen. An IFM project is credited for the difference between two ways of running the same forest: the management actually applied, and the harvest the owner would have taken without carbon revenue. Everything depends on how that second scenario is built.
 
-The heart of an IFM credit is the **baseline**: the harvesting the owner *would* have done without carbon finance. If that hypothetical harvest is exaggerated, the "improvement" is inflated and so is the credit. We examined how the business-as-usual scenario was justified — against the owner's own history, legal harvest rights and regional practice — rather than against an aggressive assumption chosen to maximise volume. This is the IFM equivalent of the deforestation-baseline debate in [REDD+](/insights/jurisdictional-redd-plus-carbon-credits-case-study/).
+## Test 1: Is the business-as-usual harvest believable?
 
-### Inventory and growth data
+If the hypothetical harvest is exaggerated, the improvement is exaggerated, and so is every credit issued. We tested the baseline against three reference points:
 
-IFM is data-heavy in a way conservation projects are not. The carbon stock is estimated from **forest inventory plots** and growth models, then re-measured over time. We reviewed the sampling design, the plot data and the modelling assumptions, because this is where quiet over-estimation hides — an optimistic growth curve compounds into a lot of phantom tonnes over a crediting period.
+- **the owner's own harvest history**
+- **the harvest legally permitted** on the land
+- **normal practice in the region**
 
-### Permanence and monitoring
+A baseline justified by those is defensible. One chosen because it produces the largest volume is not. This is the IFM counterpart of the deforestation-rate argument in [jurisdictional REDD+](/insights/jurisdictional-redd-plus-carbon-credits-case-study/).
 
-A managed forest is still exposed to fire, pests and a future owner who reverts to heavy harvesting. We checked the **permanence** provisions: the length of the monitoring commitment, the reversal buffer, and what happens if management reverts. A credit backed by a long commitment and an adequate buffer is worth more than a cheaper one that is not.
+## Test 2: Do the plots support the stock?
 
-### Eligibility and authorisation
+IFM is heavier on data than most forest types. Carbon stock is estimated from **inventory plots** and growth models, then re-measured over the crediting period. We looked at how the plots were laid out, what they recorded and what the growth models assumed.
 
-Finally, the standard and methodology were checked for continued eligibility, and — where the buyer's use required it — the authorisation and corresponding-adjustment position was verified rather than assumed.
+This is where small optimism does large damage. A growth curve that is slightly too generous adds only a little each year, but over a long crediting period it compounds into a substantial number of tonnes that are not in the forest.
 
-## The Result
+## Test 3: What if management reverts?
 
-The portfolio held up better than the renewable-energy pool in an earlier engagement, precisely because its integrity rests on measurable inventory data rather than a contested additionality argument. The main work was in the baseline and the growth modelling, where we recommended the buyer rely on the more conservative of the available estimates. With that adjustment, the units were cleared for retirement with a defensible evidence pack.
+A managed forest faces the same physical risks as any other: fire and pests. It also faces one peculiar to IFM, which is a future owner deciding to go back to heavy harvesting. We checked:
 
-## Key Takeaways
+- the length of the monitoring commitment
+- the size of the reversal buffer
+- what the standard requires if management reverts
 
-- IFM credits compare two **management scenarios**, so the business-as-usual baseline is everything.
-- The credit is only as good as the **inventory and growth data** behind it — review the sampling, not just the summary.
-- **Permanence** still matters for a working forest; check the monitoring period and buffer.
-- Prefer the **conservative** estimate where the data allows a range.
+A long commitment with an adequate buffer is worth more than a cheaper unit without them.
 
-## Frequently Asked Questions
+## Test 4: Eligibility and authorisation
 
-**What is Improved Forest Management?** Managing an existing forest to store more carbon than business-as-usual — for example through longer rotations or reduced-impact logging — and crediting the difference.
+The standard and methodology were checked for continued eligibility. Where the buyer's intended use required it, the authorisation and corresponding-adjustment position was confirmed from the source, not assumed.
 
-**How is IFM different from REDD+?** REDD+ credits avoided deforestation; IFM credits better management of a forest that keeps operating.
+## How it compared with other reviews
 
-**What makes an IFM credit high quality?** A conservative, well-evidenced management baseline, sound inventory and growth data, and real permanence provisions.
+This portfolio held up better than a renewable energy pool we reviewed in a separate engagement, described in our [renewable energy due-diligence case study](/insights/renewable-energy-carbon-credits-due-diligence-case-study/). The reason is structural: IFM integrity rests on inventory data that can be measured and re-measured, while grid-connected renewables rest on an additionality argument that has become hard to win. The real effort here went into the baseline and the growth models. Once the buyer relied on the more conservative of the available estimates, the units were cleared with a defensible evidence pack.
 
-**Can IFM credits be used for compliance schemes?** Where the standard, methodology and unit meet the scheme's eligibility and authorisation requirements.
+## Points for IFM buyers
 
-**Why review the inventory data?** Because small, optimistic assumptions in growth modelling compound into large over-estimates of stored carbon over time.
+- Ask how the business-as-usual harvest was justified, with documents.
+- Request plot-level data, not only the summary tables.
+- Read the reversal and buffer rules for the case where management changes.
+- Where the data gives a range, contract on the lower end.
 
----
+For a broader comparison of forest project risks, see [REDD+ and afforestation carbon projects](/insights/redd-and-afforestation-carbon-projects/).
 
-**Evaluating carbon credits across standards and project types?** DSTechnoverse works on the data and integrity side of carbon procurement — project screening, registry and eligibility verification, MRV and monitoring-data analysis, reconciliation and defensible reporting. See our [CORSIA carbon credit services](/services/) and [data analytics](https://dstechnoverse.com/services/data-analytics). We are based in **Indore, Madhya Pradesh** and work across India and internationally.
+## Short answers
 
-[Apply as a carbon credit buyer or seller](https://carboncredit.dstechnoverse.com/)
+**What is IFM?** Managing an existing forest to hold more carbon than business-as-usual, and crediting the difference.
 
-[Talk to our team](/contact/), or start with [the complete carbon credits guide](/insights/corsia-carbon-credits-complete-guide/).
+**How does it differ from REDD+?** REDD+ credits avoided deforestation; IFM credits better management of a forest that keeps operating.
 
-*This is an anonymised, representative case study that illustrates our approach. It does not identify any specific client, project, price or transaction.*
+**Why review inventory data?** Optimistic growth assumptions compound into large over-estimates over time.
+
+Forestry portfolios reward a close reading of the data. If you are considering one, our [services page](/services/) describes how we review baselines and inventories before a buyer commits.
+
+*This is an anonymised, representative case study that illustrates our approach. It does not identify any client, project, price or transaction.*

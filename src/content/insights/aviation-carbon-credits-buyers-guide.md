@@ -1,66 +1,72 @@
 ---
-title: "Aviation Carbon Credits: A Buyer’s Guide to Types and Quality"
-excerpt: "Aviation carbon credits are ordinary carbon credits used to address flight emissions — but which types get used, and what makes them credible? A buyer-focused guide to the credit types, quality and price behind aviation offsetting."
+title: "Aviation Carbon Credits: What Buyers Should Check Behind the Label"
+excerpt: "There is no special class of aviation carbon credit, only ordinary credits used against flight emissions. The project types buyers draw on, how to judge them, what moves price, and the questions to ask a seller."
 date: "2026-09-10"
 topic: "Buying Credits"
 tags: ["aviation carbon credits","carbon credits for aviation","airline carbon credits","aviation carbon offset credits","high-integrity credits","carbon credit quality"]
 image: "/images/aviation-buyers/aviation-credits-buyers-guide.svg"
 ---
 
-"Aviation carbon credits" sounds like a special category. It is not — they are ordinary carbon credits, bought to address the emissions of flying. What is worth understanding is *which* credit types tend to be used for aviation, and what separates a credible aviation offset from a token one. This guide is for the buyer, not the airline compliance officer.
+Sellers sometimes describe a batch as "aviation carbon credits", and buyers sometimes assume that means something was checked specifically for flying. Nothing was. The phrase describes the use, not the product. This piece is for corporate and travel buyers working out what they are actually paying for; airline compliance teams will find the CORSIA detail in other articles.
 
-## There Is No Separate "Aviation Credit"
+## A credit is defined by its project
 
-A credit does not become an "aviation credit" because of what it is; it becomes one because of what it is used *for*. The same forestry, cookstove or removal credit could offset a factory, a data centre or a flight. So the quality questions are the same universal ones — [additionality](/insights/additionality-in-carbon-credits-explained/), permanence, no double counting — applied to whatever project sits behind the credit. Do not let the "aviation" label distract from the underlying project.
+The same tonne from a forest, a cookstove programme or a biochar plant could be retired against a cement kiln, a data centre or a flight to Singapore. Its quality does not change with the use.
 
-## The Credit Types Commonly Used
+So the questions are the standard ones, asked about the project behind the serial number:
 
-Aviation buyers — airlines under CORSIA and companies offsetting travel — tend to draw on the same project types as the wider market:
+- Is it **additional**, meaning the reduction would not have happened without carbon revenue? Our explainer on [additionality](/insights/additionality-in-carbon-credits-explained/) covers the tests.
+- Is it **permanent**, or could the stored carbon be released later?
+- Is it counted **once only**, with no other party claiming the same tonne?
 
-| Type | Note for aviation buyers |
-|---|---|
-| Forestry (REDD+, ARR) | Large volumes; check baselines and permanence |
-| Clean cooking (cookstoves) | Volume with a strong development story; verify usage |
-| Renewables | Cheap but weak additionality — scrutinise |
-| Durable removals (biochar, DAC) | Higher integrity and price; a growing choice |
+If a seller leans on the word "aviation" and goes quiet on those three, treat that as information.
 
-For compliance use, the type must also clear CORSIA's eligibility filter and, in the first phase, carry a corresponding adjustment.
+## The project types you will be offered
 
-## What Makes an Aviation Offset Credible
+| Project type | Why buyers pick it | What to press the seller on |
+|---|---|---|
+| Forestry: REDD+ and ARR | Large volumes available | How the baseline was set; how reversals are handled |
+| Clean cooking | Development co-benefits, good volume | Evidence that stoves are actually in use |
+| Renewable energy | Low price | Whether it was additional at all |
+| Durable removals such as biochar or DAC | Higher integrity | Price, and whether volume exists for your need |
 
-Because aviation offsetting has drawn scrutiny — much of it from cheap, weak credits — the credible buyer applies extra care:
+Buyers using credits for CORSIA compliance have an extra filter on top: the unit must be CORSIA-eligible and, in the first phase, carry a corresponding adjustment. A voluntary buyer does not face that rule but may still value it.
 
-- Prefer **higher-integrity types** and, where the claim matters, **durable removals** over cheap avoidance.
-- Check the **project's integrity**, not the aviation branding.
-- For compliance, confirm **CORSIA eligibility** and authorisation.
-- Retire the units and keep the evidence.
+## How we would rank a buyer's priorities
 
-The general framework is in [how to evaluate carbon offset quality](/insights/evaluating-carbon-offset-quality-airlines/).
+Flight offsetting has taken criticism, mostly because of cheap credits with thin additionality. A buyer who wants the claim to survive a sceptical reader should:
 
-## What Drives the Price
+1. Favour higher-integrity project types, and durable removals where the claim carries weight.
+2. Judge the project, not the marketing around it.
+3. For compliance use, confirm eligibility and host-country authorisation before signing.
+4. Retire the units in your own name and keep the retirement record.
 
-Aviation credit prices follow the same drivers as any credit: project type, integrity, vintage, and whether it carries a corresponding adjustment — the full picture is in [carbon credit prices](/insights/carbon-credit-price-what-drives-cost/). The aviation-specific twist is that CORSIA-eligible, adjusted units command a premium because compliance demand competes for a limited pool.
+The fuller method is in [how to evaluate carbon offset quality](/insights/evaluating-carbon-offset-quality-airlines/).
 
-## Where Aviation Buyers Purchase
+## Price: the usual drivers, plus one aviation effect
 
-The channels are the standard ones — brokers, exchanges, direct deals with developers, or advisory-supported procurement — and the process mirrors any [carbon-credit purchase](/insights/how-to-buy-carbon-credits/): define the need, run due diligence, contract, and retire. The discipline, not the "aviation" label, is what protects the buyer.
+Project type, integrity, vintage and the presence of a corresponding adjustment explain most of the spread. We go through them in [what drives carbon credit prices](/insights/carbon-credit-price-what-drives-cost/).
 
-## Frequently Asked Questions
+The aviation-specific factor is demand. CORSIA-eligible units with an adjustment attached are wanted by airlines that must buy them, and the pool is limited, so they trade at a premium. A voluntary buyer asking for "CORSIA-grade" is bidding against compliance buyers. We explain that effect in [why CORSIA-grade credits cost more](/insights/why-corsia-grade-credits-premium/).
 
-**What are aviation carbon credits?** Ordinary carbon credits used to address the emissions of flying — there is no separate technical category; the quality depends on the underlying project.
+## Questions to put to any seller
 
-**Which carbon credits do airlines and travel buyers use?** Commonly forestry, clean cooking, renewables and, increasingly, durable removals — subject to quality checks and, for CORSIA, eligibility rules.
+- Which standard and registry is this issued under, and can I see the registry entry?
+- What vintage is it?
+- Has any rating agency assessed the project?
+- Is there a corresponding adjustment, and a letter of authorisation?
+- Will retirement be in my organisation's name, and when will I get the evidence?
 
-**Are aviation carbon credits high quality?** They can be, but the "aviation" label says nothing about quality — you must assess the underlying project's additionality, permanence and authorisation.
+## Buying channels
 
-**Why do some aviation offsets get criticised?** Because many relied on cheap, weak-additionality credits; higher-integrity types and proper due diligence avoid that.
+Brokers, exchanges, direct contracts with developers and adviser-led procurement all work. The steps do not change with the label: define what you need, do the diligence, contract, retire. Our step-by-step [guide to buying carbon credits](/insights/how-to-buy-carbon-credits/) walks through them.
 
-**Where can I buy aviation carbon credits?** Through brokers, exchanges, project developers or advisory-supported procurement, following the standard due-diligence and retirement process.
+## Short answers
 
----
+**Is there a technical category called aviation carbon credits?** No. They are ordinary credits used against flight emissions.
 
-**Buying carbon credits or measuring travel and freight emissions?** DSTechnoverse works on the data and integrity side of carbon — footprint measurement, project screening, registry and eligibility verification, and defensible reporting. See our [CORSIA carbon credit services](/services/) and [data analytics](https://dstechnoverse.com/services/data-analytics). We are based in **Indore, Madhya Pradesh** and work across India and internationally.
+**Which types are common?** Forestry, clean cooking, renewables and, increasingly, durable removals.
 
-[Apply as a carbon credit buyer or seller](https://carboncredit.dstechnoverse.com/)
+**Why have some been criticised?** Many relied on cheap credits with weak additionality.
 
-[Talk to our team](/contact/), or start with [the complete carbon credits guide](/insights/corsia-carbon-credits-complete-guide/).
+When you have a volume and a claim in mind, send us both through the [buyer intake form](https://carboncredit.dstechnoverse.com/buy/new) and we will come back with options that fit the claim, not just the budget.

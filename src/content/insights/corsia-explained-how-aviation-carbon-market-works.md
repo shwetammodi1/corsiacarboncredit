@@ -1,82 +1,75 @@
 ---
-title: "CORSIA Explained: How the Aviation Carbon Market Actually Works"
-excerpt: "A plain-English guide to CORSIA — the ICAO scheme that puts a price on international flight emissions. How the baseline, growth factor and offsetting duty fit together, and what airlines actually have to do."
+title: "How CORSIA Works: The Aviation Carbon Market in Plain Terms"
+excerpt: "CORSIA does not cap flying or tax tickets. It measures how far international aviation grows past a line and makes operators pay for that growth in carbon units. Here is the mechanism, followed through one carrier's year."
 date: "2026-09-08"
 topic: "CORSIA Fundamentals"
 tags: ["CORSIA","aviation carbon market","ICAO CORSIA","international aviation emissions","carbon offsetting aviation","aviation climate policy"]
 image: "/images/corsia-markets/corsia-market-flow.svg"
 ---
 
-Aviation is awkward for climate policy. A flight from Delhi to Frankfurt burns fuel over three or four national jurisdictions and the high seas, so no single country can straightforwardly tax or cap its emissions. International aviation was left out of the Kyoto Protocol and the Paris Agreement's national targets for exactly this reason. CORSIA is the world's attempt to fill that gap with a market rather than a tax.
+Take a widebody leaving Kochi for London. Before it lands it has crossed several countries' airspace and a stretch of open sea. Whose emissions are they? No one government has an obvious claim, which is why international aviation stayed outside the national targets of both the Kyoto Protocol and the Paris Agreement.
 
-## What CORSIA Is
+CORSIA is the answer the industry and its regulators settled on. Instead of a tax, it uses a market in carbon units.
 
-CORSIA stands for the Carbon Offsetting and Reduction Scheme for International Aviation. It was agreed in 2016 by the International Civil Aviation Organization (ICAO), the United Nations body for aviation, and it applies to CO2 from **international** flights — not domestic ones, which stay under each country's own policies.
+## The scheme in two paragraphs
 
-The core idea is deliberately narrow. CORSIA does not cap aviation emissions and it does not force airlines to fly less. It sets a line, measures how far emissions rise above that line, and requires airlines to **offset the growth** by buying and cancelling carbon credits. It is a growth-management instrument, not an absolute cap.
+The full name is the Carbon Offsetting and Reduction Scheme for International Aviation. The International Civil Aviation Organization (ICAO), the UN agency for civil aviation, agreed it in 2016. It covers CO2 from international flights only. Domestic flying remains a matter for each country's own policy.
 
-## The Three Moving Parts
+Its ambition is limited on purpose. CORSIA does not put a ceiling on aviation emissions and does not tell anyone to fly less. It draws a reference line, measures the growth above it, and requires operators to cover that growth by buying carbon units and cancelling them. Think of it as a way of paying for growth, not a cap. The longer version is in [how CORSIA works end to end](/knowledge-base/how-corsia-works/).
 
-Everything in CORSIA reduces to three quantities.
+## Three numbers run the whole thing
 
-### The baseline
-
-This is the reference level that "growth" is measured against. For the 2021–2023 pilot phase the baseline was 2019 emissions (2020 was excluded because the pandemic distorted it). From 2024, ICAO set the baseline at **85% of 2019 emissions** — a deliberately tighter line that increases the offsetting obligation.
-
-### Measured emissions
-
-Every covered operator monitors fuel burn on covered routes, reports it, and has it verified. That verified figure is what the scheme runs on.
-
-### The offsetting requirement
-
-The amount an airline must offset is its share of the sector's growth above the baseline, scaled by a *growth factor*. In the early years this factor is almost entirely *sectoral* — based on how the whole industry grew — which shields fast-growing carriers from carrying the full cost of their own expansion. Over time the formula shifts weight toward each operator's *individual* growth.
-
-## Which Flights Are Covered
-
-CORSIA uses a "route-based" rule that trips people up. A route's emissions are only subject to offsetting when **both** the departure and arrival countries are participating in the scheme. If either end is a non-participating state, that route is monitored but not charged. This "clean cut" design was a political compromise to bring reluctant states in gradually.
-
-| Route | Both states participating? | Offsetting applies? |
+| Number | What it is | Where it comes from |
 |---|---|---|
-| Participating → Participating | Yes | Yes |
-| Participating → Non-participating | No | No (monitored only) |
-| Domestic flight | N/A | No — outside CORSIA entirely |
+| Baseline | The line growth is measured against | 2019 emissions for the 2021–2023 pilot (2020 was left out because of the pandemic). From 2024, 85% of 2019 emissions |
+| Verified emissions | What the operator actually emitted on international flights | The operator's own monitoring, reporting and third-party verification |
+| Growth factor | The share of emissions that must be offset | Set from sector growth in the early years, moving towards each operator's own growth over time |
 
-## The Two Ways to Comply
+The move from 2019 to 85% of 2019 matters. A lower line means more of the sector's emissions count as growth, so obligations rise.
 
-An airline meets its obligation in two ways, and most use both.
+The weighting of the growth factor matters too. While it is mostly sectoral, a fast-expanding airline pays roughly in line with the industry average rather than for its own expansion. As the weight shifts to individual growth, that shelter falls away. The detail is in [baseline and growth factors](/knowledge-base/corsia-baseline-and-growth-factors/).
 
-The first is buying **CORSIA Eligible Emissions Units** — carbon credits from crediting programmes ICAO has approved — and cancelling them so they cannot be used again. The second is using **CORSIA Eligible Fuels**, mainly sustainable aviation fuel, which reduces the offsetting requirement directly because those fuels count as lower-emission at the point of use.
+## Which flights end up with a bill
 
-## A Simple Worked Example
+Coverage is decided route by route, and this catches people out. Offsetting applies only when the countries at **both** ends of the route are participating. If one end is not, the flight is still monitored and reported, but nothing is owed on it. Domestic flights are outside the scheme altogether.
 
-Imagine a carrier whose covered international flights emitted 1,000,000 tonnes of CO2 in the baseline year. Say the applicable baseline is 850,000 tonnes (85% of a 2019 figure) and this year the airline emitted 1,050,000 tonnes. The growth above baseline is 200,000 tonnes. If the applicable sectoral growth factor translates that into, say, a 180,000-tonne offsetting requirement, the airline must acquire and cancel 180,000 eligible units — unless it used eligible fuel, in which case the SAF-related reduction is subtracted first. The exact factors are published by ICAO each period; the mechanics are what matter here.
+This "clean cut" was a compromise. It let reluctant states join at their own pace without exposing flights into their territory.
 
-## What CORSIA Does Well — and Doesn't
+## Following one carrier through a year
 
-Its strength is coverage: it is the only global instrument that puts any price on international aviation carbon, across almost all of the world's airlines, through a single set of rules. That is genuinely hard to achieve.
+The figures below are illustrative only. They are not any real airline's data.
 
-Its limits are equally real. Offsetting is not the same as cutting aviation's own emissions — a credit pays for a reduction somewhere else. The scheme's environmental value therefore depends entirely on the **quality of the units** airlines buy, which is why so much attention goes to [eligibility and offset integrity](/insights/corsia-eligible-emissions-units-explained/). And because the baseline manages *growth* rather than capping *totals*, CORSIA is a bridge to real decarbonization, not the destination.
+An Indian carrier flies a mix of domestic and international routes.
 
-## Where It Sits Among Other Tools
+1. **Strip out domestic.** Domestic sectors fall away first; they are outside CORSIA.
+2. **Sort the international routes.** Suppose 400,000 tonnes of CO2 come from routes where both countries participate. A further 90,000 tonnes are on routes to non-participating states. Those are reported but carry no obligation.
+3. **Apply the growth factor.** If the factor published for the year were 10%, the gross requirement would be 400,000 × 0.10 = 40,000 tonnes.
+4. **Deduct eligible fuel.** Say the carrier used certified sustainable aviation fuel worth a 1,000-tonne reduction. The net requirement is 39,000 tonnes.
+5. **Settle.** The carrier buys 39,000 eligible units and cancels them in a registry.
 
-CORSIA is one lever, not the whole strategy. Fuel efficiency, sustainable fuels and new propulsion do the in-sector work; markets cover the gap in the meantime. For the bigger picture of how these fit together, see [the role of carbon markets in reducing aviation emissions](/insights/carbon-markets-reducing-aviation-emissions/).
+ICAO publishes the actual factors. The sequence is what to take away.
 
-## Frequently Asked Questions
+## Two routes to compliance
 
-**Is CORSIA a tax on flying?** No. It is an offsetting obligation. Airlines pay for carbon credits equal to their emissions growth, rather than paying a per-tonne tax to a government.
+Most operators use both.
 
-**Does CORSIA cover domestic flights?** No. Only international flights between participating states. Domestic aviation stays under national policy, such as a country's own carbon pricing.
+- **CORSIA Eligible Emissions Units.** Carbon credits from programmes ICAO has approved, cancelled so no one else can use them. See [what qualifies as an eligible unit](/insights/corsia-eligible-emissions-units-explained/).
+- **CORSIA Eligible Fuels.** Mainly sustainable aviation fuel, which reduces the requirement directly because it has lower lifecycle emissions when used.
 
-**Who has to comply?** Aeroplane operators on covered international routes above a small emissions threshold. Very small operators and certain flight types are exempted.
+## Strengths and limits
 
-**Is CORSIA mandatory?** It becomes mandatory for most states from 2027. The 2021–2026 phases are voluntary, though a large majority of international traffic is already covered by volunteering states.
+CORSIA's main achievement is reach. It is the only global instrument putting any price on international aviation carbon, and it does so under one set of rules for almost every airline in the world. Getting that agreed was hard.
 
-**How is this different from the EU ETS?** The EU Emissions Trading System caps emissions on flights within Europe; CORSIA offsets growth on international flights. The EU broadly applies its ETS to intra-European flights and CORSIA to the rest.
+The limits are equally clear. A credit pays for a reduction somewhere else; it does not cut what comes out of the engine. So the scheme's environmental value depends on the quality of the units bought. And because it manages growth rather than total emissions, it is a bridge towards decarbonisation, not the end point. Fuel efficiency, sustainable fuel and new propulsion have to do the work inside the sector. [Can carbon markets really cut aviation emissions?](/insights/carbon-markets-reducing-aviation-emissions/) looks at that question directly.
 
----
+## Short answers
 
-**Working on aviation emissions, CORSIA compliance or carbon credit due diligence?** DSTechnoverse handles the data side of carbon and environmental compliance — monitoring design, emissions reconciliation, verification support and defensible reporting. See our [CORSIA carbon credit services](/services/) and [data analytics](https://dstechnoverse.com/services/data-analytics). We are based in **Indore, Madhya Pradesh** and work across India and internationally.
+**Is CORSIA a tax?** No. Airlines buy carbon units to match their growth; they do not pay a per-tonne charge to a government.
 
-[Apply as a CORSIA buyer or seller](https://carboncredit.dstechnoverse.com/)
+**Is it mandatory?** The 2021–2026 phases are voluntary, although most international traffic is already covered by volunteering states. Participation becomes mandatory for most states from 2027.
 
-[Talk to our team](/contact/), or start with [the complete carbon credits guide](/insights/corsia-carbon-credits-complete-guide/).
+**Who must comply?** Aeroplane operators on covered international routes above a small emissions threshold. Very small operators and some types of flight are exempt.
+
+**How does it differ from the EU ETS?** The EU ETS caps emissions from flights within Europe. CORSIA offsets growth on international flights. Broadly, Europe applies its ETS inside Europe and CORSIA outside it.
+
+If you want to see how these numbers would land on your own network, our [CORSIA calculator](/calculator/) gives a first estimate, and the desk can take it from there.

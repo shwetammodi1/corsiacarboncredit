@@ -1,133 +1,108 @@
 ---
-title: "CORSIA Baseline and Growth Factors: Sectoral vs Individual"
-excerpt: "How the 2019 baseline was set, why it changed, and how the sectoral and individual growth factors convert your emissions into an offsetting obligation — including why a shrinking airline can still owe offsets."
+title: "CORSIA Baseline and Growth Factors: How the Sectoral and Individual Factors Work"
+excerpt: "The 2019 baseline and the growth factor together decide what share of your covered emissions must be offset. How the sectoral factor is derived, how the individual factor is blended in from 2030, and how to forecast both."
 section: "Obligations & Calculation"
 order: 6
 image: "/images/corsia/corsia-growth-factors.svg"
 ---
 
-The growth factor is the number that turns your emissions into an obligation. Understanding how it is derived explains several results that otherwise look wrong — most notably, why an airline that carried fewer passengers than last year can still owe offsets.
+A finance director at an airline that flew less this year than last is often surprised to find the CORSIA obligation has still gone up. The explanation lies in two numbers the airline does not control: the sector's 2019 baseline and the growth factor ICAO derives from it. Once those are understood, most of the results that look wrong turn out to be the scheme working as designed.
 
-![Sectoral and individual growth factors](/images/corsia/corsia-growth-factors.svg)
+![Chart comparing sectoral and individual growth factors](/images/corsia/corsia-growth-factors.svg)
 
-## The Baseline
+## Two inputs, one percentage
 
-The baseline is the emissions level above which growth is offset.
+The mechanism reduces to a percentage applied to an operator's covered emissions. Two inputs set that percentage:
 
-It was originally defined in Resolution A39-3 as the **average of 2019 and 2020** international aviation CO2 emissions. The 2020 traffic collapse made that unusable: averaging a normal year with a catastrophic one would have set the reference far below any plausible future activity, inflating every subsequent obligation for reasons unconnected to climate policy.
+- **The baseline:** the emissions level above which the sector's growth is offset.
+- **The growth factor:** how far the sector (and, from 2030, the operator) has moved above that level, expressed as a share of current emissions.
 
-In 2020 the ICAO Council **reset the baseline to 2019 emissions alone**.
+The baseline is a single **sector-wide** figure. In the early phases no operator has a baseline of its own; the sector does.
 
-> That change is the clearest available evidence that CORSIA's parameters respond to circumstances. A model assuming today's settings hold unchanged through 2035 is assuming something the scheme's own history contradicts.
+## How the baseline came to be 2019
 
-The baseline is a **sector-wide** figure, not a per-operator one. Individual operators do not each have their own 2019 baseline in the early phases — the sector does.
+Resolution A39-3 first defined the baseline as the **mean of 2019 and 2020** international aviation CO2. When the pandemic cut 2020 traffic, that mean would have pulled the reference far below any plausible future level of flying, and every later obligation would have been inflated for reasons that had nothing to do with climate policy. In 2020 the ICAO Council **replaced it with 2019 emissions alone**.
 
-## The Sectoral Growth Factor
+We point clients to that episode whenever a forecast assumes today's parameters will hold to 2035. They have been changed once already.
 
-The sectoral growth factor answers one question: **by what proportion have total covered aviation emissions grown above the 2019 baseline?**
+## Deriving the sectoral factor
 
-Conceptually:
+The sectoral growth factor measures how much of the sector's covered emissions in a year sits above the baseline:
 
-> Sectoral Growth Factor = (sector covered emissions in year Y − 2019 baseline) ÷ sector covered emissions in year Y
+> Sectoral growth factor = (sector covered emissions in year Y − 2019 baseline) ÷ sector covered emissions in year Y
 
-If the sector emitted 6% more than the baseline, the factor is roughly 6%, and every operator offsets 6% of its own covered emissions.
+Note the denominator is the current year, not the baseline. **Illustrative numbers:** if the baseline is 100 units and the sector emits 108 in year Y, the factor is 8 ÷ 108, about 7.4%, not 8%. At small growth rates the difference is minor, but it matters when you are checking a published figure against your own estimate.
 
-Two consequences follow, and both surprise people.
+Every operator then offsets that percentage of its own covered emissions.
 
-::: accordion An operator that shrank can still owe offsets
-Your emissions determine your **share** of the burden. The sector's growth determines its **size**.
+### Why a shrinking operator can still owe
 
-If the sector grew 8% while your own emissions fell 3%, you still offset 8% of your covered emissions. You simply offset 8% of a smaller number than last year.
+The sector's growth sets the **size** of the burden; your emissions set your **share** of it. If the sector's factor is 8% and your own emissions fell 3%, you still offset 8%, only of a smaller total. That was intentional. Spreading sector growth across everyone, instead of charging whoever happened to be expanding, was the compromise that got the scheme agreed.
 
-This is deliberate. A pure sectoral approach spreads the cost of sector growth across all participants rather than pinning it on whoever happens to be expanding, which was the political compromise that made agreement possible.
-:::
+### Why 2021 cost almost nothing
 
-::: accordion The 2021 factor was zero
-Sector emissions in 2021 remained well below the 2019 baseline, so there was no growth to offset and the sectoral growth factor was zero.
+Sector emissions in 2021 were still well below 2019, so there was no growth and the **2021 sectoral factor was zero**. Operators that used the pilot to build their data and registry processes had a free rehearsal. Those that did not are now learning with money on the line.
 
-The pilot phase therefore imposed almost no cost. Operators who used it to build monitoring, data reconciliation and registry capability got a free rehearsal. Those who treated it as a paperwork exercise are learning the same lessons now, with real money attached.
-:::
+## Why the factor arrives late
 
-## The Individual Growth Factor
+ICAO does not estimate the sectoral factor independently. It builds it from every in-scope operator's verified Annual Emissions Report, passed up by national authorities and aggregated. Two things follow:
 
-From 2030 the calculation shifts weight toward each operator's **own** growth relative to the baseline.
+- Operators that owe nothing still have to report, because their data feeds the factor everyone else pays on. The reporting chain is set out in [CORSIA MRV explained](/knowledge-base/corsia-mrv-explained/).
+- The factor for a year cannot be published until the whole sector has reported and been verified, so an operator's obligation only becomes firm well after the year it relates to.
 
-| Period | Sectoral weight | Individual weight |
+## From 2030: blending in individual growth
+
+In the second phase, each operator's own growth against the baseline enters the calculation with increasing weight:
+
+| Years | Sectoral weight | Individual weight |
 |---|---|---|
-| 2021-2029 | 100% | 0% |
-| 2030-2032 | 85% | 15% |
-| 2033-2035 | 70% | 30% |
+| 2021–2029 | 100% | 0% |
+| 2030–2032 | 85% | 15% |
+| 2033–2035 | 70% | 30% |
 
-The blended factor for an operator becomes:
+> Blended factor = (sectoral weight × sectoral factor) + (individual weight × individual factor)
 
-> Factor = (sectoral weight × sectoral growth factor) + (individual weight × individual growth factor)
+An operator growing faster than the sector gets a blended factor above the sectoral one, and a slower grower gets one below it. The aim is to end the free ride that a purely sectoral method gives fast growers. The effect is that network and fleet expansion carries a CORSIA cost that climbs after 2030.
 
-A carrier growing faster than the sector sees a blended factor above the sectoral one. A carrier growing more slowly sees one below it.
+This is the second-phase feature with the biggest consequences for fast-growing markets, and India is one of the most prominent. See [CORSIA in India](/knowledge-base/corsia-in-india/).
 
-The intent is to remove the free ride a purely sectoral approach gives to fast growers. The practical effect is that **fleet and network expansion carries a CORSIA cost that rises after 2030**, and that cost belongs in the fleet planning model rather than arriving as a surprise.
+## Worked example: two operators, same sector
 
-For fast-growing markets — India prominently among them — this is the single most consequential design feature in the second phase. See [CORSIA in India](/knowledge-base/corsia-in-india/).
+All figures are illustrative. Assume the sectoral factor is 5% throughout, and each operator has 150,000 tonnes of covered emissions. Operator A's individual factor is 15%; Operator B's is 1%.
 
-## Worked Illustration
+**Up to 2029**, both offset 5%: 150,000 × 5% = **7,500 t** each.
 
-Figures are illustrative, chosen to show the mechanics rather than predict anyone's obligation.
+**2030–2032:**
+- A: 0.85 × 5% + 0.15 × 15% = 4.25% + 2.25% = 6.5%, so **9,750 t**.
+- B: 0.85 × 5% + 0.15 × 1% = 4.25% + 0.15% = 4.4%, so **6,600 t**.
 
-An operator has **320,000 tonnes** of covered emissions in a year.
+**2033–2035:**
+- A: 0.70 × 5% + 0.30 × 15% = 3.5% + 4.5% = 8.0%, so **12,000 t**.
+- B: 0.70 × 5% + 0.30 × 1% = 3.5% + 0.3% = 3.8%, so **5,700 t**.
 
-| Scenario | Sectoral GF | Individual GF | Weights | Blended | Obligation |
-|---|---|---|---|---|---|
-| 2028, sector +6% | 6% | n/a | 100 / 0 | 6.0% | 19,200 t |
-| 2031, sector +6%, operator +12% | 6% | 12% | 85 / 15 | 6.9% | 22,080 t |
-| 2031, sector +6%, operator +2% | 6% | 2% | 85 / 15 | 5.4% | 17,280 t |
-| 2034, sector +6%, operator +12% | 6% | 12% | 70 / 30 | 7.8% | 24,960 t |
+Same sector, same covered emissions. By the last compliance period the fast grower owes more than twice what the slow grower does, and the gap opens in two steps as the weighting shifts.
 
-Two observations. The individual factor moves the number materially — nearly 30% between the fast and slow grower in 2031. And the effect roughly doubles by 2034 as the weighting shifts again.
+## Building your own forecast
 
-## What Feeds the Sectoral Factor
+The factor comes too late to budget against, so it has to be estimated:
 
-The sectoral factor is not an estimate ICAO produces independently. It is built from the verified Annual Emissions Reports that every in-scope operator submits, passed by national authorities to ICAO and aggregated.
+1. Estimate sector emissions for the year from published industry traffic and fuel data.
+2. Compare that with the 2019 baseline to get an approximate sectoral factor.
+3. Express it as a **low, central and high** range, with assumptions written down.
+4. From 2030, add your own growth using the weighting schedule above.
+5. Rerun it each year as data firms up and ICAO confirms the factors.
 
-This is why the MRV obligation applies to operators who owe no offsets: their data is needed to compute the factor that determines everyone else's obligation. See [CORSIA MRV explained](/knowledge-base/corsia-mrv-explained/).
+A single figure in a board paper will be read as a promise and will be wrong. A range with its assumptions attached holds up.
 
-It also explains the timing. The factor for a year cannot be published until the sector's reports are in and verified, which is why an operator's obligation is not a firm number until well after the year it relates to.
+## Errors we correct most often
 
-## Forecasting the Factor Before It Is Published
+| Error | What is actually the case |
+|---|---|
+| Applying the factor to everything the airline emits | It applies to **covered** emissions only: international flights on route pairs where both States participate. Using total emissions can overstate the obligation several times. See [scope and thresholds](/knowledge-base/corsia-scope-and-thresholds/). |
+| Reading the sectoral factor as the airline's own growth | It describes the sector. Your trajectory is irrelevant before 2030 and only partly relevant after. |
+| Assuming each operator has its own baseline | In the early phases the baseline is sector-wide. Individual growth only enters from 2030, and then as a blend. |
+| Projecting last year's obligation forward into 2027 with a percentage uplift | Compulsory second-phase participation changes **covered emissions**, which is separate from the growth factor. The two effects multiply, so route coverage has to be modelled on the actual network. |
 
-You cannot budget against a number that arrives late. Estimating it is both possible and necessary.
+The full sequence from factor to tonnes owed, including fuel deductions, is in [the offsetting requirement calculation](/knowledge-base/corsia-offsetting-requirement-calculation/). Published factors are available from [ICAO](https://www.icao.int/environmental-protection/CORSIA/Pages/default.aspx).
 
-1. Use published industry traffic and fuel data to estimate sector emissions for the year.
-2. Compare against the 2019 baseline to derive an approximate sectoral factor.
-3. Build a **range**, not a point — low, central and high, with the assumptions stated.
-4. From 2030, layer in your own growth against the weighting schedule.
-5. Re-run annually as data firms up and as ICAO confirms factors.
-
-A single number in a board paper will be treated as a forecast and will be wrong. A range with stated assumptions survives contact with reality.
-
-## Common Errors
-
-::: accordion Applying the factor to total emissions
-The factor applies to **covered** emissions — international flights on route pairs where both States participate — not to everything the airline emits. Applying it to total emissions can overstate the obligation several times over. See [CORSIA scope and thresholds](/knowledge-base/corsia-scope-and-thresholds/).
-:::
-
-::: accordion Treating the sectoral factor as your own growth rate
-It is not. It measures the sector. Your own trajectory is irrelevant until 2030 and only partially relevant thereafter.
-:::
-
-::: accordion Assuming the baseline is per-operator
-In the early phases it is a sector-wide reference. Individual growth enters only from 2030, and even then it is blended rather than replacing the sectoral component.
-:::
-
-::: accordion Extrapolating a trend through 2027
-Second-phase mandatory participation changes **covered emissions**, not the growth factor. The two effects are separate and multiply together. Model route coverage against your actual network rather than applying a percentage uplift to last year's obligation.
-:::
-
-## Where to Go Next
-
-- [The offsetting requirement calculation](/knowledge-base/corsia-offsetting-requirement-calculation/) — the full arithmetic
-- [CORSIA phases and timeline](/knowledge-base/corsia-phases-and-timeline/) — when the weights change
-- [CORSIA MRV explained](/knowledge-base/corsia-mrv-explained/) — the data that feeds the factor
-- [CORSIA scope and thresholds](/knowledge-base/corsia-scope-and-thresholds/) — what counts as covered
-
-Growth factors are published by [ICAO](https://www.icao.int/environmental-protection/CORSIA/Pages/default.aspx).
-
-DSTechnoverse models growth factor exposure against actual networks and fleet plans. [Talk to our carbon markets team](/contact/).
+If you want a factor range built around your own fleet plan and route network rather than sector averages, [send us the details](/contact/) and we will set one up with you.

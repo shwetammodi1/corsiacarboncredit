@@ -1,110 +1,115 @@
 ---
-title: "CORSIA Acronyms and Abbreviations Reference"
-excerpt: "A single lookup table for every acronym you will meet in CORSIA documents and market conversations, grouped by area, with what each expands to and why it matters."
+title: "CORSIA Acronyms: Abbreviations Sorted by Who Uses Them"
+excerpt: "Every abbreviation you are likely to meet around CORSIA, spelled out and sorted by where it turns up: ICAO texts, filings with your regulator, offer sheets from sellers, fuel contracts and neighbouring schemes."
 section: "Reference"
 order: 28
 image: "/images/corsia/hero-corsia-knowledge-base.svg"
 ---
 
-A single lookup for every abbreviation you will meet in CORSIA documents, regulatory correspondence and market conversations.
+A compliance officer filing with the DGCA, a trader reading an offer sheet and a fuel buyer each meet a different set of CORSIA abbreviations. So this list is sorted by where each one tends to turn up. Fuller definitions are in the [CORSIA glossary](/knowledge-base/corsia-glossary/).
 
-![CORSIA knowledge base](/images/corsia/hero-corsia-knowledge-base.svg)
+![Graphic for the CORSIA knowledge base](/images/corsia/hero-corsia-knowledge-base.svg)
 
-## Scheme and Governance
+## In ICAO's own texts
 
-| Acronym | Expansion | Why it matters |
+| Abbreviation | Stands for | In one line |
 |---|---|---|
 | CORSIA | Carbon Offsetting and Reduction Scheme for International Aviation | The scheme itself |
-| ICAO | International Civil Aviation Organization | Administers CORSIA |
-| CAEP | Committee on Aviation Environmental Protection | Develops technical standards |
-| TAB | Technical Advisory Body | Assesses crediting programmes |
-| SARPs | Standards and Recommended Practices | The instruments in ICAO Annexes |
-| ETM | Environmental Technical Manual | Guidance supporting Annex 16 |
-| A39-3 | Assembly Resolution 39-3 | The resolution that adopted CORSIA |
+| ICAO | International Civil Aviation Organization | The UN agency that runs it |
+| A39-3 | Assembly Resolution 39-3 | The 2016 resolution that created the scheme |
+| SARPs | Standards and Recommended Practices | The form rules take inside an ICAO Annex |
+| ETM | Environmental Technical Manual | Guidance that sits alongside Annex 16 |
+| CAEP | Committee on Aviation Environmental Protection | Drafts the technical rules |
+| TAB | Technical Advisory Body | Reviews crediting programmes for the Council |
 
-## Compliance and Reporting
+See [CORSIA governance](/knowledge-base/corsia-governance-icao-bodies/) and [official documents](/knowledge-base/corsia-official-documents/).
 
-| Acronym | Expansion | Why it matters |
+## In filings with your regulator
+
+| Abbreviation | Stands for | In one line |
 |---|---|---|
-| MRV | Monitoring, Reporting and Verification | The annual cycle |
-| EMP | Emissions Monitoring Plan | Must be approved before monitoring |
-| AER | Annual Emissions Report | Submitted and verified each year |
-| EUCR | Emissions Unit Cancellation Report | Closes the compliance loop |
-| CERT | CO2 Estimation and Reporting Tool | ICAO estimation tool for small emitters |
-| MTOM | Maximum certificated Take-Off Mass | The 5,700 kg scope threshold |
-| AOC | Air Operator Certificate | Identifies the operator entity |
-| SGF | Sectoral Growth Factor | Sector-wide growth basis |
-| IGF | Individual Growth Factor | Operator-specific growth, from 2030 |
+| AOC | Air Operator Certificate | Identifies the operator and its responsible State |
+| MTOM | Maximum certificated Take-Off Mass | Aeroplanes above 5,700 kg are in scope |
+| MRV | Monitoring, Reporting and Verification | The cycle that repeats every year |
+| EMP | Emissions Monitoring Plan | Approved before monitoring starts |
+| CERT | CO2 Estimation and Reporting Tool | ICAO estimating tool for small emitters |
+| AER | Annual Emissions Report | Filed and verified yearly |
+| SGF | Sectoral Growth Factor | Growth across the whole sector |
+| IGF | Individual Growth Factor | An operator's own growth, counted from 2030 |
+| EUCR | Emissions Unit Cancellation Report | The filing that closes the compliance loop |
 
-## Units and Eligibility
+The cycle is laid out in [CORSIA MRV explained](/knowledge-base/corsia-mrv-explained/).
 
-| Acronym | Expansion | Why it matters |
+## On a seller's offer sheet
+
+| Abbreviation | Stands for | In one line |
 |---|---|---|
-| EEU | CORSIA Eligible Emissions Unit | What you must cancel |
-| EUC | Emissions Unit Criteria | What makes a unit eligible |
-| ITMO | Internationally Transferred Mitigation Outcome | Article 6.2 authorised outcome |
-| CA | Corresponding Adjustment | The binding supply constraint |
-| DNA | Designated National Authority | Grants Article 6 authorisation |
-| LoA | Letter of Authorisation | Host-State authorisation document |
-| NDC | Nationally Determined Contribution | The host State's climate target |
-| PoA | Programme of Activities | Aggregation structure for small projects |
-| PDD | Project Design Document | The project's core documentation |
-| VVB | Validation and Verification Body | Accredited third party |
+| EEU | CORSIA Eligible Emissions Unit | The thing you actually cancel |
+| EUC | Emissions Unit Criteria | The tests a unit has to pass |
+| CA | Corresponding Adjustment | The step that limits supply |
+| LoA | Letter of Authorisation | The host government's written authorisation |
+| DNA | Designated National Authority | The office that issues that authorisation |
+| ITMO | Internationally Transferred Mitigation Outcome | Article 6.2 transferred outcome |
+| NDC | Nationally Determined Contribution | The host country's climate target |
+| PDD | Project Design Document | The core description of a project |
+| PoA | Programme of Activities | An umbrella for many small similar projects |
+| VVB | Validation and Verification Body | The accredited checker of a project |
 
-## Crediting Programmes
+See [Eligible Emissions Units](/knowledge-base/corsia-eligible-emissions-units/) and [corresponding adjustments](/knowledge-base/corresponding-adjustments-article-6/).
 
-| Acronym | Expansion |
+### Crediting programmes
+
+| Abbreviation | Stands for |
 |---|---|
 | ACR | American Carbon Registry |
 | ART | Architecture for REDD+ Transactions |
+| TREES | The REDD+ Environmental Excellence Standard (ART) |
 | CAR | Climate Action Reserve |
 | GCC | Global Carbon Council |
 | GS | Gold Standard |
 | VCS | Verified Carbon Standard (Verra) |
-| TREES | The REDD+ Environmental Excellence Standard (ART) |
-| CDM | Clean Development Mechanism (Kyoto-era) |
+| CDM | Clean Development Mechanism (from the Kyoto era) |
 
-> Programme approval status changes by ICAO Council decision. Always verify against the [ICAO emissions units page](https://www.icao.int/environmental-protection/CORSIA/Pages/CORSIA-Emissions-Units.aspx) rather than assuming inclusion here implies current approval.
+A name here says nothing about current approval, which the ICAO Council grants and withdraws. Check the [ICAO emissions units page](https://www.icao.int/environmental-protection/CORSIA/Pages/CORSIA-Emissions-Units.aspx) on the day, and see [approved crediting programmes](/knowledge-base/corsia-approved-crediting-programmes/).
 
-## Fuels
+## In fuel contracts and certificates
 
-| Acronym | Expansion | Why it matters |
+| Abbreviation | Stands for | In one line |
 |---|---|---|
-| CEF | CORSIA Eligible Fuel | Reduces the offsetting requirement |
-| SAF | Sustainable Aviation Fuel | Renewable or waste-derived |
-| LCAF | Lower Carbon Aviation Fuel | Fossil-based, lower lifecycle intensity |
-| SCS | Sustainability Certification Scheme | Certifies CEF |
-| ILUC | Induced Land Use Change | Added to lifecycle emissions |
-| LCA | Life Cycle Assessment | Well-to-wake emissions basis |
-| CoC | Chain of Custody | Tracks the sustainability attribute |
-| HEFA | Hydroprocessed Esters and Fatty Acids | A common SAF production pathway |
-| PtL | Power-to-Liquid | Synthetic fuel from renewable electricity |
+| CEF | CORSIA Eligible Fuel | Lowers the offsetting requirement |
+| SAF | Sustainable Aviation Fuel | Made from renewable or waste feedstocks |
+| LCAF | Lower Carbon Aviation Fuel | Fossil fuel with a lower lifecycle intensity |
+| HEFA | Hydroprocessed Esters and Fatty Acids | A widely used route to making SAF |
+| PtL | Power-to-Liquid | Synthetic fuel made with renewable electricity |
+| LCA | Life Cycle Assessment | Well-to-wake emissions method |
+| ILUC | Induced Land Use Change | Added to the lifecycle figure where relevant |
+| SCS | Sustainability Certification Scheme | Certifies that a fuel qualifies as a CEF |
+| CoC | Chain of Custody | The paper trail from producer to aircraft |
 
-## Other Schemes and Bodies
+See [CORSIA Eligible Fuels](/knowledge-base/corsia-eligible-fuels/).
 
-| Acronym | Expansion |
+## Neighbouring schemes and organisations
+
+| Abbreviation | Stands for |
 |---|---|
+| DGCA | Directorate General of Civil Aviation (India) |
+| CCTS | Carbon Credit Trading Scheme (India) |
+| FAA | Federal Aviation Administration (United States) |
 | EU ETS | European Union Emissions Trading System |
 | UK ETS | United Kingdom Emissions Trading Scheme |
 | UNFCCC | United Nations Framework Convention on Climate Change |
-| VCM | Voluntary Carbon Market |
 | IATA | International Air Transport Association |
-| DGCA | Directorate General of Civil Aviation (India) |
-| FAA | Federal Aviation Administration (United States) |
-| CCTS | Carbon Credit Trading Scheme (India) |
+| VCM | Voluntary Carbon Market |
 
-## Measurement
+See [CORSIA vs EU ETS and other schemes](/knowledge-base/corsia-vs-eu-ets-and-other-schemes/).
 
-| Acronym | Expansion | Note |
+## Units of measure
+
+| Abbreviation | Stands for | Used for |
 |---|---|---|
-| tCO2 | Tonnes of carbon dioxide | The unit of obligation |
-| tCO2e | Tonnes of CO2 equivalent | Includes other greenhouse gases |
-| RTK | Revenue Tonne Kilometres | Basis for second-phase State thresholds |
-| gCO2e/MJ | Grams CO2e per megajoule | Lifecycle fuel intensity |
+| tCO2 | Tonnes of carbon dioxide | Measuring the obligation |
+| tCO2e | Tonnes of CO2 equivalent | Totals that include other greenhouse gases |
+| gCO2e/MJ | Grams CO2e per megajoule | A fuel's lifecycle intensity |
+| RTK | Revenue Tonne Kilometres | Second-phase State thresholds |
 
-## Where to Go Next
-
-- [CORSIA glossary](/knowledge-base/corsia-glossary/) — full definitions
-- [What is CORSIA](/knowledge-base/what-is-corsia/) — the fundamentals
-- [Official documents](/knowledge-base/corsia-official-documents/) — where these terms are defined
-- [CORSIA FAQ](/knowledge-base/corsia-faq/) — common questions
+Found an abbreviation that is not here? [Send it to the desk](/contact/) and we will tell you what it means and whether it matters.

@@ -1,73 +1,73 @@
 ---
-title: "Afforestation & Reforestation (ARR) Removals: A Monitoring Case Study"
-excerpt: "ARR credits remove carbon by growing new trees — a removal, not an avoidance. A case study in evidencing afforestation and reforestation removals with remote sensing, field plots and conservative growth modelling."
+title: "ARR Carbon Removals Case Study: Proving New Forest Actually Stores Carbon"
+excerpt: "An anonymised, representative case study of reviewing an afforestation and reforestation portfolio for a removals-focused buyer: satellite checks, field plots, cautious growth curves and the permanence questions young forests raise."
 date: "2026-09-06"
 topic: "Case Studies"
 tags: ["afforestation reforestation","ARR carbon removals","carbon removal credits","remote sensing MRV","permanence","nature-based removals"]
 image: "/images/carbon-case-studies/arr-removals-monitoring.svg"
 ---
 
-Most carbon credits *avoid* an emission. **Afforestation and Reforestation (ARR)** credits do something rarer and, to many buyers, more valuable: they **remove** carbon from the atmosphere by growing new forest where there was none. That distinction — a removal rather than an avoidance — puts ARR credits in demand, and it also raises the bar on evidence, because you are now claiming carbon that has physically been drawn down and stored. This representative case study covers how ARR removals are monitored and verified.
+*This is an anonymised, representative case study. It shows how we approach this kind of review and does not identify any client, project, price or transaction.*
 
-## The Context
+A buyer came to us with a clear preference: it wanted to retire **removal** credits, not avoidance credits. The portfolio on offer was afforestation and reforestation (ARR), planted on land that either had no forest or had lost it. The buyer's question was simple to state and harder to answer. Were the trees there, were they growing as claimed, and would the carbon stay put?
 
-A buyer with a preference for **removal** credits, rather than avoidance, was evaluating an ARR portfolio issued under a standard such as a national or premium VER programme. Removals command a premium, so the buyer wanted assurance that the trees existed, the growth was real, and the carbon would stay stored. Our mandate was the monitoring and verification data.
+## Why ARR needs heavier evidence
 
-## How a Removal Is Evidenced
+Most credits represent an emission that did not happen. ARR credits represent carbon pulled out of the air and held in wood, roots and soil. That is why many buyers value them more, and why they pay more for them.
 
-ARR is measured, not assumed, and the measurement stack has three layers.
+It also changes the burden of proof. An avoidance claim rests on a counterfactual. A removal claim rests on something physical that can be measured, and should be. The portfolio was issued under a recognised programme, a national or premium VER standard, but issuance was the starting point for our review, not the end of it.
 
-### Remote sensing
+## What we looked at, layer by layer
 
-The first layer is **satellite and remote-sensing data**: confirming that the planted area is real, is the size claimed, and has actually established. This is where a desk review starts, because it catches the most basic failure — an area credited but never planted, or planted and lost.
+| Question | Evidence we used | Failure it catches |
+|---|---|---|
+| Does the planted area exist, at the size claimed? | Satellite and remote-sensing imagery over time | Land credited but never planted, or planted and lost |
+| How much biomass is actually there? | Field sample plots: diameter, height, stem density, fed into biomass equations | Satellite extent mistaken for carbon stock |
+| How much will be removed in future? | The project's growth model | Optimistic curves inflating future tonnes |
+| Will it stay stored? | Monitoring period, buffer pool contribution | Reversal from fire, drought, pests or clearing |
+| Are these units clean on the registry? | Vintage, third-party verification, un-retired serials | Double sale, wrong vintage |
 
-### Field plots and biomass
+### Imagery first
 
-Remote sensing shows extent; it does not, on its own, give you tonnes. The second layer is **field sampling** — measured plots where tree diameter, height and density feed biomass equations. We reviewed the sampling design and the plot data, since a removal claim is only as strong as the ground-truth behind the satellite picture.
+We started at the desk with remote sensing, because it is quick and catches the most basic problem. If the imagery does not show establishment on the claimed area, nothing downstream matters.
 
-### Conservative growth modelling
+### Then the ground
 
-New forests grow over time, so the removal is quantified with a **growth model**. The integrity question is whether the model is conservative. An optimistic growth curve inflates future removals; we recommended the buyer rely on cautious assumptions and on removals actually evidenced to date rather than projected.
+Imagery tells you extent. It does not tell you tonnes. For that, the project's sample plots matter: how they were placed, how many there were, and whether the measured trees support the biomass figures. We reviewed both the sampling design and the plot records.
 
-## Permanence: The ARR-Specific Risk
+### Then the model
 
-Every nature-based removal shares one exposure: the carbon can come back. A young plantation is vulnerable to fire, drought, pests and clearance. So we checked the **permanence** architecture — a long crediting and monitoring period, and a **buffer pool** contribution sized to the reversal risk. For removals, permanence is not a footnote; it is the difference between a durable removal and a temporary one.
+Young forests keep growing, so removals are projected with a growth model. The integrity question is whether the curve is cautious. We advised the buyer to rely on conservative assumptions and on removals already evidenced, rather than tonnes forecast for later years.
 
-Finally, we confirmed **vintage** and that the units were verified by an accredited third party and un-retired in the registry, before clearing them for retirement in the buyer's name.
+## The permanence problem
 
-## The Outcome
+Every nature-based removal carries the same risk: the carbon can go back into the air. A young plantation is especially exposed to fire, drought, pests and clearance.
 
-The portfolio's strength was that its claim was measurable and its weakness was the usual one for young forests: permanence. The buyer proceeded on the evidenced, verified removals, relying on conservative growth assumptions and confirming the buffer contribution — and treated projected future removals as upside rather than as contracted volume.
+We checked that the crediting and monitoring period was long, and that the contribution to the **buffer pool**, the reserve of credits set aside to cover reversals, was sized to the risk. For removals this is central. It is what separates a durable removal from a temporary one.
 
-## Key Takeaways
+The last checks were routine but necessary: correct vintage, verification by an accredited third party, and units still un-retired in the registry before they were cleared for retirement in the buyer's name.
 
-| Layer | What it proves |
-|---|---|
-| Remote sensing | The planted area is real and established |
-| Field plots | The biomass — and therefore the tonnes — is measured |
-| Growth model | Future removal, quantified conservatively |
-| Buffer pool | Reversal risk is covered |
+## How it ended
 
-For how continuous sensor evidence is changing this kind of monitoring, see [digital MRV](/insights/dmrv-digital-monitoring-carbon-projects/).
+The portfolio's strength was measurability. Its weakness was the one every young forest has, which is permanence. The buyer went ahead on the evidenced and verified removals, with conservative growth assumptions and a confirmed buffer contribution. It treated any future removals as possible upside, not contracted volume.
 
-## Frequently Asked Questions
+## Lessons for other ARR buyers
 
-**What does ARR stand for?** Afforestation and Reforestation — establishing new forest on land that was not previously forested, or re-establishing it where it was lost.
+- **Pay for tonnes that exist.** Projected growth belongs in the "maybe" column.
+- **Ask for plot data, not just maps.** A satellite image is not a carbon measurement.
+- **Read the buffer rules.** How the reserve is sized tells you how seriously reversal risk was taken.
+- **Plan for continued monitoring.** Removals are claimed over years, so the evidence has to keep coming. Sensor-based approaches are covered in [digital MRV](/insights/dmrv-digital-monitoring-carbon-projects/).
 
-**Why are removal credits valued more than avoidance credits?** Because they physically draw carbon out of the atmosphere rather than preventing a future emission, which many buyers see as higher quality.
+For a wider view of how forest projects handle baselines and reversals, see [REDD+ and afforestation carbon projects](/insights/redd-and-afforestation-carbon-projects/), and for how the same diligence fits a full purchase, our [buyer-side due diligence case study](/insights/carbon-credit-due-diligence-buyer-case-study/).
 
-**What is the main risk with ARR credits?** Permanence — young forests can be lost to fire, drought or clearance, so the buffer pool and monitoring period matter.
+## Short answers
 
-**How are ARR removals measured?** A combination of remote sensing for area, field plots for biomass, and conservative growth modelling for the carbon removed over time.
+**What is ARR?** Afforestation and reforestation: new forest on land without it, or restored forest where it was lost.
 
-**Should I pay for projected future removals?** Prefer removals already evidenced and verified; treat projected growth as upside rather than contracted volume.
+**Why do removals cost more?** They take carbon out of the atmosphere rather than preventing a future emission.
 
----
+**What is the biggest risk?** Permanence. Young forests can be lost.
 
-**Evaluating carbon credits across standards and project types?** DSTechnoverse works on the data and integrity side of carbon procurement — project screening, registry and eligibility verification, MRV and monitoring-data analysis, reconciliation and defensible reporting. See our [CORSIA carbon credit services](/services/) and [data analytics](https://dstechnoverse.com/services/data-analytics). We are based in **Indore, Madhya Pradesh** and work across India and internationally.
+**Should a buyer pay for projected removals?** We would not treat them as contracted volume.
 
-[Apply as a carbon credit buyer or seller](https://carboncredit.dstechnoverse.com/)
-
-[Talk to our team](/contact/), or start with [the complete carbon credits guide](/insights/corsia-carbon-credits-complete-guide/).
-
-*This is an anonymised, representative case study that illustrates our approach. It does not identify any specific client, project, price or transaction.*
+If you are weighing removal credits and want the monitoring data checked before you commit, [get in touch](/contact/). Plot records and the growth model are the first things we will ask for.

@@ -1,143 +1,96 @@
 ---
-title: "CORSIA vs EU ETS, UK ETS and the Voluntary Market"
-excerpt: "An airline can face several carbon schemes at once. How they differ in instrument, scope, legal force and price visibility, where they overlap, and why the reporting burden is three parallel streams rather than one."
+title: "CORSIA Compared With the EU ETS, UK ETS and Voluntary Carbon Commitments"
+excerpt: "One airline can sit under CORSIA, the EU ETS, the UK ETS and its own net zero pledge at once. How the schemes differ on instrument, scope, enforcement and price, where they overlap, and how to run all of them off one dataset."
 section: "Market & Pricing"
 order: 23
 image: "/images/corsia/corsia-scheme-comparison.svg"
 ---
 
-An airline operating into Europe with a public net zero commitment can be simultaneously subject to CORSIA, the EU Emissions Trading System, the UK ETS and its own voluntary pledges. These are different systems with different instruments and different consequences, and conflating them produces both over-purchasing and under-compliance.
+Take an Indian carrier that flies Delhi to Frankfurt, Delhi to London and Delhi to Singapore, and has told investors it is aiming for net zero. Depending on the route and the year, it may owe something under CORSIA, owe nothing under the European schemes, and still have to account for all of it against its public pledge. The four regimes look alike from a distance. Up close they use different instruments, cover different flights and carry different consequences, and confusing them leads both to buying too much and to missing obligations.
 
-![CORSIA compared with other aviation carbon schemes](/images/corsia/corsia-scheme-comparison.svg)
+![Comparison of CORSIA with other aviation carbon schemes](/images/corsia/corsia-scheme-comparison.svg)
 
-## The Instrument Is the Core Difference
+## The four regimes side by side
 
-| Scheme | Instrument | Applies to |
-|---|---|---|
-| CORSIA | Carbon **credits** (EEUs) | Growth above the 2019 baseline |
-| EU ETS | **Allowances** within a declining cap | Total in-scope emissions |
-| UK ETS | **Allowances** within a declining cap | Total in-scope emissions |
-| Voluntary | Carbon **credits**, buyer's choice | Self-defined boundary |
+| | CORSIA | EU ETS | UK ETS | Voluntary commitment |
+|---|---|---|---|---|
+| What you hand over | Carbon credits (CORSIA Eligible Emissions Units) | Allowances from a declining cap | Allowances from a declining cap | Carbon credits of the buyer's choosing |
+| What it is measured against | Growth above the 2019 baseline | All in-scope emissions | All in-scope emissions | A boundary the company sets, often all operations |
+| Flights covered | International flights between participating States; no domestic flights | Flights within the European Economic Area, domestic ones included; third-country flights have been repeatedly narrowed | UK domestic flights and flights from the UK to the EEA | Whatever the company decides |
+| Enforced by | The operator's own State, under national law; penalties vary | EU law: financial penalties and operating restrictions, a mature regime | UK law, an established regime | No regulator directly; exposure through reputation, disclosure rules and customer contracts |
+| Price visibility | Bilateral deals, no reliable public reference | Liquid exchange, public prices and a forward curve | Liquid exchange | Enormous spread across unlike products |
+| Integrity test | ICAO Emissions Unit Criteria, including a corresponding adjustment | Not applicable: international credits are not currently allowed for aviation compliance | As for the EU ETS | Whatever standard the buyer picks |
+| How you settle | Cancel units and file a cancellation report | Surrender allowances | Surrender allowances | Retire credits and disclose |
 
-**Credits against growth. Allowances against total. Credits by choice.** That distinction drives almost everything else.
+If one line has to stick: CORSIA uses credits against growth, the two ETSs use allowances against the total, and voluntary schemes use credits by choice. Most other differences flow from that.
 
-## Scope
+## Worked example: mapping routes
 
-**CORSIA** covers international flights between participating States. Domestic flights are entirely outside it.
+For the carrier above, assuming its home State and the destination both participate in CORSIA:
 
-**EU ETS** covers flights within the European Economic Area, including domestic flights within member States. Its scope for flights to and from third countries has been narrowed repeatedly — the original full-scope design provoked sufficient objection that the EU limited application while ICAO developed CORSIA, and scope has been reviewed periodically since.
+| Route | CORSIA | EU ETS | UK ETS |
+|---|---|---|---|
+| Delhi–Mumbai | No, domestic | No | No |
+| Delhi–Singapore | Yes | No | No |
+| Delhi–Frankfurt | Yes | Scope for third-country flights has been limited; check the current position | No |
+| Delhi–London | Yes | No | No: UK ETS covers UK domestic and UK-to-EEA flights |
 
-**UK ETS** covers UK domestic flights and flights from the UK to the EEA, following the UK's departure from the EU ETS.
+A European airline would get a very different map. Its Paris–Frankfurt flights, for example, fall under the EU ETS and outside CORSIA entirely.
 
-**Voluntary commitments** are whatever the organisation defines, usually total operations.
+The EU originally designed its aviation coverage to include flights to and from other countries. The objections were strong enough that the EU limited it while ICAO developed CORSIA, and it has reviewed that scope from time to time since. The history is in [why CORSIA exists](/knowledge-base/why-corsia-exists/).
 
-Worked through:
+## Can the same flight be charged twice?
 
-| Flight | CORSIA | EU ETS |
-|---|---|---|
-| Paris to Frankfurt | No | Yes |
-| Delhi to Mumbai | No | No |
-| Delhi to Frankfurt | Yes, if both States participate | Narrowed scope |
-| Delhi to Singapore | Yes, if both States participate | No |
+The schemes have been set up to limit that, mainly by dividing up scope: intra-EEA flying goes to the EU ETS, international flying between participating States to CORSIA. Where the two could overlap, exemptions and offsetting arrangements have been used so the same emissions do not carry two obligations.
 
-## Legal Force
+The relationship is still under review, and the EU has reassessed its own scope as CORSIA has developed. So assume neither duplication nor exemption. Map your network against each scheme, write down the reasoning, and keep it on file. A verifier will want to see how you reached each call.
 
-| Scheme | Enforced by | Maturity |
-|---|---|---|
-| CORSIA | National law of the operator's State | Newer; penalties vary by State |
-| EU ETS | EU law | Mature; financial penalties and operating restrictions |
-| UK ETS | UK law | Established |
-| Voluntary | None directly | Reputational and disclosure exposure |
+## Which one costs more
 
-Voluntary commitments carry no direct legal enforcement but increasing regulatory exposure through greenwashing rules and sustainability disclosure requirements. A public commitment can also become a contractual obligation to a corporate customer.
+It depends on the shape of the network. CORSIA scales with growth; the ETSs scale with total in-scope emissions.
 
-## Price Visibility
+- A carrier with steady flying inside Europe and little growth faces a large EU ETS bill and perhaps a small CORSIA one.
+- A fast-growing carrier flying international routes outside Europe faces the opposite.
 
-**EU ETS and UK ETS allowances** trade on liquid exchanges with continuous public pricing and a visible forward curve. The cost can be hedged.
+Both are heading up for different reasons. The EU ETS cap falls each year, and free allocation for aviation has been phasing out. CORSIA obligations grow as route coverage widens in 2027 and as the individual growth factor gains weight from 2030.
 
-**CORSIA units** trade bilaterally with no reliable public reference. Pricing depends on programme, vintage, project type, volume and above all authorisation status. **It cannot be hedged the same way**, because the underlying is not liquid and supply is constrained by government decisions.
+Budgeting also differs. ETS allowances can be hedged against a visible forward price. CORSIA units cannot be hedged in the same way, because the market is illiquid and supply depends on government authorisations. Putting both into one "carbon cost" line hides two very different risks. [CORSIA credit pricing](/knowledge-base/corsia-credit-pricing/) explains the CORSIA side.
 
-**Voluntary credits** span an enormous range across incompatible products.
+## Three reporting streams, one set of data
 
-This difference matters for budgeting: combining CORSIA and EU ETS into a single carbon cost line obscures two very different risk profiles.
+Operators under more than one scheme tend to underestimate how little of the paperwork is shared.
 
-## Integrity Requirements
+- **Monitoring plans:** a CORSIA Emissions Monitoring Plan and a separate EU ETS monitoring plan.
+- **Approving authority:** your national authority for CORSIA, which is the DGCA for an Indian operator; the competent authority of the administering member State for the EU ETS.
+- **Rulebook:** ICAO Annex 16, Volume IV for CORSIA; the EU MRV Regulation for the EU ETS.
+- **Verifiers:** accredited under the CORSIA framework in one case, the EU accreditation framework in the other.
+- **Settlement:** cancel units and report the cancellation, or surrender allowances.
 
-**CORSIA** applies the ICAO Emissions Unit Criteria — additionality, conservative quantification, permanence, independent verification, no double counting via corresponding adjustment, eligible vintage, no net harm, registry traceability. The corresponding adjustment requirement is the strictest single element in any operating scheme.
+Yet all of it draws on largely the same fuel and flight records.
 
-**EU ETS and UK ETS** do not currently permit international credits for aviation compliance. Allowances are the instrument, so credit integrity questions do not arise in the same form.
+::: accordion How to avoid three versions of the truth
+The efficient set-up is one authoritative dataset that feeds every scheme, with each scheme's boundaries, filters and calculations applied downstream.
 
-**The voluntary market** applies whatever standard the buyer chooses — flexibility that is a strength for buyers with specific priorities and a weakness under scrutiny.
+What usually happens is three separate exercises, each reconciling the raw data its own way, producing numbers that sometimes disagree. When your own reports contradict each other, the verifier will ask why.
 
-## Overlap and Double Regulation
-
-Can a flight be regulated twice?
-
-The mechanisms have been designed to limit this, principally through scope. EU ETS applies to intra-EEA flights; CORSIA applies to international flights between participating States. Where overlap could arise, exemption and offsetting arrangements have been used to avoid duplicate obligation on the same emissions.
-
-The relationship remains under review, and the EU has periodically reassessed its own scheme's scope against CORSIA's development.
-
-> **Do not assume duplication, and do not assume exemption.** Map your network against both schemes explicitly and document the analysis. This is exactly the kind of determination a verifier will want to see reasoning for.
-
-## Which Costs More
-
-No general answer — it depends on network shape and market conditions.
-
-The structural difference: **CORSIA is proportional to growth; the ETSs are proportional to total in-scope emissions.**
-
-- A carrier with stable intra-European operations and no growth faces a substantial EU ETS bill and possibly a small CORSIA one.
-- A fast-growing carrier on international routes outside Europe faces the reverse.
-
-Both are rising, for different reasons. The EU ETS cap declines and free allocation for aviation has been phasing out. CORSIA obligations rise as coverage expands in 2027 and the individual growth factor gains weight from 2030.
-
-## Reporting and Verification: Three Parallel Streams
-
-The administrative burden differs as much as the financial one, and operators subject to several schemes routinely underestimate how little of the work is shared.
-
-| | CORSIA | EU ETS |
-|---|---|---|
-| Monitoring plan | Emissions Monitoring Plan | Separate EU ETS monitoring plan |
-| Approved by | National authority (DGCA in India) | Administering member State competent authority |
-| Standard | ICAO Annex 16 Volume IV | EU MRV Regulation |
-| Verifier accreditation | Accredited under the CORSIA framework | EU accreditation framework |
-| Settlement | Cancel EEUs, file cancellation report | Surrender allowances |
-
-Different documents, different authorities, different verifier accreditation — drawing on substantially the **same underlying fuel and flight data**.
-
-::: accordion The efficient answer, and the common inefficient one
-The efficient approach is a single authoritative dataset feeding all schemes, with scheme-specific filtering, boundary rules and calculations applied downstream.
-
-The common approach is three separate exercises, each reconciling the source data independently, producing figures that occasionally disagree. Disagreement between your own reports is exactly what a verifier will ask about.
-
-Building the shared data layer once is the highest-return work available to a multi-scheme operator, and it is usually the piece nobody owns because it sits between functions.
+Building that shared data layer is the most valuable single piece of work a multi-scheme operator can do. It often goes undone because it sits between departments and nobody owns it. The CORSIA stream itself is described in [CORSIA MRV explained](/knowledge-base/corsia-mrv-explained/).
 :::
 
-## SAF Works Across All of Them
+## The one lever that works everywhere
 
-Sustainable aviation fuel is the one lever that serves every scheme:
+Sustainable aviation fuel helps under every regime. Under CORSIA, eligible fuel reduces the offsetting requirement directly. Under the EU and UK ETS, it reduces the emissions that need allowances. For voluntary claims, it is the most defensible thing an airline can point to, because it cuts the emission rather than compensating for it.
 
-- **CORSIA** — qualifying CORSIA Eligible Fuels reduce the offsetting requirement directly
-- **EU ETS and UK ETS** — SAF reduces the emissions requiring allowances
-- **Voluntary** — the most defensible decarbonisation claim available to an airline, because it addresses the emission rather than compensating for it
+Each scheme has its own documentation rules, and meeting one does not automatically meet another. But one fuel purchase supports all of them, which makes it better value than a single-scheme comparison suggests. See [CORSIA Eligible Fuels](/knowledge-base/corsia-eligible-fuels/) for the CORSIA requirements.
 
-Documentation requirements differ between schemes, and satisfying one does not automatically satisfy another. But the underlying fuel purchase serves all of them, which improves the economics relative to assessing any one in isolation.
+## Mistakes we see with multi-scheme operators
 
-## Practical Guidance for Multi-Scheme Operators
+- **Treating allowances and credits as the same thing.** Different products, different markets, different risks.
+- **One carbon budget line for everything.** One cost can be hedged; the other cannot.
+- **Scope decided by assumption.** Map it route by route and document it.
+- **Ignoring the boundary between schemes.** The arrangements have changed before and may change again.
+- **Double claiming.** Announcing carbon neutrality on the back of units already cancelled for CORSIA counts the same tonnes twice, and disclosure regulators are increasingly watching for it.
+- **Judging SAF on one scheme.** Looked at alone, it seems dearer than it is.
 
-1. **Map scope precisely** — route by route, scheme by scheme, with the reasoning documented.
-2. **Do not conflate instruments** — allowances and credits are different products with different markets and risks.
-3. **Budget them separately** — one is hedgeable, one is not.
-4. **Watch the interface** — scope arrangements between schemes have changed and may change again.
-5. **Keep voluntary claims consistent with compliance activity** — claiming carbon neutrality on units cancelled for CORSIA compliance is a double claim, and disclosure regulators are increasingly alert to it.
-6. **Model SAF against all schemes simultaneously** — in isolation it looks more expensive than it is.
+The official sources are [ICAO's CORSIA pages](https://www.icao.int/environmental-protection/CORSIA/Pages/default.aspx) and the European Commission's [EU ETS aviation pages](https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/reducing-emissions-aviation_en). For the basics of CORSIA on its own, start with [what is CORSIA](/knowledge-base/what-is-corsia/).
 
-## Where to Go Next
-
-- [What is CORSIA](/knowledge-base/what-is-corsia/) — the scheme in isolation
-- [CORSIA Eligible Fuels](/knowledge-base/corsia-eligible-fuels/) — the shared lever
-- [CORSIA MRV explained](/knowledge-base/corsia-mrv-explained/) — one of the three streams
-- [CORSIA credit pricing](/knowledge-base/corsia-credit-pricing/) — why it cannot be hedged like allowances
-
-References: [ICAO CORSIA](https://www.icao.int/environmental-protection/CORSIA/Pages/default.aspx) and the [EU ETS aviation pages](https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/reducing-emissions-aviation_en).
-
-DSTechnoverse maps multi-scheme exposure and builds the shared data layer that serves all of them. [Talk to our team](/contact/).
+If your network touches more than one of these schemes, we can map the exposure route by route and help set up the shared data behind it. [Write to us](/contact/) with a list of your routes.

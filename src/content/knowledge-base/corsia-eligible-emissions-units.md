@@ -1,112 +1,91 @@
 ---
-title: "CORSIA Eligible Emissions Units (EEUs): What They Are"
-excerpt: "What separates a CORSIA Eligible Emissions Unit from an ordinary carbon credit, the two layers of eligibility assessment, why the eligible pool is so much smaller than the voluntary market, and how to tell the difference."
+title: "CORSIA Eligible Emissions Units (EEUs): Definition and How to Recognise One"
+excerpt: "An EEU is a carbon credit an operator can cancel to meet a CORSIA obligation. The two tests it must pass, why so few credits qualify, how it differs from a voluntary credit, and the documents that prove eligibility."
 section: "Eligible Emissions Units"
 order: 12
 image: "/images/corsia/hero-corsia-projects.svg"
 ---
 
-A **CORSIA Eligible Emissions Unit (EEU)** is a carbon credit that ICAO has determined may be used by aircraft operators to discharge their offsetting obligations. The definition matters because a great many carbon credits — including excellent ones — are not EEUs and never will be.
+An Indian developer with a registered wind project and a registry account full of issued credits asks us a common question: can these go to an airline for CORSIA? The honest answer is usually "not yet, and possibly not ever", even when the project is sound. The reason is the definition of a **CORSIA Eligible Emissions Unit (EEU)**, which is much narrower than "a good carbon credit".
 
-![CORSIA eligible projects](/images/corsia/hero-corsia-projects.svg)
+![Illustration of carbon projects that may supply CORSIA units](/images/corsia/hero-corsia-projects.svg)
 
-## The Definition
+## The two-part test
 
-An EEU is a unit that:
+A credit is an EEU, and an aircraft operator may cancel it against its offsetting obligation, only if both of these are true:
 
-1. Was issued by a **crediting programme approved by the ICAO Council**, and
-2. Independently satisfies the **ICAO Emissions Unit Criteria** at unit level
+1. **The programme that issued it is approved by the ICAO Council.**
+2. **The unit itself meets the ICAO Emissions Unit Criteria.**
 
-Both halves are required. Neither stands alone.
+Passing one does not make up for failing the other. Saying a credit is "from Verra" or "from Gold Standard" answers neither question on its own. Those programmes issue very large volumes, and only a small part of that supply clears the unit-level tests.
 
-> "It's from Verra" or "it's from Gold Standard" is not an answer to "is it CORSIA eligible". Those programmes issue enormous volumes, and only a fraction of that supply meets the unit-level tests.
+### Part one: the programme
 
-## Two Layers of Assessment
+The **Technical Advisory Body (TAB)** examines crediting programmes against the Emissions Unit Criteria and makes recommendations to the **ICAO Council**, which takes the decision. The examination covers governance, how methodologies are developed, additionality rules, quantification, permanence, oversight of validation and verification, registry systems, safeguards against double counting, and social and environmental safeguards.
 
-::: accordion Layer 1 — programme approval
-The **Technical Advisory Body (TAB)** assesses crediting programmes against the Emissions Unit Criteria and recommends to the **ICAO Council**, which decides.
+Approval can be full or conditional, runs for a set period and is reassessed. Approvals have lapsed before. Detail is in [approved crediting programmes](/knowledge-base/corsia-approved-crediting-programmes/).
 
-Assessment covers governance, methodology development, additionality requirements, quantification, permanence provisions, validation and verification oversight, registry infrastructure, double-counting safeguards and social and environmental safeguards.
+### Part two: the unit
 
-Approval may be full or conditional, is time-bounded, and is reassessed. It has lapsed. See [approved crediting programmes](/knowledge-base/corsia-approved-crediting-programmes/).
-:::
+A credit from an approved programme still has to pass on its own. The two unit-level tests that exclude the most supply are **vintage** and the **corresponding adjustment**. A programme that has been issuing for decades holds a large stock of credits that fall outside today's vintage windows and have no host-State authorisation. They are legitimate credits. They are not EEUs.
 
-::: accordion Layer 2 — unit-level compliance
-Even from an approved programme, an individual unit must independently satisfy the criteria — most consequentially **vintage** and the **corresponding adjustment**.
+## Why so few credits qualify
 
-An approved programme with thirty years of issuance history has issued a great deal that falls outside current vintage windows and carries no host-State authorisation. Those units are perfectly valid credits. They are not EEUs.
-:::
+Picture the world's carbon credits passing through three sieves in turn:
 
-## Why the Eligible Pool Is So Small
+- **Sieve one, programme approval**, removes everything issued under standards ICAO has not approved.
+- **Sieve two, vintage**, removes most older issuance.
+- **Sieve three, the corresponding adjustment**, removes the large majority of what is left.
 
-Three filters compound, and the third does most of the work.
+The third sieve does most of the work. A corresponding adjustment means the government of the country where the reduction happened adds those tonnes back into its national accounts, giving up the reduction against its own Paris Agreement target. Many governments refuse for some or all project types, and many have no procedure for doing it. For an Indian project, that means authorisation from the Government of India.
 
-| Filter | Effect on the global credit pool |
-|---|---|
-| Must come from an ICAO-approved programme | Removes supply from unapproved standards |
-| Must fall in an eligible vintage window | Removes most historical issuance |
-| Must carry a host-State corresponding adjustment | **Removes the large majority of what remains** |
+The market splits into two tiers as a result. Eligible supply is scarce and sells at a clear premium to non-eligible credits from the very same projects. The mechanics are covered in [corresponding adjustments and Article 6](/knowledge-base/corresponding-adjustments-article-6/).
 
-The corresponding adjustment requirement means the government where the reduction happened must add those tonnes back into its own national accounting, forgoing them against its Paris Agreement target. Many governments decline for some or all project types. Others have no administrative process for it at all.
+## EEUs and voluntary credits compared
 
-The result is a genuinely two-tier market. Eligible supply is scarce and trades at a substantial premium to comparable non-eligible supply from the same projects. See [corresponding adjustments and Article 6](/knowledge-base/corresponding-adjustments-article-6/).
-
-## EEU vs Voluntary Credit
-
-| | CORSIA EEU | Voluntary credit |
+| Question | CORSIA EEU | Voluntary credit |
 |---|---|---|
-| Who sets the standard | ICAO, uniformly | The buyer, individually |
-| Programme constraint | Must be ICAO-approved | Any standard the buyer accepts |
-| Corresponding adjustment | Required | Usually absent |
-| Vintage | Must be in an eligible window | Buyer preference only |
-| What it buys | Regulatory discharge | A claim the buyer defines |
-| Retirement | Cancellation designated for CORSIA | Retirement with a self-defined claim |
-| Price | Substantial premium | Very wide range |
-| Documentation | Must survive audit years later | Varies enormously |
+| Whose rules? | ICAO's, the same for every buyer | Each buyer's own |
+| Which programmes? | ICAO-approved only | Whatever the buyer accepts |
+| Corresponding adjustment? | Required | Usually none |
+| Vintage limit? | Must sit in an eligible window | Buyer's preference |
+| What does it deliver? | Discharge of a legal obligation | A claim the buyer defines |
+| How is it retired? | Cancelled with CORSIA named as the purpose | Retired against the buyer's own claim |
+| Price? | Substantial premium | Very wide range |
+| Paperwork? | Must stand up to audit years later | Highly variable |
 
-Every EEU could be sold voluntarily. Only a small minority of voluntary credits could be sold as EEUs.
+The relationship runs one way. Any EEU could be sold into the voluntary market; only a small share of voluntary credits could be sold as EEUs.
 
-## Language That Signals a Unit Is Not Eligible
+## Labels that mean "not eligible yet"
 
-Three phrases recur in this market. All three describe units that are **not currently eligible**:
+| Label you may hear | What it usually means | How to treat it |
+|---|---|---|
+| "CORSIA-ready" | Registered under an approved programme, without host-State authorisation | Not a recognised standard; the unit is not an EEU today |
+| "CORSIA-aligned" | A marketing description | Not a recognised standard either |
+| "Eligible pending authorisation" | The seller admits authorisation is missing | Authorisation is a sovereign decision with no guaranteed date |
 
-- **"CORSIA-ready"** — not a standard. Usually means the project is registered under an approved programme with no authorisation.
-- **"CORSIA-aligned"** — not a standard either.
-- **"Eligible pending authorisation"** — at least honest about the gap. Authorisation is a sovereign decision with no guaranteed timeline.
+Buying any of these means taking authorisation risk. That can be a sensible, priced choice, and forward contracts are often built on it, but it should be deliberate, and the contract should say who carries the risk if authorisation never arrives.
 
-Buying against any of these means taking authorisation risk. That can be a deliberate, priced decision — forward contracts often work exactly this way — but it should be deliberate, and the contract should allocate the risk explicitly.
+## What proves a unit is an EEU
 
-## How to Verify a Unit Is an EEU
+Seller assurances prove nothing. Documents do. Before transacting, we expect to see the following:
 
-A short sequence, expanded in [the emissions unit criteria](/knowledge-base/corsia-emissions-unit-criteria/):
+| Question | Evidence |
+|---|---|
+| Is the programme approved now? | The current ICAO listing, checked at the time of the deal, not a saved copy |
+| Is approval full or conditional? | The approval terms, and whether any condition touches these units |
+| Is the vintage allowed? | The vintage against the window for **your** compliance period |
+| Has the host State authorised these units? | An authorisation document that identifies them specifically |
+| Is the corresponding adjustment applied or committed? | Evidence of the adjustment |
+| Was verification sound? | A verification report from an accredited body, with any qualifications noted |
+| Is ownership clean? | A registry record showing an unbroken chain of custody |
 
-1. Is the issuing programme **currently** ICAO-approved? Check at the point of transaction, not from a saved list.
-2. Is the approval full or conditional, and does any condition touch these units?
-3. Is the vintage inside the window for **your** compliance period?
-4. Is there a host-State authorisation document naming these specific units?
-5. Is there evidence the corresponding adjustment has been or will be applied?
-6. Is the verification report from an accredited body, and does it carry qualifications?
-7. Does the registry record show a clean, unbroken chain of custody?
-8. Can you assemble all of this into a package that survives audit in three years?
+Then one last question: can all of this be assembled into a file that will still stand up to audit three years from now? Each item is examined in [the emissions unit criteria](/knowledge-base/corsia-emissions-unit-criteria/).
 
-Seller assurance is not evidence for any of these. Documents are.
+## One unit, one tonne, no partial credit
 
-## Units and Tonnes
+Each EEU represents **one tonne of CO2 equivalent** reduced or removed, and cancelling it settles one tonne of obligation. There is no discount factor, multiplier or quality adjustment at cancellation. A unit counts in full or not at all.
 
-One EEU represents **one tonne of CO2 equivalent** reduced or removed.
+That all-or-nothing quality is why checking before purchase matters. A unit found ineligible after it has been cancelled does not just waste its price. It leaves the obligation unmet, usually close to the deadline, when replacement units are hardest to find. The authoritative list of approved programmes and eligible units is on [ICAO's CORSIA emissions units page](https://www.icao.int/environmental-protection/CORSIA/Pages/CORSIA-Emissions-Units.aspx).
 
-Cancelling one EEU discharges one tonne of offsetting obligation. There is no discounting, multiplier or quality adjustment applied at the point of cancellation — a unit either qualifies fully or does not qualify at all.
-
-That binary character is why due diligence matters so much. A unit that fails eligibility after cancellation does not merely waste the purchase price; it leaves an unmet obligation at the worst possible moment.
-
-## Where to Go Next
-
-- [The emissions unit criteria](/knowledge-base/corsia-emissions-unit-criteria/) — every requirement in detail
-- [Approved crediting programmes](/knowledge-base/corsia-approved-crediting-programmes/) — layer 1
-- [Corresponding adjustments](/knowledge-base/corresponding-adjustments-article-6/) — the binding constraint
-- [Vintages and eligibility windows](/knowledge-base/corsia-vintages-and-eligibility-windows/) — the timing constraint
-- [Registries and cancellation](/knowledge-base/corsia-registries-and-cancellation/) — how units move
-
-The authoritative list of approved programmes and eligible units is published on the [ICAO CORSIA emissions units page](https://www.icao.int/environmental-protection/CORSIA/Pages/CORSIA-Emissions-Units.aspx).
-
-DSTechnoverse conducts pre-transaction due diligence on EEUs for operators. [Talk to our carbon markets team](/contact/) or [apply as a CORSIA buyer or seller](https://carboncredit.dstechnoverse.com/).
+We check units against every item in the evidence table before operators commit, and help Indian developers work out what stands between their credits and eligibility. Browse listed supply on the [marketplace](/marketplace/), or [ask us to review a specific lot](/contact/).

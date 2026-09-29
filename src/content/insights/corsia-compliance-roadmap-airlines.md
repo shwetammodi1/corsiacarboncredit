@@ -1,170 +1,122 @@
 ---
-title: "CORSIA Compliance for Airlines: A Step-by-Step Roadmap"
-excerpt: "A practical sequence for aircraft operators managing CORSIA — from threshold assessment and monitoring plan through verification, requirement calculation, unit procurement and cancellation reporting, with the failure points at each stage."
+title: "A CORSIA Compliance Roadmap for Airlines: Ten Steps in the Right Order"
+excerpt: "CORSIA work done out of order has to be redone. Ten steps for aircraft operators, grouped into one-off set-up, the annual cycle and the compliance-period close, with the failure point at each step and where the budget really goes."
 date: "2026-08-19"
 topic: "CORSIA Fundamentals"
 tags: ["CORSIA compliance","CORSIA for airlines","emissions monitoring plan","CORSIA reporting","aircraft operator compliance","Annex 16 Volume IV","CORSIA verification"]
 image: "/images/corsia/corsia-compliance-cycle.svg"
 ---
 
-CORSIA compliance is a sequence, and the sequence matters. Steps taken out of order — most commonly, thinking about credit purchasing before the emissions data is sound — produce work that has to be redone.
+The most common way to waste money on CORSIA is to start at the end. A new compliance lead, keen to show progress, begins talking to credit sellers in the first month. Six months later the verifier finds that the fuel method in the monitoring plan cannot be supported by the airline's own data, the emissions figure moves, and the purchasing plan has to be rebuilt around a different number.
 
-This is the sequence, with the specific failure points at each stage.
+Order matters. What follows is the sequence we use with operators, grouped by how often each step recurs, with the point at which each one usually goes wrong.
 
-![CORSIA compliance cycle](/images/corsia/corsia-compliance-cycle.svg)
+![The CORSIA compliance cycle](/images/corsia/corsia-compliance-cycle.svg)
 
-## Step 1: Establish Scope and Threshold
+## The roadmap on one page
 
-**What to do:** Determine whether you are in scope, and for which flights.
+| # | Step | Usual failure point | What you should have at the end |
+|---|---|---|---|
+| 1 | Scope and threshold | Unclear which group entity is the operator | A written scope decision |
+| 2 | Monitoring plan | Choosing a method the data cannot support | An approved plan, tested on real data |
+| 3 | Data pipeline | Sources disagree; reconciled by hand every year | A repeatable, documented process |
+| 4 | Annual Emissions Report | Assembled in a rush at the deadline | A complete report with organised evidence |
+| 5 | Verification | Verifier booked late; independence overlooked | A verified report and closed findings |
+| 6 | Offsetting requirement | Waiting to be told the number | A reproducible calculation |
+| 7 | Registry accounts | Assumed to be quick | Live, tested accounts |
+| 8 | Unit sourcing | Buying on description rather than evidence | Contracted supply with full documents |
+| 9 | Cancellation and report | Thinking purchase equals compliance | Cancellation records and an accepted report |
+| 10 | Evidence retention | Staff leave, systems change | An indexed, durable record |
 
-CORSIA applies to aeroplane operators on international flights, above 10,000 tonnes of annual international CO2, using aeroplanes above 5,700 kg maximum certificated take-off mass. Offsetting obligations attach only to routes where both origin and destination States participate.
+## Part one: set up once
 
-**Failure point:** Operating structure ambiguity. Wet leases, code shares, franchise arrangements and multiple air operator certificates within a group all raise the question of which legal entity is the operator for CORSIA purposes. Getting this wrong means reporting under the wrong entity, which is not a trivial correction.
+### 1. Decide scope and threshold
 
-**Output:** A documented determination of in-scope entity, in-scope flights, and current route coverage.
+CORSIA covers aeroplane operators on international flights that emit more than 10,000 tonnes of CO2 a year from international flying, using aeroplanes above 5,700 kg maximum certificated take-off mass. Offsetting applies only on routes where both the departure and arrival States take part.
 
-## Step 2: Build the Emissions Monitoring Plan
+The trap is corporate structure. Wet leases, code shares, franchise arrangements and several air operator certificates inside one group all raise the question of which legal entity is the operator. Reporting under the wrong one is not a quick fix. The rules are set out in [scope and thresholds](/knowledge-base/corsia-scope-and-thresholds/).
 
-**What to do:** Develop the plan and submit it to your national authority — in India, the [DGCA](https://www.dgca.gov.in/).
+### 2. Write a monitoring plan your data can actually support
 
-The plan specifies the fuel use monitoring method, data sources, systems, responsibilities and quality controls. ICAO permits several methods, each with different data requirements.
+The plan sets the fuel monitoring method, data sources, systems, responsibilities and quality controls, and is submitted to the national authority, which for an Indian operator is the [DGCA](https://www.dgca.gov.in/). ICAO allows several methods, each needing different data.
 
-**Failure point:** Choosing a method your systems cannot actually support. The method is selected on paper, the plan is approved, and then a year later at verification it emerges that the required data was never captured at the necessary granularity. By then the reporting year is closed and the gap cannot be filled retrospectively.
+The failure here is slow to surface. A method is picked on paper, approved, and only at verification a year later does anyone find that the data it needs was never captured at the right level of detail. The year is closed by then, and the gap cannot be filled after the event.
 
-**How to avoid it:** Look at your actual data before choosing. Pull a sample month and test whether you can produce the figures the method demands, from the systems you have, without manual reconstruction.
+The fix is simple: before choosing, take one real month of data and try to produce every figure the method requires from the systems you have, without rebuilding anything by hand.
 
-**Output:** An approved monitoring plan and a tested data process.
+### 3. Build the data pipeline
 
-## Step 3: Get the Data Pipeline Working
+Fuel uplift dockets, flight operations records, aircraft systems and finance records rarely agree. Reconciling them is most of the annual work, and doing it manually each year is slow and error-prone.
 
-**What to do:** Establish the annual process for collecting, reconciling and quality-checking fuel and flight data.
+Treat it as an engineering job. Name the authoritative source for each field, write the reconciliation logic once, document how each type of discrepancy is resolved, and automate what you can. The documentation matters because a verifier will ask why a particular mismatch was settled the way it was. [Building a CORSIA data pipeline](/insights/corsia-data-systems-and-automation/) goes into the design.
 
-**Failure point:** Sources disagree. Fuel uplift dockets, flight operations records, aircraft systems and finance records rarely produce identical numbers. Reconciling them is the bulk of the annual effort, and doing it manually each year is both expensive and error-prone.
+## Part two: every year
 
-**How to avoid it:** Treat it as a data engineering task. Define the authoritative source for each field, build the reconciliation logic once, document the rules for handling discrepancies, and automate what can be automated. The rules must be documented because a verifier will ask why a particular discrepancy was resolved the way it was.
+### 4. Prepare the Annual Emissions Report
 
-**Output:** A repeatable pipeline producing a defensible dataset with an audit trail.
+The report covers the previous calendar year and goes to the authority. Operators who keep data clean through the year assemble it calmly. Those who start in the reporting window find gaps precisely when there is no time to close them.
 
-## Step 4: Prepare the Annual Emissions Report
+### 5. Get it verified
 
-**What to do:** Assemble the report for the preceding calendar year and submit it to the authority.
+An accredited verification body checks the report against Annex 16, Volume IV. Two things go wrong. Capacity: accredited bodies are few and everyone needs them in the same window, so book early. Independence: a body that advised on your report or wrote your monitoring plan cannot verify it.
 
-**Failure point:** Late assembly. Operators who begin in the reporting window rather than maintaining data through the year find gaps at exactly the point where there is no time to resolve them.
+Verifiers sample fuel records, test reconciliation logic, look at how exceptions were handled and check the flight list for completeness. Have that evidence ready before they arrive.
 
-**Output:** A complete report, with supporting evidence organised and accessible.
+### 6. Model the offsetting requirement
 
-## Step 5: Verification
+When ICAO publishes the growth factors, apply them to verified emissions on covered routes and subtract any claim for CORSIA Eligible Fuels. Do not wait for that moment to find out the size of the bill: estimate each year from published sector data, refine when factors are confirmed, and budget against the estimate. The method is in [calculating offsetting requirements](/insights/corsia-offsetting-requirements-calculation/).
 
-**What to do:** Engage an accredited verification body to verify the report against ICAO Annex 16 Volume IV.
+## Part three: each compliance period
 
-**Failure point:** Two, actually. First, verifier availability — accredited bodies are limited and demand is concentrated in the same window. Engage early. Second, independence: the body verifying your report cannot have advised on it, so if a consultant wrote your monitoring plan, they cannot verify.
+### 7. Open registry accounts early
 
-**How to smooth it:** Anticipate what the verifier will test — sampling of fuel records, reconciliation logic, treatment of exceptions, completeness of flight lists — and have that evidence ready rather than assembling it under time pressure.
+Opening an account involves know-your-customer checks and can take weeks. Operators who leave it until a deal is agreed find their own onboarding holding up delivery. Open and test accounts well ahead of need.
 
-**Output:** A verified emissions report and a resolved findings log.
+### 8. Source units on evidence
 
-## Step 6: Calculate the Offsetting Requirement
+"CORSIA-ready" and "eligible pending authorisation" both describe units that do not qualify today. Check each unit against the [due diligence checklist](/insights/corsia-credit-due-diligence-checklist/).
 
-**What to do:** Once ICAO publishes the growth factors, apply them to your verified emissions on covered routes, adjusting for any CORSIA Eligible Fuels claims.
+Obligations settle per three-year compliance period. Leaving all purchasing to the end means competing with the whole sector for thin supply at one time. Buying progressively through the period lowers that risk, in exchange for committing before the final figure is confirmed.
 
-**Failure point:** Waiting for someone else to hand you the number. Operators who do not model their obligation in advance discover its size when it is too late to spread the purchasing.
+### 9. Cancel and report
 
-**How to avoid it:** Estimate annually using published sector data, refine when factors are confirmed, and budget against the estimate. See [offsetting requirement calculation](/insights/corsia-offsetting-requirements-calculation/) for the mechanics.
+Owning units discharges nothing. The obligation is met when units are cancelled in the registry and the Emissions Unit Cancellation Report is filed with the authority.
 
-**Output:** A documented requirement figure with the calculation reproducible.
+## Part four: always
 
-## Step 7: Open and Test Registry Accounts
+### 10. Keep the evidence
 
-**What to do:** Establish accounts in the registries where your intended supply sits.
+Keep every version of the monitoring plan, the data, reconciliation rules, reports, verification statements, unit documentation, authorisations, transfer records and cancellation records, indexed so a stranger could follow them. The threat is ordinary: the person who understood the reconciliation leaves, the source system is replaced, and three years on nobody can explain a figure.
 
-**Failure point:** Assuming this is quick. Account opening involves know-your-customer processes and can take weeks. Operators who leave it until they have agreed a purchase find the transfer blocked by their own onboarding.
+## Looking ahead: 2027 and 2030
 
-**Output:** Live, tested accounts, ahead of need.
+![Timeline of CORSIA phases](/images/corsia/corsia-phases-timeline.svg)
 
-## Step 8: Source Units
+From 2027 the second phase makes participation mandatory for States above set activity thresholds, which widens route coverage considerably. An operator with heavy traffic to States that are not currently participating can see its obligation rise sharply. Model it on your own network and a view of which States will be in scope, rather than applying a generic uplift. [CORSIA phases](/insights/corsia-phases-timeline-explained/) covers what changes at each transition.
 
-**What to do:** Identify and secure CORSIA Eligible Emissions Units.
+From 2030 the individual growth factor carries more weight, so an operator growing faster than the sector bears proportionally more. Fleet and network plans therefore carry a CORSIA cost that belongs in those decisions from the start.
 
-**Failure point:** Buying against a description rather than evidence. "CORSIA-ready" and "eligible pending authorisation" describe units that are not eligible. See the [due diligence checklist](/insights/corsia-credit-due-diligence-checklist/) for what to verify.
+## Where the budget goes
 
-**Strategic point:** Deferring purchase to the end of the compliance period means competing with the entire sector for thin supply in the same window. Progressive acquisition through the period reduces that exposure, at the cost of committing before the final number is confirmed.
+First-time budgets usually treat CORSIA as a credit purchase with some paperwork. The real split is different.
 
-**Output:** Contracted supply with a complete documentation package.
+| Cost line | What to expect |
+|---|---|
+| Units | The largest item once obligations become material, and the one most exposed to the market |
+| Data work | The biggest hidden cost: heavy in year one, then ongoing maintenance |
+| Verification | A fixed yearly fee, rising if findings force work to be redone |
+| Internal time | Almost always underestimated; operations, fuel procurement, finance and sustainability all feed in, and someone must coordinate them |
+| Advice | Usually the smallest line, and the one most likely to reduce the others if bought in the right order |
 
-## Step 9: Cancel and Report
+The pattern to avoid: saving on data work and advice, then paying far more at verification, in a rushed end-of-period purchase, or on an obligation built from figures that do not hold.
 
-**What to do:** Cancel the units in the registry and submit the Emissions Unit Cancellation Report to your authority.
+## Common mistakes at a glance
 
-**Failure point:** Confusing purchase with compliance. Holding units discharges nothing. Cancellation is the act that counts, and it must be reported.
+- Starting with credits instead of data.
+- Picking a monitoring method before testing it on a real month.
+- Changing the method later, which needs authority approval and disrupts the year; choosing well first is far cheaper.
+- Assuming the first verification will be clean, with no time allowed to resolve findings and re-verify.
+- Treating the consultant or verifier as responsible. The operator is accountable.
+- Discovering a supply shortage at the deadline. It is foreseeable, which is the argument against buying late.
 
-**Output:** Cancellation records and an accepted report.
-
-## Step 10: Maintain the Evidence
-
-**What to do:** Retain the complete package — monitoring plan versions, data, reconciliation logic, reports, verification statements, unit documentation, authorisations, transfer and cancellation records.
-
-**Failure point:** Staff turnover and system migration. The person who understood the reconciliation logic leaves; the system holding the source data is replaced; three years later nobody can reconstruct why a figure was what it was.
-
-**Output:** A durable, indexed record.
-
-![CORSIA phases timeline](/images/corsia/corsia-phases-timeline.svg)
-
-## Planning Ahead: The 2027 Change
-
-Second-phase participation becomes mandatory for States above defined activity thresholds from 2027, expanding route coverage substantially. For operators with significant traffic to States not currently participating, the obligation increase can be large.
-
-Model it now against your actual network rather than applying a generic uplift. The analysis needs your route data and a view on which States will fall within the mandatory scope. See [the phase breakdown](/insights/corsia-phases-timeline-explained/).
-
-From 2030, the individual growth factor gains weight, so operators growing faster than the sector carry proportionally more. Fleet and network plans therefore have a CORSIA cost attached that is worth surfacing in those decisions rather than discovering afterwards.
-
-## Where the Money Actually Goes
-
-Operators budgeting for CORSIA for the first time tend to think of it as a credit purchase with some paperwork attached. The proportions are usually different from that.
-
-**Unit purchase** is the largest line once obligations become material, and it is the one most exposed to market conditions. It is also the most visible, which is why it gets the attention.
-
-**Data work** is the largest hidden line. Building a reconciliation process that produces defensible figures from systems that were never designed to produce them takes real effort in year one and ongoing maintenance afterwards. Operators who under-resource this pay for it at verification.
-
-**Verification** is a fixed annual cost, and one that rises if findings have to be resolved and work re-performed.
-
-**Internal time** is almost always underestimated. Flight operations, fuel procurement, finance and sustainability functions all contribute data, and coordinating them is a job someone has to own.
-
-**Advisory** is typically the smallest line and the one most likely to reduce the others, provided it is bought in the right sequence — assessment and build before recurring support.
-
-The failure pattern worth naming: an operator minimises spend on data work and advisory, then absorbs a much larger cost at verification, in a rushed end-of-period unit purchase, or in an obligation calculated on figures that do not stand up.
-
-## A Compact Checklist
-
-- Scope and threshold determined and documented
-- Monitoring plan approved, and tested against real data
-- Data pipeline repeatable, with documented reconciliation rules
-- Emissions report assembled on a maintained basis, not in a rush
-- Verifier engaged early, independence confirmed
-- Requirement modelled annually, not awaited
-- Registry accounts open and tested ahead of need
-- Units sourced against evidence, progressively rather than at the deadline
-- Cancellation completed and reported
-- Evidence package durable and indexed
-- Second-phase impact modelled on actual network
-
-## Frequently Asked Questions
-
-**What if we are just below the threshold?** Reporting obligations may still apply even without offsetting. Confirm your position rather than assuming exemption.
-
-**Can we change monitoring method later?** Changes require authority approval and are disruptive. Choosing correctly first is much cheaper.
-
-**What if our verifier raises a material finding?** Resolve it and re-verify. Build time for this into the schedule rather than assuming a clean first pass.
-
-**Do we have to buy every year?** Obligations are settled per three-year compliance period, but accruing annually and acquiring progressively reduces exposure to end-of-period supply squeezes.
-
-**Who is legally responsible?** The operator. A consultant can prepare, a verifier can check, but accountability sits with you.
-
-**What if we cannot find eligible supply?** Escalate early to your authority and consultant. This is a foreseeable risk, which is exactly why late purchasing is a poor strategy.
-
----
-
-**Ready to act on CORSIA?** DSTechnoverse provides specialist [CORSIA carbon credit services](/services/) for aircraft operators, project developers and traders — eligibility screening, offsetting requirement calculation, unit sourcing and due diligence, corresponding adjustment support and registry execution. We are based in **Indore, Madhya Pradesh** and work with clients across India and internationally.
-
-[Apply as a CORSIA buyer or seller](https://carboncredit.dstechnoverse.com/)
-
-[Talk to our carbon markets team](/contact/) about your specific position.
+If you want to check where your airline sits on this roadmap, we can run a short gap review against all ten steps. Get in touch through our [contact page](/contact/).

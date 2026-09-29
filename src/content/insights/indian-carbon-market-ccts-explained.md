@@ -1,161 +1,155 @@
 ---
-title: "The Indian Carbon Market and CCTS Explained"
-excerpt: "How India's Carbon Credit Trading Scheme is structured — the compliance and offset mechanisms, who is obligated, how intensity targets and Carbon Credit Certificates work, and what it means for industry and project developers."
+title: "India's Carbon Credit Trading Scheme (CCTS): How the Indian Carbon Market Works"
+excerpt: "A working guide to the CCTS for plant managers and developers: legal basis, who runs what, how intensity targets become Carbon Credit Certificates, the offset track, and the data verification will test."
 date: "2026-08-23"
 topic: "India Carbon Market"
 tags: ["CCTS","Indian carbon market","carbon credit trading scheme","Bureau of Energy Efficiency","emission intensity target","carbon credit certificate","compliance carbon market"]
 image: "/images/carbon-india/india-carbon-market-structure.svg"
 ---
 
-India has moved from having no domestic carbon market to having a two-mechanism national scheme, built on the Energy Conservation Act as amended in 2022 and administered by the Bureau of Energy Efficiency. For energy-intensive industry it changes what compliance means; for project developers it creates a domestic buyer that did not previously exist.
+Until recently India had no domestic carbon market. It now has a national scheme with two tracks, one that obliges heavy industry to improve and one that lets projects earn credits. The Carbon Credit Trading Scheme (CCTS) changes what compliance means for energy-intensive plants, and it gives Indian project developers something they have never had: a buyer at home.
 
-This article explains the structure, who it affects, and what to do about it.
+## At a glance
 
-![India carbon market: the two tracks](/images/carbon-india/india-carbon-market-structure.svg)
-
-## The Legal Basis
-
-The **Energy Conservation (Amendment) Act, 2022** gave the central government the power to specify a carbon credit trading scheme and to prescribe carbon emission standards for entities. The **Carbon Credit Trading Scheme** was notified under that authority, with subsequent detailed procedures issued in stages.
-
-The institutional map:
-
-| Body | Role |
+| | |
 |---|---|
-| Ministry of Power | Administering ministry |
-| Bureau of Energy Efficiency (BEE) | Administrator of the scheme |
-| National Steering Committee | Governance and direction |
-| Grid Controller of India | Registry function |
-| Central Electricity Regulatory Commission | Regulation of trading |
-| Power exchanges | Trading platforms |
-| Accredited carbon verification agencies | Independent verification |
+| Legal basis | Energy Conservation (Amendment) Act, 2022 |
+| Administrator | Bureau of Energy Efficiency (BEE), under the Ministry of Power |
+| Type of target | Greenhouse gas emission **intensity**, not an absolute cap |
+| Instrument | Carbon Credit Certificate (CCC), one tonne of CO₂-equivalent |
+| Where it trades | Notified power exchanges |
+| Tracks | Compliance mechanism for obligated entities; offset mechanism for voluntary projects |
 
-Because procedures and sectoral targets have been notified progressively, the authoritative current position is on the [BEE](https://beeindia.gov.in/) and [Ministry of Power](https://powermin.gov.in/) websites. Treat any summary — including this one — as orientation rather than as the operative rule.
+![The two tracks of India's carbon market](/images/carbon-india/india-carbon-market-structure.svg)
 
-## The Compliance Mechanism
+## Where the scheme comes from
 
-**Who it covers:** notified obligated entities in energy-intensive sectors. The sectors identified for the first compliance cycles span heavy industry — aluminium, cement, chlor-alkali, fertiliser, iron and steel, pulp and paper, petrochemicals, petroleum refineries and textiles among them.
+The 2022 amendment to the Energy Conservation Act gave the central government power to specify a carbon credit trading scheme and to set carbon emission standards for entities. The CCTS was notified under that power, and the detailed procedures have followed in stages.
 
-**How it works:**
+Responsibilities are split like this:
 
-1. Each obligated entity receives a **greenhouse gas emission intensity target** — emissions per unit of output, not an absolute cap.
-2. The entity measures and reports actual emission intensity for the compliance year.
-3. Performance is independently verified by an accredited carbon verification agency.
-4. **Beat the target** and the entity is issued Carbon Credit Certificates for the outperformance.
-5. **Miss the target** and the entity must purchase CCCs to make up the shortfall, or face a penalty.
-6. Certificates trade on notified power exchanges.
+- **Ministry of Power:** the administering ministry
+- **BEE:** runs the scheme day to day
+- **National Steering Committee:** governance and direction
+- **Grid Controller of India:** operates the registry
+- **Central Electricity Regulatory Commission (CERC):** regulates trading
+- **Power exchanges:** host the trades
+- **Accredited carbon verification agencies:** check the numbers independently
 
-**Why intensity rather than an absolute cap?** Because India's emissions are expected to grow as the economy grows. An intensity target decouples emissions from output, allowing production to expand while requiring efficiency to improve — consistent with India's NDC framing of reducing emissions intensity of GDP.
+Procedures and sector targets are still being notified. The authoritative position is what [BEE](https://beeindia.gov.in/) and the [Ministry of Power](https://powermin.gov.in/) publish. Use any summary, this one included, for orientation only.
 
-The practical consequence for industry: **growing your output does not automatically put you out of compliance, but failing to improve efficiency does.**
+## Track one: obligated industry
 
-## The Offset Mechanism
+### Who is in
 
-The offset mechanism admits non-obligated entities — project developers, in effect — to generate Carbon Credit Certificates from project-based emission reductions or removals.
+Notified obligated entities in energy-intensive sectors. The sectors identified for the first compliance cycles include aluminium, cement, chlor-alkali, fertiliser, iron and steel, pulp and paper, petrochemicals, petroleum refineries and textiles.
 
-| | Compliance mechanism | Offset mechanism |
+### The annual cycle
+
+1. The entity is given a **greenhouse gas emission intensity target**: emissions per unit of output.
+2. It measures and reports its actual intensity for the compliance year.
+3. An accredited carbon verification agency checks the result.
+4. If it **beats** the target, it receives CCCs for the margin.
+5. If it **misses**, it must buy CCCs to cover the shortfall or pay a penalty.
+
+### Why intensity and not a cap
+
+India's emissions are expected to rise as the economy grows. An intensity target allows production to expand while requiring each unit to be made more efficiently, in line with India's NDC approach of reducing the emissions intensity of GDP.
+
+**A worked example (illustrative figures only, not a real target).** Imagine a plant with a target of 0.80 tonnes CO₂e per tonne of product.
+
+| | Year A | Year B |
 |---|---|---|
-| Participants | Notified obligated entities | Voluntary project proponents |
-| Basis | Emission intensity performance against target | Project reductions against a baseline |
-| Verification | Accredited carbon verification agency | Accredited agency, project-specific |
-| Output | Carbon Credit Certificates | Carbon Credit Certificates |
-| Demand source | Entities short of target | Obligated entities and voluntary buyers |
+| Output (tonnes of product) | 1,000,000 | 1,200,000 |
+| Emissions (tonnes CO₂e) | 820,000 | 900,000 |
+| Intensity | 0.82 | 0.75 |
+| Against 0.80 target | Misses by 0.02 per tonne | Beats by 0.05 per tonne |
+| Position | Short 20,000 t, must buy CCCs | Earns 60,000 t of CCCs |
 
-This is the route by which a biogas plant, a waste methane project or an efficiency project outside the obligated sectors can generate tradeable credits domestically. Approved methodologies and activity categories are issued by BEE, and the list matters enormously — an activity outside it cannot be credited domestically regardless of its climate merit.
+In Year B absolute emissions went up, yet the plant earned certificates because each tonne of product was cleaner. Growing output does not by itself push a plant out of compliance; failing to improve efficiency does.
 
-For what this means commercially, see [how to start a carbon credit business in India](/insights/how-to-start-carbon-credit-business-in-india/) and [carbon credit project types in India](/insights/carbon-credit-project-types-india/).
+## Track two: project-based offsets
 
-## How This Differs From PAT
+The offset mechanism lets entities that are not obligated, in practice project developers, earn CCCs from project reductions or removals.
 
-India's earlier **Perform, Achieve and Trade** scheme covered designated consumers with energy-efficiency targets, issuing Energy Saving Certificates for outperformance. PAT is the direct ancestor of the CCTS, and the transition from ESCerts to Carbon Credit Certificates is part of the scheme's design.
-
-| | PAT / ESCerts | CCTS / CCCs |
+| | Compliance track | Offset track |
 |---|---|---|
-| Metric | Specific energy consumption | Greenhouse gas emission intensity |
-| Scope | Designated consumers | Notified obligated entities, plus offset projects |
-| Coverage of non-energy emissions | Limited | Broader GHG framing |
-| Project-based supply | No | Yes, via the offset mechanism |
-| Instrument | Energy Saving Certificate | Carbon Credit Certificate |
+| Who takes part | Notified obligated entities | Voluntary project proponents |
+| Measured against | The entity's intensity target | A project baseline |
+| Verified by | Accredited carbon verification agency | Accredited agency, project by project |
+| What it produces | CCCs | CCCs |
+| Who buys | Entities short of target | Obligated entities and voluntary buyers |
 
-The most important lesson carried forward from PAT is about **target stringency**. Where targets are set loosely, certificates are over-supplied and the price collapses, removing the incentive the scheme exists to create. Every compliance market internationally — including the EU ETS in its early phases — has learned this the same way.
+This is how a biogas plant, a waste methane project, or an efficiency project outside the obligated sectors can create tradeable credits in India. BEE issues the approved methodologies and activity categories. That list decides everything: an activity not on it cannot be credited domestically, however good it is for the climate. Which types tend to work is covered in [carbon credit project types in India](/insights/carbon-credit-project-types-india/).
 
-## What Obligated Entities Should Be Doing
+## What changed from PAT
 
-1. **Confirm whether you are notified**, for which sector, and for which compliance year.
-2. **Establish a defensible GHG inventory.** Scope, boundaries and data sources documented. This is the foundation, and gaps here surface during verification when they are most expensive.
-3. **Measure your current emission intensity accurately.** Including how output is defined and measured, which is often where disputes arise.
-4. **Model your gap to target** across the compliance cycles, not just the first year.
-5. **Compare abatement cost against certificate price.** If reducing a tonne internally costs less than buying a certificate, reduce it. If not, buying may be the rational choice — that is precisely what a market mechanism is for.
-6. **Set up data systems that survive audit.** Meter calibration records, continuous data capture, documented calculation methods, change control. Verification failures are data failures.
-7. **Assign ownership.** Compliance sits across operations, energy management and finance. Someone must own the number.
+The Perform, Achieve and Trade scheme set energy-efficiency targets for designated consumers and issued Energy Saving Certificates (ESCerts) to those who beat them. It is the direct predecessor of the CCTS, and the move from ESCerts to CCCs is part of the design.
 
-Point 6 is where most first-cycle problems arise. Data that was adequate for internal energy management is often not adequate for third-party verification against a regulatory target, and the difference is discovered late.
+| | PAT | CCTS |
+|---|---|---|
+| What is measured | Specific energy consumption | Greenhouse gas emission intensity |
+| Who is covered | Designated consumers | Notified obligated entities, plus offset projects |
+| Non-energy emissions | Limited | Broader GHG scope |
+| Project supply | None | Yes, through the offset track |
+| Certificate | ESCert | CCC |
 
-Our work on [data integrity](https://dstechnoverse.com/blog/data-integrity-microbiology-laboratory) is written for laboratories, but the audit-trail principles transfer directly to emissions data.
+The main lesson inherited from PAT concerns **how tight targets are**. Loose targets oversupply certificates, the price falls, and the incentive the scheme was built to create disappears. Compliance markets elsewhere, the EU ETS in its early phases among them, learned the same thing. Price formation is covered further in [carbon credit prices in India](/insights/carbon-credit-price-in-india/).
 
-## What It Means for Project Developers
+## A to-do list for obligated plants
 
-The offset mechanism creates domestic demand — a structural change for Indian developers who previously had to sell internationally.
+- **Confirm notification:** whether you are covered, under which sector, from which compliance year.
+- **Build a GHG inventory you can defend:** scope, boundaries and data sources written down. Gaps found at verification are the expensive kind.
+- **Measure intensity properly,** including how output is defined and counted. That definition is a common source of dispute.
+- **Model the gap to target** across several cycles, not one year.
+- **Compare internal abatement cost with the certificate price.** Where cutting a tonne in-house is cheaper, cut it. Where it is not, buying may be rational; that is what the market is for.
+- **Name an owner.** Compliance spans operations, energy management and finance. One person must own the number.
+- **Make the data audit-ready,** as below.
 
-**The advantages:** domestic buyers with a compliance obligation, no export policy exposure, no corresponding-adjustment question, and a regulated registry.
+## The data system verification will test
 
-**The constraints:** the approved activity list defines what can be credited, any limits on how much offset supply the compliance mechanism will absorb cap the demand, and domestic price formation is driven by target stringency rather than by international buyer preference.
+Our experience is that first-cycle problems are almost always data problems. Figures good enough for internal energy management often fall short of what a third-party verifier needs against a regulatory target, and the shortfall is found late.
 
-**The strategic question** for a developer is which market to build for. International voluntary buyers pay premiums for co-benefits and strong stories; a domestic compliance buyer is buying a compliance instrument and will pay the market clearing price for it. These are genuinely different customers, and the documentation each expects differs.
-
-## The International Interface
-
-India's participation in international carbon markets runs through Article 6 of the Paris Agreement, which permits transfer of mitigation outcomes between countries with **corresponding adjustments** — the accounting step that prevents two countries counting the same tonne.
-
-The policy tension is straightforward: credits exported with a corresponding adjustment cannot count towards India's own NDC. India has accordingly taken a cautious position on which activities may generate credits for export, and this remains an area of active policy development.
-
-For airlines and aviation, the parallel scheme is CORSIA, which has its own eligibility criteria for the credits it accepts — see [what is CORSIA](/insights/what-is-corsia-complete-guide/) and [ICAO-approved crediting programmes](/insights/icao-approved-corsia-crediting-programmes/).
-
-## Building the Emissions Data System
-
-Whether you are an obligated entity or a project developer, the compliance burden ultimately lands on data. Verification is a documentation exercise, and the organisations that struggle are those whose numbers were adequate for internal management but not for third-party audit.
-
-What an audit-ready emissions data system needs:
-
-| Element | Requirement |
+| Element | What it means in practice |
 |---|---|
-| **Defined boundary** | Which facilities, which sources, which gases — documented and stable |
-| **Source register** | Every emission source, with its measurement method |
-| **Calibration records** | Meters and analysers, calibrated on schedule with certificates retained |
-| **Raw data retention** | Original readings, not just calculated outputs |
-| **Documented calculation method** | Emission factors, their source, and the version used |
-| **Change control** | Any change to method or boundary recorded with a reason |
-| **Data gap procedure** | A pre-defined, conservative method for handling missing data |
-| **Segregation of duties** | The person recording is not the only person checking |
-| **Audit trail** | Who entered what, when, and what changed |
+| Boundary | Facilities, sources and gases defined, documented and kept stable |
+| Source register | Every emission source with its measurement method |
+| Calibration | Meters and analysers calibrated on schedule, certificates kept |
+| Raw data | Original readings retained, not only calculated results |
+| Method | Emission factors, their source and version recorded |
+| Change control | Any change to method or boundary logged with a reason |
+| Gap procedure | A conservative, pre-agreed method for missing data |
+| Segregation | The person entering data is not the only one checking it |
+| Audit trail | Who entered what, when, and what changed |
 
-The data gap procedure is the one most often missing. Meters fail, and a verifier confronted with an undocumented gap will substitute a conservative assumption that costs you certificates. Having a written, pre-agreed gap-filling method — applied consistently, not chosen after seeing which value is favourable — protects the number.
+The **gap procedure** is the one most often missing. Meters fail. Faced with an undocumented gap, a verifier will substitute a conservative value that costs you certificates. A written method, applied the same way every time rather than picked after seeing which value helps, protects the result. None of this is unusual; it is ordinary measurement discipline, and far cheaper to set up before the first cycle than to rebuild during verification.
 
-None of this is exotic. It is the same discipline any regulated measurement carries, and it is far cheaper to build before the first compliance cycle than to reconstruct during verification.
+## What it means for developers
 
-## Frequently Asked Questions
+**Advantages:** buyers at home with a compliance need, no exposure to export policy, no corresponding adjustment question, and a regulated registry.
 
-**What is the CCTS?** India's Carbon Credit Trading Scheme, established under the Energy Conservation Act as amended in 2022, comprising a compliance mechanism for notified obligated entities and an offset mechanism for voluntary projects.
+**Limits:** the approved activity list defines what can be credited; any cap on how much offset supply the compliance track absorbs limits demand; and prices follow target stringency rather than international buyer taste.
 
-**Who administers it?** The Bureau of Energy Efficiency under the Ministry of Power, with the Grid Controller of India as registry and CERC regulating trading.
+The choice a developer faces is which market to build for. International voluntary buyers pay for co-benefits and a strong story. A domestic compliance buyer wants an instrument at the clearing price. They expect different documentation too. Our guide on [starting a carbon credit business in India](/insights/how-to-start-carbon-credit-business-in-india/) works through that decision.
 
-**Who is an obligated entity?** Entities in notified energy-intensive sectors, specified by the central government. Confirm current notification status directly with BEE.
+## Links to international markets
 
-**What is a Carbon Credit Certificate?** The tradeable instrument under the CCTS, representing one tonne of CO₂-equivalent, issued either for beating an intensity target or for verified project-based reductions.
+India's role in international carbon trading runs through Article 6 of the Paris Agreement, which allows mitigation outcomes to move between countries with **corresponding adjustments** so that the same tonne is not counted twice. A credit exported with an adjustment cannot count towards India's own NDC, so India has been cautious about which activities may generate credits for export. Policy here is still developing. The treaty mechanics are explained in [Article 6 explained simply](/insights/article-6-paris-agreement-explained/).
 
-**How is it different from PAT?** PAT targeted specific energy consumption and issued ESCerts; CCTS targets greenhouse gas emission intensity, covers a broader emissions scope, and admits project-based offset supply.
+Aviation runs on a separate scheme, CORSIA, with its own rules on eligible credits; for Indian companies unsure which applies, see [CORSIA or CCTS](/insights/corsia-vs-ccts-for-indian-companies/).
 
-**Can voluntary projects participate?** Yes, through the offset mechanism, for activity types with approved methodologies.
+## Quick answers
 
-**Is it a cap-and-trade system?** Not in the absolute-cap sense. It sets emission intensity targets, allowing absolute emissions to grow with output while requiring efficiency improvement.
+**Is the CCTS cap-and-trade?** Not in the absolute sense. It sets intensity targets, so absolute emissions can rise with output.
 
-**What happens if an entity misses its target?** It must acquire Carbon Credit Certificates to cover the shortfall or face the penalty specified under the scheme.
+**What is a CCC?** The tradeable certificate, equal to one tonne of CO₂e, issued for beating a target or for verified project reductions.
 
-**How does this affect Indian companies selling credits abroad?** Export of credits interacts with corresponding adjustments and India's NDC accounting. Policy in this area is evolving — take current advice.
+**What if a plant misses its target?** It buys CCCs to cover the shortfall or faces the specified penalty.
 
-**Where do I find the official rules?** The Bureau of Energy Efficiency and Ministry of Power publish the scheme documents, procedures and sectoral targets.
+**Can voluntary projects join?** Yes, through the offset track, for activities with approved methodologies.
 
----
+**Where are the official rules?** On the BEE and Ministry of Power websites.
 
-**Planning a carbon credit project in India?** DSTechnoverse supports feasibility screening, baseline and additionality assessment, monitoring plan design, data systems and MRV documentation — and works with buyers on credit due diligence. We are based in **Indore, Madhya Pradesh** and work with developers across India. See our [carbon credit services](/services/), or [talk to our team](/contact/) about your project.
+If you are an obligated plant working out whether your data will pass verification, or a developer deciding between the domestic and international routes, [talk to us](/contact/). Our background is emissions data, which is where most CCTS problems start.
 
-*This article is general information, not legal, financial or regulatory advice. India's carbon market rules are still being built out — verify the current position with the Bureau of Energy Efficiency and your legal advisers before committing capital.*
+*This article is general information, not legal, financial or regulatory advice. India's carbon market rules are still being built out; verify the current position with the Bureau of Energy Efficiency and your legal advisers before committing capital.*

@@ -1,173 +1,91 @@
 ---
-title: "CORSIA Gap Analysis: What It Examines and Why It Comes First"
-excerpt: "A gap analysis tests your current position against what verification will actually check — scope, monitoring plan, data sources, reconciliation, records and registry readiness. What each area covers and the gaps that recur."
+title: "Why a CORSIA Gap Analysis Should Be Your First Engagement"
+excerpt: "A CORSIA gap analysis is a short diagnostic that finds where you fall short of what verification tests, while fixes are still cheap. The eight areas it covers, how to sample real records, and a sample findings table turned into a plan."
 date: "2026-08-29"
 topic: "Airline Compliance"
 tags: ["CORSIA gap analysis","CORSIA readiness","compliance assessment","CORSIA audit preparation","CORSIA consultant India","verification readiness","MRV assessment"]
 image: "/images/corsia-consultant/corsia-gap-analysis-areas.svg"
 ---
 
-A gap analysis is a bounded piece of work with one purpose: to establish, before money is committed to anything larger, where your current CORSIA position falls short of what verification will test.
+Picture an operator that commissions a new emissions data pipeline as its first CORSIA project. Months in, it turns out that nobody decided whether the uplift docket or the finance system is the authoritative fuel figure. The pipeline has been built around an assumption, and part of it has to be rebuilt. The scenario is illustrative, but the pattern is a common one.
 
-It is the engagement that should come first, and the one most often skipped in favour of starting the visible work.
+A gap analysis done first would have surfaced that in a few days. That is the whole case for it: a bounded, diagnostic piece of work that measures your present arrangements against what a verifier will check, before larger sums are committed. It belongs at the front of the queue and, because it produces no visible system or document, it is the step most often skipped.
 
-![What a CORSIA gap analysis examines](/images/corsia-consultant/corsia-gap-analysis-areas.svg)
+![Diagram of the eight areas a CORSIA gap analysis examines](/images/corsia-consultant/corsia-gap-analysis-areas.svg)
 
-## Why It Comes First
+## Moving the discovery forward
 
-Most CORSIA problems are discovered at verification, a year after the decision that caused them, when the reporting year is closed and the data cannot be recreated.
+Left alone, most CORSIA weaknesses surface during verification, roughly twelve months after whatever choice created them. By then the year is shut and missing data cannot be produced after the fact. A diagnostic pulls that discovery into a period when a fix is still inexpensive. What you receive is a ranked set of problems with the effort each will take, not the repairs themselves.
 
-A gap analysis moves that discovery forward to a point where it is still cheap to act on. It is diagnostic rather than corrective — the output is a prioritised list of what needs fixing and what it will take, not the fix itself.
+One test of a good diagnostic: it has to be able to conclude that things are mostly fine and the remaining work is smaller than expected. A review that invariably ends in a big follow-on project is selling, not diagnosing. If the same firm will do the remediation, which is common and often sensible, agree that scope separately so the findings are not coloured by the value of the next piece of work.
 
-The test of a good one: it should be capable of concluding that you are in reasonable shape and need less work than you expected. An assessment that always recommends a large follow-on engagement is a sales process, not a diagnostic.
+## The eight areas and what usually turns up
 
-## The Eight Areas
+| Area | The question | What we most often find |
+|---|---|---|
+| Scope | Is the in-scope decision documented and defensible? | Group structure unresolved: each AOC is a separate CORSIA operator that must pass or fail the threshold on its own and report on its own, so a consolidated group report will be rejected. Also wet leases and code shares where nobody has fixed which certificate the flight ran under |
+| Monitoring plan | Does practice match the approved plan? | Drift. A system changed or someone left, and the team has done something slightly different for eighteen months. Verification tests against the plan in force at the time, so drift creates non-conformities even where the data is fine. Plan versions without approval dates |
+| Data sources | For every reported field, is a single system the source of record? | Two sources and no rule; the figure used depends on whoever did that month. A governance problem, fixable by decision |
+| Reconciliation | Are the rules for settling disagreements written down? | Decided case by case. Often the biggest single gap, and it costs only time to close |
+| Data gaps | Is the fill procedure set in advance? | Estimates invented once a gap was noticed. Even an identical number is indefensible if the method came afterwards |
+| Fuels claim | If eligible fuels are claimed, is chain of custody evidenced? | Fuel bought, paperwork missing. No approved-scheme certificate means environmental benefit but no CORSIA claim, found at verification after the budget assumed the reduction |
+| Records | Could an outsider rebuild a reported figure from the files in three years? | The reasoning was never written down, the old system is gone, and so is the colleague who knew |
+| Registry | Are accounts open, tested, with more than one authorised representative? | Left until purchase. Know-your-customer onboarding takes four to eight weeks, so your own paperwork blocks delivery |
 
-### 1. Scope determination
+## Records, not just documents
 
-**The question:** Is the in-scope determination documented and defensible?
+What separates a useful gap analysis from a superficial one is whether it looks at real records or only at process documents. Reading the monitoring plan shows the intended process. Following twenty real flights shows the actual one, and the two differ more often than anyone expects.
 
-**Recurring gap:** Group entity structure unresolved. An operator with several Air Operator Certificates has several CORSIA operators, each with its own threshold test and reporting obligation. Aggregating at group level produces a report the authority will reject.
+How to sample well:
 
-Also common: wet lease and code share arrangements where nobody has established which certificate the flight was conducted under.
+- **Trace in both directions.** From reported value back to source, and from source record forward to the report. Only the second catches missing flights, because a flight absent from the report can never be sampled from it.
+- **Pick the awkward cases.** Diverted sectors, handled-station uplifts, charters, the month the system went down, flights just either side of a plan revision. Sampling routine flights tests only what was always going to work.
+- **Look at the disagreements.** Where sources differed, was the written rule applied and the decision recorded?
+- **Try a reconstruction.** Hand one of the sampled numbers to a colleague who played no part, with the files and nothing else, and ask how it was reached. A blank look now predicts a finding later.
 
-### 2. Monitoring plan
+A sample of twenty, chosen with care, tells you more than reading every procedure, in less time. Most of this works remotely: document review, data sampling and interviews. Visiting in person earns its cost mainly when the doubt is about how stations generate their records.
 
-**The question:** Does actual practice match the approved plan?
+## Worked example: from findings to a one-page plan
 
-**Recurring gap:** Drift. The plan says one thing; the team has been doing something slightly different for eighteen months because a system changed or a person left. Verification tests reporting **against the plan in force during the period**, so drift produces non-conformities even where the underlying data is fine.
+Illustrative only. A mid-sized Indian operator preparing for its first verification commissions a gap analysis. The report closes with a single table:
 
-Also check that plan versions are retained with their approval dates. If the plan was revised mid-year, both versions matter.
+| # | Finding | Severity | Must follow | Owner | Effort | Deadline |
+|---|---|---|---|---|---|---|
+| 1 | Second AOC not assessed separately against the threshold | High | None | Compliance lead | 2 days | Before plan revision |
+| 2 | No authoritative source named for fuel mass | High | None | Head of fuel accounting | 1 day | Before plan revision |
+| 3 | Reconciliation rules unwritten for six known discrepancy types | High | 2 | Data analyst | 2 days, plus 1 day review with flight operations | Before reporting year |
+| 4 | Plan describes a method two outstations do not follow | Medium | 2 | Compliance lead | 3 days | Before reporting year |
+| 5 | Gap fill method not in the plan | Medium | 3 | Compliance lead | 1 day | Before reporting year |
+| 6 | Registry account not opened; one representative only | Medium | None | Finance | 4–8 weeks elapsed | Before first purchase |
+| 7 | Flight list reconciled to schedule, not an independent source | Medium | None | Flight operations | 2 days | During the year |
+| 8 | Fuel records, crew records and scope rules adequate | Sound | — | — | None | — |
 
-### 3. Data sources
+Three principles are at work in that table.
 
-**The question:** Is exactly one system authoritative for each reported field?
+**Order by dependency, not severity.** Reconciliation rules (3) cannot be written until the authoritative source (2) is decided, and the plan cannot be revised until scope (1) is settled. A list sorted only by severity produces rework.
 
-**Recurring gap:** Two sources, no rule. Fuel uplift dockets say one thing, the finance system another, and which one is used depends on who prepared the figure that month. This is not a data problem so much as a governance one, and it is entirely fixable by decision.
+**Split on the reporting-year boundary.** Whatever alters the monitoring plan is fixed in time, since approval has to land before the covered year starts. Everything else can follow. That split immediately shows what is urgent.
 
-### 4. Reconciliation
+**Size effort in days, not adjectives.** "Tidy up the documentation" is a wish. "Two days drafting six rules, one day checking them with flight operations" is a task.
 
-**The question:** Are the rules for resolving discrepancies written down?
+Row 8 matters too. A report made only of problems loses perspective and tempts management to spend on areas that were already fine. Each finding should also note the evidence examined, so management can see how the conclusion was reached. The table fits on one page, can go straight to a management meeting, and shows progress without a separate status report.
 
-**Recurring gap:** Decided case by case. Sources will disagree — that is normal and expected. What verification probes is whether the resolution is consistent and defensible. "That is what we have always done" is not an answer that survives.
+Once the fixes are in, test the weak areas again. A gap marked closed in a tracker is not always closed on the ramp, and if nobody re-tests, the verifier will.
 
-This is frequently the largest single gap, and it costs nothing but time to close.
+## Sizing the work to the operator
 
-### 5. Data gaps
+- **A small operator near the threshold** often needs only a scope ruling and a check that its data can support a method: a few days' work with a firm answer at the end.
+- **An established operator heading for its first verification** needs all eight areas, with real record sampling. For a carrier with several entities, allow two to four weeks.
+- **An operator with a previous finding** should aim the analysis at that finding's root cause rather than repeat a general review. A repeat finding is taken far more seriously than a first.
 
-**The question:** Is the fill procedure defined in advance?
+## When to run one
 
-**Recurring gap:** Invented after the gap appears. A documented estimation method applied consistently is defensible. An ad hoc estimate devised once a gap is noticed is not, even if the number is identical.
+- ahead of drafting the first monitoring plan, so the method matches the data you really hold
+- ahead of the first verification, so you see the verifier's findings first
+- whenever something big changes: new systems, a different fleet or network, a restructure, the departure of a key person
+- following a verification finding, to get at its root cause
+- in the run-up to 2027, when the second phase widens route coverage and your scope decision has to be tested again against the new participation position
 
-### 6. Fuels claim
+Your own staff can catch known problems. An outside view is better at spotting what familiarity has made invisible, and knows what verifiers test in practice. No honest gap analysis will promise that your verification will pass; the verifier forms its own opinion. What it can do is make sure the budget goes to the right work. For a self-assessment starting point, see the [readiness assessment checklist](/insights/corsia-readiness-assessment-checklist/); for what usually follows, [your first CORSIA year](/insights/corsia-first-year-compliance-india/) and [preparing for a CORSIA audit](/insights/corsia-internal-audit-preparation/).
 
-**The question:** If CORSIA Eligible Fuels are claimed, is the chain of custody evidenced?
-
-**Recurring gap:** Fuel bought, paperwork missing. Qualifying fuel with no approved-scheme certification and no chain-of-custody documentation produces an environmental benefit and no CORSIA claim. Operators who budgeted on the reduction discover the disallowance at verification.
-
-### 7. Records and knowledge
-
-**The question:** Could someone not involved reconstruct a reported figure from the files alone, three years from now?
-
-**Recurring gap:** Knowledge held by one person. The reconciliation logic lives in someone's head, the source system has been replaced, and the person has moved on. This is the gap that turns a routine audit into a serious problem.
-
-### 8. Registry readiness
-
-**The question:** Are accounts open, with more than one authorised representative, and tested?
-
-**Recurring gap:** Left until purchase time. Account opening involves know-your-customer processes and takes four to eight weeks. Agreeing a purchase and then starting onboarding means your own compliance blocks delivery.
-
-## What the Output Should Contain
-
-A useful gap analysis produces more than a list of findings:
-
-| Element | Why |
-|---|---|
-| Finding, per area | What is actually wrong |
-| Severity | Would this cause a verification finding, and how serious |
-| Evidence | What was examined to reach the conclusion |
-| Effort to close | Days, not adjectives |
-| Sequence | What must be fixed before something else can be |
-| What is already fine | So effort is not wasted re-doing sound work |
-
-That last row matters. An assessment listing only problems gives no sense of proportion and invites over-investment in areas that were already adequate.
-
-## Scaling It
-
-**A small operator near the threshold** may need little more than a scope determination and a data readiness test — a few days of work with a clear yes or no at the end.
-
-**An established operator preparing for a first verification** needs all eight areas examined, with sampling of actual records rather than review of documented process alone.
-
-**An operator with a previous verification finding** should focus the analysis on the finding's root cause rather than repeating a general review. A repeat finding is treated far more seriously than a first one.
-
-## Sampling Actual Records
-
-The difference between a useful gap analysis and a superficial one is whether it examines records or only process documents.
-
-Reviewing the monitoring plan tells you what should happen. Sampling twenty actual flights and tracing each reported figure back to its source tells you what does happen, and the two diverge more often than anyone expects.
-
-A practical sampling approach:
-
-**Trace end to end, both directions.** Pick reported values and work back to source records; then pick source records and confirm they reached the report. The second direction catches completeness problems that the first cannot — a flight missing from the report will never be sampled from the report.
-
-**Choose awkward cases deliberately.** A diverted flight, an outstation uplift, a charter, a month with a system outage, a date near a plan revision. Sampling only routine flights tests only the part that was always going to work.
-
-**Check the discrepancy cases.** Where sources disagreed, was the documented rule applied, and is the decision recorded?
-
-**Test the reconstruction claim.** Hand a sampled figure to someone uninvolved and ask them to explain it from the files alone. If they cannot, neither will a verifier.
-
-Twenty well-chosen records reveal more than a full document review, and take less time.
-
-## When to Run One
-
-**Before the first monitoring plan**, to establish what your data can actually support.
-
-**Before the first verification**, to find what the verifier will find while there is still time.
-
-**After any significant change** — a system replacement, a fleet or network change, a group restructure, a key person leaving.
-
-**After a verification finding**, targeting the cause rather than the symptom.
-
-**Before the second phase**, because route coverage expands from 2027 and the scope determination needs re-running against the new participation position.
-
-## Turning Findings Into a Plan
-
-A list of gaps is only useful if it converts into sequenced work. Three principles make that conversion reliable.
-
-**Sequence by dependency, not by severity.** Some fixes block others. There is no point designing reconciliation rules before the authoritative source for each field has been decided, and no point writing a monitoring plan before the scope determination is settled. A severity-ordered list that ignores dependency produces rework.
-
-**Separate what must precede the reporting year.** Anything affecting the monitoring plan has a hard deadline, because the plan must be approved before the year it covers. Everything else can follow. Splitting the list on that boundary immediately clarifies what is urgent.
-
-**Size the effort honestly, in days.** "Improve documentation" is not a plan. "Two days to write reconciliation rules for the six known discrepancy types, one day to review with flight operations" is. Vague effort estimates are how remediation plans quietly fail to happen.
-
-A practical output format is a single table with finding, severity, dependency, owner, effort and deadline. It fits on a page, it can be taken to a management meeting, and progress against it is visible without a status report.
-
-**Re-run the analysis after remediation**, at least on the areas that were failing. Closing a gap on paper and closing it in practice are different, and the difference surfaces at verification if nobody checks.
-
-## Frequently Asked Questions
-
-**How long does a gap analysis take?** For a small operator, days. For an established carrier with multiple entities, two to four weeks including record sampling.
-
-**Can we do it ourselves?** Partly. Internal review catches known problems. An external view is more likely to find what has become invisible through familiarity, and knows what verifiers actually test.
-
-**Is it the same as a readiness assessment?** Broadly similar terms. Both examine current position against requirements. See [the CORSIA readiness assessment checklist](/insights/corsia-readiness-assessment-checklist/).
-
-**Will it tell us our verification will pass?** No, and be sceptical of anyone claiming otherwise. It identifies gaps against what verification tests; the verifier reaches their own opinion independently.
-
-**What if it finds serious problems?** Better now than at verification. Prioritise by severity and by what blocks other work, and fix in sequence.
-
-**Should the same firm fix what it finds?** Common and often sensible, but agree the remediation scope separately so the diagnostic is not shaped by the size of the follow-on work.
-
-**How much does a gap analysis cost relative to the remediation?** A small fraction. That asymmetry is the argument for doing it — it is cheap insurance against committing budget to the wrong work, or against discovering a structural problem at verification.
-
-**Can it be run remotely?** Largely yes. Document review, data sampling and interviews work remotely. A site visit adds most where the question concerns how records are actually created at stations.
-
-**What comes next?** Usually the monitoring plan or its revision, then the data pipeline. See [your first year of CORSIA compliance](/insights/corsia-first-year-compliance-india/).
-
----
-
-**Working out what CORSIA means for your operation?** DSTechnoverse provides [CORSIA carbon credit services](/services/) for Indian operators and project developers — scope assessment, monitoring plans, data pipelines, verification support and unit sourcing. We are based in **Indore, Madhya Pradesh** and work across India.
-
-[Apply as a CORSIA buyer or seller](https://carboncredit.dstechnoverse.com/)
-
-[Talk to our carbon markets team](/contact/) about your position.
+A gap analysis is usually where our work with an operator begins. [Contact us](/contact/) and we will scope one around your AOCs and network.

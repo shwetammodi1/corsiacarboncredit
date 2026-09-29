@@ -1,168 +1,140 @@
 ---
-title: "CORSIA Carbon Credit Seller Guide: How to Sell Into Aviation Compliance"
-excerpt: "Selling into CORSIA is harder than selling into the voluntary market, and the reason is rarely project quality. What sellers need to understand about host-State authorisation, buyer expectations, documentation and pricing."
+title: "Selling Carbon Credits Into CORSIA: A Guide for Project Developers"
+excerpt: "Airlines buy CORSIA units on evidence, not narrative, and the deciding step is a government's authorisation. What developers need to line up, how to price and structure supply, where to find buyers, and how to keep a fallback."
 date: "2026-08-21"
 topic: "CORSIA Fundamentals"
 tags: ["CORSIA carbon credit seller","sell CORSIA credits","carbon credit supplier","CORSIA project developer","corresponding adjustment","carbon offtake agreement","CORSIA market access"]
 image: "/images/corsia/hero-corsia-seller.svg"
 ---
 
-Project developers who succeed in the voluntary market often assume CORSIA is the same market with a different buyer. It is not. The buyer is different in what it wants, the eligibility bar is set by a body neither party controls, and the gating requirement is a decision made by a government rather than by anyone in the transaction.
+A developer who has sold well to corporate buyers usually arrives at an airline meeting with the same deck: drone footage, a village water pump, a slide of Sustainable Development Goal icons. The airline's carbon manager is polite, then asks for one document, the host government's authorisation naming the units. If that is not in the room, the meeting is effectively over.
 
-This guide covers what actually determines whether you can sell into CORSIA, and how to position when you can.
+CORSIA is not the voluntary market with a new customer. The buyer wants something different, the eligibility rules are set by a body neither party controls, and the step that decides everything is taken by a government, not by anyone at the table. This guide is for developers, Indian ones in particular, who want to sell into it.
 
-![CORSIA carbon credit seller](/images/corsia/hero-corsia-seller.svg)
+![Illustration for the CORSIA seller guide](/images/corsia/hero-corsia-seller.svg)
 
-## The Question That Decides Everything
+## Start with the government, not the methodology
 
-Before methodology, before validation, before buyer conversations: **will your host State authorise these units and apply a corresponding adjustment?**
+The first question comes before any methodology work, validation budget or buyer conversation: **will the host government authorise these units and apply a corresponding adjustment?**
 
-Under Article 6 of the Paris Agreement, a State authorising credits for international use — including CORSIA — must add those tonnes back into its own national accounting, forgoing them against its Nationally Determined Contribution. It is a real cost to the government, and governments respond to it differently.
+Under Article 6 of the Paris Agreement, a country that authorises credits for international use, CORSIA included, adds those tonnes back to its own national accounts and so gives them up against its Nationally Determined Contribution. That is a real cost to the government, and governments treat it differently.
 
-Some authorise readily, sometimes with fees or benefit-sharing conditions. Some authorise for specific project types and decline others. Some have no designated authority, no process and no precedent, which functionally means no. Some have signalled a preference for retaining mitigation outcomes domestically.
+- Some authorise readily, sometimes charging fees or requiring benefit-sharing.
+- Some authorise certain project types and refuse others.
+- Some have no designated authority, no process and no precedent, which in practice amounts to a refusal.
+- Some have signalled that they prefer to keep mitigation outcomes at home.
 
-The practical consequence is stark: **a fully registered, independently verified, high-quality project can be entirely unable to supply CORSIA.** This is not a judgement on the project. It is a sovereignty and accounting constraint operating above it.
+The result can be harsh: a project that is registered, independently verified and well run may still be unable to sell a single unit into CORSIA. That is not a judgement on the project; it is a question of national accounting that sits above it. For an Indian developer, the decision rests with the Government of India. [Corresponding adjustments for Indian CORSIA projects](/insights/corsia-corresponding-adjustment-india/) covers that process.
 
-Developers who discover this after spending a validation budget have made an expensive and completely avoidable mistake. See [corresponding adjustments explained](/insights/corresponding-adjustments-corsia-explained/) for the mechanics.
+Finding this out after paying for validation is an expensive and entirely avoidable mistake.
 
-## What the CORSIA Buyer Actually Wants
+## What the airline is actually screening for
 
-An airline buying CORSIA units is not buying a story. It is buying **regulatory discharge** — a unit that, when cancelled and reported, reduces its obligation by one tonne in the eyes of its national authority.
+An airline needs a unit that, once cancelled and reported, removes a tonne from its obligation in the eyes of its authority. It will be verified, and possibly audited years later, so it buys on evidence.
 
-This changes what sells.
+| Carries little weight with a CORSIA buyer | Decides the deal |
+|---|---|
+| Photographs and field stories | The host-government authorisation document |
+| Co-benefit branding and SDG mapping used as marketing | Current ICAO approval status of the programme |
+| A location that resonates with the airline's customers | Vintage |
+| | Registry serial numbers |
+| | The verification report |
+| | A complete documentation pack |
 
-**Irrelevant or nearly so:** project photographs, community narrative, co-benefit branding, geographic resonance with the buyer's customer base, SDG mapping presented as marketing.
+Sellers who lead with the voluntary pitch often lose to sellers with weaker projects and better paperwork. That is a rational response from the buyer.
 
-**Decisive:** the host-State authorisation document, programme approval status, vintage, registry serialisation, verification report, and the completeness of the documentation package.
+Co-benefits still have value. They matter to voluntary buyers competing for the same adjusted supply, and they can support an airline's own sustainability messaging as a secondary point. They cannot stand in for eligibility.
 
-Sellers who lead with the voluntary market pitch frequently lose deals to sellers with weaker projects and stronger paperwork. That is a rational buyer response — the airline will be verified and possibly audited years later, and it needs evidence, not narrative.
+## From project to cancelled unit
 
-Note the caveat: co-benefits are not worthless. They matter for voluntary buyers competing for the same adjusted supply, and they can matter to an airline's own sustainability communications as a secondary consideration. But they do not substitute for eligibility.
+![Diagram of the seller pathway from authorisation feasibility to transfer](/images/corsia/corsia-seller-pathway.svg)
 
-## The Seller Pathway
+| Stage | What happens | What tends to go wrong |
+|---|---|---|
+| 1. Authorisation feasibility | Approach the designated national authority, or establish that none exists; learn the policy on your type, any fees, and the likely timeline | Skipped, or left until the end |
+| 2. Programme choice | Pick an ICAO-approved programme with a methodology that fits; check whether approval is full or conditional and when it is reviewed | Approval lapses mid-project |
+| 3. Design | Baseline, additionality and monitoring plan, built against the [eligibility criteria](/insights/corsia-eligible-emissions-units-criteria/) on purpose | Criteria met by accident or not at all |
+| 4. Validation | An accredited body checks the design | Queues at validators |
+| 5. Registration | The programme registers the project | |
+| 6. Operation and monitoring | The activity runs; data is collected per the plan | Gaps in monitoring data |
+| 7. Verification | An accredited body verifies reductions for a period | Findings on data quality |
+| 8. Issuance | Units are issued into the registry | |
+| 9. Authorisation and adjustment | The government authorises the specific units; the adjustment is applied | Delay with no timetable |
+| 10. Sale and transfer | Units go to a buyer, who cancels them | Documentation incomplete |
 
-![CORSIA seller pathway](/images/corsia/corsia-seller-pathway.svg)
+For a new project, eighteen months to three years to first issuance is realistic, and stage one is the least predictable part of the whole sequence. [Becoming a CORSIA supplier](/insights/how-to-become-corsia-carbon-credit-supplier/) takes each stage in more detail.
 
-**1. Authorisation feasibility.** Engage the host State's designated national authority, or establish that none exists. Understand the policy position for your project type, any fees or conditions, and the realistic timeline. Do this first.
+## What moves your price
 
-**2. Programme selection.** Choose an ICAO-approved crediting programme with a methodology that fits your activity. Check whether the approval is full or conditional, and when it is next reviewed. Programme approval has lapsed before.
+Eligible units sell at a substantial premium over comparable non-eligible credits from the same kind of project. That premium is the value the authorisation creates, not a general uplift for being "aviation grade".
 
-**3. Project design.** Baseline, additionality, monitoring plan — designed against the [eligibility criteria](/insights/corsia-eligible-emissions-units-criteria/) explicitly rather than hoping they are met incidentally.
+| Pushes the price up | Pushes it down |
+|---|---|
+| Authorisation granted and documented | Authorisation pending, or conditional on things outside your control |
+| Vintage well inside the window for buyers' current period | Vintage close to a window boundary |
+| Volume large enough to justify a buyer's diligence | Small parcels carrying the same diligence cost |
+| A complete pack ready for audit | Summaries instead of underlying evidence |
+| A project type with clean additionality and low reversal risk | A type under methodological scrutiny |
+| A contractual warranty of eligibility | No warranty, or one without a real remedy |
 
-**4. Validation.** An accredited body validates the design. Capacity is a real constraint; queues form.
+The buyer's side of the same drivers is in [our timing and price guide](/insights/corsia-carbon-credit-price-guide/).
 
-**5. Registration.** The project is registered with the programme.
+## Offtake terms from the seller's chair
 
-**6. Implementation and monitoring.** The activity runs and data is collected per the monitoring plan.
+Forward agreements are common, and whatever the contract leaves unsaid, it still allocates by default. Five points need explicit terms.
 
-**7. Verification.** An accredited body verifies the reductions for a monitoring period.
+- **Authorisation.** If it has not come by an agreed date: termination, a price change, substitute supply, or delivery of non-eligible units at a lower price.
+- **Late delivery.** Issuance after the buyer's cancellation deadline is a real failure mode. Agree the remedy.
+- **Vintage.** If the eligibility window moves between signing and delivery, decide who absorbs it.
+- **Volume.** Projects routinely deliver less than projected. Use a tolerance band rather than a single figure.
+- **Documents.** Make delivery of the full evidence pack an obligation.
 
-**8. Issuance.** Units are issued into the registry.
+A good forward gives a developer an anchor buyer and makes the project easier to finance. A poor one pushes all the uncertainty onto whoever read it less carefully.
 
-**9. Authorisation and adjustment.** The host State authorises the specific units and the corresponding adjustment is applied.
+## Keep a second route to market
 
-**10. Sale and transfer.** The units reach a buyer, who cancels them.
+A financial model that only works if CORSIA buys, in a country where authorisation is uncertain, is a concentrated bet on one government decision.
 
-Realistic elapsed time for a new project: eighteen months to three years to first issuance, with step one the least predictable element in the whole sequence.
+The better approach is to design for CORSIA eligibility while keeping the option of selling to the voluntary market without an adjustment. If authorisation comes, you earn the premium. If it does not, the project still sells. This costs little at design stage and is very hard to add afterwards. Indian developers also have a domestic option to weigh; see [domestic scheme or international sale](/insights/corsia-consulting-services-india/).
 
-## Pricing Your Supply
+There is growing voluntary demand for adjusted units too. Some corporate buyers want the strongest protection against double-counting criticism and will pay for the adjustment with no CORSIA obligation at all. That competition supports your price either way.
 
-CORSIA-eligible units carry a substantial premium over comparable non-eligible supply from the same project type. That premium is the value created by the authorisation, and it should be understood as such rather than as a general uplift.
+## Reaching buyers
 
-Things that raise your price:
+There is no exchange or listing that reliably covers adjusted supply, so eligible units do not sell themselves.
 
-- Authorisation confirmed and documented, rather than pending
-- Vintage comfortably inside the window for buyers' current compliance period
-- Volume sufficient to be worth a buyer's diligence effort
-- A complete, audit-ready documentation package
-- A project type with clean additionality and low permanence risk
-- Willingness to warrant eligibility contractually
+| Channel | Strength | Watch for |
+|---|---|---|
+| Direct to operators | Valuable relationships | Slow; the right contact is usually in sustainability or a carbon role, not procurement |
+| Brokers and intermediaries | Faster reach | Their margin, and whether they can explain corresponding adjustments; one who cannot will misrepresent you |
+| Programme or platform introductions | Discovery | Limited follow-through |
+| Advisers who work for operators | They know what clients need and when | Easy to overlook |
+| Aggregators | Make small volumes worth a large buyer's time | Terms of the pooling arrangement |
 
-Things that lower it:
+Whatever the channel, open with credentials, not the project story. A seller who can send the authorisation document, evidence of programme approval, the vintage confirmation and the verification report in one reply stands out immediately, because most cannot. An operator that has been offered "CORSIA-ready" supply many times will notice.
 
-- Authorisation pending, or conditional on something outside your control
-- Vintage near a window boundary
-- Small parcels that carry the same diligence cost as large ones
-- Documentation offered as summaries rather than underlying evidence
-- A project type under methodological scrutiny
-- Refusal to warrant, or a warranty with no meaningful remedy
+## Where sellers go wrong
 
-See [the price guide](/insights/corsia-carbon-credit-price-guide/) for the buyer's view of the same drivers.
+- **Assuming authorisation will come.** The most expensive error in this market.
+- **Pitching as if to a voluntary buyer.** It does not answer the airline's question.
+- **Calling units "CORSIA-ready".** Experienced buyers read it, correctly, as "not eligible", and it costs credibility.
+- **Assembling documents after the fact.** Build the pack as you go; reconstructing it years later to audit standard is painful and sometimes impossible.
+- **Not tracking programme approval.** It can lapse under you.
+- **Pricing off voluntary averages.** They describe a different product.
+- **Offering small parcels to large buyers.** The per-tonne diligence cost puts them off. Aggregate, or find buyers whose volume matches yours.
 
-## Structuring Offtake
+## Short answers
 
-Forward agreements are common, and they allocate risk that would otherwise sit somewhere by default.
+::: accordion Can existing voluntary credits be sold into CORSIA?
+Only if the programme is ICAO-approved, the vintage qualifies, and the host government authorises those exact units with a corresponding adjustment. The last step is a government decision, not a trade.
+:::
 
-**Authorisation risk.** If the host State does not authorise by an agreed date, what happens? Termination, price adjustment, substitution with other supply, or the buyer accepts non-eligible delivery at a reduced price. Silence here is dangerous for both sides.
+::: accordion How long does authorisation take?
+It varies widely: weeks where a process is established, indefinitely where none exists. Treat a vague answer as a serious risk.
+:::
 
-**Delivery risk.** Late issuance relative to the buyer's cancellation deadline is a real failure mode. Define remedies.
+::: accordion Do I need my own registry account?
+Yes, with the issuing programme, to hold and transfer units.
+:::
 
-**Vintage risk.** If the eligible window moves between contracting and delivery, who absorbs it?
-
-**Volume risk.** Projects under-deliver against projections routinely. Define tolerance bands rather than a fixed number.
-
-**Documentation.** Make delivery of the full evidence package a contractual obligation, not a courtesy.
-
-A well-structured forward is genuinely valuable to a developer: it de-risks the financing and provides an anchor buyer. A poorly structured one transfers all the uncertainty to whichever party did not read carefully.
-
-## Keeping a Fallback
-
-Building a financial model that only works with CORSIA placement, in a jurisdiction where authorisation is uncertain, is a concentrated bet on a government decision.
-
-The sensible hedge is to design for CORSIA eligibility while retaining the option to sell into the voluntary market without an adjustment. If authorisation arrives, you capture the premium. If it does not, the project still has a route to market. This costs little at the design stage and is very hard to retrofit later.
-
-There is also a genuine and growing voluntary demand for adjusted units — corporate buyers who want the strongest available protection against double-counting criticism will pay for the adjustment even with no CORSIA obligation at all. That competition supports your price on both sides.
-
-## Finding Buyers
-
-Supply does not sell itself, even when it is genuinely eligible, because buyers cannot easily find it. There is no exchange and no listing service that reliably covers the adjusted segment.
-
-**Direct approach to operators.** Slow but valuable. The relevant contact is usually in sustainability or a dedicated carbon function rather than procurement, and the first conversation should establish eligibility credentials rather than pitch the project. An operator that has been offered "CORSIA-ready" supply repeatedly will pay attention to a seller who leads with an actual authorisation document.
-
-**Intermediaries and brokers.** Faster reach at a margin. Assess whether the intermediary actually understands eligibility before letting them represent your supply — one who cannot explain corresponding adjustments will misrepresent your project to buyers who can.
-
-**Programme and platform matching.** Some crediting programmes and platforms facilitate introductions. Useful for discovery.
-
-**Advisers working operator-side.** Consultants managing compliance for airlines know exactly what their clients need and when. Being known to them is a low-cost channel that sellers frequently overlook.
-
-**Aggregators.** Where your volume is small, aggregating with other projects makes the parcel worth a large buyer's diligence effort.
-
-The practical point: what buyers are screening for is a short list of documents. A seller who can send the authorisation document, the programme approval evidence, the vintage confirmation and the verification report in a single reply is doing something most sellers cannot, and it moves conversations forward faster than any amount of project narrative.
-
-## Common Seller Mistakes
-
-**Assuming authorisation.** The most expensive error in this market.
-
-**Leading with the voluntary pitch.** Photographs and narrative do not answer the buyer's actual question.
-
-**Describing units as "CORSIA-ready."** Sophisticated buyers read this as "not eligible", correctly, and it damages credibility.
-
-**Reconstructing documentation retrospectively.** Build the package as you go. Rebuilding it years later, to a standard that survives someone else's audit, is painful and sometimes impossible.
-
-**Ignoring programme approval risk.** Approval can lapse under you. Monitor it.
-
-**Pricing from voluntary market averages.** They describe a different product.
-
-**Selling small parcels to large buyers.** The diligence cost per tonne is prohibitive. Aggregate, or target buyers whose volume matches yours.
-
-## Frequently Asked Questions
-
-**Can I sell existing voluntary credits into CORSIA?** Only if the issuing programme is ICAO approved, the vintage is eligible, and the host State authorises those specific units with a corresponding adjustment. The last is a governmental decision, not a market transaction.
-
-**How long does authorisation take?** Highly variable. Weeks in jurisdictions with an established process; indefinite where none exists. Treat an unclear answer as a material risk.
-
-**Do I need my own registry account?** Yes, with the issuing programme, to hold and transfer units.
-
-**Should I sell direct or through an intermediary?** Direct gives better pricing and control but requires you to reach buyers. Intermediaries provide access at a margin. Assess their actual understanding of eligibility before relying on them to represent your supply.
-
-**What volume is worth a buyer's time?** There is no fixed threshold, but very small parcels carry the same diligence cost as large ones, which makes them unattractive. Aggregation helps.
-
-**Can DSTechnoverse help place supply?** Yes — eligibility screening, authorisation support, documentation and buyer matching. Start with [becoming a CORSIA supplier](/insights/how-to-become-corsia-carbon-credit-supplier/).
-
----
-
-**Buying or selling CORSIA units?** DSTechnoverse provides specialist [CORSIA carbon credit services](/services/) — offsetting requirement calculation and unit sourcing for operators, and eligibility screening, host-State authorisation support and buyer matching for project developers. We are based in **Indore, Madhya Pradesh** and work with clients across India and internationally.
-
-[Apply as a CORSIA buyer or seller](https://carboncredit.dstechnoverse.com/)
-
-[Talk to our carbon markets team](/contact/) about your position.
+If you have units, or a project heading towards issuance, list them through our [seller intake](https://carboncredit.dstechnoverse.com/sell). We will check the eligibility evidence first and tell you plainly which buyers it can reach.

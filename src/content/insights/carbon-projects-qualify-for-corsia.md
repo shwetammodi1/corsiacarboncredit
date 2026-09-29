@@ -1,180 +1,118 @@
 ---
-title: "Which Carbon Projects Qualify for CORSIA? Project Types That Work"
-excerpt: "A project-type-by-project-type assessment of what can realistically supply CORSIA — renewables, methane avoidance, cookstoves, forestry, agriculture and engineered removals — with the additionality, permanence and authorisation issues each faces."
+title: "Which Carbon Projects Can Supply CORSIA? A Project-Type Assessment"
+excerpt: "Renewables, methane capture, cookstoves, forests, soil, engineered removals and more, grouped by the problem that usually stops them reaching CORSIA, with a worked screening of three Indian projects."
 date: "2026-08-22"
 topic: "CORSIA Fundamentals"
 tags: ["CORSIA project types","carbon projects CORSIA","carbon credit additionality","nature based solutions","carbon removals","methane avoidance","CORSIA eligibility"]
 image: "/images/corsia/hero-corsia-projects.svg"
 ---
 
-Not every carbon project can supply CORSIA, and the reasons differ by type. Some fail on additionality, some on permanence, some on safeguards, and a great many on host-State authorisation regardless of their technical merits.
+Imagine a developer in Madhya Pradesh with three projects and one question: which of these can we sell to airlines? One is a portfolio of grid-connected solar plants, one a biogas unit at a dairy cooperative, and one a farm forestry scheme with a few hundred smallholders. The honest answer is different for each, and the reasons have little to do with how much good each project does.
 
-This is a type-by-type assessment of where the difficulties actually sit.
+Project types reach CORSIA or fail to for predictable reasons. This article sorts them by the obstacle that most often stops them, then runs the three projects through the same screen.
 
-![CORSIA carbon projects](/images/corsia/hero-corsia-projects.svg)
+![Illustration of carbon project types considered for CORSIA supply](/images/corsia/hero-corsia-projects.svg)
 
-## The Two Filters Every Type Faces
+## Two gates come before any question of project type
 
-Before the type-specific issues, two filters apply universally.
+Whatever the activity, two conditions apply first.
 
-**Programme approval.** The project must sit under a crediting programme the ICAO Council has approved, using a methodology that programme offers. If your activity has no methodology under an approved programme, it cannot supply, however good it is.
+**An approved programme with a methodology for your activity.** The project must be registered under a crediting programme the ICAO Council has approved, using a methodology that programme actually offers. If no approved programme has a methodology for what you do, the conversation ends there, however well run the project is. The list of programmes is covered in [ICAO-approved crediting programmes](/knowledge-base/corsia-approved-crediting-programmes/).
 
-**Host-State authorisation.** The government must authorise transfer and apply a corresponding adjustment. This is type-agnostic in principle but not in practice — several governments authorise some project types and decline others, typically retaining the ones central to their own abatement pathway.
+**Authorisation and a corresponding adjustment from the host government.** On paper this does not depend on project type. In practice it often does, because several governments authorise some categories and keep others back, usually the ones they rely on for their own national target.
 
-A project that clears both filters then faces the type-specific questions below. One that fails either does not get that far.
+Only a project through both gates gets to the type-specific questions below.
 
-## Grid-Connected Renewable Energy
+## The types at a glance
 
-**The difficulty: additionality.**
+| Project type | What usually stops it | Where it tends to work | Our overall read |
+|---|---|---|---|
+| Methane avoidance (landfill gas, wastewater, biogas, coal mine methane) | Capture already required by law | Sites where venting is the real alternative | Among the better placed |
+| Engineered removals (DAC, biochar, enhanced weathering, BECCS) | Cost and limited volume | Buyers who want the strongest position and can pay for it | Excellent integrity, small scale |
+| Energy efficiency | Short payback undermines additionality; drifting baselines | Long payback, capital constraints, split incentives | Workable in constrained settings |
+| Cookstoves and household energy | Usage rates and non-renewable biomass fraction | Independently monitored usage, conservative inputs | Viable but demanding |
+| Safe water provision | Same as cookstoves, plus proving boiling was displaced | Strong monitoring and cautious assumptions | Viable but demanding |
+| Afforestation, reforestation, forest management | Reversal risk, baselines, land tenure | Clear tenure, adequate buffer, documented consent | High potential, slow |
+| Grid-connected renewables | Additionality where renewables are cheapest | Least developed countries, early-stage tech, off-grid | Difficult in competitive markets |
+| Waste-to-energy and biomass | Shifting waste rules; feedstock sustainability | Documented landfill counterfactual; verified sourcing | Case by case |
+| Transport and mobility | Attribution of behaviour or fleet change | Few approved methodologies exist | Constrained |
+| Soil carbon and agriculture | Measurement cost, variability, reversal | Statistically sound sampling across aggregated farms | Immature today |
+| Industrial gases | Methodologies narrowed or retired | Limited | Largely closed |
 
-Solar and wind have become the least-cost generation option in many markets. That is excellent news for the climate and very bad news for the additionality argument, which requires demonstrating that the project needed carbon revenue to proceed.
+The ordering reflects how the criteria are applied now and how much scrutiny each type attracts. It is not a verdict on climate value. A solar farm in a competitive market is worth building; it is simply hard to show that it needed carbon money.
 
-Several programmes have narrowed or retired methodologies for grid-connected renewables in markets where they are commercially viable without carbon finance. Where methodologies remain available, they typically restrict eligibility to specific country contexts, technologies at an early deployment stage, or projects facing demonstrable barriers.
+## Problem one: showing the project needed carbon revenue
 
-**Where it can still work:** Least developed country contexts, genuinely early-stage technologies, projects facing documented financing or regulatory barriers, and off-grid or mini-grid applications where the commercial case is weaker.
+Additionality asks whether the activity would have happened without the credit income. It sinks more projects than any other test.
 
-**Realistic assessment:** For a standard utility-scale solar or wind project in a market where renewables are competitive, expect difficulty. Approach with realistic expectations rather than assuming past success transfers.
+**Grid-connected solar and wind** are the clearest case. In many markets they are now the cheapest new power, which is good for the climate and bad for the argument that carbon finance was decisive. Several programmes have narrowed or withdrawn their grid-renewable methodologies in such markets. What remains tends to be limited to least developed country settings, technologies still early in deployment, projects facing documented financing or regulatory barriers, and off-grid or mini-grid systems where the commercial case is weaker. Past issuances in the same category are no guide to what will pass today.
 
-## Energy Efficiency
+**Energy efficiency** meets the same challenge when payback is quick. Baselines are also slippery, because efficiency improves over time for reasons unrelated to the project. A further complication: where a country runs its own trading scheme covering efficiency, the same reductions may already be counted there. For Indian projects, check the overlap with the [CCTS](/insights/indian-carbon-market-ccts-explained/) before assuming a clean authorisation path.
 
-**The difficulty: additionality and baselines.**
+**Waste-to-energy** depends on what would otherwise have happened to the waste, and that is often governed by local rules that are themselves changing. Once landfill diversion becomes mandatory, the additionality case weakens. **Biomass energy** must also show that its feedstock is renewable and sustainably sourced, and proving that takes more work than most developers expect.
 
-Industrial and commercial efficiency measures often have short payback periods, which raises the same question — would this have happened anyway. Baseline construction is also harder than it looks, because efficiency improves over time for reasons unrelated to the project.
+**Transport** projects face an attribution problem: showing that one intervention caused a shift in behaviour or fleet mix, rather than riding a trend driven by policy, cost or consumer taste. That difficulty is the main reason approved methodologies are scarce here.
 
-**Where it works:** Measures with genuinely long payback, interventions facing capital constraints or split incentives, and contexts where the technology is not common practice.
+Our [additionality explainer](/insights/additionality-in-carbon-credits-explained/) goes further into how the test is argued.
 
-**Additional issue:** Overlap with domestic compliance schemes. Where a country runs its own energy efficiency trading mechanism, the same reductions may sit inside it, which complicates both authorisation and double-counting analysis.
+## Problem two: measuring the reduction credibly
 
-## Methane Avoidance
+**Cookstoves** can reach enormous numbers of households and bring real health and development benefits. They also carry a long record of methodological criticism. The disputed inputs are how often the new stove is used, whether it replaces the old one or sits beside it, and what share of the baseline biomass is non-renewable. Independent studies have repeatedly found actual reductions below credited figures for some methodologies; programmes have tightened rules and buyers have grown wary. A project built on older assumptions will meet resistance even if it is technically compliant. See [cookstove carbon projects](/insights/cookstove-carbon-projects-guide/).
 
-**Landfill gas, wastewater treatment, biogas, coal mine methane.**
+**Safe water** projects credit the fuel no longer burnt to boil water and share every one of those questions, plus the need to show that treated water actually replaced boiling. The co-benefits support voluntary demand. An airline, though, needs a unit that discharges an obligation, so quantification matters more than the story.
 
-**The strengths:** Additionality arguments tend to be cleaner, because the counterfactual is usually venting rather than a commercially attractive alternative. Permanence is not an issue — avoided emissions do not reverse. Methane's high warming potential means meaningful volumes from modest projects.
+**Soil carbon** is costly and uncertain to measure, varies widely within a single field, and can be lost with a change in practice. Aggregating many smallholders adds monitoring cost. Methodologies are improving but are less mature than for other types.
 
-**The difficulties:** Regulatory additionality, where capture is already legally required. Measurement accuracy, since flow and concentration monitoring must be robust. And in some jurisdictions, overlap with waste sector regulation.
+## Problem three: keeping the carbon stored
 
-**Realistic assessment:** Among the better-placed types for CORSIA, subject to the regulatory additionality check.
+**Forestry**, whether planting or improved management, can be undone by fire, disease, felling or drought. Buffer pools hold reserve credits against such losses, but their adequacy is under active review as losses pile up in fire-prone regions; a buffer sized to past risk may be too small for present risk. Avoided-deforestation baselines, which project what clearing would have happened without the project, have drawn heavy criticism, and independent analyses have found some substantially overstated. The most common failure, however, is land tenure: an agreement with a government or large landowner is not free, prior and informed consent from the communities who use the land. Expect long timelines.
 
-## Cookstoves and Household Energy
+**Engineered removals** sit at the other end. Nobody builds direct air capture or biochar without carbon revenue, so additionality is rarely questioned; geological storage gives strong permanence; and measurement is usually easier than for living systems. The constraints are cost, which shows in the price, thin volumes, and patchy methodology coverage under approved programmes.
 
-**The difficulty: quantification and sustained scrutiny.**
+## Where methane stands out
 
-Improved cookstoves have enormous potential scale, strong development co-benefits, and a sustained record of methodological criticism. The contested elements are usage rates — how often stoves are actually used, and whether they replace or supplement the baseline stove — and the fraction of baseline biomass that is non-renewable.
+Methane avoidance deserves its own line because it clears most tests well. The counterfactual is usually venting, not a profitable alternative, so additionality is cleaner. Avoided emissions cannot reverse. Methane's high warming potential means a modest project yields meaningful volume. The checks that remain are regulatory additionality (is capture already mandatory?), the accuracy of flow and concentration monitoring, and overlap with waste-sector regulation. It is also usually the quickest type to bring to market from existing waste infrastructure.
 
-Independent research has repeatedly found real-world reductions below crediting estimates for some methodologies. Programmes have responded by tightening requirements, and buyers have become more cautious.
+## Worked example (illustrative): the three Madhya Pradesh projects
 
-**Where it works:** Projects with rigorous, independently monitored usage data, conservative assumptions applied deliberately, and a methodology reflecting current rather than historic understanding.
+Running each hypothetical project through the same order of questions:
 
-**Realistic assessment:** Viable but demanding. Conservative quantification here is not a formality, and a project designed to older assumptions will face buyer resistance even if technically compliant.
+**Grid solar portfolio.** Programme and methodology: available only under restrictive conditions. Additionality: hard to argue, since utility solar in India competes on cost. Our advice would be to plan for the voluntary market or domestic routes and not to count on CORSIA revenue.
 
-## Afforestation, Reforestation and Improved Forest Management
+**Dairy biogas unit.** Methodology: available. Additionality: manure is currently left to decompose, and nothing in law requires capture, so the counterfactual is clean. Permanence: not an issue. The remaining work is monitoring design for gas flow and methane content, and the authorisation application. The strongest candidate of the three.
 
-**The difficulties: permanence, baselines and tenure.**
+**Farm forestry scheme.** Methodology: available. The open questions are tenure records for each smallholding, documented consent, buffer contribution and a monitoring plan that could hold for decades. Possible, but a multi-year effort before any unit could be offered to an airline.
 
-**Permanence.** Carbon in trees can be released by fire, disease, logging or drought. Buffer pools hold reserve credits against reversal, but buffer adequacy is under active scrutiny as losses accumulate in fire-prone regions. A buffer sized against historical risk may be undersized against current risk.
+In all three cases the authorisation question sat over everything else. We treat it as the first filter, not the last. The Indian picture is covered in more depth in [CORSIA-eligible projects in India](/insights/corsia-eligible-projects-in-india/).
 
-**Baselines.** Avoided deforestation baselines require projecting what deforestation would have occurred without the project — an inherently uncertain exercise that has attracted heavy criticism, with independent analyses finding some baselines substantially overstated.
+## A screening order for developers
 
-**Tenure and safeguards.** The most common failure. Agreement from a government or a large landholder is not the same as free, prior and informed consent from the communities actually using the land. Disputes here have derailed otherwise sound projects.
+1. Will the host government authorise this type? If not, stop.
+2. Does an ICAO-approved programme have a methodology for it? If not, stop.
+3. Can additionality be defended in this market, today, under current standards?
+4. If the reductions depend on stored carbon, can permanence be shown?
+5. Can monitoring data be produced, in practice, for the life of the project?
+6. Is land tenure clear and consent recorded?
+7. Do the economics work at this size, or is aggregation needed?
 
-**Where it works:** Clear tenure, robust and conservative baselines, adequate buffer contribution, and genuine community participation with documented consent.
+The costly and avoidable mistake is spending on questions three to seven before answering one and two. The full route to market is in [becoming a CORSIA supplier](/insights/how-to-become-corsia-carbon-credit-supplier/).
 
-**Realistic assessment:** High potential, high scrutiny, long timelines. Not a fast route to CORSIA supply.
+## Short answers
 
-## Agriculture and Soil Carbon
+::: accordion Are removals preferred over avoidance for CORSIA?
+Both qualify if they meet the criteria. Buyers show some preference for removals, but less than in the voluntary market, because an operator's priority is discharging its obligation.
+:::
 
-**The difficulties: measurement, permanence and aggregation.**
+::: accordion Can a REDD+ project supply CORSIA?
+In principle, if the programme is approved, the baseline stands up, tenure is clear and the host government authorises. Baseline scrutiny in this area has been intense.
+:::
 
-Soil carbon is expensive and uncertain to measure, varies enormously across a field let alone a region, and can be released by a change in practice. Smallholder aggregation adds monitoring cost and complexity.
-
-**Where it works:** Well-designed aggregation with statistically robust sampling, conservative quantification, and long-term practice commitments.
-
-**Realistic assessment:** Methodologically immature relative to other types. Improving, but not the easiest path today.
-
-## Engineered Removals
-
-**Direct air capture, biochar, enhanced weathering, bioenergy with carbon capture.**
-
-**The strengths:** Additionality is rarely questioned — nobody does these without carbon revenue. Permanence is strong for geological storage. Measurement is generally more tractable than for biological systems.
-
-**The difficulties:** Cost, which is high and reflected in price. Limited volume available. Methodology availability under approved programmes varies, and some approaches are ahead of the standards that would credit them.
-
-**Realistic assessment:** Excellent integrity characteristics, constrained by cost and volume. Relevant for buyers wanting the strongest possible position, less so for meeting large obligations economically.
-
-## Industrial Gases
-
-Historically significant, now largely restricted. Several methodologies were narrowed or retired after perverse incentive concerns — projects producing the gas in order to destroy it for credits. Current availability under approved programmes is limited.
-
-## Waste-to-Energy and Biomass
-
-**The difficulty: baselines and competing regulation.**
-
-Diverting waste from landfill to energy recovery can produce genuine reductions, but the baseline depends heavily on what would otherwise have happened to the waste, which is often governed by local regulation that is itself changing. Where landfill diversion is becoming mandatory, the additionality argument erodes.
-
-Biomass energy raises a separate question — whether the feedstock is genuinely renewable and sustainably sourced. Methodologies require this to be demonstrated rather than assumed, and the demonstration is more demanding than developers often expect.
-
-**Where it works:** Waste streams with a clearly documented landfill counterfactual, and biomass with verifiable sustainable sourcing and no land-use displacement.
-
-## Transport and Mobility
-
-**The difficulty: attribution and boundary definition.**
-
-Modal shift, electrification and efficiency projects in transport face a hard boundary problem — establishing that a particular intervention caused a particular change in behaviour or fleet composition, rather than coinciding with a trend driven by policy, cost or consumer preference.
-
-Methodology availability under approved programmes is limited relative to the sector's emissions significance, and the attribution difficulty is the main reason.
-
-**Realistic assessment:** Conceptually attractive, methodologically constrained. Not a straightforward path today.
-
-## Water and Sanitation
-
-Safe water provision projects credit the avoided biomass burned to boil water. They share the quantification difficulties of cookstoves — usage rates, baseline behaviour, non-renewable biomass fractions — with the additional complication of establishing that treated water actually displaced boiling rather than supplementing it.
-
-Development co-benefits are substantial and genuine, which supports voluntary demand. For CORSIA, where the buyer needs discharge rather than narrative, the quantification questions dominate and conservative assumptions are essential.
-
-## Ranking by Realistic CORSIA Suitability
-
-Given the criteria as they currently stand, and assuming authorisation can be obtained:
-
-**Better placed:** Methane avoidance from waste and wastewater; engineered removals where cost permits; efficiency in genuinely constrained contexts.
-
-**Workable with rigour:** Cookstoves with strong monitoring and conservative assumptions; forestry with clear tenure and adequate buffers; renewables in least developed country contexts.
-
-**Difficult:** Grid-connected renewables in competitive markets; soil carbon at present methodological maturity; industrial gases.
-
-This ranking reflects the criteria and current scrutiny, not the intrinsic climate value of the activity. A grid-connected solar farm in a competitive market is a good thing to build; it is simply hard to argue it needed carbon revenue.
-
-## Choosing a Type as a Developer
-
-Ask, in order:
-
-1. Will my host State authorise this type? If not, stop.
-2. Is there a methodology under an ICAO-approved programme? If not, stop.
-3. Can I defend additionality in this market, at this time, on current standards?
-4. Can I evidence permanence, if the reductions are storage-based?
-5. Can I produce the monitoring data over the project lifetime, in practice?
-6. Is tenure clear and consent documented?
-7. Do the economics work at my scale, or do I need to aggregate?
-
-Failing at question one or two after spending on questions three through seven is the most common and most avoidable mistake in this market. See [the supplier pathway](/insights/how-to-become-corsia-carbon-credit-supplier/).
-
-## Frequently Asked Questions
-
-**Are removals preferred over avoidance?** For CORSIA, both are eligible if the criteria are met. Buyer preference exists but is weaker than in the voluntary market, where operators need discharge rather than a narrative.
-
-**Can a REDD+ project supply CORSIA?** In principle, if the programme is approved, the baseline holds up, tenure is clear and the host State authorises. Baseline scrutiny in this space has been intense.
-
-**Is nuclear eligible?** Methodology availability under approved programmes is the constraint, and it is limited.
-
-**What about blue carbon?** Mangrove and coastal ecosystem methodologies are developing. Permanence and measurement remain challenging, and availability under approved programmes is narrow.
-
-**Does project location matter?** Only through the host State's authorisation policy and through additionality, which is market-context dependent. There is no geographic eligibility rule.
-
-**Which type is fastest to market?** Methane avoidance from existing waste infrastructure tends to be quickest, because additionality is clean, permanence is not an issue and monitoring is tractable.
-
----
-
-**Working on CORSIA?** DSTechnoverse provides specialist [CORSIA carbon credit services](/services/) for aircraft operators, project developers and traders — eligibility screening, offsetting requirement calculation, unit sourcing and due diligence, corresponding adjustment support and registry execution. We are based in **Indore, Madhya Pradesh** and work with clients across India and internationally.
-
-[Apply as a CORSIA buyer or seller](https://carboncredit.dstechnoverse.com/)
-
-[Talk to our carbon markets team](/contact/) about your position.
+::: accordion What about nuclear or blue carbon?
+Nuclear is limited by the lack of methodologies under approved programmes. Mangrove and coastal methodologies are developing, but measurement and permanence remain hard and approved coverage is narrow.
+:::
+
+::: accordion Does location matter?
+Only through the host government's authorisation policy and through additionality, which depends on market context. There is no geographic eligibility rule as such.
+:::
+
+If you have a project and want a straight view on whether it can reach aviation buyers, send us the project documents and we will screen it against these questions. You can also list it for buyers through our [seller intake](https://carboncredit.dstechnoverse.com/sell).

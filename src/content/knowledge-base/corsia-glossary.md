@@ -1,262 +1,135 @@
 ---
-title: "CORSIA Glossary: Every Term Defined"
-excerpt: "An A-to-Z reference to CORSIA terminology — from additionality and Annex 16 through corresponding adjustments, growth factors and ITMOs to vintages — each defined plainly with links to fuller explanations."
+title: "CORSIA Glossary: Key Terms Grouped by Stage of Compliance"
+excerpt: "Plain definitions of the terms used in CORSIA rules and deals, arranged in the order an operator meets them: the rulebook, scope, monitoring, the obligation, fuels, unit quality, host-country approval and cancellation."
 section: "Reference"
 order: 27
 image: "/images/corsia/hero-corsia-knowledge-base.svg"
 ---
 
-Every term you will meet in CORSIA documents and market conversations, defined plainly. Terms are grouped alphabetically; use your browser's find function to jump to one.
+An alphabetical glossary tells you what a word means. It does not tell you where the word sits in the job. This one is arranged in the order an operator runs into the terms, from the rulebook through to the final cancellation report, so that related ideas sit next to each other. If you already know the term you want, your browser's find function will get you there faster. For abbreviations only, use the [acronyms list](/knowledge-base/corsia-acronyms/).
 
-![CORSIA knowledge base](/images/corsia/hero-corsia-knowledge-base.svg)
+![Graphic for the CORSIA knowledge base](/images/corsia/hero-corsia-knowledge-base.svg)
 
-## A
+## 1. The rulebook and the people who write it
 
-::: accordion Additionality
-The requirement that an emission reduction would not have occurred without the revenue from selling carbon credits. If the activity was already profitable, already legally required, or already common practice, it is not additional. The most contested criterion in the carbon market. See [the emissions unit criteria](/knowledge-base/corsia-emissions-unit-criteria/).
-:::
+**ICAO (International Civil Aviation Organization).** The UN specialised agency that runs CORSIA. It sets the rules but has no power to penalise an operator itself; that falls to national authorities.
 
-::: accordion Aeroplane operator
-The entity operating a flight, generally identified by its Air Operator Certificate and ICAO designator. The party with CORSIA obligations. Not necessarily the aircraft owner or the marketing carrier on a code share.
-:::
+**Chicago Convention.** The 1944 treaty on international civil aviation that created ICAO. International aviation standards are carried in its Annexes.
 
-::: accordion Annex 16, Volume IV
-The volume of Annex 16 to the Chicago Convention containing the CORSIA Standards and Recommended Practices. The technical source of truth for monitoring, reporting and verification requirements.
-:::
+**Annex 16, Volume IV.** The part of the Chicago Convention's Annex 16 that holds the CORSIA standards. When a question about monitoring, reporting or verification needs a definitive answer, this is the text that settles it.
 
-::: accordion Annual Emissions Report (AER)
-The report an operator submits each year covering CO2 emissions from international flights in the preceding calendar year. Must be independently verified.
-:::
+**SARPs (Standards and Recommended Practices).** The form ICAO rules take inside an Annex. Member States are bound by the Standards; the Recommended Practices are advice.
 
-::: accordion Article 6
-The Paris Agreement article governing cooperative approaches and international transfer of mitigation outcomes. Article 6.2 covers bilateral cooperative approaches; Article 6.4 establishes a centralised crediting mechanism. The source of the corresponding adjustment requirement.
-:::
+**CAEP (Committee on Aviation Environmental Protection).** ICAO's technical committee. It drafts standards and sends recommendations to the Council, which takes the decisions.
 
-## B
+**TAB (Technical Advisory Body).** A panel of independent experts that reviews crediting programmes against the Emissions Unit Criteria and advises the ICAO Council on approval. How these bodies divide the work is set out in [CORSIA governance](/knowledge-base/corsia-governance-icao-bodies/).
 
-::: accordion Baseline (CORSIA)
-The sector-wide reference emissions level against which growth is measured. Originally the 2019-2020 average; reset by the ICAO Council to **2019 alone** after the pandemic traffic collapse.
-:::
+**State of the Operator.** The country that issued the operator's Air Operator Certificate. Its authority is the one that administers CORSIA for that operator.
 
-::: accordion Baseline (project)
-Distinct from the CORSIA baseline. The scenario describing what emissions would have occurred without a carbon project, against which its reductions are measured.
-:::
+**DGCA (Directorate General of Civil Aviation).** India's regulator and national authority for CORSIA. See [CORSIA in India](/knowledge-base/corsia-in-india/).
 
-::: accordion Block-off / block-on
-Moments when an aircraft leaves and arrives at its parking position. Several fuel monitoring methods use tank readings taken at these points. See [fuel monitoring methods](/knowledge-base/corsia-fuel-monitoring-methods/).
-:::
+## 2. Whether you are in scope
 
-::: accordion Buffer pool
-A reserve of credits held back by a crediting programme to cover reversals in storage-based projects — a forest fire, for example. The main mechanism addressing permanence risk.
-:::
+**Aeroplane operator.** The company that operates the flight, normally identified by its Air Operator Certificate and ICAO designator. CORSIA obligations fall on this party, which may be neither the aircraft's owner nor the airline selling the ticket on a code share.
 
-## C
+**MTOM (maximum certificated take-off mass).** CORSIA only applies to aeroplanes whose MTOM is above 5,700 kg.
 
-::: accordion CAEP
-The Committee on Aviation Environmental Protection, ICAO's technical committee. Develops standards and recommends to the Council. See [CORSIA governance](/knowledge-base/corsia-governance-icao-bodies/).
-:::
+**Route pair.** The combination of departure State and arrival State. An offsetting obligation only arises when both States take part in CORSIA.
 
-::: accordion Cancellation
-Permanently removing a unit from circulation in a registry, designated for CORSIA compliance. **This, not purchase, discharges an offsetting obligation.** Irreversible. See [registries and cancellation](/knowledge-base/corsia-registries-and-cancellation/).
-:::
+**Covered emissions.** The emissions from route pairs where both ends participate. This is the figure the growth factor is applied to, and it is smaller than an operator's total international emissions.
 
-::: accordion CERT
-The ICAO CO2 Estimation and Reporting Tool. Estimates emissions from flight data without full fuel monitoring. Available to small emitters and for filling data gaps.
-:::
+## 3. Measuring and reporting
 
-::: accordion Chain of custody
-Documentation tracking a sustainability attribute from fuel producer to aircraft uplift. Required for any CORSIA Eligible Fuels claim.
-:::
+**MRV (monitoring, reporting and verification).** The yearly cycle every in-scope operator must run, even in years when it owes nothing.
 
-::: accordion Chicago Convention
-The 1944 Convention on International Civil Aviation establishing ICAO. Its Annexes carry international aviation standards, including Annex 16 Volume IV.
-:::
+**Emissions Monitoring Plan (EMP).** The operator's written account of how it will monitor and report its emissions. The national authority must approve it before monitoring starts. See [the Emissions Monitoring Plan](/knowledge-base/corsia-emissions-monitoring-plan/).
 
-::: accordion Compliance period
-A three-year block over which offsetting requirements accumulate and are settled by cancelling units. See [compliance periods and deadlines](/knowledge-base/corsia-compliance-periods-and-deadlines/).
-:::
+**Block-off and block-on.** The moments an aircraft leaves its stand and arrives at the next one. Several fuel monitoring methods rely on tank readings taken at these points.
 
-::: accordion CORSIA Eligible Emissions Unit (EEU)
-A carbon credit that may be used for CORSIA compliance — from an ICAO-approved programme, in an eligible vintage, with a host-State corresponding adjustment, meeting all the Emissions Unit Criteria. See [EEUs](/knowledge-base/corsia-eligible-emissions-units/).
-:::
+**CERT (CO2 Estimation and Reporting Tool).** An ICAO tool that estimates emissions from flight data instead of full fuel monitoring. Small emitters may use it, and it can also fill gaps in data.
 
-::: accordion CORSIA Eligible Fuel (CEF)
-Sustainable aviation fuel or lower carbon aviation fuel meeting the CORSIA sustainability criteria, certified under an approved scheme, with documented chain of custody. Reduces the offsetting requirement. See [CORSIA Eligible Fuels](/knowledge-base/corsia-eligible-fuels/).
-:::
+**Annual Emissions Report (AER).** The operator's yearly report of CO2 from international flights in the previous calendar year. It has to be checked by an independent verifier.
 
-::: accordion Corresponding adjustment
-The accounting entry by which a host State adds authorised transferred tonnes back into its own national inventory, so the same reduction is not claimed twice. **The binding constraint on CORSIA supply.** See [corresponding adjustments](/knowledge-base/corresponding-adjustments-article-6/).
-:::
+**Materiality.** The size of error in an emissions report above which the error counts. It is set in proportion to reported emissions, with a tighter threshold for bigger emitters.
 
-::: accordion Covered emissions
-Emissions on route pairs where both origin and destination States participate in CORSIA. The base to which the growth factor applies. Smaller than total international emissions.
-:::
+**Verification body.** An accredited, independent organisation that checks the Annual Emissions Report. It cannot have advised on the report it is checking.
 
-::: accordion Crediting programme
-A standards body that publishes methodologies, registers projects, oversees verification and operates a registry. ICAO approves programmes, not individual projects. See [approved crediting programmes](/knowledge-base/corsia-approved-crediting-programmes/).
-:::
+## 4. Working out what is owed
 
-## D
+**Baseline (CORSIA).** The sector-wide level of emissions that growth is measured from. It started as the average of 2019 and 2020, and the ICAO Council later changed it to 2019 alone after traffic collapsed in the pandemic.
 
-::: accordion Designated National Authority (DNA)
-The government body authorised to grant Article 6 authorisations and corresponding adjustments in a host State. Where none exists, CORSIA supply from that country is effectively impossible.
-:::
+**Growth factor.** The share of covered emissions that has to be offset. It comes in two versions, below. Both are explained in [baseline and growth factors](/knowledge-base/corsia-baseline-and-growth-factors/).
 
-::: accordion DGCA
-The Directorate General of Civil Aviation, India's national authority for CORSIA. See [CORSIA in India](/knowledge-base/corsia-in-india/).
-:::
+**Sectoral growth factor.** How much covered emissions across the whole sector have grown compared with the 2019 baseline. Until the end of 2029 it is the only basis for obligations, which is why an operator whose own emissions fell can still owe offsets.
 
-::: accordion Double counting
-Claiming the same emission reduction more than once. Takes three forms: double issuance, double use, and double claiming. The last is the hard one, remedied by corresponding adjustments.
-:::
+**Individual growth factor.** An operator's own emissions growth against the baseline. It enters the calculation from 2030 with a 15% weight, and 30% from 2033.
 
-## E
+**Offsetting requirement.** The tonnes an operator must offset: covered emissions multiplied by the growth factor, minus any reduction claimed for CORSIA Eligible Fuels.
 
-::: accordion Emissions Monitoring Plan (EMP)
-The document describing how an operator will monitor and report emissions. Must be approved by the national authority before monitoring begins. See [the EMP](/knowledge-base/corsia-emissions-monitoring-plan/).
-:::
+**Compliance period.** A three-year block in which obligations build up and are then settled by cancelling units.
 
-::: accordion Emissions Unit Criteria (EUC)
-ICAO's criteria defining what makes a carbon credit usable for CORSIA. Eight requirements, all of which must hold. See [the emissions unit criteria](/knowledge-base/corsia-emissions-unit-criteria/).
-:::
+## 5. Cutting the obligation with fuel
 
-::: accordion Emissions Unit Cancellation Report
-The report filed with the national authority identifying units cancelled against an offsetting obligation. Closes the compliance loop.
-:::
+**CORSIA Eligible Fuel (CEF).** SAF or LCAF that meets ICAO's sustainability criteria, is certified by an approved scheme and has a documented chain of custody. It reduces the offsetting requirement. See [CORSIA Eligible Fuels](/knowledge-base/corsia-eligible-fuels/).
 
-## G
+**SAF (sustainable aviation fuel).** Jet fuel made from renewable or waste feedstocks. It becomes a CEF only when it meets the criteria and the certification and documentation are in order.
 
-::: accordion Growth factor
-The proportion of covered emissions that must be offset. **Sectoral** growth factor measures growth across the whole covered sector; **individual** growth factor measures an operator's own growth and gains weight from 2030. See [baseline and growth factors](/knowledge-base/corsia-baseline-and-growth-factors/).
-:::
+**LCAF (lower carbon aviation fuel).** Fossil jet fuel produced with a lower lifecycle carbon intensity than the conventional benchmark, for example with carbon capture at the refinery.
 
-## I
+**Lifecycle emissions.** Emissions counted well-to-wake: producing the feedstock, moving it, converting it, distributing the fuel and burning it. Eligible fuels are judged on this, not on combustion alone.
 
-::: accordion ICAO
-The International Civil Aviation Organization, a UN specialised agency. Administers CORSIA but cannot enforce directly against operators.
-:::
+**ILUC (induced land use change).** Emissions caused when growing fuel feedstock pushes other land uses elsewhere. Where relevant, it is added to a fuel's lifecycle figure.
 
-::: accordion ILUC
-Induced Land Use Change. Emissions caused when fuel feedstock production displaces other land use. Added to lifecycle emissions when assessing CORSIA Eligible Fuels.
-:::
+**Sustainability Certification Scheme (SCS).** A certification scheme ICAO has approved for checking fuels against the CORSIA sustainability criteria.
 
-::: accordion Individual growth factor
-An operator's own emissions growth relative to the baseline. Enters the obligation calculation from 2030 at 15% weight, rising to 30% from 2033.
-:::
+**Chain of custody.** The paper trail that carries a fuel's sustainability attribute from producer to the aircraft it was loaded into. Every fuel claim needs one.
 
-::: accordion ITMO
-Internationally Transferred Mitigation Outcome. The Article 6.2 term for an authorised, corresponding-adjusted mitigation outcome transferred between parties.
-:::
+**Mass balance.** A custody model that lets sustainable and conventional fuel mix physically, while tracking the attribute and requiring volumes in and out to balance over a set period.
 
-## L
+## 6. What makes a unit usable
 
-::: accordion LCAF
-Lower Carbon Aviation Fuel. A fossil-based aviation fuel with lower lifecycle carbon intensity than the conventional baseline, for example through refinery carbon capture.
-:::
+**CORSIA Eligible Emissions Unit (EEU).** A carbon credit that can be used for CORSIA: from an approved programme, in an eligible vintage, carrying a host-country corresponding adjustment, and meeting every Emissions Unit Criterion. See [Eligible Emissions Units](/knowledge-base/corsia-eligible-emissions-units/).
 
-::: accordion Lifecycle emissions
-Well-to-wake emissions covering feedstock production, transport, conversion, distribution and combustion. The basis for assessing CORSIA Eligible Fuels, not combustion emissions alone.
-:::
+**Emissions Unit Criteria (EUC).** ICAO's eight requirements for a credit to be CORSIA-usable. All eight must be met. Each is explained in [the emissions unit criteria](/knowledge-base/corsia-emissions-unit-criteria/).
 
-## M
+**Crediting programme.** A standard-setter that issues methodologies, registers projects, oversees verification and runs a registry. ICAO approves programmes, never individual projects.
 
-::: accordion Mass balance
-A chain-of-custody model allowing physical commingling of sustainable and conventional fuel while tracking the sustainability attribute, requiring quantities to balance over a defined period.
-:::
+**Additionality.** The test that a reduction would not have happened without carbon credit revenue. An activity that was already profitable, already required by law or already common practice fails it. It is the most disputed criterion in the carbon market.
 
-::: accordion Materiality
-The threshold above which a misstatement in an emissions report matters. Set relative to reported emissions, tighter for larger emitters.
-:::
+**Baseline (project).** Not to be confused with the CORSIA baseline. It is the scenario of what would have been emitted without the project, and the project's reductions are measured against it.
 
-::: accordion MRV
-Monitoring, Reporting and Verification. The annual cycle every in-scope operator runs, whether or not offsets are owed. See [CORSIA MRV explained](/knowledge-base/corsia-mrv-explained/).
-:::
+**Permanence.** The requirement that a reduction cannot be reversed, or that any risk of reversal is covered, usually by a buffer pool. Simple for avoided emissions; hard for carbon stored in trees or soil.
 
-::: accordion MTOM
-Maximum certificated Take-Off Mass. CORSIA applies to aeroplanes above 5,700 kg MTOM.
-:::
+**Buffer pool.** Credits a programme holds in reserve to make good any reversal in storage projects, such as a forest fire. It is the main tool for handling permanence risk.
 
-## N
+**No net harm.** The criterion that a project must not break host-country law or cause social or environmental damage. Disputes over land tenure are the commonest reason for failure.
 
-::: accordion NDC
-Nationally Determined Contribution. A country's climate target under the Paris Agreement. Authorising a corresponding adjustment makes an NDC harder to meet, which is why governments hesitate.
-:::
+**Programme of Activities (PoA).** An umbrella under which many similar small activities register together with a shared methodology, so that projects too small to stand alone become viable.
 
-::: accordion No net harm
-The criterion requiring a project not to contravene host-State law or cause social or environmental harm. Land tenure disputes are the most common failure.
-:::
+**Vintage.** The monitoring period in which the reduction physically happened, not the date the unit was issued. It must fall inside the eligible window for the compliance period concerned. See [vintages and eligibility windows](/knowledge-base/corsia-vintages-and-eligibility-windows/).
 
-## O
+**Double counting.** Claiming one reduction more than once. It comes in three forms: double issuance, double use and double claiming. The last is the hardest to prevent, and corresponding adjustments exist to deal with it.
 
-::: accordion Offsetting requirement
-The tonnes of CO2 an operator must offset, calculated as covered emissions × growth factor, less any CORSIA Eligible Fuels reduction. See [the calculation](/knowledge-base/corsia-offsetting-requirement-calculation/).
-:::
+## 7. The host country's part
 
-## P
+**Article 6.** The article of the Paris Agreement dealing with cooperation between countries and international transfers of mitigation. Article 6.2 covers bilateral cooperative approaches; Article 6.4 sets up a central crediting mechanism. The corresponding adjustment requirement comes from here.
 
-::: accordion Permanence
-The requirement that a reduction is not reversible, or that reversal risk is addressed through a buffer pool or equivalent. Straightforward for avoided emissions, difficult for stored carbon.
-:::
+**NDC (Nationally Determined Contribution).** A country's climate target under the Paris Agreement. Authorising an adjustment makes that target harder to reach, which explains government reluctance.
 
-::: accordion Programme of Activities (PoA)
-A structure allowing multiple similar small activities to register under one umbrella with a shared methodology, making otherwise uneconomic projects viable through aggregation.
-:::
+**Corresponding adjustment.** The accounting step in which a host country adds authorised, transferred tonnes back into its own national inventory, so that the reduction is only counted once. It is the tightest constraint on CORSIA supply. See [corresponding adjustments and Article 6](/knowledge-base/corresponding-adjustments-article-6/).
 
-## R
+**ITMO (Internationally Transferred Mitigation Outcome).** Article 6.2's name for a mitigation outcome that has been authorised, adjusted and moved between parties.
 
-::: accordion Registry
-A system holding serialised carbon units and recording issuance, transfer and cancellation. Operated by crediting programmes — **there is no single CORSIA registry.**
-:::
+**Designated National Authority (DNA).** The government body that can grant Article 6 authorisations and adjustments in a host country. Where there is none, supplying CORSIA from that country is in practice not possible.
 
-::: accordion Route pair
-An origin and destination State combination. An offsetting obligation arises only where both participate in CORSIA.
-:::
+## 8. Settling the obligation
 
-## S
+**Registry.** The system that holds serialised units and records their issuance, transfer and cancellation. Crediting programmes run these; CORSIA has no registry of its own.
 
-::: accordion SAF
-Sustainable Aviation Fuel. Renewable or waste-derived aviation fuel. Qualifies as a CORSIA Eligible Fuel if it meets the sustainability criteria and is properly certified and documented.
-:::
+**Serialisation.** Giving each unit a unique identifier that encodes its programme, project, vintage and place in the issuance batch. It prevents double use and traces custody.
 
-::: accordion SARPs
-Standards and Recommended Practices. The instruments in ICAO Annexes; Standards are binding on Member States, Recommended Practices are advisory.
-:::
+**Cancellation.** Taking a unit permanently out of circulation in a registry, marked as being for CORSIA compliance. It is cancellation, not buying, that settles an obligation, and it cannot be undone. See [registries and cancellation](/knowledge-base/corsia-registries-and-cancellation/).
 
-::: accordion Sectoral growth factor
-Growth in covered emissions across the whole sector relative to the 2019 baseline. The sole basis for obligations through 2029. Means an operator whose own emissions fell can still owe offsets.
-:::
+**Emissions Unit Cancellation Report.** The report to the national authority listing the units cancelled against an obligation. Filing it completes the compliance cycle.
 
-::: accordion Serialisation
-Unique identification of each carbon unit, encoding programme, project, vintage and batch position. Prevents double use and establishes chain of custody.
-:::
-
-::: accordion State of the Operator
-The State that issued the operator's Air Operator Certificate, and therefore the State whose authority administers CORSIA for that operator.
-:::
-
-::: accordion Sustainability Certification Scheme (SCS)
-A scheme ICAO has approved to certify CORSIA Eligible Fuels against the sustainability criteria.
-:::
-
-## T
-
-::: accordion TAB
-Technical Advisory Body. The independent expert group assessing crediting programmes against the Emissions Unit Criteria and recommending to the ICAO Council.
-:::
-
-## V
-
-::: accordion Verification body
-An accredited independent organisation that verifies an operator's Annual Emissions Report. Must be independent of any party that advised on the report.
-:::
-
-::: accordion Vintage
-The monitoring period during which a reduction physically occurred. **Not the issuance date.** Must fall within an eligible window for the relevant compliance period. See [vintages and eligibility windows](/knowledge-base/corsia-vintages-and-eligibility-windows/).
-:::
-
-## Where to Go Next
-
-- [CORSIA acronyms](/knowledge-base/corsia-acronyms/) — the abbreviation lookup
-- [What is CORSIA](/knowledge-base/what-is-corsia/) — the fundamentals
-- [CORSIA FAQ](/knowledge-base/corsia-faq/) — common questions answered
-- [Official documents](/knowledge-base/corsia-official-documents/) — the primary sources
+If a term you need is missing, or you want to know how one of these applies to your own operation, [ask the desk](/contact/). For the questions we hear most often, see the [CORSIA FAQ](/knowledge-base/corsia-faq/).

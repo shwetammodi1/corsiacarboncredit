@@ -1,125 +1,90 @@
 ---
-title: "CORSIA Compliance Periods and Deadlines Explained"
-excerpt: "Why the three-year compliance period is shorter than it sounds, how obligations accumulate and settle, why there is no carry-forward, and the administrative tail that turns a comfortable deadline into a tight one."
+title: "CORSIA Compliance Periods and Deadlines: The Three-Year Cycle in Practice"
+excerpt: "CORSIA obligations build up year by year and are settled once per three-year period. The period boundaries, what recurs every year, the lead times that eat into the deadline, and why unused cancellations are lost."
 section: "Obligations & Calculation"
 order: 8
 image: "/images/corsia/corsia-phases-timeline.svg"
 ---
 
-CORSIA obligations are calculated annually and settled in three-year blocks. That sounds like generous flexibility. Worked through against the actual sequence of events, it is considerably tighter than it appears — and it lands at the same moment for every operator in the scheme.
+Operators tend to remember one CORSIA date: the settlement deadline at the end of each three-year period. The work that decides whether that deadline is met starts much earlier and happens every year. This page sets out the periods, the yearly cycle inside them, and a backwards plan for the final months.
 
-![CORSIA phases and what each one requires](/images/corsia/corsia-phases-timeline.svg)
+![Timeline showing CORSIA phases and compliance periods](/images/corsia/corsia-phases-timeline.svg)
 
-## The Compliance Periods
+## Five periods to 2035
 
-| Period | Years | Notes |
+Each compliance period is three years long. Annual obligations add up inside it and are settled together once it ends.
+
+- **2021–2023 (pilot).** States took part voluntarily. The 2021 sectoral growth factor was zero.
+- **2024–2026 (first phase).** Still voluntary for States, but obligations are now material.
+- **2027–2029 (second phase, first period).** Participation compulsory for most States.
+- **2030–2032 (second phase, second period).** Individual growth factor weighted at 15%.
+- **2033–2035 (second phase, third period).** Individual growth factor weighted at 30%.
+
+Settlement means two acts: cancelling enough eligible units in a registry, and filing the cancellation report with the national authority.
+
+## What happens every year, owed or not
+
+Settlement is three-yearly, but the reporting cycle is annual and never pauses:
+
+1. Fuel is monitored throughout the year under the approved plan.
+2. After year end, the operator compiles the Annual Emissions Report.
+3. An accredited body verifies it.
+4. The verified report goes to the national authority.
+5. When ICAO publishes the growth factor, that year's obligation becomes firm.
+
+An operator whose obligation is zero still completes steps 1 to 4.
+
+## Where the time actually goes
+
+Take the 2027–2029 period as an example. The 2027 obligation is not firm until 2027 emissions have been verified in the spring of 2028 and ICAO has published the factor. The 2029 obligation firms up later still, after the period has closed. Then the full three-year total has to be cancelled and reported by the deadline.
+
+So the operator has exact figures for all three years only in a short window near the end. Every other operator reaches that window at the same time, and the units they all need depend on host-government authorisation decisions that no buyer controls. That combination is what makes a late purchase expensive.
+
+## Lead times you do not control
+
+| Task | Typical time to allow | What slows it down |
 |---|---|---|
-| Pilot phase | 2021-2023 | Voluntary States; 2021 sectoral factor was zero |
-| First phase | 2024-2026 | Voluntary States; obligations become material |
-| Second phase, period 1 | 2027-2029 | Mandatory for most States |
-| Second phase, period 2 | 2030-2032 | Individual growth factor at 15% weight |
-| Second phase, period 3 | 2033-2035 | Individual growth factor at 30% weight |
+| Opening a registry account | Four to eight weeks | Entity papers, beneficial ownership disclosure, know-your-customer checks, sometimes legal review |
+| Due diligence on a tranche of units | One to three weeks | Checking programme approval, vintage, host-State authorisation, verification reports and registry history; it does not shrink much with practice |
+| Transfer of units | Days within one registry; longer between registries | Some programmes do not allow inter-registry transfer at all; others need extra documents |
+| Cancellation and the cancellation report | Weeks rather than days | Registry maintenance and load peaks near common deadlines, then review and acknowledgement by the authority |
 
-Within a period, annual obligations accumulate. The total is discharged once, by cancelling units and filing a cancellation report after the period closes.
+Two habits help. Open registry accounts well before a purchase is agreed, since an operator still onboarding when units are ready becomes its own bottleneck. And appoint more than one authorised representative, so one person's leave cannot stop a transaction.
 
-## The Annual Rhythm Inside a Period
+## Surplus cancellations are lost
 
-Even though settlement is per period, several things happen every year without exception:
+A cancellation settles the period it is reported against. **Nothing carries forward.** Cancelling more than you owe does not create a balance for the next period.
 
-| Every year | What |
+**Illustrative example:** an operator with a 40,000 t obligation that cancels 42,000 t has discarded 2,000 t of premium-priced eligible units. Cancel too few and the problem is worse: an unmet legal obligation, found at the last moment, when replacement units may not be obtainable at any sensible price. Both errors point back to the quality of [the requirement calculation](/knowledge-base/corsia-offsetting-requirement-calculation/).
+
+## Buying through the period versus buying at the end
+
+Waiting for confirmed figures has one real benefit: you know the exact volume and will not over-buy. The drawbacks are that price and supply risk fall into a single window, you compete with the whole sector at once, and a failed purchase leaves no time to recover. Buying through the period spreads price and supply exposure over three years and gives several chances to source units, at the cost of committing before the final number is known.
+
+The approach we usually recommend sits between the two:
+
+- estimate the obligation every year;
+- buy a **cautious** share early, clearly below the central forecast, so over-cancelling is unlikely;
+- leave the last window for topping up and reconciling, not for the main purchase.
+
+That gives up a little volume precision in exchange for much lower supply risk, which is the right exchange when the downside is a breach of a legal obligation. Why supply is expected to stay tight is explained in [supply and demand outlook](/knowledge-base/corsia-supply-and-demand-outlook/).
+
+## National calendars differ
+
+ICAO sets the obligation; each State's law sets the dates. Deadlines for monitoring plans, Annual Emissions Reports and cancellation reports come from the national authority, and they are not the same everywhere. For Indian operators the calendar is the [DGCA's](https://www.dgca.gov.in/). An Indian carrier also flying under another regime should not assume that regime's dates apply to its CORSIA filings.
+
+## Planning backwards from the deadline
+
+| Time before the deadline | Milestone |
 |---|---|
-| Throughout | Monitor fuel use under the approved plan |
-| Following the year end | Compile the Annual Emissions Report |
-| Following the year end | Independent verification by an accredited body |
-| Following verification | Submit the verified report to the national authority |
-| Once ICAO publishes | Growth factor confirmed; annual obligation becomes firm |
+| 6 months | Registry accounts open and a test transaction done |
+| 16 weeks | Supply identified and a shortlist agreed |
+| 11 weeks | Due diligence finished on every tranche |
+| 8 weeks | Contracts signed and payment arranged |
+| 4 weeks | Units in your own registry account |
+| 2 weeks | Cancellation executed |
+| Deadline | Cancellation report filed and acknowledged |
 
-Monitoring and reporting never take a year off, regardless of whether offsets are owed.
+Underneath all of it sits one ongoing task: model the obligation each year instead of waiting to be told it. The final registry steps are described in [registries and cancellation](/knowledge-base/corsia-registries-and-cancellation/).
 
-## Why Three Years Is Shorter Than It Sounds
-
-Work backwards through the real sequence.
-
-Emissions for a calendar year are reported and verified during the following spring. ICAO then aggregates the sector and publishes growth factors — which is the moment an operator's obligation for that year stops being an estimate. Obligations accumulate across the three years, and the total must be cancelled and reported by the deadline after the period closes.
-
-The gap between **"we now know what we owe"** and **"we must have cancelled"** is therefore much shorter than three years.
-
-> And it is the same gap, at the same time, for every operator in the scheme. When the entire covered sector reaches its purchasing decision within one window, in a market where eligible supply is constrained by government authorisation decisions, thin supply does not stay affordable.
-
-## The Administrative Tail
-
-Operators who plan to the cancellation deadline rather than backwards from it get caught by processing time they do not control.
-
-::: accordion Registry account opening — allow four to eight weeks
-Accounts require entity documentation, beneficial ownership disclosure and know-your-customer verification. Some registries add legal review. An operator that agrees a purchase and then begins onboarding finds its own compliance blocking delivery.
-
-Open accounts before you need them, and nominate more than one authorised representative so one person's absence cannot freeze your ability to transact.
-:::
-
-::: accordion Due diligence — one to three weeks per tranche
-Verifying programme approval status, vintage, host-State authorisation, verification reports and registry chain of custody is evidence-gathering, not administration. It does not compress much with experience.
-:::
-
-::: accordion Transfers — days for intra-registry, longer between registries
-Not all programmes support inter-registry transfer at all, and where they do it is slower and may need additional documentation.
-:::
-
-::: accordion Cancellation and reporting — allow weeks, not days
-Registry systems have maintenance windows and load spikes, and the spikes fall near common deadlines because that is when everyone else is cancelling too. The cancellation report is then submitted, reviewed and acknowledged by the authority — and a query at that point becomes a missed deadline if there is no margin.
-:::
-
-## No Carry-Forward
-
-Cancellation discharges the obligation for the period it is reported against. **Surplus cancellation does not bank credit against a future period.**
-
-This makes accuracy in the [requirement calculation](/knowledge-base/corsia-offsetting-requirement-calculation/) directly financial. Over-cancelling by 5% on a 50,000 tonne obligation is 2,500 tonnes of eligible units bought at a premium and thrown away.
-
-The corollary: under-cancelling leaves an unmet obligation, discovered at the worst possible moment, in a market where replacement supply may not be available at any sensible price.
-
-## The Deferral Question
-
-Should you buy progressively through the period, or wait until the obligation is confirmed?
-
-| | Buy progressively | Wait until confirmed |
-|---|---|---|
-| Price exposure | Averaged across the period | Concentrated in one window |
-| Supply risk | Spread; multiple opportunities | All-or-nothing at the deadline |
-| Volume certainty | Committing before the final number | Exact figure known |
-| Competition | Buying when others are not | Buying alongside the whole sector |
-| Cash timing | Spread across three years | Deferred to period end |
-
-The genuine argument for waiting is volume certainty — you avoid over-buying against a forecast. The argument against is that everyone else is waiting too, for the same reason, in a supply-constrained market.
-
-::: accordion The pattern most operators settle on
-Estimate the obligation annually. Acquire a **conservative** portion early — enough that you are not exposed to a supply squeeze, but comfortably below your central forecast so over-cancellation is unlikely. Reserve the final window for reconciliation rather than for the bulk of the purchase.
-
-This trades a small amount of volume precision for a large reduction in supply and price risk, which is usually the right trade when the downside is an unmet legal obligation.
-:::
-
-## Deadlines Vary by State
-
-CORSIA is implemented through national law. The obligation is uniform; the calendar is not.
-
-Exact submission dates for monitoring plans, Annual Emissions Reports and cancellation reports are set by your national authority — the [DGCA](https://www.dgca.gov.in/) for Indian operators. Check your authority's published calendar rather than assuming a date common to all States.
-
-## A Backwards Planning Checklist
-
-Working back from a cancellation deadline:
-
-1. **Deadline** — cancellation report filed and acknowledged
-2. **Minus 2 weeks** — cancellation executed in the registry
-3. **Minus 4 weeks** — units transferred into your account
-4. **Minus 8 weeks** — contracts executed, payment arranged
-5. **Minus 11 weeks** — due diligence complete on all tranches
-6. **Minus 16 weeks** — supply identified and shortlisted
-7. **Minus 6 months** — registry accounts open and tested
-8. **Ongoing** — obligation modelled annually, not awaited
-
-## Where to Go Next
-
-- [The requirement calculation](/knowledge-base/corsia-offsetting-requirement-calculation/) — what accumulates
-- [CORSIA phases and timeline](/knowledge-base/corsia-phases-and-timeline/) — the period boundaries
-- [Registries and cancellation](/knowledge-base/corsia-registries-and-cancellation/) — the final steps
-- [Supply and demand outlook](/knowledge-base/corsia-supply-and-demand-outlook/) — why deferral is risky
-
-DSTechnoverse manages CORSIA compliance calendars for operators end to end. [Get in touch](/contact/).
+We run compliance calendars for operators, including the registry and cancellation steps at the end. If your next settlement date is closer than this table allows for, [talk to us now](/contact/) rather than in the last quarter.

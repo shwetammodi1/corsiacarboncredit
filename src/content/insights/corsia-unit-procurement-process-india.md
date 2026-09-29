@@ -1,167 +1,115 @@
 ---
-title: "Buying CORSIA Units: The Procurement Process for Indian Operators"
-excerpt: "The end-to-end purchase process — modelling the requirement, setting a strategy, identifying supply, due diligence, contracting, transfer and cancellation — with the timeline and the decisions that determine what you pay."
+title: "How Indian Operators Should Buy CORSIA Units: Why Three Quotes and a PO Won't Work"
+excerpt: "Buying CORSIA emissions units is not routine purchasing. Where standard procurement habits fail, a first purchase followed from forecast to cancellation, and the eligibility screen that removes most offers."
 date: "2026-08-31"
 topic: "Airline Compliance"
-tags: ["CORSIA unit procurement","buy CORSIA credits India","carbon credit purchase","CORSIA due diligence","CORSIA consultant India","eligible emissions units","carbon procurement"]
+tags: ["CORSIA unit procurement","buy CORSIA credits India","carbon credit purchase","CORSIA due diligence","eligible emissions units","carbon procurement","intermediaries"]
 image: "/images/corsia-consultant/corsia-registry-setup-steps.svg"
 ---
 
-CORSIA procurement looks like ordinary buying and behaves like a scarce-commodity negotiation in an illiquid market with regulatory risk attached. Operators who run it as standard procurement — three quotes, lowest price, purchase order — routinely end up with units that cannot be used.
+A procurement department is good at one thing above all: getting a fair price for something whose quality is not in doubt. CORSIA units turn that on its head. Price matters less than whether the thing you buy will actually count, and there is no exchange, no reliable public price and plenty of regulatory risk. Operators who run it as a normal tender, with three quotes, the lowest bid and a purchase order, regularly end up holding units they cannot use.
 
-![Opening and testing a registry account](/images/corsia-consultant/corsia-registry-setup-steps.svg)
+![Registry and transaction steps in a CORSIA unit purchase](/images/corsia-consultant/corsia-registry-setup-steps.svg)
 
-## What You Are Actually Buying
+## Where standard procurement habits go wrong
 
-Not a carbon credit. **Regulatory discharge** — a unit that, when cancelled and reported, reduces your obligation by one tonne in the eyes of your national authority.
-
-That reframing changes what matters. Project narrative, co-benefits, photographs and geography — the things that sell voluntary credits — are irrelevant to whether the unit works for you. What matters is whether it satisfies every element of the ICAO eligibility criteria, and whether you can prove that to a verifier in three years.
-
-## Step 1: Model the Requirement
-
-You cannot buy sensibly without knowing roughly what you owe.
-
-Model annually rather than waiting for ICAO to confirm growth factors. Estimate from published sector data, refine as factors are published, and produce a range rather than a point. Re-run for second-phase route coverage from 2027.
-
-Operators who wait for a confirmed number find the compliance period closing with no time to spread the purchase, competing with the entire sector in one window.
-
-## Step 2: Set a Strategy
-
-The decisions that determine what you pay:
-
-**Timing.** Progressive acquisition across the compliance period, or a single purchase near the deadline. Progressive averages price exposure and avoids competing with everyone simultaneously; the cost is committing before the final figure is confirmed. Most operators are better served by acquiring a conservative portion early and reserving the final window for reconciliation.
-
-**Forward or spot.** Forwards secure supply and typically price below spot, because you absorb delivery and authorisation risk. In an illiquid market, forwards secure **existence**, not merely price — which is often the more valuable property.
-
-**Diversification.** Across programmes, project types, host States and vintages. Concentration in any one is concentration of regulatory risk, and programme approvals have lapsed while vintage windows have moved.
-
-**Risk appetite.** Whether you will consider supply where host-State authorisation is pending, and at what discount.
-
-## Step 3: Identify Supply
-
-There is no exchange and no reliable public price. Supply reaches buyers by four routes:
-
-| Route | Advantage | Cost |
+| Habit | Why it fails for CORSIA units | What to do instead |
 |---|---|---|
-| Direct from developers | Best pricing, best documentation access | Full diligence and counterparty risk on you |
-| Brokers and intermediaries | Faster access, aggregation of small parcels | Margin; understanding varies widely |
-| Programme or platform matching | Useful for discovery | Diligence obligation does not transfer |
-| Forward agreements | Secures supply, better pricing | Delivery, authorisation and vintage risk |
+| Buy once the requirement is confirmed | By then the whole sector is buying in the same window | Forecast yearly as a range; buy in stages |
+| Lowest price wins | Cheap supply is often cheap because it is not eligible | Screen for eligibility first, compare price second |
+| Rely on the supplier's description | "CORSIA-ready" means not eligible today | Demand documents, not descriptions |
+| Standard purchase terms | Silence leaves authorisation, vintage and delivery risk with you | Negotiate specific risk clauses |
+| Delivery closes the deal | Holding units settles nothing | Only a CORSIA-designated cancellation, reported, counts |
 
-**Screen the language early.** "CORSIA-ready", "CORSIA-aligned" and "eligible pending authorisation" all describe units that are **not currently eligible**. Filtering on that phrase alone removes a large share of what gets offered and saves diligence effort on supply that cannot work.
+It helps to be exact about what is being bought. Not "a carbon credit" in the voluntary sense, but **regulatory discharge**: something that, once cancelled and reported, reduces your obligation by a tonne in the eyes of your national authority. Project stories, co-benefits, site photographs and geography sell voluntary credits. None of them tells you whether a unit works for compliance. Only the ICAO eligibility criteria do, and whether you can still prove compliance with them to a verifier years later. See [what counts as an eligible unit](/knowledge-base/corsia-eligible-emissions-units/).
 
-## Step 4: Due Diligence
+## A first purchase, followed through
 
-Verify against evidence, not description. The core checks:
+Illustrative. A regional Indian carrier with a modest offsetting requirement is buying for the first time. Here is the sequence we would run with them.
 
-1. Is the issuing programme **currently** ICAO approved, and is that approval full or conditional?
-2. If conditional, does the condition touch these units?
-3. Is the vintage inside the window for **your** compliance period?
-4. Is there a host-State authorisation document naming these specific units?
-5. Is there evidence the corresponding adjustment has been or will be applied?
-6. Is the verification report from an accredited body, and does it carry qualifications?
-7. Does the registry record show a clean chain of custody with no prior retirement?
-8. Can you assemble all of this into a package that survives audit years later?
+### 1. Forecast before anyone is confirmed
 
-Check 4 is the one that eliminates most supply. A seller's assurance is not evidence — the authorisation document from the designated national authority, naming the units, is.
+The team does not wait for ICAO to publish final growth factors. It estimates the requirement from published sector data, expresses it as a low, central and high range, and updates it when factors are published. It also runs a second version with the wider route coverage expected from 2027. The [offsetting requirement calculation](/insights/corsia-offsetting-requirements-calculation/) covers the arithmetic.
 
-**Capture the evidence rather than linking to it.** Programme approval status changes, and a URL in your compliance file is not proof of what a page said on the transaction date.
+### 2. Settle four strategy questions
 
-## Step 5: Contract
+- **When to buy.** Staged across the period, or once near the deadline? Staging averages out price and avoids buying at the same moment as everyone else, at the cost of committing before the final number is known. The carrier chooses to buy a conservative share early and keep the last window for topping up.
+- **Forward or spot.** Forwards usually price below spot because the buyer takes on delivery and authorisation risk. In a thin market the bigger benefit is that forwards secure supply that exists.
+- **Spread.** Across programmes, project types, host States and vintages. Programme approvals have lapsed and vintage windows have moved before; concentration in any one is regulatory risk.
+- **Appetite for pending authorisation.** Will they consider units awaiting host-State authorisation, and at what discount? They decide: not for the first tranche.
 
-Terms that matter more than price:
+### 3. Find supply
 
-- **Eligibility warranty**, and the remedy if a unit proves ineligible
-- **Authorisation risk** allocation on forward deals
-- **Vintage protection** if the eligible window shifts
-- **Delivery timing** relative to your cancellation deadline, and the remedy for late delivery
-- **Volume tolerance** bands, since projects under-deliver routinely
-- **Documentation** as a contractual obligation, not a courtesy
-- **Payment structure** — escrow, staged, or against delivery
+There are four ways in, each with a trade-off:
 
-Silence on any of these allocates the risk to you by default. This is the most common and most expensive omission in first purchases.
+- **Direct from developers:** best pricing and best access to documents, but all the diligence and counterparty risk sits with you.
+- **Brokers and intermediaries:** quicker, and they can aggregate small parcels, but they take a margin and their grasp of eligibility varies a lot.
+- **Programme or platform matching:** useful for discovery; your diligence obligation stays with you.
+- **Forward agreements:** secure supply at better prices, with delivery, authorisation and vintage risk attached.
 
-## Step 6: Transfer and Cancel
+Before any diligence, the carrier filters offers on language. Anything described as "CORSIA-ready", "CORSIA-aligned" or "eligible pending authorisation" is, by definition, not eligible now. That filter alone removes a large share of what arrives.
 
-Payment, transfer into your registry account, then **cancellation designated for CORSIA**, then the cancellation report to your authority.
+### 4. Run the eligibility screen
 
-Purchase does not discharge the obligation. Cancellation does, and the report closes the loop. See [registry account setup](/insights/corsia-registry-account-setup-india/).
+Each remaining offer goes through eight questions in order. A "no" ends the review.
 
-## A Realistic Timeline
+1. Is the issuing programme ICAO-approved **today**, and is that approval full or conditional?
+2. If conditional, does the condition affect these units?
+3. Is the vintage inside the window for **our** compliance period?
+4. Is there a host-State authorisation document that names these particular units?
+5. Is there evidence the corresponding adjustment has been, or will be, applied?
+6. Was verification done by an accredited body, and is the opinion free of qualifications?
+7. Does the registry show a clean chain of custody and no earlier retirement?
+8. Can all of this be packaged so it still holds up at an audit years from now?
 
-For a first purchase, working backwards from the cancellation deadline:
+Question 4 is where most supply falls away. A seller's assurance is not evidence. The authorisation document from the designated national authority, naming the units, is. For a fuller buyer checklist see [CORSIA credit due diligence](/insights/corsia-credit-due-diligence-checklist/).
 
-| Activity | Allow |
-|---|---|
-| Registry account opening | 4-8 weeks |
-| Supply identification | 2-6 weeks |
-| Due diligence per tranche | 1-3 weeks |
-| Contract negotiation | 2-6 weeks |
-| Payment and transfer | 1-3 weeks |
-| Cancellation and reporting | 1-2 weeks |
+Capture evidence rather than linking to it. Approval status changes, and a web link in your file proves nothing about what the page said on the day you bought.
 
-Three to six months for a first cycle, assuming nothing goes wrong. Subsequent cycles compress once accounts and processes exist — but diligence does not compress much, because it is evidence gathering rather than administration.
+### 5. Contract on risk, then price
 
-## Working With Intermediaries
+The terms that matter more than price: an eligibility warranty and its remedy; who carries authorisation risk on forward deals; protection if the vintage window moves; delivery dates tied to your cancellation deadline, with a remedy for lateness; a volume tolerance band; the documentation pack as a contractual obligation; and a payment structure (escrow, staged, or on delivery). Leave any of these out and the risk is yours by default, which is the most common and most expensive omission in first purchases. We go clause by clause in [offtake agreement terms](/insights/corsia-offtake-agreement-terms/).
 
-Most first-time buyers reach supply through an intermediary, and the relationship is worth setting up deliberately rather than by default.
+### 6. Pay, transfer, cancel, report
 
-**Establish what they actually are.** A broker introducing buyer to seller has different obligations and incentives from a trader selling units from their own book. Ask which, and how they are paid — a commission on volume and a margin on a proprietary position pull in different directions.
+Payment, transfer into the carrier's registry account, a cancellation designated for CORSIA, and then the cancellation report to the DGCA. Purchase does not settle the obligation; cancellation does, and the report closes it.
 
-**Test their understanding with one question:** how do you establish that a unit carries a corresponding adjustment? An answer naming the designated national authority, the authorisation document, the unit identifiers and the national reporting shows genuine command of the market. "The project confirms it" does not.
+For a first cycle, the whole run from opening a registry account to reporting the cancellation takes three to six months if nothing goes wrong: account opening four to eight weeks, finding supply two to six, diligence one to three per tranche, negotiation two to six, payment and transfer one to three, cancellation and reporting one to two. Later cycles are quicker once accounts and processes exist. Diligence does not shrink much, because it is gathering evidence, not paperwork.
 
-**Ask what they verify and ask to see it.** Some intermediaries conduct real diligence and will show their work. Others pass through the seller's description. Both are legitimate businesses; you need to know which, so you can size your own effort accordingly.
+## Using an intermediary well
 
-**Confirm who holds the units.** If the intermediary does not hold them, delivery depends on a counterparty you have not assessed. Ask whether you can verify the holding in the registry directly.
+Most first-time buyers find supply through someone else. Treat that someone as a supplier to be assessed, not as part of your team.
 
-**Keep your own diligence file.** Evidence held only by an intermediary disappears when the relationship does.
+- **Ask what they are.** A broker introducing two parties and a trader selling from its own book have different incentives. Ask how they are paid: commission on volume and margin on a position pull in different directions.
+- **Ask one test question:** how do you establish that a unit carries a corresponding adjustment? A good answer names the designated national authority, the authorisation document, the unit identifiers and national reporting. "The project confirms it" is not a good answer.
+- **Ask to see their diligence.** Some do real work and will show it. Others pass on the seller's description. Both are legitimate, but you need to know which so you can size your own checks.
+- **Ask who holds the units,** and whether you can see the holding in the registry yourself. If the intermediary does not hold them, you depend on a counterparty you have not assessed.
+- **Keep your own file.** Evidence held only by the intermediary disappears when the relationship ends.
 
-None of this argues against using intermediaries — in a market with no exchange, they are how supply gets found. It argues for treating them as a supplier to be assessed rather than as an extension of your own team.
+## Who owns it inside the airline
 
-## Who Should Own It Internally
+This work falls between departments. Procurement knows contracting but usually cannot tell an eligible unit from one merely described as eligible. Sustainability knows the market but may not negotiate supply contracts. Finance owns the budget and foreign payments. Legal needs to review the warranty and seldom has a template.
 
-CORSIA procurement falls between functions, and organisations that handle it badly usually do so because nobody clearly owns it.
+What works is **one accountable owner**, typically in sustainability or a dedicated carbon role, with defined input from the rest and the **authority to refuse a deal**. Diligence that cannot stop a transaction is not diligence.
 
-Procurement brings contracting discipline and typically lacks the technical judgement to distinguish an eligible unit from one described as eligible. Sustainability brings the market understanding and often cannot negotiate a supply agreement. Finance owns the budget and cross-border payment mechanics. Legal needs to see the eligibility warranty and rarely has a template.
+## What the deal file should say
 
-The workable pattern is a **single accountable owner** — usually in sustainability or a dedicated carbon role — with defined input from the others and, critically, **the authority to decline a transaction**. Diligence that cannot stop a deal is not diligence.
+Years later, the people will have moved on and nobody will remember the market. The file has to answer the questions on its own:
 
-## Documenting the Purchase Decision
+- **Why this supply:** what else was considered, and why it was rejected. Three options assessed and one chosen is far stronger than a lone purchase.
+- **Eligibility evidence,** captured on the transaction date.
+- **Who approved it,** under what delegated authority. CORSIA units should sit inside the normal approval framework, not outside it.
+- **Price basis:** which quotes, from whom, and why the price was reasonable. With no public index, this is your only defence on value.
+- **Risks accepted:** if a vintage was near a boundary or authorisation was pending, a note that this was spotted, priced and accepted on purpose.
 
-The transaction file is what defends the purchase years later, and it needs to record reasoning as well as outcome.
+## Short answers
 
-**Why this supply.** What was considered, what was rejected and on what grounds. A file showing three options assessed and one chosen is far stronger than one showing a single purchase with no alternatives examined.
+**What do CORSIA units cost?** More than comparable non-eligible supply, and highly variable with project type, vintage, volume and authorisation status. Voluntary averages are the wrong benchmark.
 
-**The eligibility evidence**, captured rather than linked — the authorisation document, programme approval status as at the transaction date, verification report, registry records.
+**Can surplus be carried forward?** No. Cancellation settles the period it is reported against, and surplus is not banked. An accurate forecast has direct financial value.
 
-**Who approved it**, and against what delegated authority. Purchases of this size normally sit within a defined approval framework, and CORSIA units should not be an exception to it.
+**What if a unit turns out ineligible after cancellation?** The contract decides the remedy. Settle it before signing, because once cancelled the unit is gone.
 
-**The price basis.** What quotes were obtained, from whom, and why the accepted price was reasonable. In a market with no public index, this is the only defence against a later question about value.
+**The most common mistake?** Buying against a description instead of evidence, and opening the registry account only after the deal is agreed.
 
-**The risk acceptance.** Where supply was bought with authorisation pending or a vintage close to a boundary, record that the risk was identified, priced and accepted deliberately — not overlooked.
-
-Three years later, the people involved will have moved and the market conditions will be forgotten. A file that records only what was bought, and not why, cannot answer the questions that actually get asked.
-
-## Frequently Asked Questions
-
-**How much do CORSIA units cost?** Substantially more than comparable non-eligible supply, and highly variable by project type, vintage, volume and authorisation status. Voluntary market averages are the wrong benchmark.
-
-**Can we buy directly from a project?** Yes, and it usually gives better pricing and documentation access. You carry the full diligence and counterparty burden.
-
-**What if a unit proves ineligible after cancellation?** Your contract determines the remedy. Address it before signing — after cancellation the unit is consumed regardless.
-
-**Should we use a broker?** Brokers speed access to supply. They do not transfer your diligence obligation, and their understanding of eligibility varies. Test it with one question: how do you establish that a unit carries a corresponding adjustment?
-
-**Can we over-purchase and carry the surplus forward?** No. Cancellation discharges the obligation for the period reported against; surplus is not banked. Accuracy in the requirement calculation has direct financial value.
-
-**When should we start buying for the second phase?** Modelling now. Purchasing depends on your forward-versus-spot view, but arriving in 2027 without a strategy is the position to avoid.
-
-**What is the single most common mistake?** Buying against a description rather than evidence, and leaving registry account opening until after a purchase is agreed.
-
----
-
-**Sourcing or cancelling CORSIA units?** DSTechnoverse handles registry setup, pre-transaction due diligence, procurement support and cancellation reporting for Indian operators. See our [CORSIA carbon credit services](/services/). We are based in **Indore, Madhya Pradesh** and work across India.
-
-[Apply as a CORSIA buyer or seller](https://carboncredit.dstechnoverse.com/)
-
-[Talk to our carbon markets team](/contact/) about your position.
+When you are ready to go to market, [register your requirement as a buyer](https://carboncredit.dstechnoverse.com/buy/new) or [ask the desk](/contact/) to run the eligibility screen on offers you already hold.

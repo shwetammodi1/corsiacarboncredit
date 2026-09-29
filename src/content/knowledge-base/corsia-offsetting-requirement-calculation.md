@@ -1,149 +1,116 @@
 ---
-title: "CORSIA Offsetting Requirement: How the Calculation Works"
-excerpt: "The full calculation with worked examples — filtering to covered emissions, applying the growth factor, subtracting the CORSIA Eligible Fuels reduction, and building a forecast before ICAO confirms the numbers."
+title: "Calculating the CORSIA Offsetting Requirement, Step by Step"
+excerpt: "Covered emissions times the growth factor, less any eligible-fuel reduction: a worked calculation for one year and a full compliance period, how to forecast it before ICAO confirms the factor, and the records a verifier will want."
 section: "Obligations & Calculation"
 order: 7
 image: "/images/corsia/corsia-compliance-cycle.svg"
 ---
 
-An operator that waits for ICAO to hand it a number has already lost its options. By the time the figure is confirmed, the compliance period is closing and the whole sector is buying in the same window. Modelling the requirement in advance is what makes a purchasing strategy possible.
+The CORSIA obligation is one line of arithmetic. Nearly every error we find in client models comes from what was fed into that line, not from the multiplication. This page works through the calculation with an example, then shows how to forecast it early enough to buy units on your own timetable rather than the market's.
 
-![The CORSIA compliance cycle](/images/corsia/corsia-compliance-cycle.svg)
+![Diagram of the CORSIA compliance cycle](/images/corsia/corsia-compliance-cycle.svg)
 
-## The Formula
+## The equation
 
-> **Offsetting requirement = (covered emissions × applicable growth factor) − CORSIA Eligible Fuels reduction**
+> **Offsetting requirement = covered emissions × growth factor − CORSIA Eligible Fuels reduction**
 
-Each of the three terms carries more complexity than it looks.
+Three terms. The first is where most of the judgement lies.
 
-## Term 1: Covered Emissions
+## One year, worked through
 
-Filtering happens in stages, and each stage removes tonnes.
+The figures below are illustrative, for an imaginary Indian carrier with a large domestic network and a growing international one.
 
-| Filter | Effect |
+1. **Start with everything.** Verified CO2 across all flights: **600,000 t**.
+2. **Remove domestic flying.** CORSIA does not cover it. Less 250,000 t, leaving **350,000 t** international.
+3. **Remove routes where the far-end State does not participate.** Less 90,000 t. Covered emissions: **260,000 t**.
+4. **Apply the growth factor.** At an illustrative 7%: 260,000 × 7% = **18,200 t** gross.
+5. **Deduct the eligible-fuel claim.** A certified lifecycle saving of 700 t leaves **17,500 t** owed for the year.
+
+What that shows:
+
+- **Filtering matters more than the factor.** The carrier emitted 600,000 t but was charged on 260,000 t. A budget built on total emissions would be about 2.3 times too high.
+- **The factor is a lever you do not hold.** If it were 10% instead of 7%, the gross figure rises by 260,000 × 3% = 7,800 t, roughly 43% more, with nothing changed at the airline.
+- **2027 can move the base.** If compulsory second-phase participation brings the 90,000 t of uncovered routes into scope, covered emissions become 350,000 t and the same 7% gives 24,500 t gross instead of 18,200 t.
+
+## Term one in detail: covered emissions
+
+Covered emissions are what remains after these filters:
+
+- international flights only;
+- aeroplanes above 5,700 kg maximum certificated take-off mass (lighter aeroplanes and all rotorcraft drop out);
+- humanitarian, medical, firefighting and State aircraft flights taken out;
+- only route pairs where both States participate that year;
+- flights assigned to the correct operating entity, taking account of wet leases, code shares and multiple certificates within a group.
+
+CO2 comes from fuel mass using fixed factors:
+
+| Fuel | kg CO2 per kg of fuel |
 |---|---|
-| International flights only | Domestic emissions removed entirely |
-| Aeroplanes above 5,700 kg MTOM | Lighter aeroplanes and all rotorcraft removed |
-| Exclude exempt flight types | Humanitarian, medical, firefighting, State aircraft |
-| Covered route pairs only | Both origin and destination States must participate |
-| Correct operator entity | Wet leases, code shares and group certificates allocated properly |
+| Jet-A, Jet-A1 | 3.16 |
+| Jet-B | 3.10 |
+| AvGas | 3.10 |
 
-Emissions are derived from fuel mass:
+The route-pair filter causes the most forecasting errors because participation changes, and changes sharply in 2027. The filters are set out in full in [scope and thresholds](/knowledge-base/corsia-scope-and-thresholds/).
 
-| Fuel | Factor |
-|---|---|
-| Jet-A and Jet-A1 | 3.16 kg CO2 per kg fuel |
-| Jet-B | 3.10 kg CO2 per kg fuel |
-| Aviation gasoline (AvGas) | 3.10 kg CO2 per kg fuel |
+## Term two: the growth factor
 
-The route-pair filter is where forecasts most often go wrong, because State participation changes — and changes structurally in 2027. See [CORSIA scope and thresholds](/knowledge-base/corsia-scope-and-thresholds/).
+Until 2029 it is the sectoral factor alone. From 2030 it blends sectoral and individual growth on a rising schedule. See [baseline and growth factors](/knowledge-base/corsia-baseline-and-growth-factors/) for the derivation and the weights.
 
-## Term 2: The Growth Factor
+## Term three: the eligible-fuel reduction
 
-Sectoral only through 2029, then blended with individual growth from 2030. Covered in full in [baseline and growth factors](/knowledge-base/corsia-baseline-and-growth-factors/).
+Qualifying sustainable aviation fuel and lower carbon aviation fuel cut the requirement directly, in line with their lifecycle saving against conventional jet fuel. A claim needs all three of these:
 
-## Term 3: The CORSIA Eligible Fuels Reduction
+- the fuel meets the **CORSIA Eligible Fuels sustainability criteria**;
+- it holds certification from an **approved Sustainability Certification Scheme**;
+- a documented **chain of custody** runs from production to uplift.
 
-Qualifying sustainable aviation fuel and lower carbon aviation fuel reduce the requirement directly, reflecting the lifecycle saving against conventional jet fuel.
+Without the paperwork, the fuel still helps the climate but reduces nothing under CORSIA. Details are in [CORSIA Eligible Fuels](/knowledge-base/corsia-eligible-fuels/).
 
-The claim requires all three of:
+## A full compliance period
 
-- The fuel meets the **CORSIA Eligible Fuels sustainability criteria**
-- It is certified under an **approved Sustainability Certification Scheme**
-- The **chain of custody** is documented from production through to uplift
+Obligations are worked out each year and settled once per **three-year compliance period**. Continuing the illustrative carrier:
 
-Burning qualifying fuel without the certification and documentation produces an environmental benefit and no CORSIA claim. See [CORSIA Eligible Fuels](/knowledge-base/corsia-eligible-fuels/).
-
-## Worked Example
-
-Illustrative figures, chosen to show the mechanics.
-
-An operator reports **900,000 tonnes** of CO2 across all flights in a year.
-
-| Step | Tonnes | Note |
-|---|---|---|
-| Total emissions, all flights | 900,000 | Starting point |
-| Less domestic | −400,000 | Outside CORSIA entirely |
-| International subtotal | 500,000 | |
-| Less non-covered route pairs | −180,000 | Far-end State not participating |
-| **Covered emissions** | **320,000** | The base the factor applies to |
-| × sectoral growth factor 6% | 19,200 | Gross obligation |
-| Less CEF reduction | −1,200 | Certified lifecycle saving |
-| **Net obligation** | **18,000 t** | For that year |
-
-Three things this example shows:
-
-**The covered-emissions filter does most of the work.** Total emissions were 900,000 tonnes; the figure driving the obligation was 320,000. An operator budgeting from total emissions overstates by nearly threefold.
-
-**Small factor changes move large numbers.** Moving the growth factor from 6% to 9% adds 9,600 tonnes — a 50% increase in the obligation from a three-point move in a variable the operator does not control.
-
-**Second-phase coverage is the step change.** If mandatory participation from 2027 brings the previously uncovered 180,000 tonnes into scope, covered emissions rise to 500,000 and the same 6% factor yields 30,000 tonnes rather than 19,200. That is why generic percentage uplifts fail and network-level modelling is necessary.
-
-## Accumulating Across a Compliance Period
-
-Requirements are calculated annually and settled per **three-year compliance period**.
-
-| Year | Covered emissions | Factor | Annual obligation |
+| Year | Covered emissions (t) | Growth factor | Obligation (t) |
 |---|---|---|---|
-| 2024 | 300,000 | 5.0% | 15,000 t |
-| 2025 | 320,000 | 6.0% | 19,200 t |
-| 2026 | 340,000 | 6.5% | 22,100 t |
-| **Period total** | | | **56,300 t** |
+| 2024 | 240,000 | 4.0% | 9,600 |
+| 2025 | 260,000 | 7.0% | 18,200 |
+| 2026 | 275,000 | 7.5% | 20,625 |
+| **Period** | | | **48,425** |
 
-The full 56,300 tonnes must be cancelled and reported by the deadline following the period's close.
+(Fuel deductions are left out of this table for simplicity.) All 48,425 t must be cancelled and reported by the deadline after the period closes.
 
-**There is no carry-forward.** Cancelling more than you owe does not build a balance against a future period — the surplus is simply spent. Precision in this calculation therefore has direct financial value.
+Over-cancelling earns nothing. **There is no carry-forward**, so any surplus cancelled is simply gone. An accurate calculation is worth real money for that reason alone.
 
-## Building a Forecast
+## Forecasting before ICAO publishes
 
-::: accordion Step 1 — establish a live covered-emissions base
-From your verified reporting, isolate international flights on covered route pairs. Maintain this as a running figure through the year rather than reconstructing it each spring. Operators who rebuild it annually spend the same effort repeatedly and introduce inconsistency between years.
-:::
+Waiting for the confirmed figure means buying late, alongside everyone else. A usable forecast is built in six moves:
 
-::: accordion Step 2 — model route coverage scenarios
-Run two scenarios against your actual network: current participation, and second-phase mandatory participation from 2027. The delta between them is frequently the largest single number in the whole forecast, and it is entirely specific to where you fly.
-:::
+1. **Keep covered emissions as a running number** during the year, drawn from your monitoring data, instead of rebuilding it each spring.
+2. **Run two coverage scenarios** on your real network: participation as it stands, and compulsory second-phase participation from 2027. The gap between them is often the largest number in the model.
+3. **Estimate the growth factor as a range** (low, central, high) from published industry traffic and emissions data, with assumptions stated.
+4. **Add individual growth from 2030** using your fleet and network plans, so expansion decisions show their CORSIA cost while they are still being made.
+5. **Base the fuel deduction on fuel you can actually buy** with certification and chain of custody you can actually produce. A sustainability target is not a supply contract.
+6. **Rerun it every year.** Participation shifts, factors are confirmed, networks change and the ICAO Council revises parameters from time to time.
 
-::: accordion Step 3 — estimate the growth factor as a range
-Published industry traffic and emissions data supports a reasonable estimate ahead of ICAO confirmation. Produce low, central and high cases with the assumptions written down.
-:::
+## The file a verifier will ask for
 
-::: accordion Step 4 — layer in individual growth from 2030
-Using your own fleet and network plans against the weighting schedule. This connects growth decisions to their CORSIA cost while those decisions are still being made.
-:::
+Someone will check this calculation, possibly years later and possibly without anyone from the original team in the room. It must be reproducible from records alone. Keep:
 
-::: accordion Step 5 — model the fuels reduction realistically
-Base it on fuel you can actually obtain with certification and chain of custody you can actually produce — not on a sustainability target. An aspirational SAF assumption understates the obligation and the budget.
-:::
+- how covered emissions were derived, with the route-filtering logic;
+- **a saved copy of the participation list as at the date you relied on it** (the online list changes, so a link proves nothing about what it said then);
+- the growth factors used and where they came from;
+- the eligible-fuel claim and its certificates;
+- the final figure.
 
-::: accordion Step 6 — re-run annually
-Participation changes, factors are confirmed, your network changes, and the ICAO Council periodically adjusts parameters. A forecast built once and left alone will drift.
-:::
+## Mistakes and what they cost
 
-## Documenting the Calculation
+- **Total instead of covered emissions:** the obligation is overstated, often by a multiple.
+- **Assuming today's participation holds:** the 2027 step is missed.
+- **A flat percentage uplift for the second phase:** wrong for nearly every network.
+- **Reading the sectoral factor as your own growth:** a year of falling emissions gets mistaken for a zero obligation.
+- **Counting on SAF claims that are not secured:** the deduction is overstated and the budget comes up short.
+- **Reporting under the wrong group entity:** emissions land in the wrong place and are slow to correct.
 
-Whatever you calculate will be examined — by a verifier, possibly an auditor, quite likely someone who was not present when the decisions were made. It must be reproducible from your records alone.
+For Indian carriers the domestic filter is usually the biggest single adjustment, so check that step first in any model you inherit. When the tonnage is settled, the next question is cost, covered in [CORSIA credit pricing](/knowledge-base/corsia-credit-pricing/).
 
-Retain: the covered-emissions derivation with its route filtering logic, the **participation list captured as at the date relied on**, the growth factors applied and their source, the fuels claim with supporting certification, and the resulting figure.
-
-Capture rather than link. The published participation list changes, and a URL is not evidence of what it said on the day.
-
-## Common Errors
-
-| Error | Consequence |
-|---|---|
-| Using total instead of covered emissions | Obligation overstated, often by multiples |
-| Assuming current participation persists | Understates the 2027 step change |
-| Applying a generic uplift for the second phase | Wrong for almost every network |
-| Treating the sectoral factor as your growth | Misreads a shrinking year as zero obligation |
-| Assuming SAF claims will be available | Overstates the reduction, understates the budget |
-| Reporting under the wrong group entity | Misallocated emissions, painful to correct |
-
-## Where to Go Next
-
-- [Baseline and growth factors](/knowledge-base/corsia-baseline-and-growth-factors/) — term 2 in detail
-- [CORSIA Eligible Fuels](/knowledge-base/corsia-eligible-fuels/) — term 3 in detail
-- [Compliance periods and deadlines](/knowledge-base/corsia-compliance-periods-and-deadlines/) — when it settles
-- [CORSIA credit pricing](/knowledge-base/corsia-credit-pricing/) — turning tonnes into a budget
-
-DSTechnoverse builds documented, reproducible requirement models for operators. [Talk to our carbon markets team](/contact/) or [apply as a CORSIA buyer or seller](https://carboncredit.dstechnoverse.com/).
+Our [CORSIA calculator](/calculator/) gives a first estimate from your own figures. For a documented model you can hand to a verifier, [speak to the desk](/contact/).

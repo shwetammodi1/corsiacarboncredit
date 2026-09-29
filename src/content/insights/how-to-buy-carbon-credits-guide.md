@@ -1,170 +1,164 @@
 ---
-title: "How to Buy Carbon Credits: A Step-by-Step Guide for Organisations"
-excerpt: "The full purchase process — defining the purpose, setting a quality bar before you look at supply, screening the market, due diligence on evidence, contracting, retirement and disclosure — with the timeline and the points where buyers move too fast."
+title: "Buying Carbon Credits: A Detailed Walkthrough for Organisations, From Policy to Retirement"
+excerpt: "A full buyer's walkthrough: the written policy that should come before any supplier call, routes to supply, evidence checks, the contract terms that outweigh price, registry timing, disclosure, and a realistic three-to-six-month plan."
 date: "2026-09-04"
 topic: "Carbon Market Guides"
 tags: ["how to buy carbon credits","carbon credit procurement","buying carbon offsets","carbon credit due diligence","credit retirement","carbon purchase process","offset buying guide"]
 image: "/images/carbon-credits/carbon-buying-checklist.svg"
 ---
 
-Most organisations buying carbon credits for the first time start by asking who sells them. That is the fourth question, not the first, and starting there is why so many end up with credits that do not serve the purpose they were bought for.
+The first call a new buyer makes is usually to a seller. In our view it should be the fourth. Before that come three pieces of internal work: deciding what the credits are for, writing down what you will accept, and opening the accounts you will need to receive them. Organisations that skip ahead tend to own credits that do not fit the purpose they were bought for.
 
-![A disciplined carbon credit purchase](/images/carbon-credits/carbon-buying-checklist.svg)
+This is the long version, organised by phase. If you only need the outline, our [one-page five-step summary](/insights/how-to-buy-carbon-credits/) covers it.
 
-## Step 1: Define the Purpose
+![Checklist for a disciplined carbon credit purchase](/images/carbon-credits/carbon-buying-checklist.svg)
 
-**Compliance or voluntary claim?** They have different eligibility requirements and different price points, and buying for the wrong one is expensive.
+## Phase one: inside your own organisation
 
-**Compliance** means a legal obligation — CORSIA for an aircraft operator, or a domestic scheme. The regulator's rules bind you regardless of preference, and units must satisfy them exactly.
+### Name the purpose
 
-**Voluntary** means a claim you have chosen to make. You set the bar, which means you also carry the reputational risk of setting it badly.
+There are two kinds of purchase, and they should never be mixed.
 
-**Both?** Keep them separate. Units cancelled for compliance discharge a legal obligation and are not available again for a voluntary claim.
+- **Compliance.** A legal obligation, such as CORSIA for an aircraft operator, or a domestic scheme. The regulator's rules apply whether you like them or not, and units must meet them exactly.
+- **Voluntary.** A claim you have chosen to make. You set the bar yourself, and so you carry the reputational risk if you set it too low.
 
-Write the purpose down before anything else. Everything downstream is judged against it.
+If you have both needs, run them as separate purchases. A unit cancelled for compliance has discharged a legal duty and cannot then support a voluntary claim.
 
-## Step 2: Set the Quality Bar — Before Looking at Supply
+For the quantity, work from a model, not a guess. For compliance that is the obligation calculation. For a voluntary claim it is the residual emissions left after genuine reductions.
 
-This is the step that most affects the outcome and the one most often skipped.
+### Write the quality policy before seeing any supply
 
-If you look at available supply first, the supply sets your standard. You will find yourself justifying what is available rather than assessing it against what you decided you needed.
+This step shapes the result more than any other and is the one most often skipped. Look at offers first, and the offers become your standard; you will find yourself justifying what is available instead of testing it.
 
-Write down, in advance:
+A usable policy fits on one page and states:
 
-- Which standards you accept
-- Whether a corresponding adjustment is mandatory
-- Project types included and excluded
-- Vintage limits
-- Removal versus avoidance mix, if you have a target
-- The evidence required before purchase
-- Who may approve an exception, and how it is recorded
+| Policy item | Example of a decision |
+|---|---|
+| Accepted standards | A named list |
+| Corresponding adjustment | Required, or not required |
+| Project types | Included and excluded types |
+| Vintage | Earliest acceptable year |
+| Removals vs avoidance | Target mix, if you have one |
+| Evidence needed before purchase | The document list in phase three |
+| Exceptions | Who may approve one, and how it is recorded |
 
-That last line matters. Exceptions will arise. A policy with no exception route gets ignored entirely; one with a documented route gets followed.
+Keep the exception row. A policy with no way to make an exception gets ignored the first time it is inconvenient. One with a recorded route gets followed.
 
-## Step 3: Screen the Market
+### Decide who owns it
 
-Discard anything that cannot evidence eligibility before spending diligence effort on it.
+Carbon purchasing falls between departments. Procurement knows contracts but usually cannot tell an eligible unit from one merely described as eligible. The sustainability team knows the market but rarely negotiates supply agreements. Finance holds the budget and handles cross-border payment.
 
-For CORSIA, screening on language alone removes a large share of what gets offered. **"CORSIA-ready", "CORSIA-aligned"** and **"eligible pending authorisation"** all mean the same thing: not currently eligible. None is a standard.
+What works is one accountable owner, with defined input from the other two, and the power to refuse a deal. A diligence function that cannot stop a transaction is not doing diligence.
 
-Routes to supply:
+### Open registry accounts now
 
-| Route | Advantage | Cost |
+You need a registry account to hold and retire units. Opening one involves KYC checks and takes four to eight weeks. A buyer who agrees a deal and only then applies finds its own paperwork holding up delivery.
+
+## Phase two: in the market
+
+### Routes to supply
+
+| Route | What you gain | What you give up |
 |---|---|---|
-| Direct from developers | Best pricing and documentation access | Full diligence and counterparty risk on you |
-| Brokers and intermediaries | Faster access, aggregation of small parcels | Margin; understanding varies widely |
-| Exchanges and platforms | Price transparency where they exist | Limited coverage of the adjusted segment |
-| Forward agreements | Secures supply, often better pricing | Delivery and authorisation risk |
+| Buying direct from developers | Best price and full access to documents | All diligence and counterparty risk sit with you |
+| Brokers and intermediaries | Quicker access; small parcels bundled together | Their margin; their knowledge varies a great deal |
+| Exchanges and platforms | Visible prices where they exist | Thin coverage of adjusted units |
+| Forward agreements | Secured supply, often at a better price | Risk of non-delivery or failed authorisation |
 
-**Assessing an intermediary:** ask how they establish that a unit carries a corresponding adjustment. An answer naming the designated national authority, the authorisation document and the unit identifiers shows command of the market. "The project confirms it" does not.
+A broker speeds up access. It does not take over your diligence.
 
-## Step 4: Due Diligence on Evidence
+### Screening out the non-starters
 
-Documents, not assurances. The core checks:
+Remove anything that cannot evidence eligibility before you spend effort on it. For CORSIA, the wording alone removes a large share of offers. "CORSIA-ready", "CORSIA-aligned" and "eligible pending authorisation" all describe units that are not eligible now. None of them is a standard.
 
-1. Is the issuing programme **currently** approved for your purpose, and is the approval full or conditional?
-2. Is the vintage inside the window for your compliance period?
-3. Is there a host-State authorisation document naming these specific units?
-4. Is there evidence the corresponding adjustment has been or will be applied?
-5. Is the verification report from an accredited body, and does it carry qualifications?
-6. Does the registry record show a clean chain of custody with no prior retirement?
+A quick test for any intermediary: ask how they know a unit carries a corresponding adjustment. A good answer names the designated national authority, the authorisation document and the unit identifiers. "The project has confirmed it" is not a good answer.
+
+## Phase three: before you sign
+
+### The evidence file
+
+Work through these for each tranche, and collect documents rather than assurances:
+
+1. Is the issuing programme **currently** approved for your use, and is that approval full or conditional?
+2. Does the vintage fall within the window for your compliance period?
+3. Is there a host-government authorisation that names these particular units?
+4. Is there evidence that the corresponding adjustment has been, or will be, applied?
+5. Was verification done by an accredited body, and does the report carry qualifications?
+6. Does the registry show a clean chain of custody and no earlier retirement?
 7. Does the seller actually hold the units?
-8. Is the additionality argument credible for this project, in this market, now?
+8. Is the additionality argument believable for this project, in this market, today?
 
-**Capture the evidence into your own files** rather than linking to it. Programme approval status changes; a URL is not proof of what a page said on the transaction date.
+Save copies into your own files instead of keeping links. Approval status changes, and a link does not prove what a page showed on the day you transacted. Our [quality assessment method](/insights/carbon-credit-quality-assessment/) goes deeper on points 5 and 8.
 
-Full method in [carbon credit quality assessment](/insights/carbon-credit-quality-assessment/).
+### Contract terms that matter more than price
 
-## Step 5: Negotiate and Contract
-
-The terms that matter more than price:
-
-| Term | The question it must answer |
+| Term | What it has to settle |
 |---|---|
-| Eligibility warranty | What is warranted, and the remedy if it fails |
-| Authorisation risk | Who bears the loss if the host State does not authorise |
-| Vintage protection | What happens if the eligible window moves |
-| Delivery | What if units arrive after your retirement deadline |
-| Volume tolerance | What band applies to under-delivery |
-| Documentation | Is the full evidence pack a contractual obligation |
-| Payment | Escrow, staged, or against delivery |
+| Eligibility warranty | Exactly what is promised, and the remedy if it proves false |
+| Authorisation risk | Who bears the loss if the host government does not authorise |
+| Vintage protection | What happens if the eligibility window moves |
+| Delivery | What happens if units arrive after your retirement deadline |
+| Volume tolerance | How much under-delivery is acceptable |
+| Documents | Whether handing over the full evidence file is an obligation |
+| Payment | Escrow, stages, or on delivery |
 
-**Silence on any of these allocates the risk to you.** A purchase order with a price and a volume is not adequate for anything material.
+Anything the contract does not mention is a risk you have accepted. A purchase order with a price and a volume is not enough for a material purchase. If a unit later proves ineligible after retirement, the contract is your only remedy, because a retired unit is used up regardless. That is why the warranty matters more than the price.
 
-## Step 6: Transfer and Retire
+## Phase four: delivery and afterwards
 
-Open registry accounts **ahead of need** — onboarding involves know-your-customer checks and takes four to eight weeks. An organisation that agrees a purchase and then starts onboarding finds its own compliance blocking delivery.
+### Transfer and retire
 
-Then: payment, transfer into your account, and **retirement or cancellation**.
+Pay, receive the units into your account, then retire or cancel them.
 
-> Holding credits achieves nothing. Retirement is what makes the claim, and for compliance use the cancellation must carry the correct purpose designation. It is irreversible.
+> Owning credits achieves nothing. Retirement makes the claim. For a compliance use, the cancellation must carry the right purpose, and it cannot be reversed.
 
-Record serial numbers, the retirement reference, date, quantity and purpose designation.
+Record the serial numbers, retirement reference, date, quantity and stated purpose.
 
-## Step 7: Record and Disclose
+### Keep the file and disclose carefully
 
-**Retain the full package**: contract, diligence file, authorisation document, verification report, registry records, transfer and retirement confirmations.
+Store the contract, the diligence file, the authorisation, the verification report, registry records and the transfer and retirement confirmations together.
 
-**Disclose accurately.** Credits are reported outside your scope 1, 2 and 3 inventory and are never netted against it. Describing what you did — "we retired X credits of type Y from project Z" — is far more defensible than a summary label like "carbon neutral", which has attracted regulatory attention in several jurisdictions.
+In your reporting, credits sit outside scope 1, 2 and 3 and are never subtracted from them. A plain description of what you did is easier to defend than a label such as "carbon neutral", which regulators in several countries have acted against. Our guide to [ESG reporting and carbon credits](/insights/esg-reporting-and-carbon-credits/) covers the wording.
 
-See [ESG reporting and carbon credits](/insights/esg-reporting-and-carbon-credits/).
+## Extra care for a voluntary claim
 
-## A Realistic Timeline
+Compliance buyers can skip this section. Voluntary buyers should not.
 
-For a first purchase:
+- **Cut first, then buy.** Credible frameworks, SBTi most clearly, treat credits as covering residual emissions after real reduction. Buying instead of reducing is the purchase most likely to be criticised, and increasingly the one regulators look at.
+- **Fit the credit to the claim.** A net zero claim sits more comfortably on removals, because it describes residual emissions balanced by removals. An avoidance credit supports a more modest statement: "we paid for a reduction elsewhere". Pairing avoidance credits with a removal-style claim is where many greenwashing findings start.
+- **Be specific.** Name the quantity, project type, location, standard and vintage.
 
-| Step | Allow |
+### Illustrative example
+
+*Invented for illustration.* A software company in Pune has cut its office energy use and moved to a green tariff. It has 800 tCO2e of residual emissions, mostly from business travel, and wants to make a public statement.
+
+- Its policy says removals only, named standards, recent vintages, no corresponding adjustment required because the claim is voluntary.
+- It screens three offers, rejects one whose registry serials it cannot find, and runs full checks on the other two.
+- It contracts for 800 removal credits from an agroforestry project, with an eligibility warranty and document delivery as conditions of payment.
+- It retires them in its own name and writes: "We retired 800 removal credits from a named agroforestry project in Karnataka, issued under a named standard. They are reported separately from our emissions inventory."
+
+Nothing in that statement claims more than the file supports.
+
+## How long it takes
+
+A first purchase, with nothing going wrong:
+
+| Task | Allow |
 |---|---|
-| Purpose and quality bar | 1-2 weeks |
-| Registry account opening | 4-8 weeks |
-| Market screening | 2-6 weeks |
-| Due diligence per tranche | 1-3 weeks |
-| Contract negotiation | 2-6 weeks |
-| Payment and transfer | 1-3 weeks |
-| Retirement and reporting | 1-2 weeks |
+| Purpose and quality policy | 1–2 weeks |
+| Registry account opening (start early, runs in parallel) | 4–8 weeks |
+| Screening the market | 2–6 weeks |
+| Diligence per tranche | 1–3 weeks |
+| Contract negotiation | 2–6 weeks |
+| Payment and transfer | 1–3 weeks |
+| Retirement and reporting | 1–2 weeks |
 
-**Three to six months**, assuming nothing goes wrong. Subsequent cycles compress once accounts and processes exist — but diligence does not compress much, because it is evidence gathering rather than administration.
+Three to six months in total. Later purchases go faster once accounts and procedures exist, but diligence barely speeds up, because it is evidence-gathering, not administration.
 
-## Buying for a Voluntary Claim Specifically
+Small parcels are possible, but checking and transaction costs do not shrink with the volume, so the cost per tonne is higher.
 
-Where the purchase supports a public claim rather than a legal obligation, three additional considerations apply that compliance buyers can skip.
+## The mistakes we see most in first purchases
 
-**Reduce first, then buy.** Every credible framework — SBTi most explicitly — treats credits as addressing residual emissions after genuine reduction, not as a substitute for it. A purchase made instead of reductions is the one most likely to attract criticism, and increasingly the one most likely to attract a regulator.
+Looking at supply before writing a policy, and applying for registry accounts after the deal is agreed. Both are avoidable in the first fortnight.
 
-**Match the credit to the claim.** A net zero claim rests more comfortably on removals than on avoidance, because the framing is that residual emissions are balanced by removals. An avoidance credit supports a "we funded a reduction elsewhere" statement, which is a different and more modest claim. Buying avoidance credits and making a removal-shaped claim is where most greenwashing findings originate.
-
-**Say what you actually did.** "We retired 4,200 credits from an improved cookstove project in Madhya Pradesh, verified under [standard], vintage 2024" is defensible and checkable. "Carbon neutral" is a summary label that has attracted regulatory attention in several jurisdictions, and it invites a challenge the detailed version does not.
-
-The pattern: **the more specific the disclosure, the harder it is to attack.** Vagueness reads as concealment even when it is only brevity.
-
-## Who Should Own It
-
-Carbon procurement falls between functions, and organisations that handle it badly usually do so because nobody clearly owns it.
-
-Procurement brings contracting discipline and typically lacks the technical judgement to distinguish an eligible unit from one described as eligible. Sustainability brings the market understanding and often cannot negotiate a supply agreement. Finance owns the budget and cross-border payment.
-
-The workable pattern is a **single accountable owner** with defined input from the others and — critically — **the authority to decline a transaction.** Diligence that cannot stop a deal is not diligence.
-
-## Frequently Asked Questions
-
-**Where do I buy carbon credits?** Directly from project developers, through brokers, on platforms, or via forward agreements. The route affects price and how much diligence falls to you.
-
-**How much should I buy?** Model the requirement first. For compliance, that means the obligation calculation; for voluntary, your residual emissions after genuine reductions.
-
-**Can I buy a small quantity?** Yes, though transaction and diligence costs do not scale down, so cost per tonne is higher for small parcels.
-
-**What if a credit turns out to be ineligible after retirement?** Your contract determines the remedy. After retirement the unit is consumed regardless — which is why the warranty matters more than the price.
-
-**Do I need a registry account?** Yes, to hold and retire units. Open it before you need it.
-
-**Should I use a broker?** They speed access to supply. They do not transfer your diligence obligation, and their understanding of eligibility varies considerably.
-
-**What is the most common first-time mistake?** Looking at supply before setting a quality bar, and leaving registry account opening until after a purchase is agreed.
-
----
-
-**Working out what to buy and what it should cost?** DSTechnoverse provides [CORSIA carbon credit services](/services/) — requirement modelling, supply sourcing, pre-transaction due diligence and registry execution. We are based in **Indore, Madhya Pradesh** and work across India and internationally.
-
-[Apply as a CORSIA buyer or seller](https://carboncredit.dstechnoverse.com/)
-
-[Talk to our carbon markets team](/contact/), or start with [the complete carbon credits guide](/insights/corsia-carbon-credits-complete-guide/).
+If you would like us to run the screening and diligence, or to review a deal you have already agreed in principle, our [services page](/services/) explains how we work. For voluntary purchases, you can post a requirement through the [buyer intake form](https://carboncredit.dstechnoverse.com/buy/new).

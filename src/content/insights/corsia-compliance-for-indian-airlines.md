@@ -1,164 +1,118 @@
 ---
-title: "CORSIA Compliance for Indian Airlines and Aircraft Operators"
-excerpt: "What CORSIA actually requires of an Indian operator — the applicability tests, why MRV and offsetting are separate obligations, how the route-pair rule works, and what to have in place before the compliance year starts."
+title: "CORSIA Compliance for Indian Airlines: Applicability, MRV and Offsetting Explained"
+excerpt: "How an Indian aircraft operator works out what CORSIA asks of it: the scope tests in order, a worked route-pair example, what the annual MRV cycle involves, and the ten things to have ready before the compliance year opens."
 date: "2026-08-24"
 topic: "Airline Compliance"
-tags: ["CORSIA Indian airlines","CORSIA compliance","DGCA CORSIA","aviation emissions","MRV obligations","CORSIA India","aircraft operator"]
+tags: ["CORSIA Indian airlines","CORSIA compliance","DGCA CORSIA","aviation emissions","MRV obligations","route-pair test","aircraft operator"]
 image: "/images/corsia-consultant/hero-corsia-airline-compliance.svg"
 ---
 
-CORSIA lands on an Indian operator in two distinct waves, and treating them as one obligation is the mistake that costs the most time.
+For an Indian operator, CORSIA arrives as two separate obligations that are easy to mistake for one. The first is an annual cycle of monitoring, reporting and verification (MRV), which applies widely and starts early. The second is offsetting, the duty to cancel eligible emissions units, which applies only on certain routes and only under certain conditions. Planning them as a single thing wastes more time than any other error we see in first cycles.
 
-The first wave is **monitoring, reporting and verification** — an annual data and assurance cycle that applies broadly. The second is **offsetting** — a commercial obligation to cancel eligible emissions units, which applies only under specific conditions and on specific routes.
+This guide takes them in order: first the tests that decide what applies, then the MRV year, then offsetting, then preparation.
 
-![CORSIA compliance for airlines](/images/corsia-consultant/hero-corsia-airline-compliance.svg)
+![CORSIA compliance for airline operators](/images/corsia-consultant/hero-corsia-airline-compliance.svg)
 
-## The Applicability Tests
+## Deciding what applies
 
-![Which CORSIA obligations apply to an operator?](/images/corsia-consultant/corsia-obligation-decision-tree.svg)
+![Decision tree for which CORSIA obligations apply to an operator](/images/corsia-consultant/corsia-obligation-decision-tree.svg)
 
-Work through them in order. Each answers a different question, and skipping one produces a wrong scope.
+Answer these questions in sequence. Each one settles something different, and skipping one gives a wrong scope.
 
-**1. Are you an aeroplane operator conducting international flights?** CORSIA covers international aviation. Domestic sectors sit outside it entirely, however large they are in your network.
+1. **Do you operate international flights with aeroplanes?** Domestic sectors are outside CORSIA altogether, however large they are.
+2. **Are the aircraft above the mass threshold?** Aeroplanes with a maximum certificated take-off mass above 5,700 kg are covered; smaller ones are not.
+3. **Are international emissions above 10,000 tonnes of CO2 a year?** Below that, monitoring duties are reduced or absent. Above it, the full MRV cycle applies.
+4. **Which flights are exempt?** Humanitarian, medical and firefighting flights are treated differently. Record each exemption; do not assume it.
+5. **Do both States on each route pair participate?** This is the offsetting test, and it is independent of the first four.
 
-**2. Do your aircraft meet the mass criterion?** The scheme applies above a defined maximum take-off mass threshold, which excludes smaller aircraft. Confirm the current figure against the ICAO standard rather than from memory.
+Confirm the thresholds against the current ICAO standard and DGCA requirement rather than from memory, including ours.
 
-**3. Are your international emissions above the annual threshold?** Operators below the defined annual CO₂ threshold from international flights face reduced or no monitoring duties. Above it, the full MRV cycle applies.
+## The route-pair test, worked through
 
-**4. Which flights are exempt?** Humanitarian, medical and firefighting flights are treated differently. Exemptions must be documented, not assumed.
+The fifth question confuses people because offsetting has nothing to do with where the airline is registered. It depends on whether both the departure State and the arrival State participate in the scheme in that year.
 
-**5. Do both states on the route pair participate?** This is the offsetting test, and it is entirely separate from the three above.
+Take an **illustrative** Indian carrier with four international routes. Assume, for the example only, that India and States A and B participate this year, and States C and D do not.
 
-The route-pair test is what people find counter-intuitive. **Offsetting is not determined by where your airline is registered.** It is determined by whether both the departure state and the arrival state are participating in the scheme for that year. A single operator can have offsetting obligations on some routes and none on others, and the position changes as states join.
+| Route | Departure State | Arrival State | MRV | Offsetting this year |
+|---|---|---|---|---|
+| Route 1 | India | State A | Yes | Yes, both participate |
+| Route 2 | India | State C | Yes | No, State C does not |
+| Route 3 | State A | State B | Yes | Yes, both participate |
+| Route 4 | India | State D | Yes | No, State D does not |
 
-Because the participating-state list is republished, this is a live tracking task rather than a one-off determination. The [ICAO CORSIA pages](https://www.icao.int/environmental-protection/CORSIA/Pages/default.aspx) hold the current list.
+Every route is monitored and reported. Only routes 1 and 3 generate an offsetting obligation. If State C joins next year, route 2 starts counting without any change to the airline's flying.
 
-## The India Position
+Because ICAO republishes the participation list, this is ongoing tracking rather than a one-off decision. The current list is on the [ICAO CORSIA pages](https://www.icao.int/environmental-protection/CORSIA/Pages/default.aspx).
 
-Three practical points for an Indian operator:
+## India-specific points
 
-**The DGCA is your authority.** Emissions reports go to the [DGCA](https://www.dgca.gov.in/), which reports onward to ICAO. Civil Aviation Requirements set out the Indian implementation, including formats and timelines, and those are the operative dates for your calendar — not the ICAO documents.
+- **The DGCA is your authority.** Reports go to the [DGCA](https://www.dgca.gov.in/), which passes them to ICAO. The Civil Aviation Requirements set out the Indian implementation, formats and timelines, and those dates govern your calendar, not the ICAO documents.
+- **MRV comes first.** Indian operators above the threshold have monitoring and reporting duties whether or not any offsetting applies yet. Building the data capability now is what makes offsetting manageable when it arrives.
+- **The phase determines when costs start.** CORSIA runs from a pilot (2021–2023) and a first phase (2024–2026), both voluntary for States, to a second phase (2027–2035) that is mandatory for most. Where your network sits against that timeline decides when offsetting costs begin. See [what changes for operators at each phase](/insights/corsia-phases-timeline-explained/).
+- **Domestic flying is a separate question.** It sits under national policy, discussed in [CORSIA or CCTS](/insights/corsia-vs-ccts-for-indian-companies/).
 
-**MRV precedes offsetting.** Indian operators above the threshold have monitoring and reporting duties independent of whether any offsetting requirement currently arises. Building the data capability now is what makes the offsetting phase manageable later.
+## The MRV year
 
-**Phase timing matters commercially.** CORSIA runs in phases with different participation rules — a voluntary pilot and first phase, followed by a broader mandatory phase. Where your route network sits against that timeline determines when offsetting costs actually begin. See [CORSIA phases and timeline](/insights/corsia-phases-timeline-explained/).
+![The annual CORSIA monitoring, reporting and verification cycle](/images/corsia-consultant/corsia-mrv-annual-cycle.svg)
 
-## What the MRV Cycle Involves
+A year of MRV runs in this order:
 
-![The CORSIA annual MRV cycle](/images/corsia-consultant/corsia-mrv-annual-cycle.svg)
+1. An accepted monitoring plan is in force, current and actually followed.
+2. Fuel data is collected for every flight by the chosen method, with evidence kept.
+3. Quality checks run through the year: gap checks, cross-checks and a written data gap procedure.
+4. The year is closed and the emissions report compiled in the required format.
+5. An internal review reconciles it against operational and finance records.
+6. An accredited body verifies it to reasonable assurance.
+7. The report goes to the authority by the published deadline.
+8. Records are kept for the full prescribed period.
 
-| Stage | What it requires |
+Audits are won or lost in the data capture of January, not in the drafting of the report. Verification tests whether data was collected the way the plan said it would be, all year. A polished report built on poorly captured data fails; a plain report built on well-captured data passes.
+
+### Choosing a fuel monitoring method
+
+CORSIA allows several methods. Broadly, they derive fuel burn from tank readings or from uplift and remaining-fuel data in different combinations. Choose on these grounds:
+
+- **What your systems already capture reliably.** A method that needs data you do not have is not usable.
+- **Consistency between stations.** Outstations with different handling arrangements are the usual weak spot.
+- **Aircraft types.** Some data is available on newer types and not on older ones.
+- **Traceability.** Every figure should lead back to a source document.
+- **Wet leases.** Whose data, whose method and whose report?
+
+Apply one method consistently. Verifiers test consistency hard, and a plan that says one thing while stations do another produces findings quickly. If different fleets genuinely need different methods, say so in the plan and justify it. The options are compared in [fuel use monitoring methods](/knowledge-base/corsia-fuel-monitoring-methods/).
+
+Wet leasing deserves its own attention because it is both common and commonly mishandled. Decide which operator is responsible for the emissions, write it down, and confirm that the counterparty's data can reach your report with evidence attached.
+
+## Offsetting, when it applies
+
+The requirement is calculated from emissions growth against the baseline, adjusted by growth factors and reduced where CORSIA eligible fuels are used. The result is a quantity of CO2 to be matched by cancelling eligible units. What you pay depends on three things: how much traffic falls on participating route pairs, the requirement calculated for that traffic (see [the calculation explained](/insights/corsia-offsetting-requirements-calculation/)), and the price of eligible units when you buy.
+
+Only eligible units count: an approved programme, a permitted vintage, and a corresponding adjustment by the host country. Cancelling an ineligible unit discharges nothing, so checking units before purchase matters as much as price.
+
+## Ready before the year opens
+
+| Item | Why it matters |
 |---|---|
-| Monitoring plan in force | Accepted by the authority, current, and actually followed |
-| Collect fuel data all year | Per flight, by the chosen method, with evidence retained |
-| Quality control through the year | Gap checks, cross-checks, documented data gap procedure |
-| Close the year and compile | Emissions report in the required format |
-| Internal review | Reconcile against operational and finance records |
-| Independent verification | Accredited body, reasonable assurance |
-| Submit to the authority | On the published deadline |
-| Retain records | For the full prescribed retention period |
+| Written applicability determination, signed off internally | Fixes scope before data collection starts |
+| Accepted emissions monitoring plan | Nothing can be reported against a plan that is not in force |
+| Named compliance lead and deputy | Absence should not stop the cycle |
+| Named owners for fuel and flight data | Someone answers for each source |
+| Documented data flow from source to reported figure | The verifier will trace it |
+| Pre-defined, conservative data gap procedure | Written after a gap, it is an excuse, not a procedure |
+| Monthly quality check, actually scheduled | Problems found while fixable |
+| Retention arrangement for the full period | Records must outlast system changes |
+| Verification body identified early | Capacity is limited near deadlines |
+| Compliance calendar with internal milestones | Internal dates ahead of external ones |
 
-**The work that fails an audit happens in January, not in the report.** Verification tests whether the data was captured as the plan says it would be, throughout the year. A report assembled well from poorly captured data does not pass; a report assembled plainly from well-captured data does.
+The data gap procedure and the monthly check are the two most often missing, and the two most likely to produce findings. The monitoring plan itself is covered section by section in [our monitoring plan guide](/insights/corsia-emissions-monitoring-plan-guide/).
 
-## Fuel Monitoring Methods
+## Where first cycles slip
 
-CORSIA permits several fuel monitoring methods, and the choice has practical consequences. Broadly, methods derive fuel burn from tank measurements or from fuel uplift and remaining-fuel data, in different combinations.
+Loose scope (which flights, which aircraft, which entity) left unwritten. Wet-leased aircraft discovered at verification, too late to get the counterparty's data. Outstations applying the method differently. No reconciliation against fuel purchase records, which is the cross-check verifiers use. Data gaps filled case by case, so the verifier applies its own conservative assumption, which will not favour you. A late verifier. A monitoring plan not updated after a new aircraft, station or entity.
 
-What matters when choosing:
+## What getting it wrong costs
 
-| Consideration | Why it decides the answer |
-|---|---|
-| What data your systems already capture reliably | A method requiring data you do not have is not a method |
-| Consistency across stations | Outstations with different handling are the usual weak point |
-| Aircraft type differences | Some data is available on newer types and not older ones |
-| Auditability | Can each figure be traced to a source document? |
-| Wet-leased aircraft | Whose data, whose method, whose report? |
+Enforcement belongs to the national authority, not ICAO, so the consequences for an Indian operator are set by the DGCA under the applicable Civil Aviation Requirement. In practice there are three exposures. Regulatory: late, missing or unverified reports invite authority action. Financial: under-reported emissions corrected later mean a larger requirement than budgeted, and conservatively treated data gaps raise reported emissions and so the units you must buy. Commercial: lessors, lenders and codeshare partners increasingly ask for evidence of environmental compliance, and a verification report is a far easier answer than an explanation.
 
-**Apply one method consistently.** Verifiers press hard on method consistency, and a plan that says one thing while stations do another produces findings quickly. If different fleets genuinely need different methods, say so in the plan and justify it.
+If you are heading into a first CORSIA cycle and want the scope and monitoring plan checked before the year opens, [contact the desk](/contact/). Our [services page](/services/) sets out what we take on and what we hand back to your team.
 
-Wet leasing deserves specific attention because it is common and commonly mishandled. Establish which operator is responsible for the emissions from wet-leased operations, document it, and make sure the counterparty's data can actually reach your report with evidence attached.
-
-## The Offsetting Obligation
-
-Where it applies, the offsetting requirement is calculated from emissions growth relative to a baseline, adjusted by growth factors, and reduced where CORSIA eligible fuels are used. The result is a quantity of CO₂ that must be matched by cancelling eligible emissions units.
-
-Three things determine what you actually pay:
-
-1. **How much of your traffic falls on participating route pairs** — the route-pair test again
-2. **The offsetting requirement calculated** for that traffic — see [CORSIA offsetting requirement calculation](/insights/corsia-offsetting-requirements-calculation/)
-3. **The price of eligible units** at the time you procure them
-
-Only units meeting the eligibility criteria count — approved programme, permitted vintage, and a corresponding adjustment by the host country. Cancelling an ineligible unit does not discharge the obligation, which is why buyer-side due diligence matters as much as price. See [the CORSIA credit due diligence checklist](/insights/corsia-credit-due-diligence-checklist/).
-
-## What to Have in Place Before the Year Starts
-
-1. **A written applicability determination**, signed off internally
-2. **An accepted emissions monitoring plan** — see [the emissions monitoring plan guide](/insights/corsia-emissions-monitoring-plan-guide/)
-3. **A named compliance lead** and a named deputy
-4. **Data owners identified** for fuel and flight records
-5. **A documented data flow** from source system to reported figure
-6. **A data gap procedure**, conservative and pre-defined
-7. **A monthly quality control routine**, actually scheduled
-8. **A retention arrangement** meeting the prescribed period
-9. **A verification body identified**, ideally appointed early
-10. **A compliance calendar** with internal milestones ahead of the external deadline
-
-Items 6 and 7 are the ones most often missing, and they are the two that most reliably generate findings. A data gap procedure written after a gap occurs is not a procedure; it is an explanation.
-
-## Where First Cycles Go Wrong
-
-**Scope defined loosely.** Which flights count, which aircraft, which entity. Get it in writing early.
-
-**Wet-leased aircraft unaddressed.** Discovered at verification, when there is no time to obtain the counterparty's data.
-
-**Outstation inconsistency.** The method applied differently where local handling differs.
-
-**No reconciliation against finance.** Fuel purchase records are the obvious cross-check and the one verifiers use.
-
-**Data gaps handled ad hoc.** Without a pre-defined conservative procedure, the verifier will apply their own conservative assumption, and it will not favour you.
-
-**Verifier appointed late.** Capacity is finite around deadlines, and a rushed verification costs more and finds more.
-
-**Plan not updated after fleet change.** New aircraft, new station, new entity — each needs to flow into the plan.
-
-## Consequences of Getting It Wrong
-
-Enforcement sits with the national authority rather than with ICAO, so the specific consequences for an Indian operator are set by the DGCA under the applicable Civil Aviation Requirement. In broad terms, three kinds of exposure exist:
-
-| Exposure | Arises from | Practical effect |
-|---|---|---|
-| **Regulatory** | Late, missing or unverified reports | Authority action under the applicable CAR |
-| **Financial** | Under-reported emissions corrected later | A larger offsetting requirement than budgeted |
-| **Commercial** | Inability to evidence compliance | Questions from lessors, financiers and code-share partners |
-
-The third is the one operators tend to discover rather than anticipate. Aircraft lessors, lenders and airline partners increasingly ask for evidence of environmental compliance as part of routine diligence, and "our CORSIA reporting is in order, here is the verification report" is a materially easier answer than an explanation.
-
-The financial exposure is worth understanding too. Conservative treatment of data gaps at verification increases reported emissions, and where an offsetting requirement applies, higher reported emissions mean more units to buy. Poor data quality is not only an audit problem; it has a direct price.
-
-## Frequently Asked Questions
-
-**Does CORSIA apply to Indian airlines?** CORSIA MRV obligations apply to operators conducting international flights above the applicable thresholds, regardless of nationality. Offsetting depends on the route-pair participation test and the phase in force.
-
-**Does CORSIA cover domestic flights?** No. It applies to international aviation only.
-
-**Who do we report to in India?** The DGCA, which reports onward to ICAO.
-
-**What is the route-pair test?** Offsetting applies where both the departure state and the arrival state participate in the scheme for that year. It is not determined by the operator's nationality.
-
-**What is the emissions threshold?** There is a defined annual CO₂ threshold for international flights, below which monitoring duties are reduced. Confirm the current figure against the ICAO standard and the DGCA requirement.
-
-**Do we need verification every year?** Yes — the annual emissions report must be independently verified by an accredited body before submission.
-
-**What happens with wet-leased aircraft?** Responsibility must be established and documented, and the data must be able to reach your report with supporting evidence. Address it in the monitoring plan.
-
-**Can we change fuel monitoring method?** Changes must be justified and reflected in the monitoring plan. Consistency is what verifiers test, so unplanned mid-year changes create findings.
-
-**What if data is missing for some flights?** Apply your pre-defined, conservative data gap procedure and document it. Without one, the verifier applies their own conservative assumption.
-
-**When should we start preparing?** Before the compliance year begins. Retrofitting a monitoring plan onto data already collected is the most expensive route through a first cycle.
-
----
-
-**Running your first CORSIA compliance cycle?** DSTechnoverse supports Indian aircraft operators with applicability assessment, emissions monitoring plans, fuel data quality management and verification readiness — and hands the annual cycle back to your team. We are based in **Indore, Madhya Pradesh** and work with clients across India. See our [CORSIA carbon credit services](/services/), our carbon credit portal at [carboncredit.dstechnoverse.com](https://carboncredit.dstechnoverse.com/), or [talk to our team](/contact/) about your reporting year.
-
-*This article is general information, not legal or regulatory advice. CORSIA rules, thresholds and participating-state lists change — verify the current position with ICAO and the DGCA before acting.*
+*General information only, not legal or regulatory advice. CORSIA rules, thresholds and participation lists change; confirm the current position with ICAO and the DGCA before acting.*

@@ -1,134 +1,81 @@
 ---
-title: "CORSIA Official Documents: Where to Find the Source of Truth"
-excerpt: "Which document governs which part of CORSIA — Annex 16 Volume IV, the Assembly resolutions, the ICAO documents series, the Environmental Technical Manual — and which pages actually change."
+title: "CORSIA Official Documents: Which Source Answers Which Question"
+excerpt: "CORSIA's rules are spread across the Chicago Convention, Assembly resolutions, Annex 16 Volume IV, the Environmental Technical Manual, ICAO document lists, Council decisions and national law. Which to open for what, and which ones move."
 section: "Reference"
 order: 30
 image: "/images/corsia/corsia-governance.svg"
 ---
 
-CORSIA is documented across several instruments, each governing a different part of the scheme. Knowing which one answers which question saves considerable time, and knowing which ones **change** saves considerably more.
+A client once showed us a list of "CORSIA-approved programmes" copied from a consultant's slide deck. It was three years old, and one of the programmes on it had since had its approval lapse. Nothing on the slide was false when it was written. The trouble was that the list came from a source that goes stale, and nobody had gone back to the document that actually governs it.
 
-![Who decides what in CORSIA](/images/corsia/corsia-governance.svg)
+CORSIA has no single rulebook. Its rules sit in several instruments, each in charge of a different part of the scheme, and they change at very different speeds. Knowing which to open, and how much to trust yesterday's copy, saves a great deal of time.
 
-## The Document Hierarchy
+![Chart of the bodies and documents behind CORSIA](/images/corsia/corsia-governance.svg)
 
-| Instrument | Governs | Changes |
+## Start from your question
+
+| If you need to know… | Open… | Why there |
 |---|---|---|
-| Chicago Convention | The legal foundation for ICAO Annexes | Effectively never |
-| Assembly Resolutions | The scheme's existence and design principles | Every three years, at Assembly |
-| Annex 16, Volume IV | Standards and Recommended Practices for MRV | By Council amendment |
-| ICAO documents series | Detailed implementation elements | Periodically |
-| Environmental Technical Manual, Vol IV | Guidance on applying Annex 16 Vol IV | Periodically |
-| Council decisions and published lists | Programmes, vintages, growth factors, participation | **Frequently** |
-| National implementing law | What actually binds you | By State |
+| What the scheme is for, its phases, who participates, what is exempt, how it is reviewed | Assembly resolutions | They record the design and the political settlement behind it. Resolution A39-3 of 2016 created CORSIA; later Assemblies revisited and consolidated it. Not the place for operational detail. |
+| Who must monitor, which fuel monitoring methods are allowed, what goes into the monitoring plan and the emissions report, what verification covers | Annex 16, Volume IV | The technical authority on MRV. If the question is how emissions must be determined, this is the answer. |
+| How to apply the Annex in practice | Environmental Technical Manual, Volume IV | Worked guidance, examples and clarifications for points the Annex states only as a standard. |
+| The CORSIA States list, eligible units, eligible fuels, default lifecycle values, approved certification schemes, the CERT tool | The ICAO documents series | Anything that is a list rather than a rule lives here. |
+| Which programmes are approved and on what conditions, which vintages are eligible, the growth factors, which States participate | Council decisions and ICAO's published pages | Everything that decides a transaction. |
+| Your filing deadlines, penalties and procedures | National implementing law and your authority | Anything with a date on it. Deadlines are not common across States. |
+| Whether a particular unit is genuine and adjusted | The programme's registry and the host government's authorisation document | Serials, custody and the authorisation itself. |
+| Corresponding adjustments and Article 6 accounting | UNFCCC | The Paris Agreement side of the rules. |
 
-## What Each One Answers
+Beneath all of these sits the Chicago Convention, the treaty that gives ICAO Annexes their legal footing.
 
-::: accordion Assembly Resolutions
-**Answers:** why the scheme exists, its objective, phase structure, participation principles, exemption categories, and the review mechanism.
+For an Indian operator, the national layer means the [DGCA](https://www.dgca.gov.in/). How the ICAO bodies that produce these texts fit together is covered in [CORSIA governance](/knowledge-base/corsia-governance-icao-bodies/), and how the national layer works in [national authorities and enforcement](/knowledge-base/corsia-national-authorities-and-enforcement/).
 
-Resolution **A39-3** (2016) adopted CORSIA. Subsequent Assemblies have revisited and consolidated the position.
+## How fast each one moves
 
-**Use it for:** understanding design intent and the political settlement behind the rules. Not for operational detail.
-:::
+**Hardly ever.** The Chicago Convention; the broad design laid down in the Assembly resolutions (revisited at Assemblies, which meet every three years); the structure of Annex 16, Volume IV.
 
-::: accordion Annex 16, Volume IV
-**Answers:** who must monitor, what must be monitored, the permitted fuel use monitoring methods, what the Emissions Monitoring Plan must contain, what the Annual Emissions Report must contain, and verification requirements.
+**From time to time.** Technical content in the Annex, amended by the Council, and in the Environmental Technical Manual, usually after CAEP has done the groundwork. The ICAO documents series is also updated periodically.
 
-This is the **technical source of truth for MRV**. When there is a question about how emissions must be determined, this is the document.
+**Often, and with money riding on it.**
 
-**Use it for:** monitoring plan development, method selection, reporting content, verification scope.
-:::
-
-::: accordion Environmental Technical Manual, Volume IV
-**Answers:** how to apply Annex 16 Volume IV in practice. Worked guidance, examples and clarification.
-
-**Use it for:** the "how do we actually do this" questions that the Annex states at standard level.
-:::
-
-::: accordion ICAO documents series
-**Answers:** the detailed implementation elements — the CORSIA States list, eligible emissions units, eligible fuels, default lifecycle values, approved certification schemes, and the CERT tool.
-
-**Use it for:** anything that is a list rather than a rule.
-:::
-
-::: accordion Council decisions and published pages
-**Answers:** which crediting programmes are currently approved and under what conditions, which vintages are eligible for which compliance period, what the growth factors are, and which States are participating.
-
-**Use it for:** everything commercially decisive.
-:::
-
-::: accordion National implementing law
-**Answers:** your submission deadlines, your penalties, your authority's procedural requirements, and how the standards apply to you specifically.
-
-**Use it for:** anything with a date attached. Never assume a deadline is common across States.
-:::
-
-## What Actually Changes
-
-This is the distinction worth internalising.
-
-**Stable:** the Chicago Convention, the broad design in the Assembly resolutions, the structure of Annex 16 Volume IV.
-
-**Changes periodically:** technical detail in the Annex and the Environmental Technical Manual, following CAEP work.
-
-**Changes frequently and matters commercially:**
-
-- Crediting programme approvals and their conditions
+- Crediting programme approvals and the conditions attached to them
 - Eligible vintage windows
 - Growth factors
-- State participation lists
+- The list of participating States
 - Approved Sustainability Certification Schemes and default lifecycle values
 
-> If you are relying on any item in that last group, check it at the point you rely on it, and **capture what it says on the day**. A saved page or screenshot. A URL in a compliance file is not evidence of what a page said three years ago, and that is precisely when someone will ask.
+**Varies by State.** National implementing law changes on each country's own timetable.
 
-## Key ICAO Pages
+Anything in the third group should be checked on the day you rely on it, and captured as it stood that day, as a saved page or a screenshot. A link in a compliance file proves nothing about what the page said three years earlier, and three years later is exactly when someone asks. [Vintages and eligibility windows](/knowledge-base/corsia-vintages-and-eligibility-windows/) and [approved crediting programmes](/knowledge-base/corsia-approved-crediting-programmes/) show why these particular items matter.
 
-| Page | What it holds |
-|---|---|
-| [CORSIA main page](https://www.icao.int/environmental-protection/CORSIA/Pages/default.aspx) | Entry point to all CORSIA material |
-| [CORSIA emissions units](https://www.icao.int/environmental-protection/CORSIA/Pages/CORSIA-Emissions-Units.aspx) | Approved programmes, conditions, eligible units |
+## Where to find them
 
-Annex 16 Volume IV and the ICAO documents series are published through ICAO's standard channels; some require purchase or an account.
+**ICAO.** The [CORSIA main page](https://www.icao.int/environmental-protection/CORSIA/Pages/default.aspx) is the way into all of ICAO's CORSIA material. The [CORSIA emissions units page](https://www.icao.int/environmental-protection/CORSIA/Pages/CORSIA-Emissions-Units.aspx) carries approved programmes, their conditions and eligible units. Annex 16, Volume IV and the documents series come through ICAO's usual publication channels, and some of them need an account or a purchase.
 
-## Other Primary Sources
+**Other primary sources.**
 
-| Source | For |
-|---|---|
-| [UNFCCC Article 6](https://unfccc.int/process-and-meetings/the-paris-agreement/article-64-mechanism) | Corresponding adjustments and Article 6 mechanics |
-| [DGCA](https://www.dgca.gov.in/) | Indian national implementation |
-| [EU climate action](https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/reducing-emissions-aviation_en) | EU ETS aviation scope |
-| [IATA](https://www.iata.org/) | Industry guidance and SAF context |
-| Crediting programme registries | Unit records, serialisation, chain of custody |
+- [UNFCCC Article 6](https://unfccc.int/process-and-meetings/the-paris-agreement/article-64-mechanism) for corresponding adjustments and Article 6 mechanics; our summary is in [corresponding adjustments and Article 6](/knowledge-base/corresponding-adjustments-article-6/).
+- The [DGCA](https://www.dgca.gov.in/) for how India implements the scheme.
+- The European Commission's [EU ETS aviation pages](https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/reducing-emissions-aviation_en) for the EU scheme's scope.
+- [IATA](https://www.iata.org/) for industry guidance and context on SAF.
+- Crediting programme registries for unit records, serial numbers and chain of custody.
 
-## How to Use Secondary Sources
+## What secondary sources are good for
 
-Articles, guides and knowledge bases — this one included — are orientation, not compliance references.
+Articles, guides and knowledge bases, including this one, are for getting your bearings. They help you see the shape of the scheme, frame the right question and find the right primary text. They should never be what a filing, a trade or a statement to a regulator rests on.
 
-They help you understand the shape of the scheme, know which question to ask, and find the right primary document. They should never be the basis for a filing, a transaction, or a statement to a regulator.
+Two warnings in particular:
 
-Two specific cautions:
+- **Lists date instantly.** Any article listing approved programmes or eligible vintages is a snapshot of the day it was published. Several such lists in circulation are years out of date, as our client found.
+- **Prices in articles describe nothing you can buy.** A figure per tonne with no project type, vintage, volume or authorisation status attached carries no information.
 
-**Lists go stale immediately.** Any article listing approved programmes or eligible vintages is a snapshot of its publication date. Several such lists circulating are years out of date.
+## Common mistakes
 
-**Prices quoted in articles describe nothing you can buy.** Without project type, vintage, volume and authorisation status, a price per tonne is not information.
+- Quoting a secondary summary in a submission instead of the Annex or the national rule.
+- Assuming a deadline from another country, or from last year, still applies.
+- Treating a programme list or vintage window as permanent.
+- Filing a URL as evidence rather than a dated capture.
+- Relying on a seller's description of a unit instead of the registry record and the authorisation letter.
 
-## A Research Sequence
+Terms used across these documents are defined in the [CORSIA glossary](/knowledge-base/corsia-glossary/), abbreviations are in the [acronyms list](/knowledge-base/corsia-acronyms/), and quick answers are in the [CORSIA FAQ](/knowledge-base/corsia-faq/).
 
-For any CORSIA question:
-
-1. Is this about **design intent**? Assembly resolutions.
-2. Is this about **how to monitor or report**? Annex 16 Volume IV, then the ETM.
-3. Is this a **list** — programmes, vintages, States, fuels? The ICAO pages, checked today.
-4. Is this about a **deadline or penalty**? Your national authority.
-5. Is this about a **specific unit**? The programme registry plus the host-State authorisation document.
-6. Is this about **Article 6 accounting**? UNFCCC.
-
-## Where to Go Next
-
-- [CORSIA governance](/knowledge-base/corsia-governance-icao-bodies/) — which body issues which document
-- [CORSIA glossary](/knowledge-base/corsia-glossary/) — terminology used across them
-- [CORSIA acronyms](/knowledge-base/corsia-acronyms/) — abbreviation lookup
-- [CORSIA FAQ](/knowledge-base/corsia-faq/) — common questions
-
-DSTechnoverse tracks Council decisions and published lists as part of ongoing client support, so a programme approval lapse or vintage change does not arrive as a surprise. [Talk to our team](/contact/).
+We follow Council decisions and ICAO's published lists for our clients, so a lapsed approval or a moved window reaches them as a note from us rather than a surprise. To find out what that ongoing support involves, see our [services](/services/).

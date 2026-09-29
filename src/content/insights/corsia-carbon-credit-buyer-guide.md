@@ -1,155 +1,130 @@
 ---
-title: "CORSIA Carbon Credit Buyer Guide: What Operators Need to Know"
-excerpt: "A practical guide for CORSIA carbon credit buyers — how the eligible unit market differs from the voluntary market, what supply actually looks like, how to structure procurement, and the mistakes that cost operators the most money."
+title: "Buying CORSIA Carbon Credits: A Guide for Aircraft Operators"
+excerpt: "An operator buying CORSIA units is buying discharge of a legal obligation in a thin, regulated market. What supply really looks like, the routes to it, how to phase purchases, and who in the airline should own the job."
 date: "2026-08-20"
 topic: "CORSIA Fundamentals"
 tags: ["CORSIA carbon credit buyer","buy CORSIA credits","CORSIA procurement","CORSIA eligible units","airline carbon offsetting","carbon credit purchasing","CORSIA supply"]
 image: "/images/corsia/hero-corsia-buyer.svg"
 ---
 
-Buying CORSIA credits looks like a procurement exercise and is priced like one, but it behaves like a scarce-commodity negotiation in an illiquid market with regulatory risk attached. Operators who treat it as ordinary procurement — three quotes, lowest price, purchase order — generally get a bad outcome, and sometimes get units that turn out to be unusable.
+An airline's purchasing team knows how to buy jet fuel: a liquid market, published indices, many suppliers, and a product that is the same whoever sells it. CORSIA units are close to the opposite. There is no screen price, few suppliers can deliver what you need, two units that look alike on paper can differ completely in whether they count, and the rules can shift under a contract after it is signed.
 
-This guide covers what buyers actually face and how to approach it.
+Teams that run a CORSIA purchase like a routine tender, three quotes and the lowest wins, tend to overpay, run short, or end up holding units their authority will not accept. This guide is about doing it differently.
 
-![CORSIA carbon credit buyer](/images/corsia/hero-corsia-buyer.svg)
+![Illustration for the CORSIA carbon credit buyer guide](/images/corsia/hero-corsia-buyer.svg)
 
-## What You Are Buying
+## The product is compliance, not carbon
 
-You are not buying a carbon credit. You are buying **regulatory discharge** — a unit that, when cancelled and reported, reduces your offsetting obligation by one tonne in the eyes of your national authority.
+Strip away the language of the carbon market and an operator is buying one thing: a unit that, once cancelled and reported, reduces its offsetting obligation by a tonne in the eyes of its national authority. For an Indian carrier, that authority is the DGCA.
 
-That distinction drives everything. Project narrative, co-benefits, photographs and geography — the things that sell voluntary credits — are irrelevant to whether the unit works for you. What matters is whether it satisfies every element of the [ICAO eligibility criteria](/insights/corsia-eligible-emissions-units-criteria/), and whether you can prove that to a verifier in three years.
+Everything that sells voluntary credits, the project story, photographs, co-benefits, location, has no bearing on that. The questions that matter are whether the unit meets every element of the [ICAO eligibility criteria](/insights/corsia-eligible-emissions-units-criteria/), and whether you will still be able to prove it to a verifier some years from now.
 
-## The Supply Picture
+## Why supply is tighter than it looks
 
-The honest summary: eligible supply is thinner than the market rhetoric suggests, and the constraint is not project availability.
+The world has no shortage of carbon projects. It is short of projects whose host governments have authorised transfer and agreed to a **corresponding adjustment** under Article 6 of the Paris Agreement. Granting one means the government gives up that reduction from its own national accounts. Many decline for some or all project types, and some have no procedure for it at all.
 
-The world has plenty of carbon projects. What it does not have in quantity is projects whose host States have authorised transfer and applied a **corresponding adjustment** under Article 6 of the Paris Agreement. Governments must give up the mitigation outcome from their own national accounting to authorise, and many decline for some or all project types, while others have no administrative process at all.
+Studies of CORSIA supply and demand have repeatedly projected a gap between adjusted units and what operators will owe, sharpening once second-phase demand starts in 2027. Whether that gap materialises depends on government decisions no one can forecast with confidence. The [supply and demand outlook](/knowledge-base/corsia-supply-and-demand-outlook/) sets out the reasoning.
 
-Analyses of CORSIA supply and demand have repeatedly projected a shortfall of adjusted units against obligations, particularly as second-phase demand arrives from 2027. Whether the shortfall materialises depends on government decisions nobody can currently predict.
+Three consequences for a buyer:
 
-For a buyer, the practical implications are:
+1. Leaving purchases to the end of a compliance period is a wager, and the whole sector tends to make the same one at the same time.
+2. Voluntary-market prices are the wrong benchmark. Adjusted supply sells at a substantial premium.
+3. Availability is a risk in its own right. The contract should say what happens if the units cannot be found.
 
-- **Deferring purchase to the end of a compliance period is a bet**, and the whole sector is placing it in the same window.
-- **Price benchmarks from the voluntary market are misleading.** Adjusted supply commands a substantial premium.
-- **Availability, not just price, is a live risk.** Contracts should say what happens if supply cannot be sourced.
+## Four ways to reach supply
 
-## How the Market Actually Transacts
+| Route | What you gain | What you take on |
+|---|---|---|
+| Direct from a developer | Better pricing and full access to documents | All the diligence, plus the risk of dealing with a small, unfamiliar counterparty |
+| Through a broker or intermediary | Quicker access, small volumes pooled | Very uneven eligibility knowledge; some brokers only repeat the seller's description |
+| Programme or platform matching | A way to discover supply | Your diligence duty stays with you |
+| Forward agreement on future issuance | Secured volume and often a better price | Delivery, authorisation and vintage risk, which must be written into the contract |
 
-There is no screen price. Transactions are largely bilateral, negotiated, and documented individually.
+Almost every deal is bilateral, negotiated and documented one at a time.
 
-Supply reaches buyers through several routes:
+## Planning purchases across the period
 
-**Direct from developers.** Best pricing and best documentation access, but requires the buyer to conduct full due diligence and manage counterparty risk with an entity that may be small and unfamiliar.
+**Model the requirement first.** You cannot buy well without a working estimate of what you owe. Build it each year from published sector data, tighten it when growth factors are confirmed, and re-run it for second-phase route coverage. [Calculating the offsetting requirement](/insights/corsia-offsetting-requirements-calculation/) shows the method.
 
-**Through intermediaries and brokers.** Faster access to supply and some aggregation of small volumes. Quality of understanding varies enormously — some intermediaries know the eligibility criteria in detail, others are repeating a seller's description.
+**Spread the buying.** Obligations settle per three-year compliance period, but nothing forces you to wait for the final year. Buying through the period evens out price exposure and keeps you out of the last-minute scramble. Because the final figure is not confirmed until later, buy a cautious share early and reconcile once the number is firm.
 
-**Through programme or platform mechanisms.** Some crediting programmes and platforms facilitate matching. Useful for discovery, though the buyer's diligence obligation does not transfer.
+**Diversify on purpose.** A single programme, project, host country or vintage year is a single point of regulatory failure. Programme approvals have lapsed before, and vintage windows have moved.
 
-**Through forward agreements.** Contracting future issuance from a project in development. Secures supply and often better pricing, at the cost of taking delivery, authorisation and vintage risk. These risks should be allocated explicitly in the agreement, not left implicit.
+**Set the spot and forward mix.** Forwards lock in volume and price; spot keeps options open. The more confident you are in your forecast, the more forward cover makes sense.
 
-## Building a Procurement Strategy
+**Put the real risks in the contract.** Ineligibility after purchase, withdrawn authorisation, a lapsed programme approval, delivery too late for your cancellation deadline. If the contract is silent, those risks are yours.
 
-**Start from a modelled requirement, not a guess.** You cannot buy sensibly without knowing roughly what you owe. Model your obligation annually using published sector data, refine as growth factors are confirmed, and re-model for second-phase route coverage. See [requirement calculation](/insights/corsia-offsetting-requirements-calculation/).
+## Diligence before money moves
 
-**Acquire progressively.** Obligations settle per three-year compliance period, but nothing requires waiting until the end. Buying across the period averages price exposure and avoids competing with the entire sector in the final window. The cost is committing before the final number is confirmed, which argues for buying a conservative portion early and reconciling later.
+Each unit needs evidence rather than a description. In brief:
 
-**Diversify.** Concentration in a single programme, a single project, a single host State or a single vintage year is concentration of regulatory risk. Programme approvals have lapsed; vintage windows have moved.
+- the issuing programme is ICAO-approved **today**, and you know whether the approval is full or conditional, and whether any condition touches these units;
+- the vintage falls inside the window for **your** compliance period;
+- an authorisation document from the host government names these units;
+- there is evidence the corresponding adjustment has been, or will be, applied;
+- the verification report comes from an accredited body, and you have read any qualifications;
+- the registry shows an unbroken chain of custody;
+- all of it can be assembled into a file that will stand up to audit years later.
 
-**Decide your spot-versus-forward mix deliberately.** Forwards secure supply and price; spot preserves flexibility. Most operators want some of each, and the ratio should reflect how confident they are in their requirement forecast.
+Our [pre-transaction checklist](/insights/corsia-credit-due-diligence-checklist/) expands each point.
 
-**Contract for the risks that actually exist.** What happens if the unit proves ineligible? If authorisation is withdrawn? If the programme's approval lapses? If delivery is late relative to your cancellation deadline? Silence on these points allocates them to you.
+A word on labels. "CORSIA-ready" and "CORSIA-aligned" are not standards; each usually means a registered project without authorisation. "Eligible pending authorisation" is at least candid about the gap. Buying on any of these terms is taking on authorisation risk. That can be a sensible, priced choice in a forward, but it should be a choice.
 
-## Due Diligence Before You Transact
+## The registry steps that catch people out
 
-Every unit needs evidence, not description. The short form:
+**Opening an account is slow.** Registry onboarding includes know-your-customer checks and can take weeks. An operator that agrees a deal and only then starts onboarding finds its own paperwork holding up the transfer.
 
-1. Is the issuing programme **currently** ICAO approved, and is that approval full or conditional?
-2. If conditional, does the condition touch these units?
-3. Is the vintage inside the window for **your** compliance period?
-4. Is there a host-State authorisation document naming these specific units?
-5. Is there evidence the corresponding adjustment has been or will be applied?
-6. Is the verification report from an accredited body, and does it carry qualifications?
-7. Does the registry record show a clean, unbroken chain of custody?
-8. Can you assemble all of this into a package that survives audit years later?
+**Holding units settles nothing.** The obligation is met by **cancelling** the units in the registry and then filing the Emissions Unit Cancellation Report with your authority. Allow time for both before the deadline. The [cancellation runbook](/insights/corsia-registry-cancellation-process/) walks through the steps.
 
-The full version is in the [due diligence checklist](/insights/corsia-credit-due-diligence-checklist/).
+![Flow of units from seller to buyer through the registry to cancellation](/images/corsia/corsia-buyer-seller-flow.svg)
 
-## Language That Should Slow You Down
+## Weigh fuel against units
 
-Three phrases appear constantly in this market and all three mean the same thing — the unit is not currently eligible:
+CORSIA Eligible Fuels cut the offsetting requirement directly. Where sustainable aviation fuel is available and the sustainability criteria and chain-of-custody records can be met, compare it with buying units as a use of the same budget.
 
-- **"CORSIA-ready."** Not a standard. It usually means the project is registered under an approved programme but has no authorisation.
-- **"CORSIA-aligned."** Not a standard either.
-- **"Eligible pending authorisation."** Honest, at least, about the gap. Authorisation is a sovereign decision with no guaranteed timeline.
+The comparison is not just price per tonne. SAF brings operational and supply-chain questions, a real documentation load, and very uneven availability by region. But the break-even point moves as unit prices rise, and an operator that has never run the numbers may be relying on an answer that no longer holds.
 
-Buying against any of these is taking authorisation risk. That can be a deliberate, priced decision — forward agreements often work this way — but it should be deliberate, and the contract should reflect it.
+## Who in the airline should own this
 
-## Registry Mechanics
+CORSIA buying sits between departments, and the airlines that handle it badly usually have no clear owner.
 
-Two operational points that catch buyers out.
+| Function | Brings | Usually lacks |
+|---|---|---|
+| Procurement | Contracting discipline, negotiation, supplier management | The technical eye to tell an eligible unit from one described as eligible |
+| Sustainability / environment | Knowledge of the carbon market | Experience negotiating supply contracts and allocating risk |
+| Flight operations | The emissions data that sets the volume | Any role in purchasing |
+| Finance / treasury | Budget and cross-border payments | Early involvement; often shown a finished deal |
+| Legal | Review of eligibility warranties and risk terms | A precedent contract for this kind of purchase |
 
-**Account opening takes time.** Registry accounts involve know-your-customer processes and can take weeks. Operators who agree a purchase and then start onboarding find their own compliance blocks the transfer.
+What works is one accountable owner, usually in sustainability or a dedicated carbon role, with set input from the others and the power to refuse a deal. A diligence step that cannot stop a transaction is only a formality. If the person who understands eligibility can merely advise, sooner or later the airline will approve a unit it should have rejected.
 
-**Purchase is not compliance.** Holding units discharges nothing. **Cancellation** in the registry, followed by the Emissions Unit Cancellation Report to your national authority, is what counts. Build the processing time for both into your deadline planning. See [the registry and cancellation process](/insights/corsia-registry-cancellation-process/).
+Smaller operators without that role in-house have good reason to bring in outside help. Accountability stays with the operator; what the adviser supplies is the technical judgement.
 
-![Buyer and seller flow](/images/corsia/corsia-buyer-seller-flow.svg)
+## Six costly habits
 
-## Sustainable Aviation Fuel as an Alternative
+- **Buying at the deadline**, when everyone else is, with no time to walk away from a weak unit.
+- **Budgeting from voluntary prices**, which leaves the purchasing team chasing a number that cannot be met.
+- **Treating a seller's word as evidence.** A confirmation that the adjustment is in place is not a document.
+- **Forgetting the vintage**, and holding units that fall outside the window before they are cancelled.
+- **Concentrating supply** in one programme, country or project type, just before a rule change hits that exact exposure.
+- **Poor record-keeping**, so that a sound transaction cannot be evidenced when the verifier asks years later.
 
-Qualifying CORSIA Eligible Fuels reduce your offsetting requirement directly. Where SAF is available and the sustainability criteria and chain-of-custody documentation can be satisfied, it is worth modelling against unit purchase as an alternative use of the same budget.
+## Short answers
 
-The comparison is not simply price per tonne. SAF has operational and supply-chain implications, the documentation burden is real, and availability varies sharply by region. But as unit prices rise, the crossover point moves, and operators who have never run the comparison may be assuming an answer that has changed.
+::: accordion How much do CORSIA units cost?
+Considerably more than similar non-eligible credits, and the range is wide by project type, vintage and volume. Our [timing and price guide](/insights/corsia-carbon-credit-price-guide/) covers what moves it.
+:::
 
-## Who Should Own Buying, Internally
+::: accordion Can we carry a surplus into the next period?
+Cancellation discharges the obligation for the period it is reported against. Cancelling more than you owe does not bank a credit for later, so an accurate requirement figure saves money directly.
+:::
 
-CORSIA procurement falls awkwardly between functions, and the organisations that handle it badly usually do so because nobody clearly owns it.
+::: accordion Is a broker worth using?
+A broker speeds up access to supply. It does not take over your diligence duty, and its grasp of eligibility varies, so verify independently either way.
+:::
 
-**Procurement** brings contracting discipline and negotiation, and is the natural home for supplier management. What it typically lacks is the technical judgement to distinguish an eligible unit from one described as eligible.
+::: accordion When should we start on the second phase?
+Start the modelling now. When to buy depends on your forward and spot view, but reaching 2027 without a plan is the position to avoid.
+:::
 
-**Sustainability or environment** brings the carbon market understanding but is often not equipped to negotiate a supply agreement or allocate risk in a contract.
-
-**Flight operations** owns the emissions data that determines the volume, but has no reason to be involved in purchasing.
-
-**Finance and treasury** owns the budget and the cross-border payment mechanics, and needs to be involved early rather than presented with a completed deal.
-
-**Legal** needs to see the eligibility warranty and risk allocation, and rarely has a template for this.
-
-The workable pattern is a single accountable owner — usually in sustainability or a dedicated carbon role — with defined input from the others and, critically, the authority to decline a transaction. Diligence that cannot stop a deal is not diligence, and a procurement process where the person who understands eligibility can only advise will eventually approve something that should have been refused.
-
-For smaller operators where no such role exists, this is a legitimate reason to use an external adviser — not to transfer accountability, which cannot be transferred, but to supply the technical judgement the internal team does not have.
-
-## The Mistakes That Cost Most
-
-**Waiting until the deadline.** Competing with the whole sector for thin supply, with no time to walk away from a bad unit.
-
-**Benchmarking against voluntary prices.** Producing a budget that is wrong by a wide margin and a procurement team told to hit an impossible number.
-
-**Accepting seller assurance as evidence.** "The seller confirms the adjustment is in place" is not documentation.
-
-**Ignoring vintage.** Buying units that age out before you cancel them.
-
-**Concentrating.** All supply from one programme, one country or one project type, then a regulatory change lands on exactly that exposure.
-
-**Keeping poor records.** The transaction was fine; the evidence cannot be reassembled when a verifier asks three years later.
-
-## Frequently Asked Questions
-
-**How much do CORSIA credits cost?** Substantially more than comparable non-eligible supply, and highly variable by project type, vintage and volume. See [the price guide](/insights/corsia-carbon-credit-price-guide/).
-
-**Can I buy directly from a project?** Yes, and it often gives better pricing and documentation access, but you carry the full diligence and counterparty burden.
-
-**What if a unit I bought turns out to be ineligible?** That depends on your contract. Address it before you sign, not after.
-
-**Can I over-purchase and carry the surplus forward?** Cancellation discharges the obligation for the period it is reported against. Surplus cancellation does not build a balance for future periods, so accuracy in the requirement calculation has direct value.
-
-**Should I use a broker?** Brokers speed access to supply. They do not transfer your diligence obligation, and their understanding of eligibility varies. Verify independently regardless.
-
-**When should I start buying for the second phase?** Modelling should start now. Purchasing depends on your forward-versus-spot view, but arriving in 2027 with no strategy is the position to avoid.
-
----
-
-**Buying CORSIA credits?** DSTechnoverse provides specialist [CORSIA carbon credit services](/services/) — offsetting requirement calculation, eligible unit sourcing, pre-transaction due diligence, registry execution and cancellation reporting. We are based in **Indore, Madhya Pradesh** and work with operators across India and internationally.
-
-[Apply as a CORSIA buyer or seller](https://carboncredit.dstechnoverse.com/)
-
-[Talk to our carbon markets team](/contact/) about your requirement.
+If you are an operator with a requirement to fill, our [buyer intake](https://carboncredit.dstechnoverse.com/buy/new) is the quickest way to start; we will come back with a sourcing plan and the diligence we would run on each unit.

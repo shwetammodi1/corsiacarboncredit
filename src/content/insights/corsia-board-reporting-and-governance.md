@@ -1,147 +1,123 @@
 ---
-title: "CORSIA Governance: What the Board Needs to Know and Who Owns It"
-excerpt: "CORSIA is a legal obligation with material cost and a rising trajectory, and it frequently sits with nobody in particular. How to structure ownership, what belongs in board reporting, and the accountability that cannot be outsourced."
+title: "CORSIA Board Reporting: Ownership, Oversight and the Accountability You Keep"
+excerpt: "CORSIA carries legal, financial and operational risk, yet it often has no clear owner above the technical team. Who should own it, what the board should see and when, and which controls nobody outside will test for you."
 date: "2026-08-31"
 topic: "Airline Compliance"
-tags: ["CORSIA governance","board reporting","compliance accountability","CORSIA risk","CORSIA consultant India","audit committee","aviation compliance governance"]
+tags: ["CORSIA governance","board reporting","compliance accountability","CORSIA risk","audit committee","internal audit","aviation compliance governance"]
 image: "/images/corsia-consultant/corsia-governance-raci.svg"
 ---
 
-CORSIA has the characteristics that normally attract board attention — a legal obligation, a material and rising cost, external verification, and a penalty regime. It frequently receives none, because it arrived as a technical scheme and stayed with technical people.
+Picture the audit committee of a mid-sized Indian carrier. The chief financial officer is presenting the year's provisions, and a line appears that nobody on the committee has seen before: a CORSIA obligation, sized in tonnes, priced in dollars, due for settlement at the end of a three-year period. Questions follow. Who calculated it? Who decided which units to buy? What happens if the airline gets it wrong? The answers come back in the form of names from three different departments, and none of them has the full picture.
 
-![Who owns what in CORSIA compliance](/images/corsia-consultant/corsia-governance-raci.svg)
+That meeting is common, and it is avoidable. CORSIA has every feature that normally earns a place on a board agenda: it is a legal duty, the cost is material and rising, the numbers are checked by an outside party, and national law attaches consequences to failure. It usually misses the agenda because it entered the company as an environmental reporting exercise and never left the technical team.
 
-## The Accountability That Cannot Move
+![Diagram showing which function owns and which supports each CORSIA activity](/images/corsia-consultant/corsia-governance-raci.svg)
 
-**The operator is accountable.** Not the consultant who prepared the report, not the verifier who checked it, not the broker who sourced the units.
+## Start from what you cannot hand to anyone else
 
-A consultant can write a monitoring plan; the operator submits it and is bound by it. A verification body forms an opinion; the operator remains responsible for the underlying data. An intermediary can source units; the operator carries the eligibility risk if they fail.
+Operators can buy a great deal of CORSIA help. A consultant can draft the monitoring plan and assemble the emissions report. A broker can find units. An accredited body verifies the figures. None of that moves responsibility. The operator submits the plan and is bound by it; the operator owns the fuel data behind the verifier's opinion; the operator carries the loss if a purchased unit turns out not to be eligible.
 
-This has a practical consequence that governance must reflect: **someone in the organisation must be able to explain its own data.** If nobody internally can say where the fuel figures come from, how discrepancies were resolved, or why a particular unit was accepted, the operator cannot discharge an accountability it cannot delegate.
+The governance consequence is simple to state and often missing in practice: at least one person on the payroll must be able to explain the company's own numbers. Where do the fuel figures originate? How was last March's mismatch between uplift dockets and the flight log settled? Why was a particular batch of units judged acceptable? If only an outside adviser can answer, the company holds an accountability it has no means of discharging.
 
-## Who Owns What
+## Give it one owner with real authority
 
-| Activity | Accountable | Supports |
-|---|---|---|
-| Monitoring plan | Operator | Consultant |
-| Fuel data quality | Flight operations | Data team |
-| Annual Emissions Report | Operator | Consultant |
-| Verification | Accredited body | Nobody — independence |
-| Requirement calculation | Operator | Consultant |
-| Unit purchase | Procurement / treasury | Consultant, broker |
-| Cancellation and reporting | Operator | Consultant |
-| Board reporting | Sustainability lead | Finance |
+The usual failure is structural. The sustainability team assumes flight operations holds the data. Flight operations assumes sustainability holds the obligation. Finance learns about the cost when an invoice lands. Everyone is partly involved and nobody is in charge.
 
-The verification row is worth pausing on. The body verifying **cannot** be supported by anyone who advised on the report — independence is a hard requirement, and operators used to buying advice and assurance from one supplier find this disruptive. Plan for two suppliers.
+The fix is a single named owner. In a large airline that might be a dedicated post; in a small operator it may be one part of a sustainability or finance manager's role. The title matters less than three powers that come with it:
 
-## The Single Accountable Owner
+1. **The power to demand data** from flight operations and finance, backed by an escalation route that works. An owner who can request but not escalate spends the year sending reminders.
+2. **The power to refuse a purchase.** If due diligence cannot stop a transaction, it is paperwork, not diligence.
+3. **A line to someone senior enough to settle resource disputes.** CORSIA work competes with operational priorities and loses by default unless someone can rule on it.
 
-The most common structural failure is CORSIA sitting between functions with nobody clearly owning it. Sustainability assumes flight operations has the data; flight operations assumes sustainability has the obligation; finance discovers the cost when the invoice arrives.
+As for which function should hold it, sustainability and finance both work. The powers above matter more than the department.
 
-Appoint one named owner with:
+## Who does what, function by function
 
-**Authority to require data** from flight operations and finance, with a real escalation route when it does not arrive. An owner who can ask but not escalate will spend the year asking.
+The ownership picture is easier to hold as a set of plain statements than as a grid.
 
-**Authority to decline a transaction.** Diligence that cannot stop a purchase is not diligence.
+- **The operator** is accountable for the monitoring plan, the Annual Emissions Report, the calculation of what is owed, and the cancellation and its reporting. A consultant may support each of these.
+- **Flight operations** owns fuel data quality, with the data team behind it.
+- **Procurement or treasury** owns unit purchases, advised by a consultant or broker.
+- **The sustainability lead** prepares board reporting, with finance checking the numbers.
+- **The verification body** works alone. Nobody who advised on the report can support it, because independence is a hard rule.
 
-**A reporting line to someone who can resolve a resource conflict**, because CORSIA competes with operational priorities and will lose every time unless someone can adjudicate.
+That last point unsettles operators used to buying advice and assurance as a package from one firm. Budget and plan for two separate suppliers from the start.
 
-For a small operator this may be part of a role rather than a post. What matters is that it is named and the authority is real.
+## What the board needs to see
 
-## What Belongs in Board Reporting
+Directors do not need the monitoring method. They need four things, and nothing else belongs on the page.
 
-Not the monitoring method. Four things:
+| Heading | What it answers |
+|---|---|
+| Materiality | Today's obligation in tonnes and in currency, set against the budget |
+| Trajectory | How it moves through 2027 and 2030, drawn as steps, because that is how it moves |
+| Risk | Supply, price, State participation changes, programme approval status, and the consequence of non-compliance under national law |
+| Levers | Fuel efficiency, SAF where it can be obtained, timing of purchases, and accuracy of the requirement calculation |
 
-**Materiality.** What the obligation is now, in tonnes and in currency, against what was budgeted.
+Give the obligation as a range with a central case marked. A single number gets repeated back a year later, and any gap is treated as a forecasting failure rather than the uncertainty you flagged at the time.
 
-**Trajectory.** What it becomes through 2027 and 2030, shown as steps rather than a smooth line, because that is what it is.
+### A worked example of a one-page note
 
-**Risk.** Supply availability, price exposure, participation changes, programme approval status, and the consequence of non-compliance under national law.
+An illustrative board note for a carrier we will call Operator X might read, in outline:
 
-**Levers.** What the organisation can actually do — fuel efficiency, SAF where obtainable, procurement timing, and requirement accuracy.
+- *Position.* Verified international emissions for the year are in hand. The obligation for the period is estimated within a low-to-high range, with the central case stated, against the amount provisioned.
+- *Trajectory.* Covered emissions are expected to rise in 2027 when participation becomes mandatory for most States, because two of Operator X's larger international routes connect to States not currently participating. A second step follows in 2030 as the individual growth element starts to apply.
+- *Risks.* Constrained supply of units with host-country authorisation; one programme's approval status under review; penalties set by Indian law.
+- *Levers.* A purchasing schedule spread across the period; a SAF assessment for one station; a review of the requirement calculation before settlement.
 
-Present the number as a **range with the central case identified**. A point estimate will be quoted back and the variance read as a forecasting failure rather than as the uncertainty you described.
+That is enough for a committee to ask sensible questions. The detail sits behind it for anyone who wants it.
 
-## Reporting Cadence
+## When to report
 
-**Annually** as a minimum: the verified position, the obligation, the budget against actual, and the forward trajectory.
+Four occasions justify board or committee time:
 
-**Ahead of each compliance period settlement**, because that is when a large purchase decision is made.
+- **Every year**, after verification: the verified position, the obligation, budget against actual, and the forward view.
+- **Before each compliance period is settled**, since that is when the large purchasing decision is taken.
+- **By exception**, when something material changes: a verification finding that cannot be closed routinely, a supply failure, a participation change affecting your routes, or a lapse in programme approval touching units you already hold.
+- **Once, specifically, ahead of 2027.** The second-phase increase depends on each operator's network and is big enough for some that the board should see it before the year it arrives, not during it.
 
-**On exception** where something material changes — a verification finding that cannot be resolved routinely, a supply problem, a participation change affecting your network, or a programme approval lapse touching units you hold.
+In most organisations the audit or risk committee is the right home, with the full board seeing materiality and trajectory.
 
-**Before 2027**, specifically. The second-phase step change is network-specific and large enough for several operators that it belongs in front of the board before it arrives rather than in the year it lands.
+## Where it sits in the risk register
 
-## Placement in the Risk Framework
+Placement decides how seriously it is treated. CORSIA is three risks at once: a compliance risk (a legal duty with penalties under national law, which vary by State, so confirm the position for your jurisdiction), a financial risk (material, uncertain cost), and an operational risk (dependent on data systems and records held by third parties).
 
-CORSIA belongs in the risk register, and where it sits shapes how seriously it is treated.
+Logged only as a sustainability item, it tends to be routed away from the financial controls and assurance it needs. Logged as a compliance risk with a financial impact, it gets them.
 
-It is simultaneously a **compliance risk** — a legal obligation with penalties under national law — a **financial risk** with material and uncertain cost, and an **operational risk** dependent on data systems and third-party records.
+## The controls nobody external will test
 
-Registering it only as a sustainability item tends to route it away from the assurance and financial controls it actually needs. Registering it as a compliance risk with a financial impact gets it the right attention.
+Verification covers the emissions report and nothing else. Several other steps carry real risk and receive no outside scrutiny unless the company arranges it. Internal audit is well placed to cover them, and the team does not need carbon market expertise, only a scope that includes them.
 
-**Internal audit** should include it in scope. The controls are ordinary — data integrity, segregation of duties on registry access, contract risk allocation, evidence retention — and internal audit is well placed to test them, whether or not the team knows anything about carbon markets.
+::: accordion Registry access and segregation of duties
+Cancellation cannot be reversed, and units are money in all but name. Treat registry access the way you treat payments. Have more than one authorised representative so that one person's leave cannot freeze a transaction. Separate the person who agrees a purchase from the person who executes the transfer and the cancellation. Require written confirmation of the purpose designation before anything is executed. Review access whenever people change roles.
+:::
 
-## Segregation of Duties
+::: accordion The requirement calculation
+The verifier confirms emissions. Turning those emissions into an obligation, by applying growth factors and deducting any eligible fuels claim, is the operator's own arithmetic. An error there passes straight through verification. A second-person review is cheap.
+:::
 
-Registry access deserves the controls applied to payments, because cancellation is irreversible and units are functionally money.
+::: accordion Purchase diligence and contract terms
+No outside party confirms that units were properly checked before they were bought. A unit that fails eligibility after cancellation is found by your own reconciliation or not found at all. Likewise, whether an offtake contract actually allocates authorisation and vintage risk is a legal question that nobody reviews unless asked.
+:::
 
-More than one authorised representative, so absence cannot freeze transactions. Separation between the person who agrees a purchase and the person who executes the transfer and cancellation. A documented procedure requiring confirmation of the purpose designation before execution. Access reviewed when people change roles.
+::: accordion Evidence retention
+Will the records survive a system migration and still be reconstructable seven years from now? Records management is ordinary audit territory; it simply needs to include CORSIA files.
+:::
 
-None of this is exotic. It is standard financial control applied to an asset that does not look like one.
+## Other audiences, one position
 
-## Reporting to Other Stakeholders
+The board is not the only reader. Statutory auditors may look at the provision, its basis and the registry controls. Lenders and lessors increasingly ask about emissions exposure when assessing credit. Insurers are starting to include environmental compliance in underwriting questions. Freight forwarders and corporate customers want per-flight emissions for their own scope 3 accounting, and an operator who can supply a credible figure has a commercial edge. Investors and reporting frameworks may require disclosure of the obligation and where it is heading.
 
-The board is not the only audience, and the same underlying position serves several.
+Keep one authoritative position covering obligation, trajectory, risks and levers, and draw each audience's version from it. Building a fresh answer for each request is how a company ends up giving one number to a lender and another to its auditor, which is a worse problem than either question.
 
-**Auditors** may examine the CORSIA provision or accrual, the basis for the obligation estimate, and the controls around registry access. A documented requirement calculation and a live obligation-versus-cancellation reconciliation answers most of it.
+## Mistakes we see in governance
 
-**Lenders and lessors** increasingly ask about emissions exposure as part of credit assessment. A documented scope determination, a current obligation figure and a stated trajectory is a straightforward answer where one exists and an awkward conversation where it does not.
+- **No single owner**, or an owner with no power to escalate when data does not arrive. This is the most frequent failure by a distance.
+- **Assuming the whole thing can be outsourced.** Execution can be; accountability cannot.
+- **Reporting a point estimate** and then defending the variance for a year.
+- **Leaving internal audit out** because "the verifier covers it". The verifier covers one document.
+- **Treating the 2027 change as a future-year problem** until the budget for 2027 is already set.
 
-**Insurers** are beginning to include environmental compliance in underwriting questions.
+For a practical view of how these pieces come together in year one, see [your first year of CORSIA compliance](/insights/corsia-first-year-compliance-india/). The forecasting side is covered in [budgeting and forecasting CORSIA costs](/insights/corsia-budgeting-and-forecasting-india/), and the verifier's side in [preparing for a CORSIA audit](/insights/corsia-internal-audit-preparation/).
 
-**Corporate customers** — particularly freight forwarders and companies with their own reporting obligations — ask for emissions data to support their own scope 3 accounting. An operator who can supply a credible per-flight figure has a commercial advantage.
-
-**Investors and sustainability reporting frameworks** may require disclosure of compliance obligations and their trajectory.
-
-The efficient approach is a single authoritative position — obligation, trajectory, risks, levers — from which each audience's version is drawn, rather than assembling a separate answer each time. Assembling separately is how an operator ends up giving different numbers to a lender and an auditor, which is a harder problem than either question.
-
-## Assurance Beyond Verification
-
-External verification covers the emissions report. Several other parts of the CORSIA process carry material risk and receive no external assurance at all unless the organisation arranges it.
-
-**Registry access controls.** Cancellation is irreversible and units are functionally money. Nobody outside the organisation checks who can execute a cancellation or whether a second approval is required. This is ordinary internal audit territory.
-
-**The requirement calculation.** The verifier confirms the emissions; applying growth factors and the fuels reduction to reach the obligation is the operator's own arithmetic, and an error here is not caught by verification.
-
-**Procurement and eligibility diligence.** No external party confirms that units bought were properly assessed before purchase. A unit that fails eligibility after cancellation is discovered by your own reconciliation or not at all.
-
-**Contract risk allocation.** Whether offtake agreements actually allocate authorisation and vintage risk is a legal question nobody reviews unless asked.
-
-**Evidence retention.** Whether records will survive a system migration and remain reconstructable in seven years.
-
-Adding these to the internal audit plan costs little. The controls are ordinary — segregation of duties, calculation review, contract review, records management — and the team does not need carbon market expertise to test them. What it needs is a scope that includes them, which usually requires someone to ask.
-
-## Frequently Asked Questions
-
-**Should CORSIA go to the board or a committee?** Usually the audit or risk committee, given the compliance and financial character, with the board seeing materiality and trajectory.
-
-**Who should own it — sustainability or finance?** Either works. What matters is a single named owner with authority to require data and to decline a transaction.
-
-**Can we outsource the whole thing?** Execution yes, accountability no. Someone internal must understand the data well enough to answer for it.
-
-**What is the penalty for non-compliance?** Set by national law, not by ICAO, so it varies by State. Confirm the position for your jurisdiction rather than assuming a general answer.
-
-**How much board time does it need?** Little, if reported well. Annually plus exceptions, with a dedicated session before the 2027 change.
-
-**Should internal audit review it?** Yes. The controls are ordinary and testable, and an internal review before external verification finds problems while they are cheap.
-
-**What is the most common governance failure?** No single owner, and no authority to escalate when data does not arrive. See [your first year of CORSIA compliance](/insights/corsia-first-year-compliance-india/).
-
----
-
-**Sourcing or cancelling CORSIA units?** DSTechnoverse handles registry setup, pre-transaction due diligence, procurement support and cancellation reporting for Indian operators. See our [CORSIA carbon credit services](/services/). We are based in **Indore, Madhya Pradesh** and work across India.
-
-[Apply as a CORSIA buyer or seller](https://carboncredit.dstechnoverse.com/)
-
-[Talk to our carbon markets team](/contact/) about your position.
+If you want help setting up ownership, registry controls or a first board note, we work with Indian operators on exactly this. Our [services page](/services/) sets out what we cover, or [write to the desk](/contact/) with a short description of where you are.

@@ -1,151 +1,125 @@
 ---
-title: "Preparing for a CORSIA Audit: What Verifiers Actually Test"
-excerpt: "Verification is not a document review. What an accredited verifier actually samples, the evidence they expect, how to run an internal dry run, and the preparation that turns a difficult audit into a routine one."
+title: "CORSIA Verification Prep: Running Your Own Audit Before the Verifier Does"
+excerpt: "A verifier traces numbers back to source; a tidy folder proves nothing. How to rehearse CORSIA verification internally, what gets sampled, what to have on the table, and how to leave room in the calendar for findings."
 date: "2026-08-30"
 topic: "Airline Compliance"
-tags: ["CORSIA audit","CORSIA verification","internal audit","verification preparation","CORSIA consultant India","accredited verifier","MRV assurance"]
+tags: ["CORSIA audit","CORSIA verification","internal audit","verification preparation","dry run","accredited verifier","MRV assurance"]
 image: "/images/corsia-consultant/corsia-verification-findings.svg"
 ---
 
-Operators frequently prepare for CORSIA verification by tidying documents. Verifiers test data. The gap between those two activities is where most findings come from.
+A compliance manager at an Indian carrier once showed us his verification preparation: three lever-arch files, colour-tabbed, every page initialled. The verifier spent about ten minutes on them. The rest of the week went on asking for fuel dockets behind individual flights, and on one sector from Kozhikode that did not appear in the flight list at all.
 
-![Verification findings and what they cost](/images/corsia-consultant/corsia-verification-findings.svg)
+That is the pattern we see most. Teams get ready by organising paper. The verifier is there to test whether the numbers are true. Almost every finding sits in the space between those two jobs.
 
-## What Verification Actually Is
+![Diagram of verification findings and their cost to an operator](/images/corsia-consultant/corsia-verification-findings.svg)
 
-An accredited independent body forms an opinion on whether your Annual Emissions Report is materially correct and whether it was produced in accordance with your approved monitoring plan.
+## The standard you are held to
 
-Two things follow from that sentence, and both are frequently missed.
+An accredited, independent verification body gives an opinion on two things: whether your Annual Emissions Report is materially correct, and whether you produced it the way your approved monitoring plan says you would.
 
-**It tests against your plan, not against best practice.** If your plan says you will do X and you did Y, that is a non-conformity even where Y is better. The plan is the standard you are measured against.
+The second half catches people out. The yardstick is **your own plan**, not good practice in general. If the plan describes one method and the team quietly adopted a better one mid-year, that is still a non-conformity. The plan has to be amended and approved first; improving on it informally does not count.
 
-**It is evidence-based, not assurance by inspection.** The verifier samples records and traces them. Presenting a well-organised folder of documents demonstrates organisation, not accuracy.
+The first half is about evidence. A verifier samples, then follows each sample to its origin. A neat binder shows that someone is organised. It says nothing about whether the fuel figure for a given flight is right.
 
-## What They Sample
+## Where the sampling lands
 
-**Fuel records against source.** They will pick flights and ask to see the underlying uplift docket, not the value in your spreadsheet. Expect them to choose awkward cases — an outstation, a diversion, a date near a system change.
+Expect the verifier to go looking in these places, and to choose the awkward cases rather than the routine ones:
 
-**Flight list completeness.** They will take a period and test whether every flight that operated appears. This is the direction that catches missing positioning legs, charters and ad hoc sectors.
+- **Fuel against the source document.** A handful of flights, each traced to the original uplift docket, not to the value your spreadsheet holds. Outstations, diversions and dates close to a system change are favourites.
+- **Completeness of the flight list.** Pick a window, then check that every movement that actually operated is in the list. This is how missing positioning legs, charters and one-off sectors are found.
+- **Scope decisions.** Was this flight really international? Was that aircraft above the mass threshold? Where a flight was treated as exempt, where is the evidence?
+- **Reconciliation.** When two sources gave different numbers, which rule decided it, and is that the rule written in the plan?
+- **Gaps.** How missing data was filled, whether the method existed before the gap appeared, and whether it was applied the same way each time.
+- **Fuels claims.** If you claimed CORSIA Eligible Fuels, the approved-scheme certificate and chain-of-custody records for each batch.
+- **Conformity with the plan version in force.** Not the current version: the one that applied during the period being tested.
 
-**Scope classification.** They will test a sample of flights against your in-scope logic. Was this correctly classified as international? Was this aircraft above the mass threshold? Was this exempt flight properly evidenced?
+## A dry run, worked through
 
-**Reconciliation decisions.** Where sources disagreed, which rule was applied and is it the rule your plan describes?
+The best preparation is to verify yourself a few weeks before the real thing. Here is how we would run it for an illustrative narrow-body operator flying from southern India to the Gulf.
 
-**Data gaps.** How were they filled, was the method pre-defined, and was it applied consistently?
+**1. Pick twenty flights you would rather not be asked about.** For this operator that might be: a Muscat flight that diverted to Salalah; two uplifts at an outstation where the handling agent sends paper dockets; a charter for a pilgrimage group; four flights in the week the fuel system was upgraded; a month where the ACARS feed dropped out; and a ferry flight of an aircraft type that rarely flies. Routine flights only test the part that was always going to work.
 
-**Fuels claims.** If you claimed CORSIA Eligible Fuels, they will want the approved-scheme certification and the chain-of-custody documentation, per batch.
+**2. Trace each one both ways.** From the reported total down to the source docket, and from the docket up to the report. The first direction checks accuracy. The second checks nothing was left out.
 
-**Plan conformity.** Does what you actually did match the plan version in force during the period?
+**3. Give the files to someone who was not involved.** Ask them to explain each figure using only what is in the folder. Where they get stuck, a verifier will too. You have found the finding before it is raised.
 
-## Materiality
+**4. Put the approved plan next to the actual process.** Read it line by line against what the team does day to day. Drift between the two is very common and simple to correct if caught in time.
 
-Verifiers work to a materiality threshold — the size of misstatement that would change a user's conclusion. Errors below it are noted; errors above it must be corrected.
+**5. Write down what you found and fix it.** A correction now costs an afternoon. The same issue raised at verification costs weeks.
 
-Two practical implications. A small error found is not a crisis, and treating it as one wastes everyone's time. And an accumulation of small errors can exceed the threshold in aggregate even where none individually does, so a pattern of minor problems is worth taking seriously.
+## The questions, and what a passable answer looks like
 
-## Running an Internal Dry Run
+Rehearsing answers does more good than polishing documents. These come up in nearly every verification we have sat in on.
 
-The single most effective preparation is to do to yourself what the verifier will do, several weeks before they arrive.
+| The verifier asks | A good answer includes | An answer that fails |
+|---|---|---|
+| "Where did this number come from?" | The source record, the rule applied, and the trail linking them | Pointing at a spreadsheet cell |
+| "How do you know the flight list is complete?" | An independent cross-check: slot data, ATC records, schedule plus known ad hoc flights | "The system produces it" |
+| "Why was this discrepancy settled this way?" | The written reconciliation rule, plus the decision log entry if it was escalated | "That's how we usually do it" |
+| "Which plan version applied in March?" | Version history with approval dates | Only the current plan exists |
+| "This month looks different. Why?" | The known cause, ready: a route change, a system change, a feed failure | Working it out live in the room |
+| "How was this gap filled, and where is the method written?" | The gap register and the pre-set procedure in the plan | A method chosen after the gap appeared |
+| "Who else can explain this if you are away?" | A named second person who actually can | Silence |
 
-**Sample twenty flights, chosen badly on purpose.** A diversion, an outstation uplift, a charter, a flight near a monitoring plan revision, a month with a system outage, an aircraft type used rarely. Routine flights test the part that was always going to work.
+Run this table as a rehearsal with the real team. Whatever they stumble on is what you still have time to fix.
 
-**Trace in both directions.** From reported figure back to source, and from source record forward to the report.
+## On materiality
 
-**Hand each to someone uninvolved.** Ask them to explain the figure from the files alone. If they cannot, a verifier will not be able to either — and that is the finding, before it becomes a finding.
+The verifier works to a materiality threshold: the size of error that would change what a reader of the report concludes. Errors below it get noted. Errors above it have to be corrected.
 
-**Check plan conformity explicitly.** Read the approved plan and compare it against what the team actually does. Drift is extremely common and entirely fixable if found early.
+Two consequences. One small error is not an emergency, and reacting as if it were wastes everyone's week. But many small errors can add up past the threshold even when none of them does on its own, so a run of minor issues deserves attention as a pattern, not just one at a time.
 
-**Test the awkward questions.** Why was this discrepancy resolved this way? Where is the evidence this flight was humanitarian? Which plan version applied in March?
+## What to have on the table
 
-Record what the dry run finds and fix it. This is cheap; a finding at verification is not.
+A short checklist for the evidence pack:
 
-## The Questions Verifiers Actually Ask
+1. Every version of the approved monitoring plan, each with its approval date.
+2. Source data exactly as received, unaltered.
+3. The written reconciliation rules.
+4. A decision log for every manual intervention.
+5. The data gap register, with the method used for each gap.
+6. Fuels certification and chain-of-custody records, if you claim eligible fuels.
+7. Your scope determination and the reasoning behind it, for the entity and for route pairs.
+8. Last year's findings and the evidence each was closed.
 
-Preparing for the questions is more useful than preparing documents. These recur across verifications, and a team that can answer them fluently has a straightforward audit.
+The last item matters more than it looks. A finding that comes back after being reported as closed is treated much more severely than a first occurrence, because it suggests the fix was only on paper. We cover how to close findings properly in [resolving verification findings](/insights/corsia-verification-findings-resolution/).
 
-**"Show me where this number came from."** Pointing at a spreadsheet cell is not an answer. The answer is the source record, the rule applied, and the trail between them.
+## Desk review and site work need different preparation
 
-**"How do you know this flight list is complete?"** Requires an independent reconciliation — slot data, ATC records, schedule plus known ad hoc movements. "It comes out of the system" is not evidence of completeness.
+Most verifications combine the two.
 
-**"Why was this discrepancy resolved this way?"** Requires the documented rule, and the decision log entry if it was escalated.
+**The remote part** covers the plan, the report, the reconciliation rules, the decision log and a first look at sampled records. Most findings start here. The evidence pack has to make sense without anyone in the room explaining it.
 
-**"Which version of the monitoring plan applied in March?"** Requires version control with approval dates. Operators who keep only the current version cannot answer.
+**The site or interview part** is about how records come into being. The verifier walks the process with the people who run it: where a fuel docket physically lands, who keys it, what happens when it is late. This is where differences between the written plan and daily practice show up, because it is hard to write a process down in a way that holds up when someone watches it happen.
 
-**"What happened in this month — the figures look different."** Usually a system change, a route change or a data feed problem. Have the explanation ready rather than discovering it under questioning.
+For this part, the people who do the work must be present and able to explain their own steps. Training them on your actual data flow, rather than on CORSIA in general, pays off here. See [who needs which training](/insights/corsia-training-for-airline-teams/).
 
-**"How did you fill this gap, and where is that method defined?"** Requires the gap register and the pre-defined procedure from the plan.
+A small practical point that costs real time: check the leave calendar. We have seen verifications stall because the one person who understands the reconciliation logic was away that week.
 
-**"Who else can explain this if you are unavailable?"** A question about key-person risk, and one where the honest answer is often uncomfortable.
+## Handling the verifier
 
-Run these as a rehearsal with the actual team a few weeks before verification. The questions they struggle with are the findings you have time to prevent.
+- **Book early.** There are only so many accredited bodies, and everyone needs them in the same months. Book late and you get whoever is free, on their terms. Our note on [choosing a verification body](/insights/corsia-verification-body-selection-india/) covers selection.
+- **Check independence.** Whoever advised on your report cannot verify it. If a consultant drafted your monitoring plan, that firm cannot verify against it. Budget for two separate suppliers from the start.
+- **Respond quickly to requests.** A scope limitation, meaning evidence the verifier needed and could not get, can stop an opinion being issued at all. That is worse than any finding.
+- **Accept valid findings.** Understand them, correct them, fix the cause. Fighting a sound finding spends credibility you will want in later years.
+- **Push back with reasons where a finding is wrong.** If it rests on a misreading of how you operate, explain that clearly. Verifiers will engage with a reasoned case.
 
-## What to Have Ready
+## Leave room in the calendar
 
-| Item | Why |
-|---|---|
-| Approved monitoring plan, all versions with dates | Verification is against the version in force |
-| Source data, unmodified | The evidence base |
-| Reconciliation rules, documented | Tests consistency of resolution |
-| Decision log for manual interventions | Explains judgement calls |
-| Data gap register with methods applied | Tests pre-definition |
-| Fuels certification and chain of custody | Supports any CEF claim |
-| Scope determination with reasoning | Entity and route-pair logic |
-| Previous year's findings and their closure | Repeat findings are treated seriously |
+Plan on the assumption that there will be findings. The schedule needs space to correct and re-verify before the national submission deadline. If verification is due to finish the week before that deadline, a material finding turns a technical problem into a compliance failure. The [compliance calendar](/insights/corsia-reporting-deadlines-and-calendar/) shows how to space the year.
 
-That last row deserves emphasis. A finding raised again after being reported closed is regarded far more seriously than a first occurrence, because it suggests the corrective action was cosmetic.
+From engaging a verifier to receiving a signed opinion, allow three to six months, including time to deal with findings.
 
-## Remote and On-Site Elements
+## Short answers
 
-Verification is normally a mix, and knowing which parts happen where lets you prepare each properly.
+**Can our consultant also verify?** No. Independence is required, so you need two suppliers.
 
-**Remote review** covers the monitoring plan, the report, the reconciliation rules, the decision log and a first pass of sampled records. Most of the document work happens here, and most findings originate here.
+**What if the verifier finds a material misstatement?** It is corrected and the affected work is verified again. That is why the schedule needs slack.
 
-**On-site or interview work** covers how records are actually created — walking the process with the people who do it, seeing where a fuel docket physically arrives and what happens to it, and testing whether the described process matches the lived one.
+**Do verifiers come on site?** Usually there is some mix of remote review and site or interview work. The site element matters most where the question is how records are created.
 
-The site element is where drift between plan and practice surfaces, because it is very hard to describe a process in a document in a way that survives someone watching it happen.
+**What is the most common finding?** Practice that has drifted away from the approved plan, and reconciliation choices with no written rule behind them.
 
-Prepare differently for each. For the remote phase, the evidence pack must stand alone without commentary. For the interview phase, the people doing the work need to be available and to understand their own process — which is an argument for having trained them on your actual pipeline rather than on the scheme in general.
+**How do we get fewer findings next year?** Fix root causes, not symptoms, and run the dry run again before the verifier arrives.
 
-One practical point: make sure the person who can answer data provenance questions is genuinely available on the days concerned. Verifications lose time to the one person who knows the reconciliation logic being on leave.
-
-## Managing the Engagement
-
-**Engage early.** Accredited bodies are limited and demand clusters in the same window for everyone. Late engagement means whoever remains, at their price and their schedule.
-
-**Confirm independence.** The body verifying cannot have advised on the report. If a consultant wrote your monitoring plan, that firm cannot verify against it. Plan for two suppliers from the outset — this surprises operators used to buying advice and assurance together.
-
-**Give them what they ask for, promptly.** A scope limitation — evidence the verifier cannot obtain — can block the opinion entirely, which is a worse outcome than a finding.
-
-**Do not argue with a valid finding.** Understand it, correct it, and address the cause. Disputing a well-founded finding costs credibility that matters in later years.
-
-**Do ask for clarification** where a finding is unclear or where you believe it rests on a misunderstanding of your operation. Verifiers are professionals and will engage with a reasoned position.
-
-## Building Schedule Contingency
-
-Assume findings. Plan the calendar so there is time to correct and re-verify without missing the national submission deadline.
-
-Operators who schedule verification to finish the week before the deadline have no room for a material finding, and a material finding at that point becomes a compliance problem rather than a technical one.
-
-## Frequently Asked Questions
-
-**How long does CORSIA verification take?** Allow three to six months from engagement to a signed opinion, including time to resolve findings.
-
-**Can our consultant verify our report?** No. Independence is required. Two suppliers.
-
-**What happens if a material misstatement is found?** It must be corrected and the affected work re-verified. Build time for this into the schedule.
-
-**What is a scope limitation?** Evidence the verifier needs and cannot obtain. It can prevent an opinion being issued, which is more serious than an ordinary finding.
-
-**Do verifiers visit the site?** Usually some combination of remote review and site work. The site element matters most where the question is how records are actually created.
-
-**How do we reduce findings next year?** Address root causes rather than symptoms, and run an internal dry run before the verifier arrives.
-
-**What is the most common finding?** Practice that has drifted from the approved monitoring plan, and reconciliation decisions with no documented rule behind them. See [CORSIA data systems](/insights/corsia-data-systems-and-automation/).
-
----
-
-**Need CORSIA compliance that survives verification?** DSTechnoverse builds monitoring plans, data pipelines and reporting processes for Indian operators, and supports project developers through eligibility and placement. See our [CORSIA carbon credit services](/services/). We are based in **Indore, Madhya Pradesh** and work across India.
-
-[Apply as a CORSIA buyer or seller](https://carboncredit.dstechnoverse.com/)
-
-[Talk to our carbon markets team](/contact/) about your position.
+If you would like an outside pair of eyes on your dry run before the real one, [tell us where you are in the cycle](/contact/). We will say plainly whether we think the pack will hold up.

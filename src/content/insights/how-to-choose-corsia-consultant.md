@@ -1,166 +1,104 @@
 ---
-title: "How to Choose a CORSIA Consultant: 12 Questions to Ask Before You Sign"
-excerpt: "The CORSIA advisory market has attracted firms with very uneven expertise. Twelve specific questions that separate consultants who have done the work from those who have read about it, plus the claims that should end a conversation."
+title: "Choosing a CORSIA Consultant: The Interview Questions That Sort Experience From Theory"
+excerpt: "CORSIA advisers range from firms that have done the work to firms that have read about it. Twelve interview questions grouped by what they test, the answers to listen for, proposal red flags, and how to contract once you choose."
 date: "2026-08-19"
 topic: "CORSIA Fundamentals"
 tags: ["CORSIA consultant","choose CORSIA consultant","CORSIA advisory services","carbon credit consultant","CORSIA due diligence","aviation carbon consulting","CORSIA compliance"]
 image: "/images/corsia/hero-corsia-consultant.svg"
 ---
 
-A compliance obligation with real money attached and a shortage of genuine expertise is a combination that attracts opportunists. The CORSIA advisory market has both. These twelve questions are designed to establish, in a single conversation, whether a prospective consultant has actually done this work.
+The difficulty with hiring a CORSIA adviser is that you are hiring for knowledge you do not yet have. You cannot easily tell a strong answer from a confident one. And because the scheme carries real cost and genuine expertise is scarce, the market has drawn in firms of very uneven depth.
+
+So design the interview to do the judging for you. The questions below are chosen because experienced people answer them one way and inexperienced people another, and the difference is audible even if you are new to the subject. We are advisers ourselves; these are the questions we would expect, and want, to be asked.
 
 ![Choosing a CORSIA consultant](/images/corsia/hero-corsia-consultant.svg)
 
-## 1. Which side of the market do you work?
+## Questions that test honesty about the scheme
 
-Operator-side compliance and developer-side project work are different practices. A firm doing only one is not disqualified, but you should know which you are hiring.
+**"Are you ICAO certified?"** This is a trap. No such certification exists. A good adviser says so and explains what does exist: [ISO 14065](https://www.iso.org/standard/74257.html) accreditation for verification bodies, ICAO approval for crediting programmes, and national authority approval for monitoring plans. If the answer is yes, or a certificate appears, end the meeting. Either the credential is misrepresented or the firm does not understand how the scheme is governed.
 
-**Listen for:** A clear answer, and awareness of what the other side looks like. A consultant advising you on purchasing who cannot describe the authorisation process a seller goes through does not understand why supply is scarce.
+**"Could you verify our emissions report as well?"** Another test. Verification must be independent of the party being verified, and a firm that wrote your plan cannot then verify against it. The right answer is no, with that reason. An adviser who offers both is either unaware of the independence rule or prepared to ignore it.
 
-## 2. How many monitoring plans have you had approved, and by which authorities?
+**"Tell us about an engagement that went badly."** Probably the most revealing question in any procurement. Anyone who has done real CORSIA work has met an authority that sent a plan back, a verifier finding, an authorisation that stalled or a supply deal that collapsed. Listen for a specific story and a specific lesson. "Nothing has gone wrong" means too little work or too little candour.
 
-The Emissions Monitoring Plan is the foundation. Approval practice varies by national authority, and experience with yours specifically has value.
+## Questions that test hands-on compliance experience
 
-**Listen for:** Numbers and named authorities. **Worry about:** "We're very familiar with the requirements." Familiarity with a document is not experience with a regulator.
+**"How many monitoring plans have you had approved, and by which authorities?"** The Emissions Monitoring Plan is the foundation, and approval practice varies between national authorities. You want numbers and named authorities, ideally including yours; for an Indian operator, the DGCA. "We know the requirements well" is familiarity with a document, not experience with a regulator. See [working with the DGCA](/insights/corsia-dgca-interaction-guide/).
 
-## 3. What happens if my operational data cannot support the monitoring method we choose?
+**"What if our data can't support the monitoring method we pick?"** This is the most common expensive failure: a method chosen on paper that the operator's systems cannot feed, found out at verification a year later. A good adviser wants to look at your fuel and flight records before recommending anything. A recommendation made before anyone has seen your data is a warning.
 
-This is the most common expensive failure — a method selected on paper that the operator's actual systems cannot feed, discovered at verification a year later.
+**"Model our second-phase obligation on our actual network."** From 2027, mandatory participation widens route coverage, and the effect depends on where you fly. You want willingness to run your route data and a clear line between what is assumed and what is known. A flat percentage applied to your current figure is the weak answer. [CORSIA phases](/insights/corsia-phases-timeline-explained/) explains what drives the change.
 
-**Listen for:** A consultant who wants to see your data before recommending a method. **Worry about:** A recommendation offered before anyone has looked at what you actually record.
+## Questions that test knowledge of the unit market
 
-## 4. Are you ICAO certified?
+**"How do you establish that a unit carries a corresponding adjustment?"** The [corresponding adjustment](/insights/corresponding-adjustments-corsia-explained/) removes most supply, so how an adviser checks it shows how rigorous their diligence is.
 
-A trick question. The correct answer is that no such certification exists.
+| Strong answer | Weak answer |
+|---|---|
+| "We obtain the host-State authorisation document naming the units, confirm which designated national authority issued it, and check how the adjustment appears in national reporting." | "The seller confirms the units are adjusted," or a reference to the project's marketing material |
 
-**Listen for:** A clear no, with an explanation of what does exist — [ISO 14065](https://www.iso.org/standard/74257.html) accreditation for verification bodies, ICAO approval for crediting programmes, national authority approval for monitoring plans.
+**"What do you do with 'CORSIA-ready' or 'eligible pending authorisation' supply?"** Those phrases describe units that are not eligible now. A good adviser says they are not standards, that buying them moves authorisation risk onto you, and, if you choose to take that risk, how to structure a forward agreement around it.
 
-**End the conversation if:** They say yes, or produce a certificate. Either they are misrepresenting a credential or they do not understand the scheme's governance. Both are disqualifying.
+**"What happens to us if a programme's approval lapses or a vintage window moves?"** Both have happened. Listen for mitigations: spreading across programmes, not concentrating near a vintage boundary, contract protection. "The rules are settled now" is the wrong answer.
 
-## 5. Can you also verify our emissions report?
+**"Which side of the market do you work?"** Operator compliance and developer project work are different practices. A firm doing only one is fine, but know which you are hiring. An adviser on your purchasing who cannot describe what a seller goes through to get authorisation does not understand why supply is short.
 
-Another test. Verification requires independence from the party being verified.
+## Questions that test the engagement itself
 
-**Listen for:** No, with an explanation of why. A consultant offering both is either unaware of the independence requirement or willing to ignore it.
+**"Who will actually do the work, and will we meet them?"** Sold by a partner and delivered by a junior is a familiar pattern. Ask for names, their experience and their availability.
 
-## 6. How do you establish that a unit carries a corresponding adjustment?
+**"What will we receive, and who owns it?"** You need reasoning that survives staff changes and holds up in front of a verifier years later. A calculation you cannot rebuild is a liability. Confirm you own the working papers, not just a summary PDF.
 
-The [corresponding adjustment](/insights/corresponding-adjustments-corsia-explained/) is the criterion that eliminates most supply. How a consultant verifies it tells you how rigorous their due diligence actually is.
+## Things that should end the conversation
 
-**Listen for:** A specific evidence chain — a host-State authorisation document naming the units, the designated national authority that issued it, and how the adjustment appears in national reporting.
+- A claim to be "ICAO certified" or "CORSIA certified".
+- "Guaranteed eligible supply at a fixed price." In a constrained market with regulatory risk, nobody can honestly promise that.
+- "We can convert your voluntary credits into CORSIA credits." Whether units become eligible is a host-State decision, not a service.
+- "CORSIA is simple; we handle everything." The difficult parts are difficult for everyone.
+- Voluntary market prices presented as CORSIA prices.
 
-**Worry about:** "The seller confirms it is adjusted", or reliance on a marketing description. Seller assurance is not evidence.
+## Reading the written proposal
 
-## 7. What do you do about "CORSIA-ready" or "eligible pending authorisation" supply?
+The meeting tells you a lot. The document tells you the rest. Check it for these:
 
-These phrases describe units that are not currently eligible.
+- **Deliverables, not verbs.** "Support", "assist" and "manage" are not deliverables. An approved monitoring plan, a verified emissions report, a documented requirement calculation and a completed cancellation are.
+- **Your data.** A proposal for monitoring work that does not ask to see your records first was written from a template.
+- **Scheme-specific risks.** Generic lines about market volatility, with nothing on vintage windows, approval status, authorisation or participation change, mean the real risks were not considered.
+- **Prices with a source.** A unit price quoted without source, vintage, programme and adjustment status has nothing behind it.
+- **Realistic timelines.** Verifier capacity, registry account opening, authority review and host-State authorisation are outside the adviser's control. A schedule that treats them as instant has not been thought through.
+- **Named people.** As above.
+- **Ownership of working papers.** If the draft contract is silent, raise it.
 
-**Listen for:** Clear recognition that these are not standards and that buying against them transfers authorisation risk to you. A good consultant will explain how to structure a forward agreement if you choose to take that risk deliberately.
+## Once you have chosen
 
-## 8. What is our exposure if a programme's approval lapses or a vintage window moves?
+- **Start small.** Begin with an assessment of scope, data readiness and feasibility. An adviser confident in their value will accept a modest first phase. [Engagement models](/insights/corsia-consultant-engagement-models/) compares the options.
+- **Name the deliverables** in the contract, in the concrete terms above.
+- **Put sourcing risk in writing.** If the adviser sources units, state who bears the loss if eligibility fails. Silence leaves it with you. If one firm handles both compliance and purchasing, which can work well because the two are linked, write the sourcing risk separately from the compliance scope.
+- **Specify documentation.** Working papers, sources and reasoning delivered, and owned by you.
+- **Keep someone in-house who can explain your data.** Outsourcing that entirely is how organisations become permanently dependent.
 
-Both have happened.
+## On fees
 
-**Listen for:** An acknowledgement that these are live risks, and specific mitigations — diversifying across programmes, avoiding concentration near a vintage boundary, contractual protection.
+Cheap CORSIA advice tends to cost more in the end. A monitoring method your data cannot support, units that turn out ineligible, an obligation discovered late: each of these costs far more than the fee gap between a competent adviser and a cheap one. High fees do not prove competence either. Ask for pricing tied to defined deliverables, and be wary of open-ended retainers. [Consultant cost in India](/insights/corsia-consultant-cost-and-fees-india/) covers what drives the number.
 
-**Worry about:** Reassurance that the rules are settled. They are not.
+::: accordion Large consultancy or specialist?
+Specialists usually know the scheme better; large firms bring process and scale. What decides it is who does the work.
+:::
 
-## 9. Model our second-phase obligation against our actual network.
+::: accordion How should we take up references?
+Ask referees what went wrong and how it was handled, rather than whether they were happy.
+:::
 
-From 2027, mandatory participation expands route coverage substantially. The change in obligation is operator-specific and depends on where you fly.
+::: accordion Does a local adviser help?
+For monitoring plan approval, familiarity with your national authority helps. Unit sourcing is an international market.
+:::
 
-**Listen for:** Willingness to do the analysis with your route data, and clarity about what is assumption versus known. See [the phase structure](/insights/corsia-phases-timeline-explained/) for what drives this.
+::: accordion What about an adviser new to CORSIA but strong in related work?
+Emissions accounting, Article 6, verification and aviation operations data all transfer well, and the scheme is young enough that nobody has decades in it. What does not transfer is knowledge of your authority's practice and of what buyers currently reject. Ask how they would close those two gaps.
+:::
 
-**Worry about:** A generic percentage applied to your current number.
+::: accordion We already have an adviser and have doubts. What now?
+Get a second opinion on the monitoring plan. Everything depends on it, and fixing it early costs far less than fixing it at verification.
+:::
 
-## 10. Who does the work, and will we meet them?
-
-Sold by a partner, delivered by a junior, is a familiar pattern.
-
-**Listen for:** Named individuals, their actual experience, and their availability. **Worry about:** Team capability described only in aggregate.
-
-## 11. What does the deliverable look like, and who owns it?
-
-You need documentation that survives staff turnover and defends decisions to a verifier years later.
-
-**Listen for:** Documented reasoning, not just outputs. A calculation you cannot reconstruct is a liability. Confirm you own the working, not just a PDF summary.
-
-## 12. Tell me about an engagement that did not go well.
-
-The most revealing question in any procurement.
-
-**Listen for:** A real answer with a specific lesson. Anyone with genuine CORSIA experience has hit an authority that rejected a plan, a verifier finding, an authorisation that stalled, or a supply deal that fell through.
-
-**Worry about:** Nothing has ever gone wrong. Either they have not done enough work, or they are not being straight with you.
-
-## Claims That Should End the Conversation
-
-- **"ICAO certified" or "CORSIA certified."** No such credential exists.
-- **"Guaranteed eligible supply at a fixed price."** In a supply-constrained market with regulatory risk, this is not a guarantee anyone can honestly make.
-- **"We can convert your voluntary credits to CORSIA credits."** Conversion is a host-State decision, not a service.
-- **"CORSIA is straightforward, we handle everything."** The parts that are hard are hard for everyone.
-- **Voluntary market prices quoted as CORSIA prices.** Either they do not understand the two-tier market or they are hoping you do not.
-
-## Red Flags in the Written Proposal
-
-The conversation tells you a lot; the document tells you the rest.
-
-**Scope described only in verbs.** "Support", "assist", "advise" and "manage" are not deliverables. An approved monitoring plan, a verified emissions report, a documented requirement calculation and a completed cancellation are.
-
-**No mention of your data.** A proposal for monitoring work that does not ask to examine your actual fuel and flight records before recommending a method has been written from a template.
-
-**Boilerplate risk sections.** Generic language about market volatility, with no reference to vintage windows, programme approval status, authorisation risk or participation change, indicates the risks specific to this scheme have not been considered.
-
-**Prices with no basis.** A CORSIA unit price quoted in a proposal, without stating the source, the vintage, the programme and whether the corresponding adjustment is in place, is a number with nothing behind it.
-
-**Timelines that ignore third parties.** Verifier availability, registry account opening, authority review periods and host-State authorisation all sit outside the consultant's control. A schedule that treats them as instantaneous has not been thought through.
-
-**No named team.** See question ten.
-
-**Ownership of working papers unaddressed.** You need the reasoning, not just the conclusion. If the contract is silent, ask.
-
-## Structuring the Engagement
-
-Once you have chosen, the contract matters:
-
-**Phase it.** Start with an assessment — scope, data readiness, feasibility. A consultant confident in their value will accept a small first phase.
-
-**Define deliverables concretely.** "Compliance support" is not a deliverable. An approved monitoring plan, a verified emissions report, a documented requirement calculation, a completed cancellation are.
-
-**Allocate risk explicitly.** If they source units, who bears the loss if eligibility fails? Silence defaults it to you.
-
-**Require documentation standards.** Specify that working papers, sources and reasoning are delivered, and that you own them.
-
-**Keep internal capability.** Someone in your organisation must be able to explain your own data. Outsourcing that is how organisations become permanently dependent.
-
-## A Note on Cost
-
-Cheap CORSIA advice is usually expensive. The failure modes — a monitoring method your data cannot support, units that turn out ineligible, an obligation discovered late — cost far more than the fee difference between a competent firm and a cheap one.
-
-That said, high fees are not evidence of competence either. Ask for scope-based pricing tied to defined deliverables, and be sceptical of open-ended retainers with vague scope.
-
-## Frequently Asked Questions
-
-**Should I use a big consultancy or a specialist?** Specialists usually know the scheme better; large firms bring process and scale. What matters is who does the work, so ask question ten.
-
-**Can my verification body recommend a consultant?** They may, but check for conflicts. The verifier must remain independent of the advisory work.
-
-**How do I check references usefully?** Ask referees what went wrong and how it was handled, not whether they were satisfied.
-
-**Is a local consultant better?** For monitoring plan approval, familiarity with your national authority helps. For unit sourcing, the market is international.
-
-**What if I have already started with a consultant I now doubt?** Get a second opinion on the monitoring plan specifically. It is the document everything else depends on, and correcting it early is far cheaper than at verification.
-
-**Where do I start if I have not engaged anyone?** Establish your scope and threshold position first — see [the CORSIA compliance roadmap](/insights/corsia-compliance-roadmap-airlines/).
-
-**Should the same firm handle both compliance and unit purchasing?** It can work well, because the requirement calculation and the procurement decision are connected. But the risk allocation on sourcing should be written down separately from the compliance scope, so that a failure in one does not become ambiguous in the other.
-
-**How do I judge a consultant who is new to CORSIA but strong in adjacent work?** Adjacent depth — emissions accounting, Article 6, verification, aviation operations data — transfers well, and the scheme is young enough that nobody has twenty years in it. What does not transfer is familiarity with your national authority's practice and with what buyers currently reject. Ask specifically about those two gaps and how they intend to close them.
-
----
-
-**Ready to act on CORSIA?** DSTechnoverse provides specialist [CORSIA carbon credit services](/services/) for aircraft operators, project developers and traders — eligibility screening, offsetting requirement calculation, unit sourcing and due diligence, corresponding adjustment support and registry execution. We are based in **Indore, Madhya Pradesh** and work with clients across India and internationally.
-
-[Apply as a CORSIA buyer or seller](https://carboncredit.dstechnoverse.com/)
-
-[Talk to our carbon markets team](/contact/) about your specific position.
+If you are interviewing advisers and want to put these questions to us too, [book a conversation with the desk](/contact/). We would rather be tested than trusted.

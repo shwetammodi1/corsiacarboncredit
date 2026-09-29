@@ -1,58 +1,88 @@
 ---
-title: "Direct Air Capture (DAC) and Engineered Carbon Removals"
-excerpt: "Direct air capture pulls CO2 straight from the atmosphere and stores it for millennia — the most durable removal there is, and the most expensive. How DAC works, why it costs so much, and where the price is heading."
+title: "Direct Air Capture (DAC): The Most Durable Carbon Removal, and Why It Costs So Much"
+excerpt: "DAC machines extract CO2 from ordinary air and store it deep underground for millennia. We explain the process, why the price per tonne is so high, where it may fall, and how a buyer should use it."
 date: "2026-09-04"
 topic: "Carbon Market Guides"
 tags: ["direct air capture","DAC","engineered carbon removal","carbon removal","permanent removals","carbon capture and storage"]
 image: "/images/carbon-topics/direct-air-capture.svg"
 ---
 
-At the premium end of the carbon-removal spectrum sits the most futuristic option: machines that pull carbon dioxide directly out of the open air and lock it away underground. **Direct air capture (DAC)** offers the most durable removal money can buy — and, today, the most expensive. Here is how it works and why it matters even at small scale.
+When a client asks us for a removal that nobody can argue will reverse, the honest answer is usually direct air capture. It is also the answer that ends most conversations about budget. DAC sits at one extreme of the carbon market: the longest storage, the smallest supply and the highest price per tonne.
 
-## How Direct Air Capture Works
+## The process in four steps
 
-DAC uses large installations of fans and chemical sorbents to capture CO2 from ambient air. The captured CO2 is then concentrated and either used in products or, for a removal credit, **injected into deep geological formations** where it is mineralised or trapped permanently. The credit represents a tonne of CO2 physically taken from the atmosphere and stored — a true removal, not an avoidance.
+1. **Draw in air.** Large banks of fans move ordinary air across a chemical sorbent.
+2. **Capture the CO2.** The sorbent binds carbon dioxide, which is present in air only at very low concentration.
+3. **Release and concentrate it.** Heat or another process frees the CO2 from the sorbent as a concentrated stream.
+4. **Store it.** For a removal credit, the CO2 is injected into deep geological formations, where it is trapped or turns into rock.
 
-## Why It Is the Gold Standard for Permanence
+Captured CO2 can also go into products, but that is not what a removal credit pays for. The credit certifies a tonne taken out of the atmosphere and locked away. That makes it a true removal: it deals with CO2 already emitted, rather than preventing a future emission as an avoidance credit does.
 
-The whole spectrum of removals can be ranked by how long the carbon stays stored, and DAC with geological storage sits at the top:
+## How long the carbon stays put
 
-| Removal | Durability | Cost today |
-|---|---|---|
-| Nature-based (forests) | Decades, reversible | Low |
-| Biochar | Centuries | Mid |
-| DAC + geological storage | Millennia | High |
+Removals differ mainly in how long the carbon remains stored and how easily it can escape again.
 
-For a buyer who needs a removal that will not reverse — no fire, no clearance, no drought risk — DAC is the most defensible option available. That permanence is precisely why it costs what it does.
+| | Forests and other nature-based removals | Biochar | DAC with geological storage |
+|---|---|---|---|
+| Storage horizon | Decades | Centuries | Millennia |
+| Can it reverse? | Yes: fire, clearance, drought | Much less exposed | Very unlikely once stored |
+| Relative cost | Low | Middle | High |
 
-## Why It Is So Expensive
+For a buyer whose claim must survive scrutiny for a long time, that last column explains the choice. There is no forest to burn and no landowner who might change their mind. The price reflects exactly that. Our note on [biochar credits](/insights/biochar-carbon-credits-explained/) covers the middle option.
 
-DAC is energy-intensive: pulling CO2 from air, where it is highly dilute, takes far more energy than capturing it from a concentrated flue gas. That energy must itself be low-carbon, or the whole exercise is self-defeating. Combine high energy demand, early-stage technology and scarce capacity, and you get today's premium price — orders of magnitude above a cheap avoidance credit. This is the trade-off at the heart of the removal market: the more durable and defensible the removal, the more it costs, as the [biochar](/insights/biochar-carbon-credits-explained/) and forestry comparisons show.
+## Where the cost comes from
 
-## Where the Price Is Heading
+Three things push the price up.
 
-DAC follows a classic technology cost curve. As deployment scales, engineering improves and clean-energy costs fall, the price per tonne is expected to decline substantially — the same trajectory solar and batteries followed. Early corporate buyers are effectively funding that scale-up, paying a premium now to help bring a permanent-removal industry down the cost curve. That is why DAC appears in serious net-zero portfolios today despite the price: it is a bet on the removals the world will need for its hardest-to-abate residual emissions.
+- **Dilution.** CO2 makes up a tiny fraction of open air. Capturing it takes far more energy than capturing CO2 from the concentrated exhaust of a chimney.
+- **Clean energy.** That energy has to be low-carbon itself. A DAC plant running on fossil power would emit much of what it removes.
+- **Early-stage scale.** The technology is young and capacity is limited, so each tonne carries a large share of fixed engineering cost.
 
-## DAC in a Removal Strategy
+Put together, DAC tonnes sell at prices many times higher than a cheap avoidance credit, by orders of magnitude at the extremes.
 
-Few buyers build a portfolio only from DAC — it is too expensive at volume. Instead it tends to anchor the **most durable slice** of a mixed removal portfolio, alongside biochar and nature-based removals, matched to the durability and budget a credible net-zero claim requires.
+## The expected cost curve
 
-## Frequently Asked Questions
+Most analysts expect the price per tonne to fall substantially as plants get bigger, engineering improves and clean power becomes cheaper. Solar panels and batteries followed the same kind of curve.
 
-**What is direct air capture?** Technology that captures CO2 directly from ambient air; for a removal credit, the captured CO2 is stored permanently underground.
+Companies buying DAC today are therefore paying for two things: the removal itself, and a share of the scale-up that should make later removals cheaper. Some net-zero plans include it on that basis, as a bet on the removals that will be needed for the residual emissions that are hardest to cut.
 
-**Why is direct air capture so expensive?** CO2 is very dilute in open air, so capturing it is energy-intensive, and the technology is still early-stage with limited capacity — all of which raise the cost per tonne.
+## Using DAC in a portfolio: a worked example
 
-**Is DAC a removal or an avoidance credit?** A removal — it physically takes CO2 out of the atmosphere, rather than preventing a future emission.
+Very few buyers rely on DAC alone. The usual approach is to reserve it for the part of a claim that needs the strongest permanence.
 
-**How permanent is DAC storage?** With geological storage, on the order of millennia, making it the most durable removal type available.
+*Illustrative example.* A company plans to address 1,000 tonnes of residual emissions with removals. It might split them as follows:
 
-**Will DAC get cheaper?** Most analysts expect costs to fall substantially as capacity scales and clean-energy costs decline, following a technology cost curve.
+| Share | Tonnes | Removal type | Reason |
+|---|---|---|---|
+| 10% | 100 | DAC with geological storage | The part of the claim that must be beyond dispute |
+| 30% | 300 | Biochar | Long storage at a middle price |
+| 60% | 600 | Nature-based removals | Volume at lower cost, with reversal risk accepted and disclosed |
 
----
+The percentages are made up for illustration and are not a recommendation. The point is the structure: durability is bought where it matters, and the budget covers the rest with cheaper removals.
 
-**Navigating carbon credits and climate claims?** DSTechnoverse works on the data and integrity side of carbon — project screening, registry and eligibility verification, MRV and monitoring-data analysis, reconciliation and defensible reporting. See our [CORSIA carbon credit services](/services/) and [data analytics](https://dstechnoverse.com/services/data-analytics). We are based in **Indore, Madhya Pradesh** and work across India and internationally.
+## Mistakes we see with DAC
 
-[Apply as a carbon credit buyer or seller](https://carboncredit.dstechnoverse.com/)
+- **Confusing capture with removal.** CO2 captured and then used in a short-lived product is not a permanent removal. Ask where the tonne ends up.
+- **Ignoring the energy source.** Ask how the plant is powered and how that is accounted for.
+- **Treating DAC as a substitute for cutting emissions.** At these prices it is for residual emissions, not for tonnes you could avoid more cheaply.
+- **Assuming eligibility for a compliance scheme.** Permanence does not settle eligibility. That is a separate question with its own rules.
 
-[Talk to our team](/contact/), or start with [the complete carbon credits guide](/insights/corsia-carbon-credits-complete-guide/).
+## Short answers
+
+::: accordion Is DAC a removal or an avoidance credit?
+A removal. It takes CO2 that is already in the atmosphere out of it.
+:::
+
+::: accordion How long does the storage last?
+With geological storage, on the order of millennia, which makes it the most durable removal type available.
+:::
+
+::: accordion Why is it so expensive?
+Because CO2 in open air is very dilute, capture uses a lot of energy, and the industry is still small.
+:::
+
+::: accordion Will it get cheaper?
+Most analysts expect costs to fall substantially as capacity grows and clean energy gets cheaper.
+:::
+
+If you are building a removal portfolio and want to know where DAC earns its place, and where cheaper removals will do, [write to us](/contact/). For the wider picture of credit types and quality, start with our [carbon credits reference](/insights/corsia-carbon-credits-complete-guide/).

@@ -1,175 +1,139 @@
 ---
-title: "CORSIA Consultant Scope of Work: What to Put in the Contract"
-excerpt: "A clause-by-clause guide to scoping a CORSIA engagement — the deliverables to name, the acceptance criteria to set, how to handle verification findings, and the exclusions that turn a fixed fee into a variation order."
+title: "Writing a CORSIA Consultant Scope of Work: Deliverables, Acceptance Tests and Exclusions"
+excerpt: "\"Support with CORSIA compliance\" is not a scope. How to write each stage of a CORSIA engagement as a deliverable with an acceptance test, what to say about verification findings, and which exclusions to challenge before you sign."
 date: "2026-08-23"
 topic: "Airline Compliance"
-tags: ["CORSIA scope of work","CORSIA consultant","consulting contract","CORSIA compliance","MRV deliverables","CORSIA India","verification support"]
+tags: ["CORSIA scope of work","CORSIA consultant","consulting contract","CORSIA compliance","MRV deliverables","verification support","acceptance criteria"]
 image: "/images/corsia-consultant/corsia-engagement-workflow.svg"
 ---
 
-Most disputes on CORSIA engagements are scope disputes, and almost all of them are preventable at contract stage. "Support with CORSIA compliance" is not a scope. This article sets out what to write instead.
+Nearly every dispute we have seen on a CORSIA engagement turned out to be a scope dispute, and nearly all could have been settled at contract stage with one more sentence. The usual culprit is a scope line that reads "support with CORSIA compliance". It describes an attitude, not a deliverable.
 
-![A CORSIA consulting engagement, start to finish](/images/corsia-consultant/corsia-engagement-workflow.svg)
+This is a drafting guide. It goes through the stages of an engagement, shows how to turn each into something with a test attached, and suggests model wording where the wording matters. Adapt it with your own legal advisers; the clause text below is illustrative, not a template to sign.
 
-## The Eight Stages to Name
+![Workflow of a CORSIA consulting engagement from start to finish](/images/corsia-consultant/corsia-engagement-workflow.svg)
 
-| Stage | Deliverable | Acceptance criterion |
-|---|---|---|
-| 1. Applicability assessment | Written determination of obligations | Signed off by the accountable manager |
-| 2. Gap analysis | Report listing gaps against requirements | Every gap has an owner and a date |
-| 3. Emissions monitoring plan | The plan document | Submitted and accepted by the authority |
-| 4. Data systems and procedures | Data flow, procedures, data gap procedure | Tested against a sample month |
-| 5. Internal review / dry run | Findings list and closure evidence | All internal findings closed |
-| 6. Verification support | Evidence pack, findings responses | Verification completed |
-| 7. Submission | Verified report filed | Filed by the deadline |
-| 8. Knowledge transfer | Procedures, templates, training session | Named staff can run the cycle |
+## Activities versus deliverables
 
-Naming acceptance criteria is what converts a stage from an activity into a deliverable. "Prepare the monitoring plan" is an activity; "monitoring plan accepted by the authority" is a deliverable — and the difference determines who carries the risk if the authority asks for changes.
+"Prepare the monitoring plan" is an activity. "Monitoring plan accepted by the authority" is a deliverable. The difference decides who carries the risk if the DGCA asks for changes. Every stage in your contract should end in something that can be tested, and the test should be written down.
 
-Be careful with stage 3's criterion, though. Acceptance depends partly on the authority's own timetable, so the fair formulation is usually "submitted in the required format, with the consultant responding to authority queries at no additional cost until accepted".
+A first engagement typically runs across one full compliance cycle: plan and systems before or early in the year, reporting and verification after it closes. It has eight stages.
 
-## Stage 1: Applicability Assessment
+## The eight stages, with their tests
 
-The deliverable is a short written determination covering:
+1. **Applicability assessment.** Deliverable: a written determination of obligations. Test: signed off by the accountable manager.
+2. **Gap analysis.** Deliverable: a report of gaps against requirements. Test: every gap has an owner and a date.
+3. **Emissions Monitoring Plan.** Deliverable: the plan. Test: see the wording note below.
+4. **Data systems and procedures.** Deliverable: data flow, procedures, data gap procedure. Test: reproduced from source for a sample month.
+5. **Internal review or dry run.** Deliverable: findings list with closure evidence. Test: all internal findings closed.
+6. **Verification support.** Deliverable: evidence pack and findings responses. Test: verification completed.
+7. **Submission.** Deliverable: the verified report filed. Test: filed by the deadline.
+8. **Knowledge transfer.** Deliverable: named artefacts and training. Test: named staff can run the cycle.
 
-- Which legal entities and AOCs are in scope
-- Which aircraft fall within the applicable mass criterion
-- Which flights count as international for the purposes of the scheme
-- Whether the operator is above the emissions threshold
-- Which route pairs currently attract an offsetting requirement, and which do not
-- Which exemptions apply — humanitarian, medical and firefighting flights, for example
-- What changes on the horizon would alter any of the above
+**A wording note on stage 3.** Acceptance depends partly on the authority's own timetable, which the consultant does not control. A fairer test is along these lines:
 
-**Insist this is written and signed.** It is the foundation for everything else, and if it is wrong, every subsequent deliverable inherits the error. It is also the document you will want on file when a verifier or the authority asks why a particular flight category was treated as it was.
+> *Illustrative wording:* The Consultant shall submit the Emissions Monitoring Plan in the format required by the authority and shall respond to all authority queries on it, at no additional charge, until the plan is accepted.
 
-See [CORSIA scope and thresholds](/insights/corsia-compliance-for-indian-airlines/) for what the assessment has to work through.
+## Stage 1: what the determination must cover
 
-## Stage 2: Gap Analysis
+Insist that the applicability assessment is written and signed. It is the foundation; if it is wrong, every later deliverable inherits the error, and it is the document you will reach for when a verifier asks why a category of flight was treated as it was. It should state:
 
-The single most valuable stage, and the one most often skipped in a rush to produce a monitoring plan.
+- which legal entities and Air Operator Certificates are in scope;
+- which aircraft meet the mass criterion;
+- which flights count as international;
+- whether the operator is above the emissions threshold;
+- which route pairs currently attract offsetting, and which do not;
+- which exemptions apply, such as humanitarian, medical and firefighting flights;
+- what foreseeable changes would alter any of the above.
 
-The deliverable should list, for each requirement: the current position, the gap, the remediation, the owner and the date. It is the document that makes the rest of the engagement priceable — which is exactly why phased contracts put the fee break here.
+The underlying tests are explained in [CORSIA compliance for Indian airlines](/insights/corsia-compliance-for-indian-airlines/).
 
-A gap analysis that concludes "broadly compliant, minor gaps" without an item-by-item table has not been done properly.
+## Stage 2: why the fee break belongs here
 
-## Stage 3: The Emissions Monitoring Plan
+The gap analysis is the most valuable stage and the one most often skipped in the hurry to produce a plan. For each requirement it should give the current position, the gap, the fix, an owner and a date. That table is what makes the rest of the engagement priceable, which is why phased contracts put the fee break at the end of this stage.
 
-![What an emissions monitoring plan must cover](/images/corsia-consultant/corsia-emp-contents.svg)
+A gap analysis that says "broadly compliant, minor gaps" without a line-by-line table has not been done. More on what it examines in [CORSIA gap analysis](/insights/corsia-gap-analysis-service/).
 
-| Section | What it states | Common weakness |
-|---|---|---|
-| Operator identification | Legal entity, ICAO designator, AOC | Group structure unclear |
-| Fleet list | Every aircraft, type, registration | Wet-leased aircraft omitted |
-| Flight scope | Which flights are international | State-pair logic not documented |
-| Fuel monitoring method | The chosen method, applied consistently | Method varies by station |
-| Data flow | Source system to reported figure | No named system or owner |
-| Data gap procedure | Conservative and pre-defined | **Missing — costs you at audit** |
-| Control procedures | Checks, roles, change control | Written after the fact |
+## Stage 3: the plan, and two clauses around it
 
-Two contract points follow. First, the scope must say who updates the plan when the fleet or the operation changes — plans go stale, and a stale plan is a finding. Second, it must say who responds to authority queries on the plan, and at whose cost.
+![Contents an emissions monitoring plan must cover](/images/corsia-consultant/corsia-emp-contents.svg)
 
-Detail in [the CORSIA emissions monitoring plan guide](/insights/corsia-emissions-monitoring-plan-guide/).
+The plan should cover operator identification, the fleet list, flight scope, the fuel monitoring method, the data flow, the data gap procedure and control procedures. When we review plans, the weak points are predictable: an unclear group structure, wet-leased aircraft left off the fleet list, State-pair logic that is not written down, a method applied differently at different stations, a data flow with no named system or owner, control procedures written after the fact, and, most costly at audit, no data gap procedure at all. See [the monitoring plan section by section](/insights/corsia-emissions-monitoring-plan-guide/).
 
-## Stage 6: Verification Support — Write This Carefully
+The contract should also say two things: who updates the plan when the fleet or operation changes (a stale plan is a finding), and who answers authority queries on it, at whose cost.
 
-This is where scope disputes actually happen, because verification produces findings and findings produce work nobody costed.
+## Stage 4: make the test a test
 
-Put in writing:
+This stage often appears in proposals as one line, yet it decides whether the annual cycle is repeatable or a yearly reconstruction. The deliverable should contain:
 
-- **What "support" means** — attending fieldwork, preparing evidence packs, drafting responses, or all three
-- **Who closes findings** attributable to the consultant's own work, and at whose cost
-- **Who closes findings** attributable to the operator's data or systems
-- **How many rounds** of findings response are included
-- **What happens if verification cannot be completed** by the deadline, and why
-- **That the consultant is not the verifier** and cannot influence the opinion
-
-The fair default: findings arising from a deliverable the consultant produced are closed at the consultant's cost; findings arising from operator data quality are chargeable, unless the gap analysis should have caught them and did not. Write that sentence into the contract and most of the argument disappears before it starts.
-
-## Stage 8: Knowledge Transfer
-
-Name the artefacts:
-
-1. A procedures document covering the annual cycle
-2. A data flow diagram identifying systems and owners
-3. An evidence pack template and folder structure
-4. A worked example — one month, end to end
-5. A training session for named staff, with materials retained
-6. A calendar with deadlines and internal milestones
-
-Without named artefacts, "knowledge transfer" becomes a conversation at the end of the engagement, and the next cycle starts from the same position as this one.
-
-## Exclusions to Interrogate
-
-| Exclusion | Question to ask |
+| Component | What it pins down |
 |---|---|
-| Data remediation | If our data is worse than expected, what happens? |
-| System changes | Who specifies and who implements? |
-| Additional entities or AOCs | Priced per entity or bundled? |
-| Authority queries | Included, or chargeable? |
-| Verification findings | Which category is chargeable? |
-| Unit procurement advice | In scope? Independent of any sales interest? |
-| Regulatory change | If the rules move mid-engagement, who absorbs it? |
-| Travel and site visits | Included in the fee or at cost? |
+| Data flow diagram | Every source system and transformation through to the reported figure |
+| System and owner register | What each system holds and who answers for it |
+| Method application | How the fuel method is applied at each station and on each aircraft type |
+| Quality check schedule | What is checked, how often, by whom, with what evidence |
+| Data gap procedure | The conservative method, defined in advance, with worked examples |
+| Change control | How fleet, route or system changes reach the plan |
+| Retention | Where records are kept and for how long |
+| Reconciliation routine | Reported fuel burn against fuel purchases and finance records, monthly |
 
-The regulatory change question is not theoretical. CORSIA's parameters — participating states, eligible programmes, vintage windows — do move, and an engagement running across a change needs a clause saying how that is handled rather than an argument about it.
+The reconciliation routine is cheap and catches the errors (a station's records missing, an uplift counted twice, a unit conversion slip) that otherwise appear at verification.
 
-## A Workable Contract Skeleton
+For acceptance, use a test rather than a document review:
 
-- **Deliverables schedule** — the eight stages, each with a description, acceptance criterion and date
-- **Staffing schedule** — named individuals, grades, days, and who may be substituted
-- **Fee schedule** — by deliverable, with the year-two price stated now
-- **Findings protocol** — the attribution rule above
-- **Change control** — how scope changes are priced and approved
-- **Confidentiality** — fuel and route data is commercially sensitive
-- **Independence declaration** — any interest in credit sales, disclosed
-- **Records and handover** — everything produced belongs to the operator, in editable format
-- **Termination and continuity** — what you receive if the engagement ends early
+> *Illustrative wording:* Acceptance of this stage requires that, for one calendar month selected at random by the Operator, a member of the Operator's staff not involved in building the data flow reproduces the reported fuel and CO2 figures from source records using only the delivered documentation.
 
-The handover clause matters more than it sounds. A monitoring plan delivered only as a locked PDF, with the working files retained by the consultant, quietly guarantees you come back next year.
+If that passes, the cycle will work. If it only passes when the consultant runs it, nothing has been transferred.
 
-## Stage 4: Data Systems and Procedures
+## Stage 6: the clause that prevents most arguments
 
-The stage most often written as a single line in a proposal, and the one that determines whether the annual cycle is repeatable or a yearly reconstruction.
+Verification generates findings, findings generate work, and that work is where uncosted effort turns into disputes. Put these points in writing:
 
-What the deliverable should actually contain:
+- the activities the word "support" covers, for example being present at the verifier's site visit, assembling evidence, and writing replies to findings;
+- the party responsible for clearing a finding traced to a consultant deliverable, and who pays;
+- the party responsible for clearing a finding traced to your own records or systems;
+- the number of response rounds within the fee;
+- the course of action if verification is not complete before the deadline, depending on the cause;
+- an acknowledgement that the adviser plays no part in the verifier's opinion.
 
-| Component | What it specifies |
-|---|---|
-| **Data flow diagram** | Every source system, every transformation, to the reported figure |
-| **System and owner register** | Which system holds what, and who is accountable for it |
-| **Fuel method application** | How the chosen method is applied at every station and aircraft type |
-| **Quality control schedule** | What is checked, how often, by whom, with what evidence |
-| **Data gap procedure** | The conservative method, pre-defined, with worked examples |
-| **Change control** | How a fleet, route or system change flows into the plan |
-| **Retention** | Where records live and for how long |
-| **Reconciliation routine** | Reported fuel burn against fuel purchase and finance records |
+The fair default can be stated in one sentence:
 
-The reconciliation routine is worth insisting on. It is cheap, it runs monthly, and it catches the class of error — a station's records missing, a duplicated uplift, a unit conversion — that otherwise surfaces at verification when it is expensive.
+> *Illustrative wording:* Findings arising from a deliverable prepared by the Consultant shall be closed at the Consultant's cost. Findings arising from the quality of the Operator's data shall be chargeable, except where the gap analysis should reasonably have identified them.
 
-**Acceptance criterion for this stage should be a test, not a document review:** take one month at random, follow the data flow end to end, and confirm the reported figure can be reproduced from source records by someone other than the person who built it. If that test passes, the annual cycle will work. If it only passes when the consultant runs it, nothing has been transferred.
+Write that in and most of the argument disappears before it begins. Keep verification itself in a separate contract with a separate firm; it must be independent of whoever prepares the report.
 
-## Frequently Asked Questions
+## Stage 8: name the artefacts
 
-**What should a CORSIA consultant's scope of work include?** Applicability assessment, gap analysis, monitoring plan, data systems and procedures, internal dry run, verification support, submission and knowledge transfer — each with a named deliverable and acceptance criterion.
+Knowledge transfer without named outputs becomes a chat at the end of the engagement, and next year starts where this year did. List them:
 
-**How do I stop scope creep?** Name deliverables and acceptance criteria, interrogate the exclusions list, and agree a findings attribution rule before work starts.
+1. written procedures for running each reporting year;
+2. a diagram of how data moves, with each system and its owner marked;
+3. a template for the verification evidence file, with its folder layout;
+4. a single month traced from source to report, as a worked example;
+5. a training session for the people who will run the cycle, with the slides and notes left behind;
+6. a calendar showing regulatory deadlines and the internal dates ahead of them.
 
-**Who pays to close verification findings?** The fair default is that findings on consultant-produced deliverables are closed at their cost, and operator data findings are chargeable unless the gap analysis should have identified them.
+## Exclusions: the questions to ask
 
-**Should verification be in the same contract?** No. Verification must be independent of the party preparing the report and should be procured separately.
+Read the exclusions before the scope. For each one you find, ask the question beside it.
 
-**What is a gap analysis?** An item-by-item comparison of current practice against CORSIA requirements, with gaps, remediation, owners and dates. It is what makes the remaining scope priceable.
+- **Fixing poor data.** Should our records prove messier than the proposal assumed, how is the extra work priced?
+- **Changes to our systems.** Which party writes the specification, and which party does the implementation?
+- **Additional certificates or entities.** Is each one a separate fee, or covered?
+- **Questions from the DGCA.** Are replies part of the fee?
+- **Verification findings.** Which kinds of finding will you bill for?
+- **Advice on buying units.** Is it covered, and is it free of any interest in selling to us?
+- **A change in the rules.** When ICAO or the DGCA alters something partway through, who pays for the rework?
+- **Travel.** Included, or billed at cost?
 
-**How do I make sure knowledge is transferred?** Name the artefacts — procedures, data flow diagram, evidence template, worked example, training session — and make them deliverables with acceptance criteria.
+The rule-change question is a live one. The participation list, the set of approved programmes and the permitted vintages all shift from time to time, so a multi-month engagement needs an agreed mechanism rather than a negotiation after the event.
 
-**What if the regulations change mid-engagement?** Include a change control clause covering regulatory change specifically. CORSIA parameters do move.
+## The rest of the contract
 
-**Should the consultant hold our data?** They will need access, but the contract should confirm that all working files and documents belong to the operator and are handed over in editable format.
+Around the deliverables, a workable contract carries: a staffing schedule (named people, grades, days, substitution rules); a fee schedule by deliverable, with the year-two price stated now; the findings protocol above; change control for scope changes; confidentiality, since fuel and route data are commercially sensitive; an independence declaration covering any interest in credit sales; records and handover, with everything produced belonging to the operator in editable form; and termination and continuity terms.
 
-**How long should a first engagement run?** Typically across a full compliance cycle — plan and systems before or early in the year, then reporting and verification after it closes.
+The handover clause matters more than it looks. A plan delivered only as a locked PDF, with the working files kept by the consultant, quietly guarantees a return engagement. For the warning signs in a firm's response to these terms, see [CORSIA consultant red flags](/insights/corsia-consultant-due-diligence-red-flags/); for how the engagement is structured over time, [consultant engagement models](/insights/corsia-consultant-engagement-models/).
 
----
+If you would like us to review a draft scope before you sign it, whether ours or another firm's, [send it to the desk](/contact/). The rest of what we do is on our [services page](/services/).
 
-**Need a CORSIA consultant in India?** DSTechnoverse advises airlines and aircraft operators on CORSIA monitoring, reporting and verification, and works with project developers on eligible credit supply, corresponding adjustments and buyer due diligence. We are based in **Indore, Madhya Pradesh** and work with clients across India. See our [CORSIA carbon credit services](/services/), our carbon credit portal at [carboncredit.dstechnoverse.com](https://carboncredit.dstechnoverse.com/), or [talk to our team](/contact/) about your compliance year.
-
-*This article is general information, not legal or regulatory advice. CORSIA rules and the list of participating states change — verify the current position with ICAO and the DGCA before acting.*
+*General information only, not legal or regulatory advice. CORSIA rules and the list of participating States change; confirm the current position with ICAO and the DGCA before acting.*

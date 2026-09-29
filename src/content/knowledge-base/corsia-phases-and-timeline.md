@@ -1,147 +1,108 @@
 ---
-title: "CORSIA Phases and Timeline: Baseline, Pilot, First and Second Phase"
-excerpt: "A reference to every CORSIA period from the 2019 baseline through the mandatory second phase ending in 2035, with what changes at each transition and the dates that actually bind operators."
+title: "CORSIA Phases and Timeline: 2019 Baseline to the 2035 End Date"
+excerpt: "CORSIA moves from a 2019 baseline through a pilot, a voluntary first phase and a compulsory second phase ending in 2035. What shifts at each transition, the weighting change in 2030, and the deadlines operators work to."
 section: "Foundations"
 order: 5
 image: "/images/corsia/corsia-phases-timeline.svg"
 ---
 
-CORSIA phases in over more than a decade, and the differences between phases are structural rather than cosmetic. They determine who has an obligation, how it is calculated, and how large it is.
+CORSIA was designed to tighten in steps. Each phase changes one or more of three things: which States are in, how the growth factor is worked out, and therefore how many tonnes an operator ends up owing. Reading the timeline as a list of dates misses that. It is more useful to read it as a series of transitions, each of which changes the calculation.
 
-![CORSIA phases and what each one requires](/images/corsia/corsia-phases-timeline.svg)
+![Timeline of CORSIA phases from the 2019 baseline to 2035](/images/corsia/corsia-phases-timeline.svg)
 
-## The Periods at a Glance
+## The calendar in brief
 
-| Period | Years | Participation | Growth factor | What it means |
-|---|---|---|---|---|
-| Baseline | 2019 | — | — | Reference emissions level |
-| MRV begins | 2019 onward | All in-scope operators | — | Monitor, report, verify |
-| Pilot phase | 2021-2023 | Voluntary States | Sectoral only | Small obligations in practice |
-| First phase | 2024-2026 | Voluntary States | Sectoral only | Obligations become material |
-| Second phase | 2027-2035 | **Mandatory** for most States | Sectoral, then blended | Coverage and cost step up |
+- **2019:** baseline year, and monitoring, reporting and verification begin for all in-scope operators.
+- **2021–2023:** pilot phase. States volunteer; sectoral growth factor only.
+- **2024–2026:** first phase. Still voluntary for States; still sectoral; obligations now material.
+- **2027–2035:** second phase. Compulsory for most States; from 2030 the growth factor is a blend of sectoral and individual.
 
-## The Baseline: 2019
+## 2019: the reference year and the start of reporting
 
-The baseline is the reference against which growth is measured. It was originally defined as the average of 2019 and 2020 emissions.
+Growth is measured against 2019. The original rule used the average of 2019 and 2020, but the collapse of traffic in 2020 would have dragged that average far below any realistic future level and inflated every later obligation. In 2020 the ICAO Council **fixed the baseline on 2019 emissions alone**.
 
-The 2020 traffic collapse made that average unusable — it would have set the reference far below any plausible activity level and inflated every future obligation. In 2020 the ICAO Council **reset the baseline to 2019 emissions alone**.
+Reporting did not wait for offsetting. Monitoring, reporting and verification became obligations from **2019**, whether or not the operator would ever owe a unit.
 
-Monitoring, reporting and verification obligations began in **2019**, independent of any offsetting requirement.
+## Transition one: into the pilot (2021)
 
-## Pilot Phase: 2021 to 2023
+The pilot applied to operators from States that chose to take part, around eighty at different points. Two rules defined it:
 
-Applied to operators from States that volunteered. Around eighty States participated at various points.
+- obligations came from **sector-wide growth only**, applied to each operator's own emissions;
+- offsetting applied only on **route pairs** where both States were participating.
 
-Two design features defined it:
+The sums were small. The **sectoral growth factor for 2021 was zero**, because the sector's emissions were still under the 2019 level. Real obligations only appeared as traffic came back in 2022 and 2023.
 
-- **Sectoral growth factor only.** Obligations were calculated from sector-wide growth applied to each operator's own emissions, not from individual growth.
-- **Route-pair coverage.** Offsetting arose only where both origin and destination States participated.
+What the pilot did test was the machinery: monitoring plans, reports, verification and registries, all under forgiving conditions. Operators who used it as a rehearsal are now well placed. Those who treated it as a form-filling exercise are learning the process just as the numbers grow.
 
-In practice the obligations were very small. The **2021 sectoral growth factor was zero**, because sector emissions that year remained below the 2019 baseline. Meaningful obligations only emerged as traffic recovered through 2022 and 2023.
+## Transition two: into the first phase (2024)
 
-> The pilot phase tested the machinery — plans, reporting, verification, registry mechanics — under conditions far gentler than those now applying. Operators who treated it as a genuine dry run are in good shape. Those who treated it as paperwork face a steeper curve exactly as the numbers get large.
+Nothing about the rules changed at this boundary. Participation stayed voluntary, route-pair logic stayed, and the growth factor stayed sectoral. What changed was scale. With much of the network flying above 2019 levels, the sectoral factor is clearly positive and offsetting requirements are real amounts of money.
 
-## First Phase: 2024 to 2026
+Three risks define this phase:
 
-Same voluntary participation, same route-pair logic, same sectoral basis. What changed is scale.
+1. **Deferral.** 2024–2026 is one compliance block, settled after it ends. It is tempting to buy everything at the end, but that assumes eligible units will be available and affordable at the moment the whole sector is buying.
+2. **Supply, not only price.** Forecasts have repeatedly shown units with host-State corresponding adjustments falling short of demand. Contracts should state what happens if units cannot be delivered. See [supply and demand outlook](/knowledge-base/corsia-supply-and-demand-outlook/).
+3. **Participation drift.** States have joined, and at least one has left. Route coverage can change between budgeting and settlement with no change to the operator's own schedule.
 
-With traffic above 2019 levels across much of the network, the sectoral growth factor is now materially positive and offsetting requirements are real numbers.
+## Transition three: into the second phase (2027)
 
-Three things matter operationally:
+This is the change that matters most. From 2027, participation is **compulsory** for States above defined aviation activity thresholds, which broadly means States with a significant share of international activity measured in revenue tonne kilometres.
 
-::: accordion Compliance periods are three years, and that invites deferral
-The 2024-2026 period is a single block. Operators must cancel sufficient units and report by the deadline following the period's end.
+States stay outside unless they volunteer if they are:
 
-The flexibility is genuine. The temptation is to defer purchasing to the end, which is a bet that eligible supply will be available and affordably priced when the entire sector is buying simultaneously. Given the corresponding adjustment bottleneck constraining supply, it is a bet with poor odds.
-:::
+- least developed countries;
+- small island developing States;
+- landlocked developing countries;
+- States with very small international aviation activity.
 
-::: accordion Eligible supply is the binding constraint, not price alone
-Analyses have consistently projected that the volume of units carrying host-State corresponding adjustments will lag demand. Availability, not merely cost, is a live risk — and contracts should say what happens if supply cannot be sourced.
+The consequence for operators is wider **route-pair coverage**. Flights that created no obligation in the first phase, because one end of the route was outside the scheme, start to count. How much that matters depends entirely on the network. A carrier flying mainly between States that already participate will see little change. One with heavy traffic to States that join only in 2027 could see its obligation multiply.
 
-See [supply and demand outlook](/knowledge-base/corsia-supply-and-demand-outlook/).
-:::
+## Transition four: the individual factor arrives (2030)
 
-::: accordion Participation can shift under you
-States have joined, and at least one has withdrawn. An operator's route coverage can change between planning and paying, without its own network changing at all.
-:::
+Within the second phase, the growth factor starts to reflect each operator's own growth as well as the sector's.
 
-## Second Phase: 2027 to 2035
+![Chart of sectoral and individual growth factor weighting over time](/images/corsia/corsia-growth-factors.svg)
 
-This is the structural change.
-
-From 2027, participation becomes **mandatory** for States meeting defined aviation activity thresholds — broadly, States with a significant share of international aviation activity measured in revenue tonne kilometres.
-
-Exemptions remain for:
-
-- Least developed countries
-- Small island developing States
-- Landlocked developing countries
-- States with very small international aviation activity
-
-unless those States choose to volunteer.
-
-**Route-pair coverage expands substantially.** Routes generating no obligation during the first phase, because one end was non-participating, begin to count.
-
-### The Individual Growth Factor Enters
-
-From 2030 the calculation shifts weight from sectoral to individual growth:
-
-![Sectoral and individual growth factors](/images/corsia/corsia-growth-factors.svg)
-
-| Period | Sectoral weight | Individual weight |
+| Years | Weight on sectoral growth | Weight on individual growth |
 |---|---|---|
-| 2021-2029 | 100% | 0% |
-| 2030-2032 | 85% | 15% |
-| 2033-2035 | 70% | 30% |
+| 2021–2029 | 100% | 0% |
+| 2030–2032 | 85% | 15% |
+| 2033–2035 | 70% | 30% |
 
-A carrier expanding faster than the sector progressively carries more of its own burden. The intent is to remove the free ride a purely sectoral approach gives to fast growers.
+**Worked example (illustrative factors).** Suppose the sectoral growth factor is 10% and an expanding carrier's individual growth factor is 20%.
 
-For operators with aggressive fleet and network plans — and that includes much of the Indian market — this connects growth decisions directly to a future CORSIA cost. That connection belongs in the fleet planning model, not in a surprise later.
+- Before 2030: it offsets 10% of its covered emissions.
+- 2030–2032: 0.85 × 10% + 0.15 × 20% = 11.5%.
+- 2033–2035: 0.70 × 10% + 0.30 × 20% = 13%.
 
-## Dates That Actually Bind
+A slower-growing carrier with an individual factor below the sectoral one moves the other way. The design intention is to stop fast growers riding on the sector average. Many Indian airlines have ambitious fleet and network plans, so for them this links expansion directly to future CORSIA cost, and it belongs in the fleet planning model now.
 
-Phase boundaries are the headline. These are the dates operators actually work to:
+## The deadlines operators actually work to
 
-| Recurring deadline | What is due |
+Phases are the headline, but the working calendar is a set of recurring events:
+
+| When | What is due |
 |---|---|
-| Before the first reporting year | Emissions Monitoring Plan submitted and approved |
-| Annually, following the reporting year | Verified Annual Emissions Report to the State |
-| After ICAO publishes growth factors | Offsetting requirement becomes a firm figure |
-| Following the close of each three-year period | Units cancelled and Cancellation Report filed |
+| Before the first reporting year | Monitoring plan submitted and approved |
+| Every year, after the reporting year ends | Verified Annual Emissions Report sent to the State |
+| When ICAO publishes growth factors | The year's obligation becomes firm |
+| After each three-year period closes | Units cancelled and the cancellation report filed |
 
-Exact submission dates are set in national implementing law and vary by State. Check your authority's calendar rather than assuming a common date.
+Actual submission dates are set in each State's implementing law and are not uniform. Use your own authority's calendar; for Indian operators that is the DGCA's. More detail is in [compliance periods and deadlines](/knowledge-base/corsia-compliance-periods-and-deadlines/).
 
-## Planning Backwards From 2027
+## Getting ready for 2027
 
-::: accordion For operators
-Model your second-phase obligation against your **actual network**, not a generic uplift. The change is entirely network-specific — a carrier flying predominantly to already-participating States sees little difference; one with heavy traffic to currently non-participating States can see the obligation multiply.
+**Operators** should have these in place before the second phase opens:
 
-Have these in place before 2027: a monitoring plan producing reliable data without heroic manual effort, registry accounts opened and tested, a documented view on forward versus spot purchasing, and a model of route coverage under mandatory participation.
-:::
+- a model of their own route coverage under compulsory participation, not a generic uplift;
+- a monitoring set-up that produces reliable data without manual heroics;
+- registry accounts opened and tested;
+- a written position on buying forward versus buying spot.
 
-::: accordion For project developers
-Second-phase demand arrives on a known date, which makes it the clearest planning signal in this market.
+**Project developers** get the clearest demand signal in the market: second-phase demand arrives on a known date. Working back, a new project usually takes eighteen months to three years from concept to first issuance, and host-State authorisation is the least predictable part. Developers aiming at that demand need to be working on authorisation now. By the time demand is visible, the supply that was ready will already be under contract. The route to market is set out in [becoming a CORSIA supplier](/insights/how-to-become-corsia-carbon-credit-supplier/).
 
-Work backwards: a new project typically needs eighteen months to three years from concept to first issuance, and host-State authorisation is the least predictable element in that span. Developers targeting the demand ramp need to be resolving authorisation now, not when demand becomes visible — by then, supply that was ready will already be contracted.
+## Reviews can move the goalposts
 
-See [the seller pathway](/insights/how-to-become-corsia-carbon-credit-supplier/).
-:::
+The ICAO Assembly reviews CORSIA periodically and can change its parameters. One review has already altered the baseline, and further changes to growth factor weighting, vintage windows or phase design remain possible. That is not a reason to discount the obligation. It is a reason to keep plans flexible: avoid tying everything to one vintage, avoid assuming a fixed price path, and rerun the model when Council decisions are published. Participation lists are on [ICAO's CORSIA pages](https://www.icao.int/environmental-protection/CORSIA/Pages/default.aspx); check the current version rather than a saved copy. The arithmetic behind the factors is in [baseline and growth factors](/knowledge-base/corsia-baseline-and-growth-factors/).
 
-## The Periodic Review
-
-CORSIA includes a review mechanism. The ICAO Assembly periodically reviews implementation and can adjust the scheme's parameters.
-
-Reviews have already produced the baseline change. Further adjustment to growth factor weighting, vintage windows and phase design is possible.
-
-This is not a reason to discount the obligation. It is a reason to build flexibility into the plan — avoid over-committing to a single vintage, avoid assuming a fixed price path, and revisit the model when Council decisions land.
-
-## Where to Go Next
-
-- [Baseline and growth factors](/knowledge-base/corsia-baseline-and-growth-factors/) — the arithmetic behind the phases
-- [CORSIA scope and thresholds](/knowledge-base/corsia-scope-and-thresholds/) — what route-pair coverage means for you
-- [The requirement calculation](/knowledge-base/corsia-offsetting-requirement-calculation/) — turning a phase into a number
-- [Supply and demand outlook](/knowledge-base/corsia-supply-and-demand-outlook/) — why timing matters
-
-Current participation lists are published by [ICAO](https://www.icao.int/environmental-protection/CORSIA/Pages/default.aspx) and change — check rather than relying on a saved copy.
-
-DSTechnoverse models second-phase exposure against actual route networks. [Talk to our carbon markets team](/contact/) or [apply as a CORSIA buyer or seller](https://carboncredit.dstechnoverse.com/).
+We model second-phase exposure against real route networks for operators, and help developers line up supply for the same window. [Speak to us](/contact/), or register interest as a [buyer](https://carboncredit.dstechnoverse.com/buy/new) or [seller](https://carboncredit.dstechnoverse.com/sell).

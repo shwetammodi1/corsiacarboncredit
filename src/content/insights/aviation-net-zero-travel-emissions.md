@@ -1,58 +1,61 @@
 ---
-title: "Aviation in Your Net-Zero Plan: Handling Hard-to-Cut Travel Emissions"
-excerpt: "Flights are one of the hardest emissions to eliminate — so how should they sit in a credible net-zero plan? Reducing travel, sustainable aviation fuel, durable removals for the residual, and claims that hold up."
+title: "Aviation in a Net-Zero Plan: Where Business Flights Belong"
+excerpt: "Air travel is the net-zero line item most companies struggle with. A credible plan treats it in layers: fewer trips, SAF for the flights that remain, durable removals for the residual, and a claim that says which is which."
 date: "2026-09-08"
 topic: "Buying Credits"
 tags: ["aviation net zero","travel emissions","net zero plan","hard-to-abate emissions","sustainable aviation fuel","carbon removals"]
 image: "/images/aviation-buyers/aviation-net-zero-travel.svg"
 ---
 
-Any company with a serious net-zero target eventually hits the same awkward line item: air travel. It is highly visible, genuinely useful to the business, and one of the hardest emissions to cut. How you handle it says a lot about whether your net-zero plan is credible or cosmetic.
+Take a typical Indian IT services firm working on its net-zero plan. Most line items have a technology answer: offices can buy renewable power, the vehicle fleet can go electric. Flights do not. Sales teams still have to reach clients in London and New Jersey. That is the usual shape of the problem, and how a company handles it is a fair test of whether its target is serious.
 
-## Why Travel Is "Hard to Abate"
+## What "hard to abate" means for travel
 
-Net-zero frameworks distinguish between emissions you can eliminate and those you cannot — yet. Business travel sits firmly in the hard-to-abate camp: as [aviation emissions](/insights/aviation-emissions-explained/) shows, there is no clean electric substitute for a long-haul flight today. That does not excuse doing nothing; it changes the *order* of what you do.
+Net-zero frameworks separate emissions that can be eliminated with today's tools from those that cannot yet. Flying falls in the second group because long-haul aviation has no clean electric replacement; the reasons are set out in [aviation emissions explained](/insights/aviation-emissions-explained/).
 
-## The Credible Sequence
+Being hard to abate does not make travel exempt. It fixes the order in which you act.
 
-A defensible net-zero approach to travel follows a hierarchy, not a single move.
+## The layers, with an example
 
-### Reduce first
+**An illustrative travel footprint.** Imagine a company whose air travel came to 1,000 tonnes CO2 in its base year. A layered plan might look like this:
 
-The cheapest, most certain reduction is flying less: a travel policy that questions trips, virtual-first meetings, rail for short-haul, and direct economy flights. This is where the real cuts are, as covered in [reducing business travel emissions](/insights/reducing-business-travel-emissions/).
+| Layer | Action | Illustrative effect |
+|---|---|---|
+| 1. Reduce | Trip approval rules, virtual-first internal meetings, rail for short hops, direct economy routes | 1,000 t falls to 700 t |
+| 2. Cleaner fuel | Buy SAF through book-and-claim for part of the remaining flying | 700 t addressed partly in the fuel itself |
+| 3. Residual | Neutralise what is left with durable removal credits | Removals retired against the remainder |
 
-### Cut the fuel emission with SAF
+The figures are invented to show the order, not to suggest what any company will achieve.
 
-For flights you cannot avoid, **sustainable aviation fuel** — often bought via book-and-claim — reduces the actual aviation emission rather than compensating for it. It is the closest thing to decarbonising the flight itself, and it counts differently from an offset.
+### Layer 1: fewer and better flights
 
-### Neutralise the residual with durable removals
+This is the cheapest and most certain cut. Question whether each trip is needed, default internal meetings to video, send people by train where the route allows, and book direct economy flights. We go into policy detail in [reducing business travel emissions](/insights/reducing-business-travel-emissions/).
 
-Whatever remains after reducing and using SAF is the **residual** — and credible net zero increasingly expects that residual to be neutralised with **durable removals** (biochar, engineered removals) rather than cheap avoidance credits. This is the [carbon neutral vs net zero](/insights/carbon-neutral-vs-net-zero/) distinction applied to travel.
+### Layer 2: sustainable aviation fuel
 
-## What Not to Do
+For trips that must happen, SAF bought through book-and-claim reduces the emission of flying itself instead of compensating somewhere else. It sits closer to decarbonising the flight than any credit does, and it should be reported separately from offsets.
 
-The failure mode is skipping straight to cheap offsets and declaring travel "carbon neutral." That is the pattern regulators and customers now challenge. Offsets have a role — for the residual, with high-integrity credits — but they are not a substitute for reducing the trips and cutting the fuel emission.
+### Layer 3: durable removals for the residual
 
-## Making an Honest Claim
+What remains after the first two layers is the residual. Credible net-zero thinking increasingly expects it to be neutralised with **durable removals**, such as biochar or engineered removals, rather than low-cost avoidance credits. That is the practical difference between the two claims discussed in [carbon neutral vs net zero](/insights/carbon-neutral-vs-net-zero/).
 
-Say what you did in order: how much travel you reduced, how much you addressed with SAF, and how much residual you neutralised with which removals. A modest, specific claim you can defend is worth more than a bold one you cannot — especially as [science-based targets](/insights/science-based-targets-sbti-explained/) push companies toward real reductions over compensation.
+## Common mistakes
 
-## Frequently Asked Questions
+- **Going straight to cheap offsets** and calling travel "carbon neutral". Regulators and customers now challenge exactly this.
+- **Blending SAF and offsets into one number.** They are different kinds of action and should be shown apart.
+- **Setting a reduction target with no policy behind it.** Travel falls when approval rules change, not when a target is announced.
+- **Using avoidance credits for a residual labelled net zero.** Offsets still have a place, but high-integrity removals fit the residual better.
 
-**Why are flights hard to include in a net-zero plan?** Because there is no clean electric replacement for most flying today, so travel emissions resist elimination and must be reduced, fuelled with SAF, and only then neutralised.
+## Writing the claim
 
-**Can I just offset business travel to reach net zero?** No — credible net zero requires reducing emissions first and neutralising only the residual, ideally with durable removals, not cheap offsets.
+Report in the same order you acted: travel reduced, flying covered by SAF, residual neutralised and with which removals. A narrow claim you can back up is worth more than a broad one you cannot, particularly as [science-based targets](/insights/science-based-targets-sbti-explained/) steer companies towards actual reductions over compensation.
 
-**What role does sustainable aviation fuel play?** SAF cuts the actual aviation emission (often via book-and-claim), unlike an offset which compensates elsewhere.
+## Short answers
 
-**What are durable removals?** Credits that physically remove and durably store carbon — such as biochar or direct air capture — preferred for neutralising a net-zero residual.
+**Can a company offset its way to net-zero travel?** No. Reduce first, then neutralise only the residual, ideally with durable removals.
 
-**How should I claim travel emissions in a net-zero report?** State reductions, SAF use and residual removals separately and specifically, rather than declaring travel "carbon neutral" via offsets.
+**How is SAF different from an offset?** SAF lowers the emission from the flight; an offset compensates elsewhere.
 
----
+**What counts as a durable removal?** Credits from carbon that is physically removed and stored for a long time, such as biochar or direct air capture.
 
-**Buying carbon credits or measuring travel and freight emissions?** DSTechnoverse works on the data and integrity side of carbon — footprint measurement, project screening, registry and eligibility verification, and defensible reporting. See our [CORSIA carbon credit services](/services/) and [data analytics](https://dstechnoverse.com/services/data-analytics). We are based in **Indore, Madhya Pradesh** and work across India and internationally.
-
-[Apply as a carbon credit buyer or seller](https://carboncredit.dstechnoverse.com/)
-
-[Talk to our team](/contact/), or start with [the complete carbon credits guide](/insights/corsia-carbon-credits-complete-guide/).
+If your travel footprint is ready and you are working out the residual, our [services page](/services/) explains how we help source removals and document the claim.

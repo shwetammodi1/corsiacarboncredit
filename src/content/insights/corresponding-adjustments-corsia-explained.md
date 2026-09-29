@@ -1,143 +1,126 @@
 ---
-title: "Corresponding Adjustment Risk: How to Price It and Contract for It"
-excerpt: "The corresponding adjustment is the single requirement that eliminates most carbon supply from CORSIA eligibility. What it is, why governments resist granting it, what evidence looks like, and how buyers and sellers should handle it."
+title: "Corresponding Adjustments in CORSIA Deals: Pricing the Risk and Writing the Contract"
+excerpt: "Most CORSIA disputes start with a unit whose corresponding adjustment has not happened yet. How to tell the three authorisation states apart, price the gap, and write terms that protect you if the host government never signs."
 date: "2026-08-21"
 topic: "CORSIA Fundamentals"
 tags: ["corresponding adjustment","Article 6 Paris Agreement","double counting carbon credits","CORSIA eligibility","host state authorisation","ITMO","carbon credit accounting"]
 image: "/images/corsia/corsia-eeu-criteria.svg"
 ---
 
-Everyone in this market now knows that a corresponding adjustment is what makes a credit CORSIA eligible. Far fewer know what to do when a seller offers units where the adjustment is pending, or how to write a contract that survives a host State changing its mind.
+A procurement lead at an Indian carrier receives an offer by email: a block of "CORSIA-ready" units from a methane project, at a price only slightly under what authorised units trade for. The project documents look fine. The word "ready" is doing a lot of work, and nobody has yet asked what it means.
 
-That is a commercial and legal problem rather than a conceptual one, and this article is about that.
+By now most people in the market know that a corresponding adjustment is what turns a credit into a CORSIA-eligible unit. The harder part is commercial: what to pay for a unit whose adjustment has not happened, and how to write a contract that still works if the host government changes its position. That is the subject here.
 
-![How a corresponding adjustment prevents double counting](/images/corsia/corsia-article6-adjustment.svg)
+> The mechanics of adjustments, Article 6 and why governments are cautious about granting them are covered in [corresponding adjustments and Article 6](/knowledge-base/corresponding-adjustments-article-6/). This article assumes that background and deals with the transaction.
 
-> For the mechanics — what an adjustment is, how Article 6 works, why governments resist and what evidence looks like — see [corresponding adjustments and Article 6](/knowledge-base/corresponding-adjustments-article-6/) in the knowledge base. This piece assumes that and goes to the transaction.
+![Diagram showing how a corresponding adjustment prevents the same reduction being counted twice](/images/corsia/corsia-article6-adjustment.svg)
 
-## The Three States, and What Each Is Worth
+## First, work out which state the unit is in
 
-Commercially, everything turns on which of three positions a unit is in.
+For pricing purposes a unit sits on one of three rungs.
 
-| State | What you actually hold | Commercial treatment |
+1. **Authorised, with the adjustment applied.** This is an eligible unit, the scarce product, and it commands the full price.
+2. **Authorised, adjustment still to be applied.** Very likely to become eligible, with some timing risk left. A small discount is usually enough.
+3. **Not yet authorised.** What you hold is effectively an option on a government decision. It deserves a steep discount, or no deal.
+
+The trouble is that sellers on the third rung often use words that suggest the first. "CORSIA-ready", "CORSIA-aligned" and "eligible pending authorisation" all describe rung three. The email in our opening example is almost certainly a rung-three offer priced like rung one. Paying that is buying sovereign risk without being paid for it.
+
+## Scoring the chance that authorisation arrives
+
+There are sound reasons to buy unauthorised supply, especially as a forward. The risk then has to be priced. We score four factors.
+
+| Question | Favourable answer | Unfavourable answer |
 |---|---|---|
-| Authorised, adjustment applied | An eligible unit | Full price; the scarce product |
-| Authorised, adjustment pending | A near-certain unit with residual timing risk | Modest discount; manageable |
-| Authorisation pending | An option on a sovereign decision | Heavy discount, or walk away |
+| Does the host country have a designated national authority and a published procedure? | Yes, with a known process | No, so there may be no route at all |
+| Has that country ever granted an authorisation? | Yes; the machinery has been shown to work | Never; stated intent only |
+| Does it authorise this project type? | The type is on its list | The type is one it keeps for its own target |
+| What conditions come with authorisation? | Clear and affordable | Fees or revenue-sharing that may deter the developer from finishing |
 
-The third row is where most disputes originate, because sellers describe it in language that sounds like the first. **"CORSIA-ready", "CORSIA-aligned" and "eligible pending authorisation" all describe the third state.**
+Precedent outweighs intention. A government that has actually issued authorisations has proved the process works; one that has only said it supports Article 6 has not.
 
-A buyer who pays close to full price for the third state has bought a sovereign risk without pricing it.
+If all four answers are favourable, a moderate discount can be justified. If the first is unfavourable, the discount needed is so deep that the seller will usually decline, and that refusal tells you something too.
 
-## Pricing Authorisation Risk
+## Contract terms that decide who carries the risk
 
-If you are considering unauthorised supply — and there are legitimate reasons to, particularly in a forward — the risk has to be priced rather than assumed away.
+![Chart of how risks are allocated between buyer and seller in a CORSIA offtake agreement](/images/corsia-consultant/corsia-offtake-risk-allocation.svg)
 
-Four inputs to that judgement:
+If the contract says nothing, every one of these risks falls on the buyer. A forward against pending authorisation needs all of the following.
 
-**Does the host State have a designated national authority and a published process?** If not, this is not a timing question, it is a question of whether the pathway exists at all.
+- **Long-stop date.** The most important clause. If authorisation has not arrived by a fixed date, the buyer can end the contract and get its money back. A phrase like "as soon as reasonably practicable" is not a mechanism; it is a future argument.
+- **A chosen remedy.** Refund on termination, a price change, replacement with authorised units from another source, or acceptance of non-eligible units at a lower price. Choose one and put it in writing.
+- **Partial authorisation.** Governments often authorise less than was applied for. Say, as an illustration, 40,000 tonnes are contracted and 25,000 are authorised: the contract must state what happens to the other 15,000.
+- **Revocation.** Authorisations carry conditions and time limits. Decide in advance what happens if one is withdrawn or expires before the buyer cancels.
+- **Evidence as a condition of payment.** The seller delivers the authorisation document naming the buyer's units. A statement that such a document exists is not delivery.
 
-**Has that State authorised anything, ever?** Precedent is worth far more than stated intent. A government that has issued authorisations has proved the machinery works.
+## Structuring the forward itself
 
-**Does it authorise this project type?** Several governments authorise selectively, retaining categories central to their own abatement pathway.
+Where the project is sound and only the government step is outstanding, a staged structure serves both sides.
 
-**What conditions attach?** Fees, revenue sharing and benefit-distribution requirements all affect whether the developer will actually complete the process once they see the cost.
+| Stage | Trigger | Purpose |
+|---|---|---|
+| Small deposit | Signature | Keeps the buyer's loss tolerable if nothing further happens |
+| Milestone payment | Authorisation granted | Pays for the event that actually creates value |
+| Balance | Units delivered to the buyer's registry account | Completes the purchase |
+| Termination right | Long-stop date passes | Buyer recovers the deposit and milestone payment |
+| Security | Where the seller is small | Parent guarantee, escrow or standby letter of credit over sums paid |
+| Price step | Authorisation granted | Lets the seller earn more for completing the process |
 
-Where all four are favourable, a modest discount may be reasonable. Where the first is unfavourable, the discount required is so large that the transaction usually stops making sense for the seller — which is itself informative.
+The price step is about incentives. If the seller gets the same price whether or not authorisation comes, it has little reason to pursue a slow and expensive government process.
 
-## Contract Terms That Actually Allocate the Risk
+## Reading the authorisation document
 
-![Risk allocation in a CORSIA offtake agreement](/images/corsia-consultant/corsia-offtake-risk-allocation.svg)
+When a seller says authorisation is already granted, the document is your whole protection. Go through it line by line.
 
-Silence allocates every one of these to the buyer. A forward against pending authorisation needs all five.
+- **Who issued it?** It should be the designated national authority, not a ministry, agency or official without that mandate.
+- **What does it cover?** It should identify your units by serial numbers, or by a defined volume and vintage, not refer to the project in general.
+- **For what purpose?** Authorisation for CORSIA is not always the same as authorisation for international transfer in general.
+- **On what conditions?** If something is still outstanding, the authorisation is conditional.
+- **For how long?** Check that your cancellation will fall inside its validity.
+- **Is it corroborated?** The programme registry should show the authorisation status, and the host country's Article 6 reporting should show the adjustment.
 
-**A long-stop date.** The single most important term. If authorisation has not been granted by a named date, the buyer may terminate and recover payments. "As soon as reasonably practicable" is not a mechanism — it is an invitation to a dispute.
+Save a copy in your own records. A document held only by the seller disappears when the relationship ends, and a web link proves nothing about what the page said on the day you bought.
 
-**A defined remedy.** Termination and refund, price adjustment, substitution with authorised units from elsewhere, or acceptance of non-eligible delivery at a reduced price. Pick one and write it down.
+## Phrases that should slow you down
 
-**Who bears partial authorisation.** Governments frequently authorise a volume smaller than requested. If you contracted for 50,000 tonnes and 30,000 are authorised, what happens to the balance?
+"CORSIA-ready" usually means there is no authorisation. "Eligible pending authorisation" means the same, said honestly. "The country supports Article 6" means there is nothing specific to this project. "Authorisation is a formality" suggests the seller has never been through it. "The developer confirms it" means nobody has seen a document.
 
-**Revocation.** Authorisations have conditions and durations. What happens if one is withdrawn or lapses before you cancel?
+And "we can share it after signing" means do not sign. The eligibility evidence is what you are paying for; a seller who holds it back until you are committed is asking you to buy without looking.
 
-**Evidence as an obligation.** Delivery of the authorisation document naming your units, not a statement that one exists. Make it a condition of payment rather than a courtesy.
+## If authorisation never comes
 
-## Structuring a Forward Against Pending Authorisation
+Think this through before it happens.
 
-Where the underlying project is sound and only the sovereign step is outstanding, a structure that works for both sides:
+With a long-stop date, you terminate and recover your payments. That scenario is the reason the clause exists and the reason to negotiate it first.
 
-1. **Small payment on signature**, sized so the buyer's exposure is tolerable if nothing else happens.
-2. **A milestone payment on authorisation**, which is the event that creates the value.
-3. **Balance on delivery** into the buyer's registry account.
-4. **A long-stop date** after which the buyer may terminate and recover payments one and two.
-5. **Security over payments made**, where the counterparty is small — a parent guarantee, escrow or a standby letter of credit.
-6. **A price step** reflecting that an authorised unit is worth materially more than an unauthorised one, so the seller captures the upside of completing the process.
+Without one, you rely on general contract law and the goodwill of the counterparty, neither of which is comfortable with a compliance deadline approaching.
 
-That last point matters for incentives. A flat price paid regardless of authorisation gives the seller no reason to pursue a process that costs them money and time.
+In both cases the obligation remains. Getting money back does not cancel a single tonne. Build time for replacement supply into the plan. This is also the best argument against resting a whole compliance period on one forward against pending authorisation. Split the requirement between authorised spot units and a forward, and a failed authorisation becomes a shortfall to fill rather than a crisis. The timing side is covered in [CORSIA compliance periods and deadlines](/knowledge-base/corsia-compliance-periods-and-deadlines/).
 
-## Due Diligence on the Authorisation Document Itself
+## The seller's side of the same problem
 
-Where authorisation is claimed as already granted, the document is the whole of your protection. Check:
+For developers, especially Indian ones seeking authorisation from the Government of India, the same logic runs in reverse.
 
-- **Issuing body.** Is it the designated national authority, or a ministry, agency or official without that mandate?
-- **Unit identification.** Does it name your specific units, serials or a defined volume and vintage — or does it speak generally about the project?
-- **Scope.** Does it authorise for CORSIA specifically, or for international transfer generally? These are not always the same.
-- **Conditions.** Read them. An authorisation conditional on something outstanding is not unconditional.
-- **Duration.** Does it expire, and is your cancellation inside that window?
-- **Corroboration.** Does the programme registry reflect the authorisation status, and does the host State's Article 6 reporting show the adjustment?
+- **Get authorised before marketing if you can.** Authorised units sell faster, at a better price, with shorter negotiation, because most of the protective clauses fall away. [Corresponding adjustments for Indian CORSIA projects](/insights/corsia-corresponding-adjustment-india/) sets out the domestic side.
+- **If you sell ahead of authorisation, say so plainly.** Serious buyers will find out, and finding out after a misleading description costs the deal and the relationship.
+- **Be precise about your stage.** "Application filed on this date, the authority has asked for this information, decision expected this quarter" supports a smaller discount than a general assurance does.
+- **Accept a long-stop date.** Refusing one tells the buyer you do not expect to meet it.
 
-**Capture the document into your own files.** A seller-held document disappears with the relationship, and a URL is not evidence of what a page said on the transaction date.
+## Short answers
 
-## Red Flags in How Sellers Describe Status
+::: accordion Can I buy units that are pending authorisation?
+Yes, if you do it deliberately, at a discount, with a long-stop date and a stated remedy. Not by accident and not at authorised prices.
+:::
 
-Language is diagnostic here, and a short conversation establishes a lot.
+::: accordion What discount is right?
+It depends on the four factors above. Where no authorisation procedure exists, no discount makes the risk sensible.
+:::
 
-| What you hear | What it usually means |
-|---|---|
-| "CORSIA-ready" | No authorisation |
-| "Eligible pending authorisation" | No authorisation, stated honestly |
-| "The country supports Article 6" | No project-specific authorisation |
-| "Authorisation is a formality" | The seller has not been through the process |
-| "The developer confirms it" | No document has been seen |
-| "We can share it after signature" | Do not sign |
+::: accordion Who should carry authorisation risk?
+Normally the party better able to influence it, which is the seller. In practice it is negotiated, and the price should follow.
+:::
 
-That last one is worth being firm about. Eligibility evidence is the substance of what you are buying. A seller withholding it until after commitment is asking you to buy blind.
+::: accordion Can an authorisation be revoked?
+Positions have changed before. Assess the specific country and deal with revocation in the contract instead of assuming stability.
+:::
 
-## What to Do When Authorisation Never Comes
-
-It happens, and the scenario is worth having thought through before it does.
-
-**If you contracted with a long-stop date**, terminate and recover. This is the situation the term exists for, and it is why it is the first thing to negotiate.
-
-**If you did not**, your position depends on general contract law and on the counterparty's willingness to be reasonable. Neither is a comfortable place to be against a compliance deadline.
-
-**Either way, you still need the units.** Terminating recovers money and does not discharge your obligation. Building the replacement into your timeline — rather than assuming the original supply will land — is the practical protection.
-
-This is the strongest argument for **not concentrating** a compliance period's requirement in a single forward against pending authorisation. Splitting across authorised spot supply and a forward means a failure is a shortfall rather than a crisis.
-
-## For Sellers: Making Authorisation a Commercial Asset
-
-The same analysis inverted.
-
-**Secure authorisation before marketing, where you can.** An authorised unit sells faster, at a better price, on shorter negotiation, because most of the risk clauses become moot.
-
-**If you are marketing against pending authorisation, say so plainly.** Sophisticated buyers will discover it, and discovering it after a misleading description costs you the transaction and the relationship.
-
-**Be specific about where you are in the process.** "Application submitted on this date, authority has requested this information, expected decision in this quarter" is a far better position than a general assurance, and it supports a smaller discount.
-
-**Accept a long-stop date.** Refusing one signals that you do not expect to meet it.
-
-## Frequently Asked Questions
-
-**Can I buy units where authorisation is pending?** Yes, deliberately and at a discount, with a long-stop date and a defined remedy. Not by accident, and not at authorised prices.
-
-**What discount is appropriate?** It depends on the four inputs above — whether a process exists, whether the State has authorised before, whether it authorises this project type, and what conditions attach. Where no process exists, no discount makes the risk sensible.
-
-**Who should bear authorisation risk?** Whoever is better placed to influence it, which is normally the seller. In practice it is negotiated, and the price should reflect where it lands.
-
-**What is a long-stop date?** A date after which, if authorisation has not been granted, the buyer may terminate and recover payments. The single most important term in a forward against pending authorisation.
-
-**Can an authorisation be revoked?** Positions have changed. Assess the specific jurisdiction and address revocation in the contract rather than assuming stability.
-
-**How do I verify an authorisation is genuine?** Check the issuing body is the designated national authority, that it names your units, and that the programme registry reflects it. See [corresponding adjustments and Article 6](/knowledge-base/corresponding-adjustments-article-6/).
-
-**What if the seller will not share the document before signature?** Do not sign. The document is the substance of what you are buying.
+Before you sign a forward that depends on a government decision, we can review the authorisation evidence and the risk clauses with you. Send the draft through our [contact page](/contact/).

@@ -1,77 +1,83 @@
 ---
-title: "CORSIA Eligible Emissions Units: What Actually Qualifies"
-excerpt: "Not every carbon credit counts for CORSIA. Understand approved crediting programmes, the eligibility criteria, corresponding adjustments and vintage rules that decide whether a unit can be used by an airline."
+title: "CORSIA Eligible Emissions Units: The Four Gates a Credit Must Clear"
+excerpt: "A carbon credit can be genuine and well verified and still be worthless for CORSIA. We run three sample credits through the four eligibility gates to show where each one passes or stops."
 date: "2026-09-08"
 topic: "CORSIA Fundamentals"
 tags: ["CORSIA eligible emissions units","approved crediting programmes","Technical Advisory Body","corresponding adjustments","credit vintages","emissions unit eligibility criteria"]
 image: "/images/corsia-markets/eligible-units-funnel.svg"
 ---
 
-The single most consequential question in aviation carbon compliance is deceptively small: does this particular credit count? A unit can be real, verified and cheap and still be useless to an airline because it fails one of CORSIA's eligibility filters. This article walks through those filters in the order a credit must pass them.
+Picture a compliance manager with a spreadsheet of credits the airline has been offered, sorted by price. The cheapest line looks like a bargain. It comes from a solid project with a clean verification history, and it cannot be used for CORSIA at all. Nothing is wrong with the credit. It simply fails one of the tests that ICAO applies before a unit counts.
 
-## "Eligible" Is a Technical Word
+This piece sets out those tests, then runs three sample credits through them.
 
-In everyday use, an offset is an offset. Under CORSIA, "eligible" has a precise meaning: a unit accepted by ICAO for compliance in a given phase. Eligibility is decided centrally, not by the buyer, and it is narrower than the broader universe of credible carbon credits. Treat it as a gate, not a spectrum.
+## What "eligible" means here
 
-## The Four Eligibility Filters
+Outside aviation, people use "offset" loosely. Under CORSIA, an eligible emissions unit is something narrower: a unit ICAO has accepted for compliance in a particular phase. The buyer does not decide this, and neither does the seller. It is settled centrally, and the answer is yes or no. A credit is not "mostly eligible".
 
-A credit passes through four gates, in order. Fail any one and it cannot be used.
+The accepted pool is also smaller than the pool of credible credits. Plenty of good units sit outside it.
 
-### Filter One: An Approved Crediting Programme
+## The four gates, in order
 
-Credits are issued by crediting programmes — Verra's VCS, Gold Standard, the American Carbon Registry, the Climate Action Reserve, ART, the Global Carbon Council and others. For CORSIA, the programme itself must be assessed by ICAO's **Technical Advisory Body (TAB)** and approved by the ICAO Council. The TAB reviews governance, methodologies, registry integrity and safeguards, and recommends approval — sometimes with conditions or scope limits. A credit from an unapproved programme cannot be used, however good the underlying project.
+### Gate 1: the programme has ICAO approval
 
-### Filter Two: The Eligibility Criteria
+Every credit is issued under a crediting programme. Familiar names include Verra's VCS, Gold Standard, the American Carbon Registry, the Climate Action Reserve, ART and the Global Carbon Council. For CORSIA purposes the programme itself is assessed by ICAO's **Technical Advisory Body (TAB)**, which looks at governance, methodologies, registry integrity and safeguards. The TAB recommends; the ICAO Council approves, sometimes with conditions or a limited scope.
 
-Approval of the programme is necessary but not sufficient. The individual unit must also satisfy CORSIA's **Emissions Unit Eligibility Criteria**, which require, in essence, that the reduction is:
+If the programme is not approved for the relevant scope, the unit stops here. The quality of the underlying project does not rescue it. Our knowledge base covers [what approval means in practice](/knowledge-base/corsia-approved-crediting-programmes/).
 
-- **Additional** — it would not have happened without carbon finance;
-- **Real and quantified** conservatively, with a credible baseline;
-- **Permanent**, or backed by mechanisms that address reversal risk;
-- **Verified** by an independent third party;
-- **Not associated with net harm** to environmental or social safeguards;
-- **Counted only once**, which leads to the next filter.
+### Gate 2: the unit meets the Emissions Unit Eligibility Criteria
 
-### Filter Three: Corresponding Adjustments
+An approved programme is a starting point. The specific unit must also show that the reduction behind it is:
 
-This is the filter that reshaped the market. To prevent the same reduction being claimed by both the airline and the country where the project sits, first-phase CORSIA units (from 2024) must carry a **corresponding adjustment**. The host country formally adds the traded tonnes back to its own emissions balance under Paris Agreement Article 6 accounting, so it cannot also count them toward its national target. Without that authorisation, an otherwise perfect credit is not first-phase eligible. Because not every host country will authorise adjustments — some prefer to keep reductions for their own targets — the pool of qualifying units is materially smaller than the pool of good credits.
+- additional, meaning carbon finance made it happen
+- real, with a conservative baseline and quantification
+- permanent, or covered by arrangements for reversal risk
+- checked by an independent third-party verifier
+- free of net harm to environmental and social safeguards
+- counted once only
 
-### Filter Four: Vintage and Timing
+The last item leads straight into gate 3. The full criteria are set out in [the ICAO emissions unit criteria](/knowledge-base/corsia-emissions-unit-criteria/).
 
-Credits carry a **vintage** — the period in which the reduction occurred. CORSIA sets timing rules on which vintages may be used for which compliance period, to stop very old reductions from flooding in to meet current obligations. A unit outside the accepted vintage window fails even if everything else checks out.
+### Gate 3: a corresponding adjustment (first phase onward)
 
-## Putting the Filters Together
+This gate changed the market more than any other. For units used in the first phase, from 2024, the host country must authorise the transfer and apply a **corresponding adjustment** under Paris Agreement Article 6 accounting. In effect it adds the traded tonnes back to its own emissions balance, so the same reduction is not claimed by the airline and by the country's national target.
 
-| Attribute | Eligible? |
-|---|---|
-| From an ICAO-approved programme, adjusted, in-vintage | Yes |
-| Credible project, but programme not ICAO-approved | No |
-| Approved programme, but no corresponding adjustment (first phase) | No |
-| Approved and adjusted, but vintage outside the window | No |
-| Meets every filter but never cancelled by the airline | Obligation not yet met |
+Some host countries will authorise; others prefer to keep reductions for their own targets. Where there is no authorisation, a first-phase unit fails, however good everything else is. [Corresponding adjustments and Article 6](/knowledge-base/corresponding-adjustments-article-6/) explains the mechanics.
 
-The last row is a reminder from the [airline compliance workflow](/insights/how-airlines-use-carbon-credits-corsia/): eligibility gets a unit *usable*, but it only discharges the duty once it is cancelled.
+### Gate 4: the vintage sits inside the window
 
-## Why This Matters Commercially
+A vintage is the period in which the reduction happened. CORSIA limits which vintages may be used against which compliance period, so that a backlog of old reductions cannot be dumped on current obligations. A unit outside the window fails at the last step.
 
-Eligibility is not bureaucratic trivia — it is the main driver of price segmentation in the market. Corresponding-adjusted, CORSIA-eligible units trade at a premium precisely because the filters remove most of the supply. A developer who can secure a host-country adjustment holds a more valuable product than one who cannot, from the identical project. For buyers, confirming eligibility *before* contracting is the difference between compliance and a stranded purchase.
+## Three sample credits
 
-## Frequently Asked Questions
+The credits below are invented for illustration. They show how the gates interact, not what any real project holds.
 
-**What are CORSIA Eligible Emissions Units?** Carbon credits that ICAO accepts for CORSIA compliance because they come from an approved programme and meet the eligibility criteria, including a corresponding adjustment for the first phase.
+**Credit A: a solar project in Rajasthan.** Issued under an approved programme, meets the unit criteria, vintage inside the window. India has not issued an authorisation or adjustment for this project. For first-phase use it stops at gate 3.
 
-**What is the Technical Advisory Body?** An expert group that assesses crediting programmes and units against CORSIA's criteria and recommends eligibility decisions to the ICAO Council.
+**Credit B: a cookstove project in East Africa.** Strong documentation and an authorisation letter from the host government, with an adjustment applied. But the issuing programme is not approved for the scope in question. It stops at gate 1, before the adjustment is even relevant.
 
-**What is a corresponding adjustment?** An accounting step where the host country deducts the traded reduction from its own national total, preventing the same tonne being counted twice.
+**Credit C: a landfill gas project.** Approved programme, meets the criteria, host-country adjustment in place, vintage inside the window. It clears all four gates and is eligible.
 
-**Does a Verra or Gold Standard credit automatically qualify?** No. The programme must be ICAO-approved for the relevant scope and the specific unit must meet all criteria, including the adjustment requirement.
+Even Credit C has not discharged anything yet. Eligibility makes a unit *usable*. The obligation is met only when the operator cancels it against the right compliance period, which is covered in [how airlines use credits under CORSIA](/insights/how-airlines-use-carbon-credits-corsia/).
 
-**Why are eligible units more expensive?** The eligibility filters — approval, adjustment and vintage — remove most supply, leaving a smaller, higher-integrity pool in demand from airlines.
+## Why the gates set the price
 
----
+Each gate removes supply. By the time a unit has cleared all four, it belongs to a much smaller pool than the market as a whole, and airlines are the ones who need it. That is why adjusted, eligible units trade at a premium.
 
-**Working on aviation emissions, CORSIA compliance or carbon credit due diligence?** DSTechnoverse handles the data side of carbon and environmental compliance — monitoring design, emissions reconciliation, verification support and defensible reporting. See our [CORSIA carbon credit services](/services/) and [data analytics](https://dstechnoverse.com/services/data-analytics). We are based in **Indore, Madhya Pradesh** and work across India and internationally.
+The same logic applies to sellers. Two identical projects can produce products of very different value if one developer secures a host-country adjustment and the other does not.
 
-[Apply as a CORSIA buyer or seller](https://carboncredit.dstechnoverse.com/)
+## Common mistakes
 
-[Talk to our team](/contact/), or start with [the complete carbon credits guide](/insights/corsia-carbon-credits-complete-guide/).
+- **Treating the registry name as proof.** A Verra or Gold Standard serial number does not settle anything by itself. The programme scope, the unit and the adjustment all have to line up.
+- **Checking eligibility after signing.** Confirm it before the contract, and make it a condition of delivery. Otherwise you may own a unit you cannot use.
+- **Forgetting the vintage.** It is the least discussed gate and the easiest to miss on a long-dated offtake.
+
+## Quick answers
+
+**Is the TAB the body that approves programmes?** It assesses and recommends. The ICAO Council makes the decision.
+
+**What does a corresponding adjustment do?** The host country deducts the traded reduction from its own national total, so one tonne is not counted twice.
+
+**Why pay more for eligible units?** Because approval, adjustment and vintage rules together leave a small pool that airlines must draw from.
+
+If you have a list of offered units and want each one checked gate by gate before you commit, [send it to our desk](/contact/). We will tell you which lines are usable and which are not.

@@ -1,142 +1,109 @@
 ---
-title: "Indian Carbon Projects: Domestic Scheme or International Sale?"
-excerpt: "India participates in CORSIA, with the DGCA as national authority. What that means for Indian carriers, how it interacts with India domestic Carbon Credit Trading Scheme, and what project developers should establish before targeting aviation demand."
+title: "Indian Carbon Projects: CCTS, CORSIA or the Voluntary Market?"
+excerpt: "Indian developers must choose a route to market before a methodology. How CCTS, CORSIA and voluntary sales differ, why authorisation decides most cases, and which project types suit which route."
 date: "2026-08-19"
 topic: "CORSIA Fundamentals"
 tags: ["CORSIA India","DGCA CORSIA","CORSIA consulting India","Indian carbon credit","Carbon Credit Trading Scheme","Indian aviation emissions","carbon credit consultant Indore"]
 image: "/images/corsia/hero-corsia-market.svg"
 ---
 
-An Indian project developer with a viable emission reduction activity faces a decision before choosing a methodology, and getting it wrong is expensive to reverse: sell domestically into India's compliance scheme, sell internationally into CORSIA or the voluntary market, or attempt both.
+Take a textile processing cluster in Gujarat with two emission reduction ideas. One is a heat-recovery and boiler-upgrade programme across its dyeing units. The other is capturing methane from the common effluent treatment plant. The owners want to know where the credits would sell. The answer turns out to be different for each project, and it has to be settled before anyone chooses a methodology, because that choice is hard to undo.
 
-The three pathways have different requirements, different buyers and different risks. This article is about choosing between them.
+Indian developers have three routes: the domestic compliance market, international compliance through CORSIA, and the voluntary market. Some projects can try more than one. This article is about choosing.
 
-![CORSIA carbon credit consultant](/images/corsia/hero-corsia-consultant.svg)
+![Illustration for Indian carbon project advisory](/images/corsia/hero-corsia-consultant.svg)
 
-> For the general position of CORSIA in India — DGCA's role, what Indian carriers face, the obligation trajectory — see [CORSIA in India](/knowledge-base/corsia-in-india/). This piece is the developer's pathway decision.
+> The broader picture of CORSIA in India, including the DGCA's role and what Indian carriers face, is in [CORSIA in India](/knowledge-base/corsia-in-india/). This piece is about the developer's route decision.
 
-## The Three Pathways
+## The three routes in brief
 
-| | Domestic (CCTS) | International compliance (CORSIA) | Voluntary market |
+**Domestic, through the Carbon Credit Trading Scheme (CCTS).** Buyers are obligated Indian entities. The framework sits under the Energy Conservation Act. No authorisation for international transfer is needed and no corresponding adjustment applies. The main risk is that the scheme's design is still settling. More on the scheme in [the Indian carbon market and CCTS](/insights/indian-carbon-market-ccts-explained/).
+
+**International compliance, through CORSIA.** Buyers are aircraft operators. Eligibility follows ICAO's Emissions Unit Criteria. Authorisation from the host government **and** a corresponding adjustment are required. Prices carry a premium because supply is scarce. The main risk is that authorisation never arrives.
+
+**Voluntary.** Buyers are companies acting by choice, under the rules of the crediting standard. Authorisation is not required but is increasingly asked for, and adjusted units earn a premium. Prices span a very wide range, and quality is heavily scrutinised.
+
+Most decisions come down to one line: **a domestic sale needs no corresponding adjustment; an international compliance sale is impossible without one.**
+
+## Why authorisation is the first question
+
+Under Article 6 of the Paris Agreement, a host country that authorises credits for international use adds those tonnes back to its own accounts and gives them up against its Nationally Determined Contribution.
+
+India has been building the CCTS as a domestic market and has indicated in several settings that it prefers to keep mitigation outcomes at home. How the CCTS, Article 6 authorisation and CORSIA eligibility fit together is still being worked out.
+
+That leaves developers in an awkward spot: today you cannot be sure an international route will be open to your project when it starts issuing. The job is to plan around that uncertainty, not to wait for it to clear.
+
+## Three rules that follow
+
+### Settle the authorisation position before the methodology
+
+A project designed under a domestic protocol does not automatically meet an ICAO-approved programme's requirements, and switching standards mid-project is expensive and sometimes impossible. The order has to be: realistic authorisation position, then route, then methodology.
+
+In practice, go to the relevant authority early, ask about your specific project type rather than policy in general, and ask what has actually been authorised, not what is possible in principle. Statements show intent; issued authorisations show practice.
+
+### Keep options open where it is cheap to do so
+
+- **Build to the stricter standard.** A project that satisfies an ICAO-approved programme will usually satisfy domestic and voluntary rules too. The reverse does not hold.
+- **Keep the paperwork an international buyer would want**, even while selling at home. Verification reports, monitoring records and safeguards documentation keep their value whichever route you take.
+- **Do not rely on international placement in your financial model** where authorisation is genuinely uncertain.
+
+Designing for optionality costs little at the start. Adding it later costs a great deal, and sometimes the option has gone.
+
+### Match revenue timing to your financing
+
+The domestic route usually pays sooner because it skips the authorisation step, which is the least predictable part of any international timeline. The international route pays more per unit when it completes, since adjusted supply is scarce and CORSIA demand rises from 2027. For a developer servicing debt, the real question is which route produces cash when it is needed. A higher price two years later can be worth less than a lower one next year.
+
+## Which project types suit which route
+
+| Project type | Domestic fit | International fit | Why |
 |---|---|---|---|
-| Buyer | Obligated Indian entities | Aircraft operators | Corporates, by choice |
-| Governing framework | Energy Conservation Act | ICAO Emissions Unit Criteria | Crediting standard rules |
-| Host-State authorisation | Not required | **Required** | Increasingly wanted |
-| Corresponding adjustment | Not applicable | **Required** | Premium where present |
-| Price | Domestic market | Premium, scarce | Very wide range |
-| Main risk | Scheme design still settling | Authorisation may never come | Quality scrutiny |
-
-The row that decides most cases is the third. **Domestic sale requires no corresponding adjustment; international sale cannot happen without one.**
-
-## Why the Authorisation Question Comes First
-
-Under Article 6 of the Paris Agreement, a host State authorising credits for international use must add those tonnes back into its own national accounting, forgoing them against its Nationally Determined Contribution.
-
-India has been building the **Carbon Credit Trading Scheme** as a domestic compliance market, and has signalled in various contexts a preference for retaining mitigation outcomes domestically. The interaction between that scheme, Article 6 authorisation and CORSIA eligibility is still being worked through.
-
-For a developer this produces a specific and uncomfortable position: **you cannot know with certainty today whether an international pathway will be open to your project when it starts issuing.**
-
-That uncertainty is the thing to plan around, not to resolve. Three consequences follow.
-
-## Consequence One: Establish the Position Before the Methodology
-
-Methodology choice is difficult to reverse. A project designed under a domestic protocol does not automatically satisfy an ICAO-approved programme's requirements, and migrating between standards mid-project is costly and sometimes impossible.
-
-So the sequence has to be: **establish the realistic authorisation position, then choose the pathway, then choose the methodology.** Not the other way round.
-
-Practically, that means engaging early with the relevant authority, asking about your specific project type rather than about policy in general, and asking what has actually been authorised rather than what is possible in principle. Public statements describe intent; issued authorisations describe practice.
-
-## Consequence Two: Design for Optionality Where You Can
-
-The strongest position for most Indian developers is not to bet on one pathway.
-
-**Design to the stricter standard.** A project built to satisfy an ICAO-approved programme's requirements will generally also satisfy domestic and voluntary requirements. The reverse is not true.
-
-**Keep the documentation an international buyer would demand**, even while selling domestically. Verification reports, monitoring evidence and safeguards documentation retain value across pathways.
-
-**Do not build a financial model that only works with international placement**, in a jurisdiction where authorisation is genuinely uncertain. That is a concentrated bet on a government decision.
-
-The additional cost of designing for optionality at the outset is modest. The cost of retrofitting is not, and in some cases the option is simply gone.
-
-## Consequence Three: Sequence Revenue Realistically
-
-A domestic pathway generally reaches revenue sooner, because it removes the authorisation step — the least predictable element in an international timeline.
-
-An international pathway offers a higher price where it completes, because corresponding-adjusted supply is scarce and CORSIA demand steps up from 2027.
-
-For a developer with financing to service, the practical question is not which is worth more per credit but **which produces cash when you need it.** A higher price two years later may be worth less than a lower price next year.
-
-## Which Project Types Suit Which Pathway
-
-| Project type | Domestic fit | International fit | Note |
-|---|---|---|---|
-| Industrial energy efficiency | Strong | Moderate | Overlaps CCTS coverage directly |
-| Waste methane, biogas | Good | **Strong** | Clean additionality, no permanence issue |
-| Wastewater treatment | Good | **Strong** | Same reasoning |
-| Cookstoves | Moderate | Moderate | Usage-rate scrutiny applies either way |
+| Industrial energy efficiency | Strong | Moderate | Sits squarely within CCTS coverage |
+| Waste methane and biogas | Good | Strong | Additionality holds up; no reversal risk |
+| Wastewater treatment | Good | Strong | Same reasons |
+| Cookstoves | Moderate | Moderate | Usage-rate scrutiny applies on either route |
 | Afforestation | Moderate | Moderate | Permanence and tenure questions |
-| Grid solar and wind | Weak | Weak | Additionality hard where least-cost |
-| Soil carbon | Weak | Weak | Measurement immaturity |
+| Grid solar and wind | Weak | Weak | Additionality is hard where they are the cheapest option |
+| Soil carbon | Weak | Weak | Measurement methods still immature |
 
-Two patterns worth noting. **Industrial efficiency overlaps the domestic scheme's own coverage**, which is an argument for the domestic pathway but also raises questions about whether the reduction is already captured by an obligation. And **waste methane suits the international pathway best**, because its additionality argument survives scrutiny that other categories struggle with.
+Two things stand out. Industrial efficiency overlaps the domestic scheme's own coverage, which favours the domestic route but also raises the question of whether an existing obligation already captures the reduction. Waste methane suits the international route best, because its additionality case survives the kind of scrutiny other categories struggle with. For more on eligible Indian types, see [CORSIA-eligible projects in India](/insights/corsia-eligible-projects-in-india/).
 
-## What This Means for Timelines
+## The Gujarat cluster, worked through (illustrative)
 
-Working backwards from second-phase CORSIA demand from 2027:
+**Boiler and heat-recovery programme.** This is industrial efficiency inside sectors the domestic scheme is designed to cover. The international case is only moderate, and there is an open question about overlap with domestic obligations. The sensible route is domestic, with voluntary sales as a secondary option.
 
-A new project needs eighteen months to three years from concept to first issuance. Host-State authorisation, where required, is the least predictable element within that span and can extend it considerably.
+**Effluent plant methane capture.** The counterfactual is methane escaping from treatment, reversal is not an issue, and wastewater projects rank among the strongest international candidates. The sensible route is to build to an ICAO-approved programme's standard and pursue authorisation, while keeping a voluntary fallback in the model in case authorisation is slow.
 
-A developer intending to serve that demand should be resolving the authorisation question **now**, not when demand becomes visible. Supply that is ready when demand arrives will be contracted; supply that starts the process then will arrive late.
+Same owners, same site, two different answers.
 
-For the domestic pathway the timing pressure is different, driven by the CCTS compliance cycle rather than by ICAO's phases.
+## Timelines if you are aiming at 2027
 
-## Getting Advice on This Specific Decision
+A new project needs eighteen months to three years from concept to first issuance. Where authorisation is needed, it is the least predictable part of that span and can stretch it well beyond.
 
-This is a bounded question with a clear output, and it is worth buying as a discrete piece of work rather than as part of a larger engagement.
+A developer who wants to serve second-phase CORSIA demand should be working on the authorisation question now. Supply that is ready when demand arrives will be contracted; supply that starts then will be late. On the domestic route the pressure comes from the CCTS compliance cycle instead of ICAO's phases.
 
-What a useful assessment produces: a written position on the realistic authorisation prospects for your project type, an assessment of methodology options under each pathway, a timeline comparison with revenue implications, and a recommendation with the reasoning stated so it can be revisited if the policy position moves.
+## How lenders see each route
 
-What it should not produce: a recommendation to proceed regardless. A genuine assessment must be capable of concluding that the international pathway is not realistically available, because for a number of project types and jurisdictions that is the correct answer today.
+| Factor | Domestic route | International route |
+|---|---|---|
+| Revenue certainty | A defined base of compliance buyers | Higher price, but a government step no one in the deal controls |
+| Time to first revenue | Usually sooner | Later and less predictable |
+| What makes it bankable | An offtake agreement with a credible buyer | The same, and it matters even more |
 
-DSTechnoverse runs this assessment for Indian developers from **Indore, Madhya Pradesh**. See [CORSIA eligible projects in India](/insights/corsia-eligible-projects-in-india/) and [becoming a CORSIA supplier](/insights/how-to-become-corsia-carbon-credit-supplier/).
+Designing to the stricter requirement while keeping a domestic fallback gives a better risk profile than committing to one route, before the price difference is even considered. It is also a good reason to start offtake talks earlier than feels natural.
 
-## Financing Implications of the Pathway Choice
+## Six questions to settle first
 
-The decision is not only regulatory. It changes what the project looks like to a lender or investor.
+1. Is there a designated national authority and a process for our project type?
+2. Has anything comparable actually been authorised, and how long did it take?
+3. What conditions come with authorisation: fees, revenue sharing, benefit distribution?
+4. Which methodologies are available on each route, and are any under review?
+5. What does revenue timing look like on each route, set against our financing?
+6. Can we build to the stricter requirement and keep the fallback?
 
-**Revenue certainty differs sharply.** A domestic pathway has a defined buyer base under a compliance scheme. An international pathway has a higher price and a sovereign step that neither the developer nor the financier controls. Lenders price that difference.
+Each can be answered in weeks. A developer with answers to all six has made a decision; one without is relying on an assumption, and the one most often wrong in this market is that authorisation will follow because the project deserves it.
 
-**Timing to first revenue matters more than headline price** for a project servicing debt. An international pathway that pays more in year four may be worse than a domestic one paying less in year two, depending on the financing structure.
+## What a proper route assessment gives you
 
-**Offtake agreements are what make either bankable.** A signed forward agreement with a credible counterparty converts an uncertain revenue line into something a lender can assess. This is a strong argument for pursuing offtake discussions earlier than feels natural.
+This is a bounded question and worth buying as a separate piece of work. A useful assessment delivers a written view on authorisation prospects for your project type, the methodology options on each route, a timeline and revenue comparison, and a recommendation with its reasoning set out so it can be revisited when policy moves. It must be able to conclude that the international route is not realistic, because for a number of project types that is the correct answer today.
 
-**Optionality has financing value too.** A project designed to satisfy the stricter international requirements, while retaining a domestic fallback, presents a better risk profile than one committed to a single route — even before considering the price difference.
-
-## Questions to Settle Before Committing
-
-Six questions, in order. Each is answerable in weeks, and answering them in this sequence prevents the expensive reversals.
-
-1. Does a designated national authority and an authorisation process exist for our project type?
-2. Has anything comparable actually been authorised, and on what timeline?
-3. What conditions attach — fees, revenue sharing, benefit distribution?
-4. Which methodologies are available under each pathway, and are any under review?
-5. What does the revenue timeline look like under each, against our financing?
-6. Can we design to satisfy the stricter requirement while retaining the fallback?
-
-A developer who can answer all six has made a decision. One who cannot has a plan resting on an assumption, and in this market the assumption most often wrong is that authorisation will follow because the project deserves it.
-
-## Frequently Asked Questions
-
-**Can an Indian project sell into CORSIA?** Only if India authorises the transfer and applies a corresponding adjustment. That is a governmental decision, not a market transaction.
-
-**Should I default to the domestic pathway?** Not automatically. It removes the authorisation risk and generally reaches revenue sooner, but forgoes the international premium. The right answer depends on your project type, financing and timeline.
-
-**Can I switch pathways later?** Sometimes, at cost. Design for optionality at the outset rather than assuming you can migrate.
-
-**What if the authorisation position is unclear?** Treat it as a material risk to be priced, not as an implicit yes. Design to the stricter standard and keep a fallback.
-
-**Which project types are best placed internationally?** Waste methane, biogas and wastewater treatment, because their additionality arguments survive scrutiny. Grid renewables are difficult.
-
-**How long does the decision take to make properly?** Weeks, not months. It is a bounded assessment and it is far cheaper than a methodology chosen against the wrong pathway.
-
-**Who decides authorisation in India?** The designated national authority under the Article 6 framework. Engage directly and ask about your specific project type.
+We run these assessments for Indian developers from our desk in Indore. If you are weighing routes for a project, send us a short description through our [contact page](/contact/), or read [becoming a CORSIA supplier](/insights/how-to-become-corsia-carbon-credit-supplier/) first.

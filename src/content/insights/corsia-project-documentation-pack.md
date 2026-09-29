@@ -1,159 +1,125 @@
 ---
-title: "The CORSIA Project Documentation Pack Buyers Will Ask For"
-excerpt: "Exactly which documents a CORSIA compliance buyer requests before signing, what each one proves, who holds it, and how assembling the pack in advance shortens the sale and raises the price achieved."
+title: "Selling to CORSIA Buyers: The Project Documents to Have Ready Before the First Call"
+excerpt: "Carbon credit sales to airlines stall on paperwork far more often than on price. The documents a CORSIA buyer asks for, the question each one answers, and how an Indian developer can build the pack as the project runs."
 date: "2026-08-23"
 topic: "Airline Compliance"
-tags: ["CORSIA documentation","carbon credit due diligence","project design document","verification report","registry","CORSIA India","credit sale"]
+tags: ["CORSIA documentation","carbon credit due diligence","project design document","verification report","registry","CORSIA India","data room"]
 image: "/images/corsia-consultant/corsia-documentation-checklist.svg"
 ---
 
-Carbon credit transactions do not usually fail on price. They fail on documentation — a buyer asks for something, the developer takes three weeks to produce it, the buyer's diligence stalls, and the airline buys elsewhere before the compliance deadline.
+When a sale to an airline falls through, the developer usually tells us it was price. When we look at the email trail, it is more often time. The buyer asked for a document, it took three weeks to find, diligence stopped while they waited, and the airline bought somewhere else because its deadline was not going to move.
 
-Assembling the pack before going to market is the cheapest thing a developer can do to improve both the speed and the price of a sale.
+For a developer, having the documents ready before approaching buyers is the cheapest way to sell faster and at a better price. This piece is written for the seller's side of the table.
 
-![The document pack a CORSIA buyer will request](/images/corsia-consultant/corsia-documentation-checklist.svg)
+![Checklist of documents a CORSIA buyer requests from a project developer](/images/corsia-consultant/corsia-documentation-checklist.svg)
 
-## The Core Pack
+## Follow the buyer's questions
 
-| Document | Proves | Held by |
-|---|---|---|
-| **Project design document** | Baseline and additionality | Developer |
-| **Validation report** | Independent pre-registration assessment | Developer |
-| **Verification report** | The reductions actually occurred | Developer |
-| **Registry issuance record** | Serial numbers and ownership | Registry |
-| **Corresponding adjustment letter** | Host country authorisation | Government |
-| **Programme eligibility evidence** | Approved programme and vintage | Programme |
-| **Safeguards and consent records** | Community and land rights | Developer |
+A compliance buyer's diligence runs in a fairly predictable order. Each question maps to a document, and the questions that come first are the ones that end deals.
 
-Every one of these is requested in a serious diligence process. A developer who can produce all seven within a day is in a materially stronger negotiating position than one who produces them over a month.
+**"Can we use these units for CORSIA at all?"**
+Answered by the **corresponding adjustment letter** and the **programme eligibility evidence**. This is the question that decides everything else, so it comes first.
 
-## Document by Document
+The authorisation document shows that the host country has approved the transfer and will make the adjustment. Buyers want the authorisation itself, its scope (which project, which vintages, what quantity) and whether it carries conditions. A statement of government policy is not an authorisation of your particular units. For how this works in India, see [corresponding adjustments for Indian CORSIA projects](/insights/corsia-corresponding-adjustment-india/).
 
-### Project design document
+Programme evidence shows the issuing programme is ICAO-approved for that unit type and vintage window, and that your units sit inside it. Approvals have scopes and dates. "The programme is approved" and "these units are eligible" are two different statements.
 
-The foundational description: activity, boundary, baseline, additionality argument, methodology applied, monitoring plan and crediting period. Buyers read the **additionality section** and the **baseline section** most closely, because that is where over-crediting originates.
+**"Do the units exist, and are they yours?"**
+Answered by the **registry issuance record**: serial numbers, quantity, vintage and holding account. Assume the buyer will check the registry directly. What you send must match what the registry shows, to the unit. A mismatch reads as carelessness at best.
 
-Registered PDDs are usually public on the programme registry, so assume the buyer has already read it before the first call. Know its weak points and be ready to discuss them — a developer who volunteers the contestable assumption and explains how it was handled conservatively builds far more confidence than one who waits to be asked.
+Title and ownership documents sit alongside it. If the project has several parties, the buyer needs to see who is entitled to sell.
 
-### Validation report
+**"Are the reductions real?"**
+Answered by the **project design document**, the **validation report** and the **verification report**.
 
-The independent assessment before registration. Buyers look for the findings raised and how they were closed. A validation with no findings at all is unusual; what matters is that findings were substantive and properly resolved.
+The PDD sets out the activity, boundary, baseline, additionality case, methodology, monitoring plan and crediting period. Registered PDDs are generally public, so expect the buyer to have read yours before the first call. They will spend most time on baseline and additionality, since that is where over-crediting starts. Raise the contestable assumption yourself and explain how you handled it conservatively. That builds more trust than waiting to be asked.
 
-### Verification report
+The validation report is the independent check before registration. A validation with zero findings is rare. What buyers want to see is that findings were real and properly closed.
 
-Confirms reductions actually occurred in the monitoring period. Buyers check the verified quantity against what was claimed, any qualifications in the opinion, and whether data gaps were handled conservatively.
+The verification report confirms the reductions for a monitoring period. Buyers compare verified against claimed quantities, look for qualifications in the opinion, and check how data gaps were treated. **A qualified opinion is a serious issue in a sale.** Expect a discount and slower diligence, and disclose it at the start with the remediation. Found later, it does far more damage.
 
-**Qualified opinions are a serious problem in a sale.** If a verification is qualified, expect a discount and a longer diligence process, and be ready to explain the remediation.
+**"Is there anything that could embarrass us?"**
+Answered by **safeguards and consent records**: free prior informed consent, benefit sharing, grievance mechanisms, land tenure. Compliance buyers weight these below eligibility, but they do check, and reputational risk now features in buying decisions.
 
-### Registry issuance record
+## The supporting documents
 
-Serial numbers, quantity, vintage, holding account. Buyers verify this **directly on the registry**, not from your document — so make sure what you present reconciles exactly to what the registry shows. Discrepancies read as either carelessness or something worse.
+Once the core questions are answered, requests move to the detail. Have these filed and findable:
 
-### Corresponding adjustment letter
+- monitoring reports for every period
+- instrument calibration records
+- corporate documents and KYC material
+- a record of prior sales and commitments
+- measured evidence for any co-benefits you claim
+- site photographs and records showing the project physically exists
+- contact details for your validator and verifier, since some buyers call them
 
-For CORSIA use, the decisive document. It evidences that the host country has authorised the transfer and will apply the adjustment.
+The **record of prior sales** deserves special care. Double-selling, where the same units are offered to two buyers, usually happens through loose records across several brokers, and it is a serious commercial and legal exposure. Keep one authoritative inventory ledger: every unit, its status, and every commitment made against it.
 
-Buyers will want to see the authorisation itself, understand its scope — which project, which vintages, what quantity — and confirm it is unconditional or, if conditional, what the conditions are. A general statement of policy intent is not an authorisation for your units.
+## Worked example: two developers, one buyer
 
-See [corresponding adjustments for Indian CORSIA projects](/insights/corsia-corresponding-adjustment-india/).
+This is illustrative, based on patterns we see rather than any real project.
 
-### Programme eligibility evidence
+An airline's procurement team contacts two Indian developers in the same week, each offering biomass power units.
 
-Confirmation that the issuing programme is ICAO-approved for the relevant unit type and vintage window, and that your units fall inside it. Programme approvals have scopes and dates; "Verra is approved" is not the same as "these units are eligible".
+**Developer A** replies within a day with a one-page summary (project, programme, vintages, quantity, authorisation status, serial ranges) and a data room link. The room has an index, consistent file names and an access log. The buyer's adviser raises three questions on the baseline; A's technical lead answers them in a call the next day, citing a short decision log explaining why a conservative default was chosen.
 
-### Safeguards and consent records
+**Developer B** sends a brochure and site photographs. The PDD arrives a week later. The verification report follows after another ten days, and the registry figures differ from the brochure by a few hundred units because a small retirement was never recorded. Authorisation is described as "in process".
 
-For land-based and community projects: free prior informed consent, benefit sharing, grievance mechanisms, land tenure documentation. Compliance buyers weight this lower than eligibility but they do check it, and reputational exposure has become a real factor in buying decisions.
+B's project may be every bit as good as A's. During diligence, the buyer cannot tell. Weak paperwork looks exactly like a weak project from the other side, and the airline has a deadline. A closes; B does not.
 
-## The Supporting Pack
+## Common mistakes we see
 
-Beyond the core seven, prepare:
+- **Leading with photographs and community stories.** They help in voluntary sales. They do not answer a compliance buyer's first question.
+- **Vague authorisation status.** "Expected soon" makes many compliance buyers stop there.
+- **Registry figures that do not reconcile.** Diligence escalates and trust drops.
+- **Hiding a qualified verification.** It will be found, and the renegotiation that follows is worse than the discount would have been.
+- **Unclear title.** Legal review stalls indefinitely.
+- **No ledger of prior sales.** The buyer assumes the worst.
 
-| Document | Why buyers ask |
+## Build it as you go
+
+The developers who struggle are the ones reconstructing the pack at the point of sale, from staff who have left. File each document when it is created:
+
+| Project stage | File immediately |
 |---|---|
-| Monitoring reports for each period | Shows data discipline over time |
-| Instrument calibration records | Supports the verified quantity |
-| Title and credit ownership documents | Who is entitled to sell |
-| Corporate documents and KYC | Standard commercial diligence |
-| Prior sale record | Confirms units are unsold and unretired |
-| Co-benefit evidence | Where claimed, must be measured |
-| Photographs and site records | Confirms the project physically exists |
-| Contact for the validator or verifier | Buyers sometimes verify directly |
+| Design | PDD, methodology reference, title and consent documents |
+| Validation | Validation report, findings and how each was closed |
+| Registration | Registration confirmation, project ID, programme correspondence |
+| Every monitoring period | Monitoring report, raw data, calibration records, photographs |
+| Verification | Verification report, findings and responses |
+| Issuance | Registry record, serial ranges, holding account confirmation |
+| Authorisation | The corresponding adjustment document and its scope |
+| Throughout | Inventory ledger |
 
-The prior sale record matters more than developers expect. Double-selling — the same units offered to two buyers, usually through poor record-keeping across brokers — is a serious commercial and legal exposure. **Maintain one authoritative inventory ledger** showing every unit, its status, and every commitment against it.
+Start the **inventory ledger on the first day**. It is a plain table: vintage, serial range, quantity, status, contract, retirement. It prevents double-selling and lets you answer a buyer's opening question in minutes.
 
-## How to Present It
+Three habits help:
 
-- **One index document** listing every item, its date, and where it sits
-- **A data room**, with controlled access and an access log
-- **Consistent naming** — project code, document type, date, version
-- **A one-page summary** stating project, programme, vintages, quantity, CA status, serial ranges
-- **A named contact** who can answer a diligence question the same day
+1. **Scan on receipt**, so no document exists only as paper in a site office in, say, rural Madhya Pradesh.
+2. **Name files the same way from the start**: project code, document type, date, version.
+3. **Keep a decision log.** One page recording why a baseline parameter was chosen, why a conservative default was applied, why the boundary sits where it does. These choices are obvious at the time and baffling three years later when a buyer's technical adviser asks about them.
 
-That one-page summary answers the first five questions any buyer asks. Sending it with the initial approach filters out buyers who cannot use your units and accelerates the ones who can.
+## Presenting the pack
 
-## What Weak Documentation Costs
+- An index listing each item, its date and its location.
+- A data room with controlled access and an access log.
+- A one-page summary sent with the first approach. It answers the first five questions any buyer has, screens out buyers who cannot use your units, and speeds up those who can.
+- A named person who can answer a diligence question the same day.
 
-| Symptom | Consequence |
-|---|---|
-| Documents produced slowly | Buyer moves to another supplier before the deadline |
-| Registry record does not reconcile | Diligence escalates, trust falls |
-| CA status vague | Compliance buyers walk away entirely |
-| Qualified verification undisclosed | Discovered later, renegotiation or collapse |
-| Title unclear | Legal review stalls indefinitely |
-| No prior sale record | Buyer assumes the worst |
+Assume every document will be read by someone looking for grounds to lower the price. That is not cynical; it is what diligence is for.
 
-The pattern: documentation problems are read as project quality problems, because from the buyer's side they are indistinguishable. A well-run project with disorganised paperwork looks exactly like a weak project during diligence — and the buyer has a deadline.
+The buyer's view of the same process is in [the CORSIA credit due diligence checklist](/insights/corsia-credit-due-diligence-checklist/), and the sale itself is covered in [how to sell carbon credits in India](/insights/how-to-sell-carbon-credits-in-india/).
 
-Our buyer-side companion piece, [the CORSIA credit due diligence checklist](/insights/corsia-credit-due-diligence-checklist/), sets out the same ground from the other direction, and [how to buy CORSIA carbon credits](/insights/how-to-buy-corsia-carbon-credits/) covers the transaction itself.
+## Short answers
 
-## Assembling the Pack: A Practical Sequence
+**Which single document matters most?** The corresponding adjustment authorisation. Without it the units cannot be used for CORSIA, whatever else is in order.
 
-Most of the pack accumulates naturally if it is collected as it is created. The developers who struggle are those reconstructing it at the point of sale, from people who have moved on.
+**How long does diligence take?** Days to a few weeks with a prepared pack; months when documents are gathered on request.
 
-| When | What to file, immediately |
-|---|---|
-| At design | Project design document, methodology reference, title and consent documents |
-| At validation | Validation report, findings and closure evidence |
-| At registration | Registration confirmation, project ID, programme correspondence |
-| Each monitoring period | Monitoring report, raw data, calibration records, photographs |
-| At verification | Verification report, findings and responses |
-| At issuance | Registry record, serial ranges, holding account confirmation |
-| On authorisation | Corresponding adjustment document and its scope |
-| Continuously | Inventory ledger: every unit, its status, every commitment against it |
+**Who prepares the pack?** The developer, often with adviser support on the first project. It is largely a one-off effort that pays back on every later sale.
 
-**The inventory ledger is the one to start on day one.** It is a simple table — vintage, serial range, quantity, status, contract, retirement — and it is what prevents a double-sale and what lets you answer a buyer's first question in minutes rather than days.
+**What if a document simply does not exist?** Say so and explain why. Buyers accept an explained gap far more readily than one they discover.
 
-Two habits make the difference in practice. **Scan on receipt**, so nothing exists only as paper at a site office. And **name files consistently** from the beginning — project code, document type, date, version — because a data room whose contents cannot be identified from filenames signals disorganisation before a buyer opens anything.
+*General information only, not legal, financial or regulatory advice. Eligibility criteria, approved programmes and vintage windows change; confirm the current position with ICAO and your programme before committing capital.*
 
-Assume every document will eventually be read by someone looking for a reason to discount the price. That is not cynicism; it is simply what diligence is.
-
-One final discipline: keep a short written note of every material judgement made during development — why a particular baseline parameter was chosen, why a conservative default was applied, why a boundary was drawn where it was. These decisions are obvious while you are making them and completely opaque three years later when a buyer's technical adviser asks. A one-page decision log costs nothing to maintain and answers the questions that otherwise require tracking down whoever wrote the project design document.
-
-## Frequently Asked Questions
-
-**What documents do CORSIA buyers ask for?** Project design document, validation report, verification report, registry issuance record, corresponding adjustment letter, programme eligibility evidence and safeguards records.
-
-**Which document matters most?** The corresponding adjustment authorisation. Without it the units cannot be used for CORSIA compliance regardless of everything else.
-
-**Do buyers check the registry themselves?** Yes. Present figures that reconcile exactly to the registry record.
-
-**What if our verification report is qualified?** Disclose it upfront with the remediation. Discovered later, it damages the transaction far more than it would have at the start.
-
-**How long should diligence take?** Days to a few weeks with a prepared pack. Months where documents are assembled on request.
-
-**What is a prior sale record?** Your authoritative ledger of every unit, its status and any commitment against it, evidencing that what you are selling is unsold and unretired.
-
-**Do co-benefits need documentation?** If you claim them, yes — measured and verified, not asserted. Compliance buyers weight them lower than eligibility but they still check.
-
-**Should we use a data room?** Yes, with controlled access and an access log. It signals professionalism and keeps sensitive documents traceable.
-
-**Who prepares the pack?** The developer, usually with consultant support for the first project. It is a one-off effort that pays back on every subsequent sale.
-
-**What if a document does not exist?** Say so plainly and explain why. Buyers accept explained gaps far better than gaps discovered during diligence.
-
----
-
-**Developing CORSIA-eligible credits in India?** DSTechnoverse supports project developers with eligibility screening, methodology selection, monitoring design, documentation packs and buyer due diligence — and advises buyers on whether the units they are offered will actually count. We are based in **Indore, Madhya Pradesh** and work with clients across India. See our [CORSIA carbon credit services](/services/), our carbon credit portal at [carboncredit.dstechnoverse.com](https://carboncredit.dstechnoverse.com/), or [talk to our team](/contact/) about your project.
-
-*This article is general information, not legal, financial or regulatory advice. CORSIA eligibility criteria, approved programmes and vintage windows change — verify the current position with ICAO and your programme before committing capital.*
+If you are getting a project ready for compliance buyers, we can review your pack against what airline diligence teams actually request. [Start a conversation with the desk](/contact/), or [list your credits](https://carboncredit.dstechnoverse.com/sell) once the pack is in shape.

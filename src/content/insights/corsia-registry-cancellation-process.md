@@ -1,160 +1,135 @@
 ---
-title: "CORSIA Cancellation: An Operational Runbook"
-excerpt: "The operational mechanics of CORSIA units — registry accounts, serialisation, transfers between registries, the cancellation step that actually discharges the obligation, and the reporting that closes the loop with your authority."
+title: "CORSIA Registry Cancellation: A Step-by-Step Procedure for Operators"
+excerpt: "Cancelling CORSIA units is the one step that cannot be undone. A working procedure for the weeks before the deadline: reconciliation, the two-person control, the purpose field, multi-registry settlement and reporting to the authority."
 date: "2026-08-22"
 topic: "CORSIA Fundamentals"
 tags: ["CORSIA registry","emissions unit cancellation","carbon registry transfer","CORSIA cancellation report","carbon credit serialisation","registry account","CORSIA compliance reporting"]
 image: "/images/corsia/corsia-buyer-seller-flow.svg"
 ---
 
-Cancellation is irreversible, sits at the end of a compliance period when everyone is under time pressure, and is executed by whichever person happens to have registry access that week. That combination produces the errors this article exists to prevent.
+Pilots run a checklist before every departure even though they have flown the aircraft a thousand times. The reason is not ignorance. It is that the dangerous moments are routine ones, done under time pressure, where a single slip cannot be taken back.
 
-![The life of a CORSIA unit](/images/corsia/corsia-unit-lifecycle.svg)
+Cancelling CORSIA units has the same profile. It happens once or a few times per compliance period, usually close to a deadline, often by whoever has registry access that week. It is permanent. This article is the checklist.
 
-> For what registries are, how serialisation works and why there is no single CORSIA registry, see [CORSIA registries, serialisation and cancellation](/knowledge-base/corsia-registries-and-cancellation/). This piece is the operational procedure.
+It assumes you already know what registries and serial numbers are. If not, start with [CORSIA registries, serialisation and cancellation](/knowledge-base/corsia-registries-and-cancellation/) and come back.
 
-## Before the Period Ends
+![How a CORSIA unit moves from issuance through transfer to cancellation](/images/corsia/corsia-unit-lifecycle.svg)
 
-Work backwards from the cancellation deadline, not forwards from today.
+## Plan backwards from the deadline
 
-| Timing | Action |
+Put the reporting deadline on the calendar first, then count back. A schedule that works for most operators:
+
+1. **Six months out.** Registry accounts are open and tested, with two authorised representatives named. Opening an account involves know-your-customer checks, which take longer than anyone expects. See [setting up registry accounts](/insights/corsia-registry-account-setup-india/).
+2. **Four months out.** The obligation is confirmed against verified emissions and the published growth factors.
+3. **Three months out.** Supply is under contract and due diligence is finished.
+4. **Six weeks out.** Units have arrived in your account and their serial numbers are logged.
+5. **Four weeks out.** The pre-cancellation reconciliation is done.
+6. **Two weeks out.** Cancellation is executed.
+7. **One week out.** The cancellation report is with the authority.
+8. **Deadline.** The authority has acknowledged it.
+
+Why leave two weeks at the end? Registries schedule maintenance and slow down when every operator is cancelling at once, and acknowledgements from the authority take time.
+
+## The reconciliation that comes first
+
+Allow about an hour for this, before anyone opens the cancellation screen. It is where irreversible errors get caught.
+
+- **The number.** Recalculate the obligation from verified emissions and the published factors, reproducibly. A figure copied from a spreadsheet someone last touched in March does not count.
+- **The holding.** Log in to each registry. Check the units are there, in your account, not encumbered and not already retired.
+- **The trail.** Match each serial to a purchase contract and its diligence file. If you cannot trace a unit, do not cancel it.
+- **Eligibility, today.** Recheck programme approval status and the vintage window as they stand now, not as they stood when you bought. After a gap of months this is a real check: approvals can lapse and windows can move.
+- **The quantity.** Too few leaves a shortfall. Too many wastes money, because surplus does not carry into the next period.
+- **The purpose field.** Know which designation your national authority expects in each registry you will use.
+
+## Doing the cancellation
+
+Handle it the way your treasury handles an outgoing payment. In substance, that is what it is.
+
+**Separate the roles.** One person prepares the cancellation. A second checks quantity, serials and purpose independently, then approves. The person who negotiated the purchase should not be the one executing.
+
+**Capture the screen.** Before pressing submit, take a screenshot of the confirmation page showing quantity, serials and purpose. If anything is questioned later, that is your record made at the time.
+
+**Pick your moment.** Business hours in the registry's time zone, on a day its support desk is working. A Friday evening in the last week is the worst possible choice.
+
+**Log it straight away:** serials, quantity, date and time, the registry's reference, purpose designation, which registry, and the names of the person who executed and the person who approved.
+
+## The purpose field deserves its own warning
+
+Of all the fields on the screen, this one does the most damage when it is wrong.
+
+Programmes offer several kinds of cancellation: a voluntary retirement, a cancellation for a stated compliance purpose, a cancellation for a named scheme. **A general retirement of the sort used for voluntary claims may not be accepted by your national authority.** If you choose the wrong one, the units are gone either way, and reversal is difficult or impossible.
+
+Settle the correct designation with the authority before your first cancellation, in writing, and keep the confirmation on file.
+
+## Several registries, one obligation
+
+Operators who buy from more than one programme end up with several cancellations, and coordination between them is where quantities go astray.
+
+**An illustrative case.** Suppose an operator owes 24,000 units for the period and holds units in three registries: 11,000 in the first, 9,000 in the second, 6,000 in the third (26,000 in total). The figures are invented to show the method.
+
+- Decide the split in writing before starting: 11,000 from the first, 9,000 from the second, 4,000 from the third. That totals 24,000 and leaves 2,000 uncancelled in the third account.
+- Cancel all 11,000 in the first registry, record it, and update the running total to 11,000 of 24,000.
+- Move to the second. Cancel 9,000, record, running total 20,000.
+- Move to the third. Cancel exactly 4,000, record, running total 24,000. Stop.
+
+Working one registry at a time means that if something interrupts you, you know exactly where you are. Three half-finished sessions in three systems leave nobody able to say what has been cancelled.
+
+Expect the interfaces to differ. One programme calls it "retirement", another "cancellation"; the purpose may be a dropdown in one and free text in another. Walk through each interface before the real thing. And allow more time than for a single registry: each has its own processing time.
+
+## Reporting closes the loop
+
+The authority cannot see into your registry accounts. Until you report, as far as it is concerned, nothing has happened.
+
+The report lists the units cancelled by serial number, with programme, vintage, cancellation references and the compliance period being discharged. Indian operators send it to the [DGCA](https://www.dgca.gov.in/). The report is then reviewed and acknowledged, and a query at that stage turns into a missed deadline if you left no margin.
+
+## When something goes wrong
+
+Split the possible errors into two groups before you need to.
+
+**Fixable**
+- Too few units cancelled: cancel the rest, keeping an eye on the deadline.
+- Report submitted with wrong serials: correct it and resubmit promptly.
+- Report not submitted: submit it and explain the delay.
+
+**Not fixable (plan as if lost)**
+- Too many units cancelled: the surplus is spent. Make sure it does not happen next period.
+- Wrong serials cancelled: those units are consumed. Source replacements.
+- Wrong purpose designation: call the registry at once, but expect to replace the units.
+
+Every item in the second group is stopped by a second person reading the screen before submission. That is the whole case for the two-person control.
+
+## The last cancellation of a period is different
+
+Interim cancellations can be cautious. The final one settles the account, so the quantity must be exact. The reconciliation is cumulative: every cancellation across the period has to add up to the total obligation. The report covers the period, and the authority will check it against what it expects. And every other operator is doing the same thing, so registries, verifiers and the authority are all at their busiest. That last point is the strongest argument for cancelling in stages through the period rather than all at the end.
+
+## What to keep, and who holds it
+
+| Record | Why you need it |
 |---|---|
-| T minus 6 months | Registry accounts open, tested, two representatives nominated |
-| T minus 4 months | Obligation figure confirmed against verified emissions |
-| T minus 3 months | Supply contracted, diligence complete |
-| T minus 6 weeks | Units transferred into your account, serials recorded |
-| T minus 4 weeks | Pre-cancellation reconciliation complete |
-| T minus 2 weeks | **Cancellation executed** |
-| T minus 1 week | Cancellation report submitted |
-| Deadline | Authority acknowledgement received |
+| Obligation calculation and its workings | Shows how the number was reached |
+| Purchase contracts and diligence files | Ties each unit to a legitimate acquisition |
+| Registry transfer confirmations | Chain of custody into your account |
+| Cancellation confirmations with serials, references and purpose | Proof of the act itself |
+| Screenshot taken at execution | The record made at the moment |
+| Cancellation report as submitted, and the acknowledgement | Proof the authority was told and accepted it |
+| Period reconciliation | Ties all cancellations to the obligation |
 
-The two-week gap before the deadline is deliberate. Registry systems have maintenance windows and load spikes precisely when everyone else is cancelling, and the authority's acknowledgement is not instant.
+Keep these for at least ten years, in a form that survives a change of IT system, and hold them yourself. If your relationship with a registry or an intermediary ends, your compliance record should not end with it.
 
-## The Pre-Cancellation Reconciliation
+## Write it down once
 
-Do this before touching the cancellation screen. It takes an hour and it catches the errors that cannot be undone.
+A one-page standing procedure removes most of the scramble. It should name who may execute and who must approve, what the reviewer checks, which registries you use and who the representatives are, the purpose designation agreed with the authority, what gets recorded and where, and who is told if something goes wrong. Review it when people change roles, and rehearse it before the first cancellation of each period.
 
-**Confirm the obligation figure.** From the verified emissions and the published growth factors, with the calculation reproducible. Not from a spreadsheet somebody updated.
+::: accordion Is it better to cancel early?
+Generally yes. Cancelling progressively through the period helps with supply and spreads the administrative work.
+:::
 
-**Confirm the holding.** Log into each registry and confirm the units are present, in your account, unencumbered and not already retired.
+::: accordion What if the registry is down near the deadline?
+That is what the two-week margin is for. Contact the registry, document the attempt, and tell your authority if the deadline is genuinely at risk.
+:::
 
-**Match serials against contracts.** Every unit you intend to cancel should trace to a purchase with diligence evidence behind it. A unit you cannot trace is a unit you should not cancel.
+::: accordion How do we prove a cancellation happened?
+The registry's confirmation with serials and reference, your own record made at the time, and the authority's acknowledgement of the report.
+:::
 
-**Re-verify eligibility.** Programme approval status and vintage window, checked today rather than at purchase. If months have passed, this is not a formality — approvals lapse and windows move.
-
-**Check the quantity.** Cancelling more than you owe is spent money; surplus does not carry forward. Cancelling less leaves an unmet obligation.
-
-**Confirm the purpose designation** available in each registry, and which one your national authority expects.
-
-## Executing the Cancellation
-
-Treat this with the controls you would apply to a payment, because functionally that is what it is.
-
-**Two people.** One prepares, one reviews and approves. The reviewer independently confirms quantity, serials and purpose designation before execution.
-
-**Screenshot before submitting.** The confirmation screen showing quantity, serials and purpose. If something is later disputed, this is the contemporaneous record.
-
-**Execute during business hours**, in your registry's time zone, on a day when support is available. Not on a Friday evening.
-
-**One registry at a time.** Where units sit across several programmes, complete and record each before starting the next. Parallel execution under time pressure is how quantities get confused.
-
-**Record immediately:** serials cancelled, quantity, date and time, cancellation reference, purpose designation, registry, and who executed and approved.
-
-## The Purpose Designation
-
-The single most consequential field, and the one most easily got wrong.
-
-Programmes provide different cancellation types — voluntary retirement, cancellation for a specific compliance purpose, cancellation for a named scheme. **A generic retirement of the kind used for voluntary claims may not satisfy your national authority.**
-
-Getting it wrong is difficult or impossible to reverse, and the units are consumed either way. Confirm the correct designation with your authority before the first cancellation rather than during it, and record the confirmation.
-
-## The Cancellation Report
-
-Cancellation without reporting does not close the loop. The authority has no visibility of your registry activity unless you tell them.
-
-The report identifies units cancelled with serials, the programme, vintage, cancellation references and the compliance period discharged. For Indian operators this goes to the [DGCA](https://www.dgca.gov.in/).
-
-**Build in time for a query.** The report is submitted, reviewed and acknowledged. A question at that stage becomes a missed deadline if there is no margin.
-
-## Recovering From Errors
-
-Some are recoverable, some are not. Knowing which changes how you respond.
-
-| Error | Recoverable? | Response |
-|---|---|---|
-| Cancelled too few units | Yes | Cancel the balance; watch the deadline |
-| Cancelled too many | **No** | Surplus is spent; do not repeat next period |
-| Wrong purpose designation | **Usually not** | Contact the registry immediately; expect to replace |
-| Cancelled the wrong serials | **No** | Units are consumed; source replacements |
-| Report submitted with wrong serials | Yes | Correct and resubmit promptly |
-| Report not submitted | Yes | Submit; explain the delay |
-
-The unrecoverable rows are why the two-person control exists. Every one of them is prevented by a second person checking the screen before execution.
-
-## Records to Retain
-
-Per compliance period, retained for at least ten years and surviving a system migration:
-
-- The obligation calculation, with its derivation
-- Every purchase contract and diligence file
-- Registry records showing chain of custody
-- Transfer confirmations
-- Cancellation confirmations with serials, references and purpose
-- The screenshot taken at execution
-- The cancellation report as submitted
-- The authority's acknowledgement
-- The reconciliation tying obligation to cancellations
-
-**Hold these yourself**, not only in a registry or with an intermediary. When either relationship ends, your compliance record must not end with it.
-
-## A Standing Procedure
-
-Write this down once and it stops being a scramble every period. A workable one-page procedure covers:
-
-Who may execute a cancellation and who must approve it. What the reviewer independently checks. Which registries you hold accounts with, and who the authorised representatives are. Which purpose designation applies, confirmed with the authority. What is recorded at execution. Where records are filed. What happens if something goes wrong and who is told.
-
-Review it when people change roles, and test it before the first cancellation of each period rather than during.
-
-## Multi-Registry Cancellation
-
-Where units sit across several programmes, the cancellation becomes several cancellations, and the coordination is where errors creep in.
-
-**Allocate before you start.** Decide in advance how many units come from each registry, and write it down. Deciding as you go, with a running total in your head, is how quantities drift.
-
-**Complete and record one registry fully before opening the next.** Partial completion across three systems is the state in which nobody can say what has actually been cancelled.
-
-**Reconcile after each.** Running total cancelled against obligation, updated as you go, so a discrepancy surfaces at the point it can still be corrected.
-
-**Expect different interfaces and terminology.** One programme's "retirement" is another's "cancellation", and the purpose designation may be a dropdown in one and a free-text field in another. This is why walking the interface before the first real cancellation matters.
-
-**Allow more time than a single-registry cancellation.** Three registries is not three times the work, but it is more than one — and each carries its own processing time.
-
-## What Changes at Period End
-
-The final cancellation of a compliance period differs from an interim one, and the differences are worth naming.
-
-**The quantity must be exact.** Interim cancellations can be conservative; the final one settles the obligation. Under-cancelling leaves a shortfall; over-cancelling is spent money with no carry-forward.
-
-**The reconciliation is cumulative.** It must tie every cancellation across the period to the total obligation, not just the current transaction.
-
-**The report covers the period**, not the transaction, and the authority is reconciling against what they expect.
-
-**Everyone else is doing the same thing.** Registry load, verifier availability and authority processing all peak simultaneously. This is the strongest argument for cancelling progressively through the period rather than settling it all at the end.
-
-## Frequently Asked Questions
-
-**Can we cancel in advance of the deadline?** Yes, and progressively through the period is generally better than settling everything at the end, both for supply availability and for spreading the administrative load.
-
-**When should we cancel?** Two weeks before the reporting deadline at minimum, allowing for registry processing and an authority query.
-
-**Can a cancellation be reversed?** Generally no. It is designed to be permanent, which is why the pre-execution check matters.
-
-**What if we cancel under the wrong purpose?** Contact the registry immediately, and expect to have to replace the units. Treat it as unrecoverable when planning.
-
-**Who should execute it?** Someone with registry access, with a second person approving. Never the same person negotiating the purchase and executing the cancellation.
-
-**Do we cancel in one transaction or several?** Several is fine and often clearer. Complete and record each before starting the next.
-
-**What if the registry is down near the deadline?** This is precisely why the two-week margin exists. Contact the registry, document the attempt, and inform your authority if the deadline is genuinely at risk.
-
-**How do we prove we cancelled?** Registry confirmation with serials and reference, plus your own contemporaneous record and the authority's acknowledgement of the report.
+If your first cancellation is coming up and you would like a second pair of eyes on the reconciliation, [our CORSIA services](/services/) include exactly that. We check the numbers and the purpose field before anything is submitted.

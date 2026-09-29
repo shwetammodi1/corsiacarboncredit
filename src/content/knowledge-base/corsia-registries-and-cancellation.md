@@ -1,130 +1,113 @@
 ---
-title: "CORSIA Registries, Serialisation and Cancellation"
-excerpt: "How units actually move — why there is no single CORSIA registry, what serial numbers encode, how transfers work, and why cancellation rather than purchase is the act that discharges an operator obligation."
+title: "CORSIA Registries and Cancellation: How Units Move and Get Retired"
+excerpt: "Units sit in crediting programme registries, not with ICAO. How serial numbers, accounts, transfers and CORSIA-designated cancellation work, and why an obligation is only settled once the cancellation is reported."
 section: "Eligible Emissions Units"
 order: 17
 image: "/images/corsia/corsia-unit-lifecycle.svg"
 ---
 
-The transaction gets the attention; the registry mechanics decide whether it counts. Operators have agreed purchases they could not take delivery of, held units they never cancelled, and cancelled units they never reported. Each is a compliance failure produced by administration rather than by anything to do with carbon.
+Most CORSIA compliance failures we see have nothing to do with carbon. An airline agrees a purchase and then cannot receive the units. Units sit in an account for months and are never cancelled. Units are cancelled and the authority is never told. Each of these is an administrative slip, and each leaves the operator out of compliance just as surely as buying the wrong credits would.
 
-![The life of a CORSIA unit](/images/corsia/corsia-unit-lifecycle.svg)
+This page follows a unit from the registry it lives in to the report that closes the obligation.
 
-## There Is No Single CORSIA Registry
+![Diagram of a CORSIA unit's life from issuance to cancellation](/images/corsia/corsia-unit-lifecycle.svg)
 
-A common and consequential misconception. **ICAO does not operate a registry holding CORSIA units.**
+## Step 1: know where the units actually live
 
-Units live in the registries of the **crediting programmes** — the American Carbon Registry, the Climate Action Reserve, Verra, Gold Standard, the Global Carbon Council and others that have held ICAO approval. Each operates its own system, with its own account structure, fee schedule, transfer mechanics and processing times.
+ICAO does not run a registry for CORSIA units. People are often surprised by this, and it shapes everything else.
 
-A buyer therefore needs accounts wherever their supply sits. There is no consolidated view across programmes, so an operator sourcing from several is maintaining several relationships and several sets of records.
+Units are held in the registries of the crediting programmes themselves, such as Verra, Gold Standard, the American Carbon Registry, the Climate Action Reserve and the Global Carbon Council, among others that have held ICAO approval. Each programme runs its own system with its own account types, fees, transfer steps and turnaround times.
 
-ICAO's role is to approve programmes and define what constitutes an eligible unit. The transactional infrastructure sits with the programmes.
+ICAO's part is to approve programmes and to define which units are eligible. The plumbing belongs to the programmes. So if your supply comes from three programmes, you need three accounts and keep three sets of records, with no single screen that shows the lot. See [approved crediting programmes](/knowledge-base/corsia-approved-crediting-programmes/) for how approval works.
 
-## Serialisation
+## Step 2: read the serial number
 
-Every unit carries a **unique serial identifier**, encoding — in a form that varies by programme — the issuing programme, the project, the vintage or monitoring period, and the specific tonne within an issuance batch.
+Each unit carries its own serial identifier. The format differs between programmes, but it typically encodes the programme, the project, the vintage or monitoring period, and the individual tonne within the issuance batch.
 
-Serials prevent double use and establish chain of custody. They are also what you record: in the contract, the diligence file, transfer confirmations and cancellation records.
+Serials are what stop a tonne being used twice, and they trace custody from issuance to cancellation. They should appear in your contract, your diligence file, every transfer confirmation and every cancellation record. A compliance file that talks only in volumes cannot be matched against a registry, and matching against the registry is the first thing an auditor attempts.
 
-> A compliance file that references volumes without serials cannot be reconciled against a registry, which is the first thing anyone auditing it will try to do.
+## Step 3: open the account early
 
-## Opening an Account
+Budget four to eight weeks for account opening, and more if your entity sits in a jurisdiction where extra paperwork is required. Programmes run anti-money-laundering checks, so expect to provide incorporation documents, details of beneficial owners, identity verification for each authorised representative and occasionally a bank reference.
 
-**Allow four to eight weeks.** Longer for entities in jurisdictions requiring additional documentation.
+The pattern to avoid is signing a deal first and starting onboarding afterwards. The operator's own account then becomes the thing blocking delivery, while the cancellation deadline gets closer.
 
-Requirements typically include entity registration documents, beneficial ownership disclosure, know-your-customer verification for authorised representatives, and sometimes bank references. Programmes apply anti-money-laundering procedures.
+Three precautions help:
 
-::: accordion The failure mode
-An operator agrees a purchase, then begins onboarding. Their own account opening blocks the transfer, and the delay eats into the time available before the cancellation deadline.
+- Open the account well before any purchase.
+- Appoint at least two authorised representatives.
+- Where the programme allows it, run a small test transfer so the first live transfer is not a first attempt.
 
-**Open accounts before you need them.** Nominate more than one authorised representative, so one person's absence cannot freeze your ability to transact. Complete a small test transfer if the programme permits, so the first real transfer is not the first time anyone has used the system.
-:::
+## Step 4: transfer, and pay in the right order
 
-## Transfers
-
-| Type | Typical duration | Notes |
+| Transfer | Usual timing | Things to know |
 |---|---|---|
-| Intra-registry | Days | Both parties on the same programme's registry |
-| Inter-registry | Longer, sometimes impossible | Not all programmes support it |
+| Within one programme's registry | A few days | Buyer and seller both hold accounts on that registry |
+| Between different registries | Slower, and not always possible | Some programmes do not support it at all |
 
-**Payment sequencing matters.** Paying in full before transfer, to a counterparty you have not dealt with, is exposure. Escrow, staged payment, or payment against delivery are standard mitigations, and a legitimate seller will discuss them.
+Paying the full price up front to a seller you have never dealt with is an exposure you do not need. Escrow, staged payments or payment on delivery are normal, and a genuine seller will be willing to discuss them.
 
-**Cross-border considerations.** Payment usually involves foreign exchange and cross-border transfer, raising treasury and regulatory questions worth resolving before the transaction rather than during.
+For an Indian operator buying from an overseas seller, payment usually means a foreign-currency, cross-border remittance. Settle the treasury and regulatory questions with your finance team before the deal, not while the units are waiting.
 
-## Cancellation: The Step That Actually Counts
+## Step 5: cancel, and designate it for CORSIA
 
-This is the point most worth emphasising.
+Buying units does not settle anything. Nor does holding them. The obligation is only discharged by cancellation.
 
-> **Purchasing units does not discharge your obligation. Holding them does not discharge your obligation. Cancellation does.**
+Cancelling takes units permanently out of circulation and records why. For CORSIA, the cancellation has to be marked as being for CORSIA compliance, using the cancellation type or purpose field the programme provides. An ordinary retirement of the sort used for voluntary claims may not be accepted by your authority.
 
-Cancellation permanently removes the units from circulation and records the purpose. For CORSIA, the cancellation must be **designated for CORSIA compliance** — programmes provide a specific cancellation type or purpose field. A generic retirement of the kind used for voluntary claims may not satisfy your authority.
+::: accordion Treat cancellation like a payment
+A cancellation made under the wrong purpose is hard or impossible to undo, and the units are gone in either case.
 
-::: accordion Getting the designation right
-Cancelling under the wrong purpose is difficult or impossible to reverse, and the units are consumed either way.
-
-Because it is irreversible, cancellation deserves the control you would apply to a payment: a documented procedure, a second pair of eyes confirming the purpose designation before execution, and a record made at the time rather than reconstructed later.
+So give it the same control you would give a large outgoing payment: a written procedure, a second person checking the purpose designation before anyone clicks, and a record made on the day.
 :::
 
-**Record everything:** serial numbers, cancellation reference, date, quantity, purpose designation, and the account from which cancellation occurred.
+At the moment of cancelling, capture the serials, the cancellation reference, the date, the quantity, the purpose designation and the account used.
 
-**Do not leave it to the last day.** Registry processing time is outside your control, and systems have maintenance windows and load spikes near common deadlines — precisely when everyone else is cancelling.
+Avoid the final days before a deadline. You do not control registry processing, and registries have maintenance windows and heavy traffic around common deadlines, which is exactly when everyone else is cancelling too.
 
-## Reporting the Cancellation
+## Step 6: report it to your authority
 
-The final step: the **Emissions Unit Cancellation Report** to your national authority — the [DGCA](https://www.dgca.gov.in/) for Indian operators.
+The registry does not tell your regulator anything. You do, through an Emissions Unit Cancellation Report sent to your national authority. For an Indian operator that is the [DGCA](https://www.dgca.gov.in/).
 
-The report identifies the units cancelled, their serials, the programme, the vintage, cancellation references, and the compliance period discharged.
+The report lists the units cancelled with their serials, the programme, the vintage, the cancellation references and the compliance period being settled. Until it is filed, the loop is open, however many units have been retired. Leave time for the authority to review and acknowledge it; a query arriving with no margin left turns into a missed deadline. The [compliance periods and deadlines](/knowledge-base/corsia-compliance-periods-and-deadlines/) page sets out the calendar.
 
-Cancellation without reporting does not close the loop. The authority has no visibility of your registry activity unless you report it.
+## Keeping the position straight
 
-Build in processing time: the report is submitted, reviewed and acknowledged, and a query at that stage becomes a missed deadline if there is no margin.
+For each compliance period, your position is simply the obligation you calculated minus the cancellations you have reported. Keep that figure current throughout the period rather than rebuilding it at the end. You always know what is still outstanding, and discrepancies show up while there is time to chase them.
 
-## Reconciliation
+The supporting file for each period should link together the obligation and how it was derived, every purchase with its serials, transfer confirmations, cancellations with their references, and each cancellation report with the authority's acknowledgement. It belongs in a system, not in the memory of the person who happened to do the trades.
 
-Your compliance position is the difference between your calculated obligation and your reported cancellations, per compliance period.
+## Access controls, in one table
 
-Maintain it as a **live figure** rather than reconstructing it at period end. Two benefits: you always know your remaining exposure, and discrepancies surface while they can still be investigated.
+Registry access is effectively access to money, and it deserves the same controls.
 
-The reconciliation should tie together, per period: the obligation with its derivation, every purchase with serials, every transfer confirmation, every cancellation with references, and every cancellation report with its acknowledgement.
-
-Keep it in a system, not in the head of whoever handled the transactions.
-
-## Who Should Hold Registry Access
-
-Registry access is a control point, and treating it casually creates operational and audit exposure.
-
-- **More than one authorised representative, always.** One resignation or one period of leave should not freeze your ability to transact against deadlines you do not control.
-- **Separation between agreeing and executing.** The person who negotiates a purchase should not be the only one able to execute the transfer and cancellation. Ordinary financial control, applied to an asset that is functionally money.
-- **Documented procedures.** Who is authorised, what approval a cancellation requires, how the purpose designation is confirmed, and what is recorded afterwards.
-- **Access reviewed on role change.** Registry access frequently outlives the job that justified it.
-- **Records held by you.** Where an intermediary executes on your behalf, your files must still contain the serials, confirmations and references. When the relationship ends, your compliance record must not end with it.
-
-For smaller operators where segregation of duties is impractical, the compensating control is documentation produced at the time rather than reconstructed later.
-
-## Retention
-
-Retain, per transaction: the contract, the diligence file, the host-State authorisation document, programme approval status **captured** as at the transaction date, the verification report, registry records showing chain of custody, transfer confirmations, cancellation confirmations with serials and references, the cancellation report, and the authority's acknowledgement.
-
-Capture rather than link. Web pages change, and a URL is not evidence of what a page said on the day you relied on it.
-
-## Common Registry Failures
-
-| Failure | Consequence |
+| Control | Why it matters |
 |---|---|
-| Account opening left too late | Own onboarding blocks delivery |
-| Single authorised representative | One absence freezes transactions |
-| Wrong cancellation purpose | Irreversible; units consumed regardless |
-| Cancelling at the deadline | Processing time is not yours to control |
-| Cancellation not reported | Compliance incomplete despite units gone |
-| Serials not recorded | Reconciliation impossible, audit painful |
-| Evidence held only by an intermediary | Access ends with the relationship |
-| No live reconciliation | Discrepancies found with no time to fix |
+| Two or more authorised representatives | A resignation or a holiday should not stop you transacting against someone else's deadline |
+| The negotiator is not the only executor | Ordinary segregation of duties for an asset with cash value |
+| Written procedures | States who may act, what approval a cancellation needs, how the purpose is confirmed, what is recorded |
+| Access reviewed when roles change | Registry logins tend to outlast the job that justified them |
+| Records kept in-house | If an intermediary executes for you, you still hold the serials and confirmations, so your record survives the relationship ending |
 
-## Where to Go Next
+Smaller operators may not have enough people to separate duties properly. The compensating control is documentation made at the time.
 
-- [CORSIA Eligible Emissions Units](/knowledge-base/corsia-eligible-emissions-units/) — what you are moving
-- [Vintages and eligibility windows](/knowledge-base/corsia-vintages-and-eligibility-windows/) — the timing risk
-- [Compliance periods and deadlines](/knowledge-base/corsia-compliance-periods-and-deadlines/) — the administrative tail
-- [Approved crediting programmes](/knowledge-base/corsia-approved-crediting-programmes/) — whose registries these are
+## What to keep for each transaction
 
-DSTechnoverse handles registry setup, transfer execution and cancellation reporting for operators. [Talk to our team](/contact/) or [apply as a CORSIA buyer or seller](https://carboncredit.dstechnoverse.com/).
+Keep the contract, the diligence file, the host-country authorisation, a captured copy of the programme's approval status on the transaction date, the verification report, registry records showing chain of custody, transfer and cancellation confirmations with serials and references, the cancellation report and the authority's acknowledgement.
+
+Save copies rather than links. A web page can change, and a URL proves nothing about what it said on the day you relied on it.
+
+## Common mistakes
+
+- **Opening the account after signing.** Your own onboarding holds up delivery.
+- **Relying on one representative.** One absence and nothing moves.
+- **Choosing the wrong cancellation purpose.** It cannot be reversed and the units are spent.
+- **Cancelling on deadline day.** Processing time belongs to the registry, not you.
+- **Forgetting the cancellation report.** The units are gone and the obligation is still open.
+- **Not recording serials.** Reconciliation becomes guesswork and audits drag.
+- **Leaving the evidence with a broker.** When the relationship ends, so does your access.
+- **No running reconciliation.** Errors surface too late to fix.
+
+Timing risks linked to vintage are covered in [vintages and eligibility windows](/knowledge-base/corsia-vintages-and-eligibility-windows/), and what counts as an eligible unit in [CORSIA Eligible Emissions Units](/knowledge-base/corsia-eligible-emissions-units/).
+
+We open registry accounts, execute transfers and prepare cancellation reports for operators who would rather not build that capability in-house. Our [services page](/services/) explains how that works, or you can [register as a buyer](https://carboncredit.dstechnoverse.com/buy/new) directly.

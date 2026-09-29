@@ -1,167 +1,140 @@
 ---
-title: "ISCC CORSIA vs ISCC PLUS: What Is the Difference?"
-excerpt: "Two ISCC schemes with similar names covering entirely different ground. What each certifies, who is recognised by whom, when you need one rather than the other, and why neither certifies carbon credits."
+title: "ISCC CORSIA or ISCC PLUS? How to Tell the Two Schemes Apart and Pick the Right One"
+excerpt: "Same certifier, similar names, different jobs. ISCC CORSIA certifies aviation fuel for CORSIA; ISCC PLUS certifies bio-based and circular materials for voluntary claims. Neither issues carbon credits. A decision guide."
 date: "2026-09-03"
 topic: "Carbon Market Guides"
 tags: ["ISCC CORSIA","ISCC PLUS","ISCC certification","sustainability certification","CORSIA eligible fuels","bio-based materials","circular economy"]
 image: "/images/carbon-credits/iscc-corsia-vs-plus.svg"
 ---
 
-The names are similar enough that they get used interchangeably, and they cover entirely different ground. Choosing the wrong one wastes an audit cycle.
+A sustainability manager at an Indian bio-refinery gets two emails in the same week. An airline customer wants "ISCC certification" for the renewable jet fuel it is buying. A packaging customer wants "ISCC certification" for bio-based feedstock. Both say ISCC. They are asking for different certificates, and applying for the wrong one costs a full audit cycle.
 
-![ISCC CORSIA and ISCC PLUS compared](/images/carbon-credits/iscc-corsia-vs-plus.svg)
+![Comparison of ISCC CORSIA and ISCC PLUS](/images/carbon-credits/iscc-corsia-vs-plus.svg)
 
-## The Short Answer
+## Start here: which one applies to you
 
-**ISCC CORSIA** certifies **aviation fuel** against the CORSIA sustainability criteria, so that an aircraft operator can reduce its offsetting obligation. It is recognised by ICAO for that purpose.
+| Your situation | What you need |
+|---|---|
+| Your jet fuel, or its feedstock, is destined for an airline that will claim it under CORSIA | ISCC CORSIA, or a different ICAO-approved certification scheme |
+| A customer wants certified bio-based or recycled content in a material | ISCC PLUS, or a comparable scheme the customer accepts |
+| You fly the aircraft | You hold no certificate yourself; you collect the paperwork your certified suppliers produce |
+| You hope to earn carbon credits from a project | Neither scheme helps; credits need a crediting programme and an approved methodology |
+| You are buying carbon credits | Neither is relevant |
 
-**ISCC PLUS** certifies **bio-based and circular materials** across many sectors — food, feed, chemicals, plastics, packaging and fuels — for voluntary market and brand purposes. It is not a CORSIA instrument.
+If you only read one section, read that one. The rest explains why.
 
-They share an issuing organisation and a general approach to chain of custody. They do not share a purpose.
+## The two schemes in one paragraph each
 
-## Side by Side
+**ISCC CORSIA** is for aviation fuel. It certifies that fuel meets the CORSIA sustainability criteria so an aircraft operator can use it to reduce its offsetting obligation. ICAO recognises it for that purpose.
+
+**ISCC PLUS** covers materials with bio-based or recycled content in a wide spread of industries, from food and animal feed to chemicals, plastics, packaging and fuel. It supports voluntary market and brand claims about material content. It is not a CORSIA instrument.
+
+They come from the same organisation and share a general approach to chain of custody. Their purposes are unrelated.
+
+## Compared point by point
 
 | | ISCC CORSIA | ISCC PLUS |
 |---|---|---|
-| Purpose | Certifies CORSIA Eligible Fuels | Certifies bio-based and circular materials |
-| Recognised by | ICAO, for CORSIA compliance | Voluntary markets, brands, supply chains |
-| Covers | Aviation fuel sustainability | Food, feed, chemicals, plastics, fuels |
-| Key criteria | CORSIA sustainability criteria | Broader ISCC sustainability requirements |
-| Typical certificate holder | Feedstock, conversion, blending, supply | Manufacturers, processors, brand owners |
-| Chain of custody | Mass balance through to uplift | Mass balance through the supply chain |
-| Drives | A regulatory compliance reduction | A market claim about material content |
-| Certifies carbon credits? | **No** | **No** |
+| Certifies | CORSIA Eligible Fuels | Bio-based and recycled-content materials |
+| Accepted by | ICAO, for use in CORSIA | Brand owners, supply chains and voluntary claims |
+| Sectors | Aviation fuel | Food, feed, chemicals, plastics, fuels |
+| Criteria applied | CORSIA sustainability criteria | Broader ISCC sustainability requirements |
+| Usual holders | Feedstock suppliers, converters, blenders, fuel suppliers | Producers, processors and the brands they supply |
+| Chain of custody | Mass balance, ending at the aircraft | Mass balance, ending with the product sold |
+| What it enables | A regulatory reduction in offsetting | A market claim about material content |
+| Issues carbon credits? | No | No |
 
-That final row is the one worth repeating. **Neither scheme certifies carbon credits.** Credits are issued under crediting standards — Verra, Gold Standard, ACR and others. ISCC operates in a different part of the system entirely.
+The last row is the one to remember. Carbon credits come from crediting standards such as Verra, Gold Standard and ACR. ISCC works in a different part of the system.
 
-## When You Need ISCC CORSIA
+## Who holds ISCC CORSIA
 
-You need it if you are in the **aviation fuel supply chain** and your product is intended to support an operator's CORSIA claim:
+Businesses in the aviation fuel chain whose product is meant to support a CORSIA claim:
 
-- A feedstock supplier providing material for SAF production
-- A conversion plant producing SAF or LCAF
-- A trader or blender handling certified volumes
-- A fuel supplier delivering into an airport
+- Suppliers of feedstock for SAF production
+- Plants producing SAF or LCAF
+- Traders and blenders handling certified volumes
+- Fuel suppliers delivering into airports
 
-You also need to understand it — without holding it — if you are an **aircraft operator** intending to claim CORSIA Eligible Fuels, because you must obtain and retain the resulting documentation to survive verification.
+Airlines do not hold it, but they must understand it, because they have to obtain and keep the resulting documents to get a fuel claim through verification. Our [ISCC CORSIA certification guide](/insights/iscc-corsia-certification-guide/) follows a batch through that chain.
 
-## When You Need ISCC PLUS
+## Who holds ISCC PLUS
 
-You need it if you are making a **material content claim** outside the CORSIA context:
+Businesses making material-content claims outside CORSIA:
 
-- A chemical producer claiming bio-based or recycled content
-- A packaging manufacturer supplying brands with sustainability commitments
-- A food or feed processor certifying sustainable inputs
-- A fuel producer selling into voluntary rather than CORSIA markets
+- Chemical producers claiming bio-based or recycled content
+- Packaging makers supplying brands with sustainability commitments
+- Food and feed processors certifying sustainable inputs
+- Fuel producers selling into voluntary markets rather than CORSIA
 
-The driver here is commercial and reputational rather than regulatory. Brand owners increasingly require certification through their supply chains, and ISCC PLUS is one of the schemes that satisfies that.
+Here the driver is commercial. Large brands now tend to demand certified inputs from their suppliers, and ISCC PLUS is among the schemes they accept.
 
-## Can You Hold Both?
+## Holding both
 
-Yes, and some organisations do — typically a producer whose output splits between aviation fuel destined for CORSIA claims and material sold into voluntary or industrial markets.
+Some organisations hold both, typically a producer whose output is split between aviation fuel for CORSIA claims and material sold into industrial or voluntary markets. The Indian bio-refinery in our opening example may well end up in this position.
 
-They are separate certifications with separate audits, separate scopes and separate certificates. Holding one does not shorten the process for the other, though the underlying traceability systems overlap substantially, which does reduce the preparation effort.
+They are separate certifications, each with its own audit, scope and certificate. One does not shorten the other. The traceability systems underneath overlap a good deal, though, so preparing for the second takes less effort than the first.
 
-## The Confusion Worth Clearing Up
+## Where the schemes sit among other instruments
 
-Three misconceptions that recur:
+People often confuse ISCC certificates with other environmental instruments. Placing them side by side settles most questions.
 
-**"ISCC certified" is not a complete statement.** It says nothing about which scheme, which scope or which product. Ask which certificate, covering what.
-
-**ISCC CORSIA does not make fuel into credits.** Certified fuel reduces an offsetting requirement directly. It does not generate tradable units.
-
-**ISCC PLUS certification does not support a CORSIA claim.** If an operator is offered fuel certified under ISCC PLUS and told it supports CORSIA, that is wrong. The scheme must be one ICAO has approved for CORSIA purposes.
-
-## Where Each Sits in the Wider System
-
-Placing both schemes against the instruments they are frequently confused with clears most of the remaining ambiguity.
-
-| Instrument | What it is | Certified or issued by |
+| Instrument | In one line | Where it comes from |
 |---|---|---|
-| ISCC CORSIA | Certification that fuel meets CORSIA criteria | ISCC, via approved certification bodies |
-| ISCC PLUS | Certification of bio-based or circular material content | ISCC, via approved certification bodies |
-| Carbon credit | A tonne of CO2e avoided or removed | Crediting standards — Verra, Gold Standard, ACR, CAR |
-| CORSIA Eligible Emissions Unit | A credit usable for CORSIA compliance | A crediting programme, plus host-State authorisation |
-| Guarantee of Origin / REC | An attribute certificate for energy | Energy attribute registries |
-| Allowance | A permit to emit under a cap | A regulator, under an ETS |
+| ISCC CORSIA certificate | Confirms a fuel meets the CORSIA criteria | ISCC, via its approved auditors |
+| ISCC PLUS certificate | Confirms bio-based or recycled content | ISCC, via its approved auditors |
+| Carbon credit | One tonne of CO2e kept out of, or taken from, the air | A crediting programme such as Verra, Gold Standard, ACR or CAR |
+| CORSIA Eligible Emissions Unit | A credit an airline may cancel for CORSIA | A crediting programme, with the host government's authorisation |
+| Guarantee of Origin or REC | Records an attribute of electricity generated | An energy attribute registry |
+| Allowance | A permit to emit within a capped system | The regulator of an emissions trading scheme |
 
-Reading across that table answers most of the questions people arrive with. **Fuel certification and credit issuance are different systems** run by different institutions for different purposes, and no certificate from one converts into an instrument of the other.
+Fuel certification and credit issuance are run by different institutions for different ends. No certificate from one turns into an instrument of the other.
 
-The one connection worth understanding: for an aircraft operator, **both** routes reduce the same bottom line. Certified fuel reduces the offsetting requirement; eligible credits discharge whatever requirement remains. They are complements rather than alternatives, and the sensible question is which delivers more reduction per rupee at current prices — see [the complete carbon credits guide](/insights/corsia-carbon-credits-complete-guide/).
+There is one link worth knowing. For an airline, both routes act on the same obligation. Certified fuel lowers the offsetting requirement, and eligible credits then cover what is left. They work together, and the useful comparison is the cost of each tonne of obligation removed by one route or the other. We compare the two in [SAF and CORSIA](/insights/sustainable-aviation-fuel-corsia/).
 
-## Which Do You Actually Need?
+## Phrases that should make you pause
 
-A short decision path:
+| What you are told | Our reading |
+|---|---|
+| "ISCC-certified carbon credits" | There is no such product. Either the project has some unrelated ISCC certificate, or the seller is mixing up two systems. Find out which crediting programme issued the units, then look them up in its registry. |
+| "ISCC PLUS approved for CORSIA" | Wrong. ICAO has not approved PLUS for CORSIA fuel claims, so fuel with only a PLUS certificate cannot lower an airline's offsetting, however green it is. |
+| "We are ISCC certified", with no scheme given | ISCC operates more than one scheme. Every certificate states which. If your supplier cannot tell you, assume nobody there has looked. |
+| A site-level certificate presented as proof for your consignment | That shows the producer's system passed audit. Only the mass balance records tie that system to the litres you received. |
 
-**Are you producing or handling aviation fuel intended to support an operator's CORSIA claim?** ISCC CORSIA, or another ICAO-approved scheme.
+## Checking a certificate
 
-**Are you producing material where a customer requires bio-based or recycled content certification?** ISCC PLUS, or a comparable scheme your customer accepts.
+Whichever scheme is claimed, work through the document in this order:
 
-**Are you an aircraft operator?** Neither as a certificate holder. You need the documentation from a certified chain, and you need to be able to evidence it.
+1. Ask for a copy of the certificate. A supplier's assurance that one exists is not enough.
+2. Find the scheme printed on it. CORSIA, PLUS, EU and others look alike at a glance.
+3. Read what it covers: which plants, which products, which production routes.
+4. Look at the dates, and ask when the last surveillance audit took place.
+5. Where ISCC keeps a public listing, look the certificate up there.
+6. Follow the paper trail from that certificate down to your own delivery.
 
-**Are you trying to generate carbon credits?** Neither. You need a crediting standard and a methodology.
+The sixth check is the one that usually breaks. A sound certificate at the refinery says nothing, by itself, about the fuel that went into your aircraft. The mass balance records make that link, or fail to.
 
-**Are you buying carbon credits?** Neither is relevant to that transaction.
+## Five questions for a supplier
 
-## How to Verify a Certificate
+1. Which ISCC scheme covers you? Please send the certificate.
+2. Which sites, products and pathways does it include?
+3. When does it expire, and when were you last audited?
+4. Which records link it to the volume you are selling me?
+5. Has anyone else, under any mandate or programme, claimed this same volume?
 
-Whichever scheme is claimed:
+A supplier who has done this before answers all five quickly. Watch for hesitation on the fourth and fifth. Those two are where most fuel claims come apart at verification.
 
-1. **Obtain the certificate itself**, not a statement that one exists
-2. **Check the scheme named on it** — CORSIA, PLUS, EU or another
-3. **Check the scope** — which sites, which products, which pathways
-4. **Check validity dates**, and whether surveillance audits are current
-5. **Verify it on the issuing body's public register** where available
-6. **Trace the chain of custody** from that certificate to your batch
+## Short answers
 
-Step 6 is where claims most often break down. A valid certificate upstream does not by itself connect to the specific fuel you uplifted; the mass balance documentation is what makes that link.
+::: accordion How does one get an ISCC certificate?
+Define what the certificate should cover, set up traceability and mass balance bookkeeping, assemble the evidence, and then be audited by a certification body that ISCC recognises. Most of the time goes on the preparation.
+:::
 
-## Common Misuses of the Names
+::: accordion How long does a certificate last?
+It runs for a fixed term, with surveillance audits in between, and must then be renewed. Always read the expiry date on the document itself.
+:::
 
-Three patterns worth recognising, because each signals a supplier who does not understand what they are selling.
+::: accordion Where does fuel certification fit in CORSIA overall?
+It reduces the offsetting requirement. Eligible credits discharge the rest. Our [carbon credits reference](/insights/corsia-carbon-credits-complete-guide/) covers the credit side.
+:::
 
-**"ISCC certified carbon credits."** No such thing. If a seller describes credits this way, they either mean the project holds an unrelated certification, or they are confusing the two systems. Ask which crediting standard issued the units and check the registry.
-
-**"ISCC PLUS approved for CORSIA."** ISCC PLUS is not an ICAO-approved scheme for CORSIA fuel claims. A fuel batch certified only under PLUS supports no CORSIA reduction, however sustainable the fuel genuinely is.
-
-**"ISCC certified" with no scheme named.** ISCC operates several schemes covering different regulatory regimes and markets. The certificate names one; a supplier who cannot say which has probably not read it.
-
-A fourth, subtler one: **a valid certificate covering a facility, offered as evidence for a specific batch.** Certification establishes that a producer's system meets the standard. The mass balance documentation is what connects a certified system to the volume you actually bought, and it is a separate document.
-
-## What to Ask a Supplier
-
-Five questions that establish the position quickly:
-
-1. Which ISCC scheme is the certificate issued under, and may I see it?
-2. What is the certified scope — which sites, products and pathways?
-3. Are the validity dates current, and are surveillance audits up to date?
-4. What mass balance documentation connects this certificate to my batch?
-5. Is this volume claimed under any other scheme or mandate?
-
-A supplier who answers all five without hesitation is one who has done this before. Hesitation on question four or five is the signal to look harder, because those are the two that most often break a claim at verification.
-
-## Frequently Asked Questions
-
-**What is the difference between ISCC CORSIA and ISCC PLUS?** ISCC CORSIA certifies aviation fuel for CORSIA compliance and is recognised by ICAO. ISCC PLUS certifies bio-based and circular materials across many sectors for voluntary market purposes.
-
-**Which one do I need for carbon credits?** Neither. Carbon credits are certified under crediting standards, not under ISCC.
-
-**Can ISCC PLUS support a CORSIA fuel claim?** No. The certification scheme must be one ICAO has approved for CORSIA.
-
-**Do airlines need either?** Not as certificate holders. Airlines need the documentation from a certified supply chain to support a CORSIA Eligible Fuels claim.
-
-**How do I get an ISCC certificate?** Define the scope, establish traceability and mass balance procedures, prepare the evidence, then undergo an audit by an ISCC-approved certification body. Preparation is usually longer than the audit.
-
-**How long is a certificate valid?** For a defined period with surveillance audits during it, then recertification. Check the dates on the certificate rather than assuming.
-
-**Can one organisation hold both?** Yes, as separate certifications with separate audits. The underlying traceability systems overlap, which reduces preparation effort.
-
-**Where does this fit in CORSIA overall?** Fuel certification reduces the offsetting requirement; credits discharge what remains. See [the complete carbon credits guide](/insights/corsia-carbon-credits-complete-guide/).
-
----
-
-**Assessing credits before you buy?** DSTechnoverse runs pre-transaction due diligence on carbon credits — programme approval status, vintage, corresponding adjustment evidence, verification and registry chain of custody. See our [CORSIA carbon credit services](/services/). We are based in **Indore, Madhya Pradesh** and work across India and internationally.
-
-[Apply as a CORSIA buyer or seller](https://carboncredit.dstechnoverse.com/)
-
-[Talk to our carbon markets team](/contact/), or start with [the complete carbon credits guide](/insights/corsia-carbon-credits-complete-guide/).
+If a customer has asked you for "ISCC" and you are not sure which scheme they mean, or you are an operator reviewing a fuel supplier's documents, [send us what you have](/contact/). We will tell you which certificate applies and what is missing.

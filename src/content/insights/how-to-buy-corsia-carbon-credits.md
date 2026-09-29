@@ -1,182 +1,128 @@
 ---
-title: "How to Buy CORSIA Carbon Credits: The Step-by-Step Process"
-excerpt: "The end-to-end mechanics of purchasing CORSIA Eligible Emissions Units — from requirement modelling and registry account setup through supplier selection, contracting, transfer, cancellation and reporting."
+title: "How to Buy CORSIA Carbon Credits: Preparation, Transaction, Settlement"
+excerpt: "Signing the purchase is the short part. Buying CORSIA eligible units well means sizing the need, opening accounts, testing eligibility against evidence, contracting for the risks, then cancelling and reporting on time."
 date: "2026-08-20"
 topic: "CORSIA Fundamentals"
 tags: ["how to buy CORSIA credits","CORSIA purchase process","buy carbon credits airline","CORSIA registry","emissions unit cancellation","CORSIA procurement process","carbon credit transaction"]
 image: "/images/corsia/corsia-buyer-seller-flow.svg"
 ---
 
-The purchase itself is the easy part. What surrounds it — establishing what you need, opening the accounts, verifying what you are buying, and completing the cancellation and reporting — is where the time and the risk sit.
+A first-time CORSIA buyer usually imagines the job as finding a seller and agreeing a price. That part can be done in an afternoon. The weeks go on everything around it: knowing how much you need, having somewhere to receive the units, proving they are what the seller says, and closing the loop with your regulator afterwards.
 
-Here is the sequence, in order, with what actually goes wrong at each stage.
+We split the process into three phases. Most avoidable losses happen in the first.
 
-![Buyer and seller flow](/images/corsia/corsia-buyer-seller-flow.svg)
+![Flow of units and payment between CORSIA buyer and seller](/images/corsia/corsia-buyer-seller-flow.svg)
 
-## Step 1: Model Your Requirement
+## Phase one: before you speak to a seller
 
-**What:** Establish how many tonnes you need to offset for the compliance period.
+### Know the number
 
-Your obligation derives from verified emissions on covered routes, multiplied by the applicable growth factors, less any reduction from qualifying CORSIA Eligible Fuels.
+The obligation comes from verified emissions on covered routes, multiplied by the applicable growth factors, less any reduction for qualifying CORSIA Eligible Fuels. Estimate it every year from published sector data and refine it when ICAO confirms the factors. Waiting for the final figure means the chance to spread purchases has gone by the time it arrives. [Calculating the requirement](/insights/corsia-offsetting-requirements-calculation/) sets out the method. Keep the workings so anyone can reproduce them.
 
-**When:** Annually, not once per period. Estimate using published sector data, then refine when ICAO confirms the factors.
+### Decide how you will buy
 
-**What goes wrong:** Operators wait to be handed a final number. By the time it is confirmed, the window to spread purchasing has closed. See [requirement calculation](/insights/corsia-offsetting-requirements-calculation/) for the mechanics.
+Without a written plan, purchasing ends up in the hands of whoever a broker happened to email. Settle four things:
 
-**Output:** A working requirement figure with a documented, reproducible calculation.
+- **Timing.** Buying in stages through the period reduces exposure to scarcity at the end, compared with one purchase near the deadline.
+- **Forward or spot.** A forward deal locks in supply and price but carries delivery and authorisation risk. Spot keeps you flexible but puts you in a thin market.
+- **Spread.** Across programmes, project types, host States and vintages.
+- **Appetite for pending authorisation.** Whether you will look at units still awaiting host-State authorisation at all, and at what discount.
 
-## Step 2: Set a Procurement Strategy
+Put volume targets against each part of the period.
 
-**What:** Decide how much to buy forward versus spot, over what timeframe, and with what diversification.
+### Open the accounts early
 
-Key decisions:
+You need accounts in the registries of the ICAO-approved programmes whose units you expect to buy. Opening one involves know-your-customer checks, entity documents and sometimes legal review. That takes weeks. Operators who agree a deal first often find their own onboarding is what holds up delivery. Run a test transfer if the registry allows it. [Registry account setup](/insights/corsia-registry-account-setup-india/) walks through it for Indian operators.
 
-- **Timing.** Progressive acquisition across the period versus a single purchase near the deadline. Progressive reduces exposure to end-of-period scarcity.
-- **Forward versus spot.** Forwards secure supply and price but carry delivery and authorisation risk. Spot preserves flexibility but competes in a thin market.
-- **Diversification.** Across programmes, project types, host States and vintages.
-- **Risk appetite.** Whether you will consider supply where authorisation is pending, and at what discount.
+## Phase two: the transaction
 
-**What goes wrong:** No strategy at all, and procurement is handled reactively by whoever happens to receive an approach from a broker.
+### Find supply, and filter the language
 
-**Output:** A written strategy with volume targets by period.
+Units reach buyers directly from developers, through brokers and traders, through programme or platform matching, and through forward deals with projects still in development. The eligible segment is mostly bilateral; platforms help you find sellers, but the diligence stays with you.
 
-## Step 3: Open Registry Accounts
+Filter early on wording. "CORSIA-ready", "CORSIA-aligned" and "eligible pending authorisation" all describe units that are not eligible today. Drop them from the list, or at least from the spot list, before you spend time on diligence. For each remaining candidate, record the seller, programme, project, vintage and volume.
 
-**What:** Establish accounts in the registries of the ICAO-approved programmes whose supply you expect to buy.
+### Test against evidence
 
-**When:** Well ahead of any transaction.
+Descriptions are not evidence. For each tranche, check:
 
-**What goes wrong:** Underestimating the timeline. Account opening involves know-your-customer verification, entity documentation and sometimes legal review. Weeks, not days. Operators who agree a purchase first find their own onboarding blocking delivery.
+1. **Programme approval**, full or conditional, on the [ICAO emissions units page](https://www.icao.int/environmental-protection/CORSIA/Pages/CORSIA-Emissions-Units.aspx) on the day of the transaction, not from a list saved months ago.
+2. **Vintage**, inside the window for your compliance period.
+3. **Corresponding adjustment**: an authorisation document from the host State's designated national authority naming these units, plus evidence of the adjustment in national reporting.
+4. **Verification**: an accredited body's report, with any qualifications read.
+5. **Registry record**: unique serial numbers, a clean chain of custody, no prior retirement.
+6. **Project integrity**: additionality, permanence arrangements, no net harm.
 
-**Output:** Live accounts, with a test transfer completed if the registry permits.
+Check the registry and the authorisation document yourself. A seller's assurance is not a substitute. If a seller will not produce the authorisation document, stop; a legitimate seller has no reason to withhold it. File the diligence per tranche. The full list is in the [due diligence checklist](/insights/corsia-credit-due-diligence-checklist/).
 
-## Step 4: Identify Supply
+### Contract for what can go wrong
 
-**What:** Find units that plausibly meet the eligibility criteria.
+Price gets the attention, but these terms decide who absorbs a failure:
 
-Routes to supply: direct from developers, via brokers and intermediaries, via programme or platform matching mechanisms, or through forward agreements with projects in development.
+| Term | Question to settle | If the contract is silent |
+|---|---|---|
+| Eligibility warranty | What does the seller warrant, and what is the remedy if a unit proves ineligible? | You carry the loss |
+| Delivery | When, and what happens if delivery runs late against your cancellation deadline? | You scramble for replacement units |
+| Authorisation risk | On a forward deal, who bears it if the host State does not authorise? | You do |
+| Vintage protection | What if the eligible window moves? | You hold units you cannot use |
+| Documents | Is the seller obliged to hand over the full evidence package, not just a certificate? | You may never see it |
+| Payment | Escrow, or staged against delivery and documents? | You may have paid in full already |
 
-**What goes wrong:** Taking the description at face value. Language such as "CORSIA-ready", "CORSIA-aligned" and "eligible pending authorisation" describes units that are not currently eligible. Screen for that language early so you do not spend diligence effort on supply that cannot work.
+A purchase order with only a price and a volume puts every one of these risks on the buyer. [Offtake agreement terms](/insights/corsia-offtake-agreement-terms/) covers the drafting.
 
-**Output:** A shortlist of candidate supply, with the seller, programme, project, vintage and volume for each.
+### Pay and receive
 
-## Step 5: Due Diligence
+Sort out cross-border payment and foreign exchange with treasury before the deal, not during it. Registry transfers take time, and transfers between different registries usually take longer than within one. Do not pay in full ahead of transfer to a counterparty you have never dealt with. Record serial numbers as soon as units land.
 
-**What:** Verify eligibility against evidence, not description.
+## Phase three: settlement
 
-The core checks:
+### Cancel
 
-- **Programme approval.** Currently approved by the ICAO Council? Full or conditional? Verify against the [ICAO emissions units page](https://www.icao.int/environmental-protection/CORSIA/Pages/CORSIA-Emissions-Units.aspx) at the time of transaction, not from a saved list.
-- **Vintage.** Inside the eligible window for your compliance period?
-- **Corresponding adjustment.** A host-State authorisation document naming these units, from the designated national authority, plus evidence of the adjustment in national reporting.
-- **Verification.** An accredited body's report, with any qualifications examined.
-- **Registry record.** Unique serialisation, clean chain of custody, no prior retirement.
-- **Project integrity.** Additionality, permanence arrangements, no net harm evidence.
+Cancel the units in the registry with CORSIA as the stated purpose. Holding units does nothing; cancellation is what discharges the obligation. Do it well before the deadline, since registry processing time is outside your control, and log serial numbers and cancellation references in your own file. The procedure is in [the cancellation runbook](/insights/corsia-registry-cancellation-process/).
 
-**What goes wrong:** Accepting a seller's assurance in place of documents. Verify independently, from the registry and the authorisation document.
+### Report
 
-**Output:** A diligence file per tranche, retained for audit.
+File the Emissions Unit Cancellation Report with your national authority, the [DGCA](https://www.dgca.gov.in/) for Indian operators. Cancellation without the report leaves the authority unaware that anything happened.
 
-## Step 6: Negotiate and Contract
+### Keep the file
 
-**What:** Agree price and terms.
+Contract, diligence, authorisation documents, verification reports, registry records, transfer and cancellation confirmations, and the report. Index it and store it where it survives staff changes and system migrations. A verifier asking a question in three years should find the answer without needing the person who did the deal.
 
-Terms that matter more than price:
+## Worked timeline: a first purchase
 
-- **Eligibility warranty.** What the seller warrants, and the remedy if a unit proves ineligible.
-- **Delivery.** Timing, and what happens on late delivery relative to your cancellation deadline.
-- **Authorisation risk.** For forward deals, who bears the loss if the host State does not authorise.
-- **Vintage protection.** What happens if the eligible window shifts.
-- **Documentation.** An obligation to provide the full evidence package, not a certificate.
-- **Payment.** Escrow or staged payment against delivery and documentation.
+The durations below are typical ranges for a first cycle. The scenario is illustrative. A regional Indian carrier making its first purchase counts back from its cancellation deadline:
 
-**What goes wrong:** A purchase order with a price and a volume and nothing else. When something fails, the loss lands on the buyer by default.
+| Task | Allow |
+|---|---|
+| Registry account opening | Four to eight weeks |
+| Finding supply | Two to six weeks |
+| Diligence, per tranche | One to three weeks |
+| Contract negotiation | Two to six weeks |
+| Payment and transfer | One to three weeks |
+| Cancellation and reporting | One to two weeks |
 
-**Output:** An executed agreement with risk explicitly allocated.
+Some of these overlap, which is how the whole comes to roughly three to six months rather than the sum of the maximums. That still assumes nothing goes wrong. Later cycles are faster once accounts and processes exist, but diligence stays slow, because it is evidence gathering, not administration.
 
-## Step 7: Payment and Transfer
+## Dealing with intermediaries
 
-**What:** Complete payment and take delivery into your registry account.
+In a market without an exchange or a public price, intermediaries are how most first-time buyers find supply. Treat them as suppliers to be assessed, not as part of your team.
 
-**Practical points:** Cross-border payment raises treasury and foreign exchange considerations that are worth resolving before the transaction rather than during. Registry transfers are not instantaneous, and inter-registry transfers can take longer than intra-registry ones.
-
-**What goes wrong:** Paying in full before transfer, against a counterparty you have not previously dealt with.
-
-**Output:** Units in your account, serial numbers recorded.
-
-## Step 8: Cancel
-
-**What:** Cancel the units in the registry, specifying CORSIA as the purpose.
-
-This is the act that discharges the obligation. Holding units achieves nothing.
-
-**What goes wrong:** Two things. Leaving cancellation to the last day, when registry processing time is not within your control. And cancelling without recording the serial numbers and cancellation references in your own compliance file.
-
-**Output:** Cancellation confirmations with serials and references.
-
-## Step 9: Report the Cancellation
-
-**What:** Submit the Emissions Unit Cancellation Report to your national authority — the [DGCA](https://www.dgca.gov.in/) for Indian operators.
-
-**What goes wrong:** Treating cancellation as the end. The report is what closes the loop for the authority.
-
-**Output:** An accepted report.
-
-## Step 10: Retain the Evidence
-
-**What:** Keep the complete package — contract, diligence file, authorisation documents, verification reports, registry records, transfer confirmations, cancellation confirmations and the report.
-
-**What goes wrong:** Staff turnover, system migration, and a verifier three years later asking a question nobody remaining can answer.
-
-**Output:** A durable, indexed record.
-
-## Working With Intermediaries
-
-Most first-time buyers reach supply through an intermediary rather than direct, and the relationship is worth setting up deliberately.
-
-**Establish what they actually are.** A broker introducing buyer to seller has different obligations and different incentives from a trader selling units from their own book. Ask which they are, and how they are paid. A commission on volume and a margin on a proprietary position pull in different directions.
-
-**Ask what they verify.** Some intermediaries conduct genuine diligence and will show you their work. Others pass through the seller's description. Both are legitimate businesses, but you need to know which one you are dealing with so you can size your own effort accordingly.
-
-**Test their understanding early.** A single question does it: how do they establish that a unit carries a corresponding adjustment? An intermediary who answers with a specific evidence chain — designated national authority, authorisation document, unit identifiers, national reporting — understands the market. One who answers "the project confirms it" does not.
-
-**Do not let them hold your diligence file.** You need the evidence in your own records, in a form that survives the relationship ending.
-
-**Understand the delivery chain.** If the intermediary does not hold the units, delivery depends on a counterparty you have not assessed. Ask who actually holds them and whether you can verify that holding in the registry.
-
-None of this argues against using intermediaries. In a market with no exchange and no public price, they are how supply gets found. It argues for treating them as a supplier to be assessed rather than as an extension of your own team.
-
-## A Realistic Timeline
-
-For a first purchase, working backwards from a cancellation deadline:
-
-- Registry account opening: allow four to eight weeks
-- Supply identification: two to six weeks
-- Due diligence per tranche: one to three weeks
-- Contract negotiation: two to six weeks
-- Payment and transfer: one to three weeks
-- Cancellation and reporting: one to two weeks
-
-That is roughly three to six months for a first cycle, and it assumes nothing goes wrong. Subsequent cycles compress considerably once accounts and processes exist, but the diligence step does not compress much, because it is evidence gathering rather than administration.
-
-## Frequently Asked Questions
-
-**Can I buy through an exchange?** The CORSIA-eligible segment is largely bilateral. Platforms exist for discovery, but the diligence obligation stays with you.
-
-**Do I need a registry account for every programme?** Only for those where your supply sits. Consolidating into fewer programmes simplifies administration but concentrates programme approval risk.
-
-**What if the seller will not provide the authorisation document?** Do not proceed. There is no substitute for it and no reason for a legitimate seller to withhold it.
-
-**Can I cancel units held by a broker on my behalf?** Practice varies by registry, but a cancellation reported for your compliance should be traceable to you. Confirm the mechanism with your authority before relying on it.
-
-**How long before the deadline should I complete?** Weeks, not days. Registry and authority processing times are outside your control.
-
-**What if I need more units after cancelling?** You buy more, in whatever market conditions then exist. This is precisely the exposure that accurate requirement modelling avoids.
-
----
-
-**Buying CORSIA credits?** DSTechnoverse provides specialist [CORSIA carbon credit services](/services/) — offsetting requirement calculation, eligible unit sourcing, pre-transaction due diligence, registry execution and cancellation reporting. We are based in **Indore, Madhya Pradesh** and work with operators across India and internationally.
-
-[Apply as a CORSIA buyer or seller](https://carboncredit.dstechnoverse.com/)
-
-[Talk to our carbon markets team](/contact/) about your requirement.
+- **Broker or trader?** A broker introducing you to a seller and a trader selling from its own book have different duties and incentives. Ask which, and how they are paid.
+- **What do they check?** Some do real diligence and will show it. Others pass on the seller's description. Size your own work accordingly.
+- **One test question.** Ask how they establish that a unit carries a corresponding adjustment. A good answer names a chain of evidence: the designated national authority, the authorisation document, unit identifiers, national reporting. "The project confirms it" is not a good answer.
+- **Who holds the units?** If the intermediary does not, delivery depends on someone you have not assessed. Ask, and check the holding in the registry.
+- **Keep your own file.** The evidence must be in your records, not theirs.
+
+::: accordion Do we need an account in every programme's registry?
+Only where your supply sits. Fewer programmes means less administration but more concentrated approval risk.
+:::
+
+::: accordion Can a broker cancel units on our behalf?
+Practice differs by registry, but a cancellation reported for your compliance must trace back to you. Confirm the mechanism with your authority first.
+:::
+
+::: accordion What if we find we need more units after cancelling?
+You buy more, at whatever the market then offers. Accurate requirement modelling is how you avoid that position.
+:::
+
+When you are ready to source, [open a buy request](https://carboncredit.dstechnoverse.com/buy/new) with your volume and period, or start on the [marketplace](/marketplace/). We handle diligence before anything is signed.

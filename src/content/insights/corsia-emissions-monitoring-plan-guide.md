@@ -1,176 +1,126 @@
 ---
-title: "The CORSIA Emissions Monitoring Plan: A Section-by-Section Guide"
-excerpt: "What goes into a CORSIA emissions monitoring plan, why the data flow section decides whether verification is smooth, how to write a data gap procedure that protects you, and the omissions that generate findings."
+title: "Writing a CORSIA Emissions Monitoring Plan: Drafting It Section by Section"
+excerpt: "Your verifier tests the monitoring plan against what your stations actually do. How to draft each section for a real operation, why data flow and gap procedures matter most, and how to get the plan accepted."
 date: "2026-08-24"
 topic: "Airline Compliance"
 tags: ["emissions monitoring plan","CORSIA EMP","CORSIA MRV","fuel monitoring method","data gap procedure","CORSIA India","aviation compliance"]
 image: "/images/corsia-consultant/corsia-emp-contents.svg"
 ---
 
-The emissions monitoring plan is the document everything else in CORSIA compliance rests on. The authority accepts it before reporting begins, the verifier tests your data against it, and any inconsistency between what it says and what your operation does becomes a finding.
+Every question a CORSIA verifier asks comes back to one: did you do what your monitoring plan says you would do? The plan is accepted by the authority before reporting starts, it becomes the yardstick for every data test, and any difference between the page and the ramp becomes a finding.
 
-It is also, in most first cycles, written too quickly.
+In a first cycle it is also, very often, drafted in a hurry by someone copying a template. This guide takes the opposite approach. It follows one illustrative operator through the drafting, so each section is written for a real operation rather than an ideal one.
 
-![What an emissions monitoring plan must cover](/images/corsia-consultant/corsia-emp-contents.svg)
+![Diagram of the sections an emissions monitoring plan must cover](/images/corsia-consultant/corsia-emp-contents.svg)
 
-## What the Plan Is For
+## The operator in our example
 
-The plan is a commitment. It states how you will identify flights in scope, how you will measure fuel, where the numbers come from, who checks them, and what you will do when data is missing.
+Illustrative only. An Indian carrier flies a narrowbody fleet from two main bases, with international services to the Gulf and South-East Asia. During the year it wet-leases one aircraft in for the summer peak. Two of its outstations use a handling agent rather than its own staff. The group also has a second AOC for a small charter subsidiary.
 
-Verification then tests one question repeatedly: **did you actually do what this document says?**
+Nothing here is exotic, and every one of those facts has to appear somewhere in the plan.
 
-That framing is worth holding onto while writing it. A plan describing an idealised process you will not follow at every outstation is worse than a plan describing a simpler process you will follow everywhere.
+## Principle before drafting: describe what will really happen
 
-## Section by Section
+The plan is a commitment about how you will find in-scope flights, measure fuel, source the numbers, check them and cope when data goes missing. A plan that describes a polished process nobody follows at the outstations is worse than one that describes a plain process followed everywhere. Plain and true beats elaborate and aspirational, and a strong plan usually comes out shorter than a weak one.
 
-| Section | What it states | Common weakness |
-|---|---|---|
-| Operator identification | Legal entity, ICAO designator, AOC | Group structure unclear |
-| Fleet list | Every aircraft, type, registration | Wet-leased aircraft omitted |
-| Flight scope | Which flights are international | State-pair logic not documented |
-| Fuel monitoring method | The chosen method, applied consistently | Method varies by station |
-| Data flow | Source system to reported figure | No named system or owner |
-| Data gap procedure | Conservative and pre-defined | **Missing — costs you at audit** |
-| Control procedures | Checks, roles, change control | Written after the fact |
+## Drafting the sections
 
-### Operator identification
+### Who the operator is
 
-Name the legal entity that holds the obligation. Where a group has several AOCs or subsidiaries, state clearly which entity reports which operations. Group structures that are obvious internally are not obvious to a verifier, and ambiguity here propagates into every subsequent question.
+State the legal entity that carries the obligation, with its ICAO designator and AOC. Our carrier has two AOCs, so the plan must say which entity reports which flying. Internally the group structure seems obvious; to a verifier it is not, and any ambiguity here spreads into every later question. If the charter subsidiary's flying is reported separately, say so in terms.
 
-### Fleet list
+### The fleet
 
-Every aircraft, by registration, with type and mass data. Then the harder cases: aircraft entering and leaving the fleet mid-year, aircraft on dry lease, and **wet-leased aircraft**, where responsibility for the emissions must be established and stated. If a wet lease arrangement means the emissions belong to the other operator, say so and explain how that is evidenced.
+List every aircraft by registration, with type and mass data. Then handle the awkward cases explicitly: aircraft joining or leaving mid-year, dry-leased aircraft, and the summer wet lease. For a wet-leased aircraft, responsibility for its emissions must be established and written down. If the arrangement means the lessor carries them, state that and say how it is evidenced. Leaving wet-leased aircraft out is one of the commonest weaknesses in first plans.
 
-### Flight scope
+### Which flights count
 
-Which flights are international, and how the system distinguishes them. State the route-pair logic used for the offsetting determination separately from the MRV scope — they are different tests and conflating them in the plan guarantees confusion later.
+Explain how the system marks a flight as international. Then, separately, set out the route-pair logic used to decide offsetting. These are two different tests: reporting covers all international flights, offsetting only the covered pairs. A plan that blurs them guarantees confusion later. Write the State-pair logic down rather than leaving it in a system setting.
 
-### Fuel monitoring method
+### How fuel is measured
 
-State the method, and state that it is applied consistently. Where different fleets or aircraft types genuinely require different treatment, say which, and justify it. Then describe, concretely, what happens at a station: which document records the uplift, which system captures it, who reconciles it.
+Name the monitoring method and commit to applying it consistently. If one fleet genuinely needs a different treatment, identify it and justify the difference in the plan; never let it happen informally.
 
-**The gap between the method described and the method practised at outstations is the most reliable source of findings in CORSIA verification.** Write what actually happens.
+Then get concrete about the stations, because this is where findings come from. For our carrier's two handled outstations, say which document records the uplift, who enters it, into which system, and who reconciles it. The gap between the method written in the plan and the method practised at outstations is the most dependable source of CORSIA verification findings there is. The choice of method itself is covered in [fuel monitoring methods compared](/knowledge-base/corsia-fuel-monitoring-methods/).
 
-### Data flow
+### Where the numbers travel
 
-The section that decides whether verification is smooth. It should identify:
+This is the section that decides whether verification goes smoothly. It should name:
 
-- Each source system, by name
-- What data each holds, and who owns it
-- Every transformation between source and reported figure
-- Where data is stored, and for how long
-- The reconciliation performed against independent records
+- each source system, and what it holds
+- the owner of each
+- every step that transforms the data between source and reported figure
+- where data is kept, and for how long
+- the reconciliation run against independent records such as finance
 
-A diagram helps here more than prose. A verifier who can see the flow can plan sampling; one who cannot will ask a great many questions to construct it themselves.
+Draw it. A verifier who can see the flow can plan their sampling; one who cannot will ask dozens of questions to reconstruct it. Aim for enough detail that any reported figure can be traced back to a source document without you having to explain the route.
 
-### Data gap procedure
+### When data goes missing
 
-Write this before you need it. It should state:
+Write the gap procedure before the first gap. It should cover what counts as a gap; how gaps are found, usually through a monthly check; the substitution method, which must be conservative, erring towards over-stating emissions; how each substitution is recorded and approved; and the level of gaps at which someone must investigate.
 
-1. What counts as a data gap
-2. How gaps are detected — the monthly check that finds them
-3. The substitution method, which must be **conservative** (over-estimating rather than under-estimating emissions)
-4. How the substitution is documented and approved
-5. What threshold of gaps triggers escalation and investigation
+The reason is practical. Without a procedure, the verifier applies a conservative assumption of their own, and it will not be generous. A written, consistently used method protects your figure. The test is consistency: a method picked after seeing which substitution gives the lower number is not a procedure, and the pattern shows in the data. A missing gap procedure is the omission that costs most at audit.
 
-The reason to pre-define it is straightforward: if you have no procedure, the verifier applies a conservative assumption of their own, and it will not be generous. A documented, consistently applied conservative method protects the reported figure.
+### Controls and change
 
-**Consistency is the test.** A method chosen after seeing which substitution produces a lower number is not a procedure — and the pattern is visible in the data.
+Say who checks what, how often, and what evidence each check leaves. For every control, point to that evidence: a check that leaves no trace cannot be verified and is treated as not having happened. Include change control, so a new aircraft, a new station, a system upgrade or a restructure feeds into a revised plan.
 
-### Control procedures
+## Three drafting habits verifiers notice
 
-Who checks what, how often, with what evidence. Include change control: how a fleet change, new station, system upgrade or entity restructure flows into an updated plan. Plans go stale, and stale plans generate findings.
+**Specific beats general.** "Fuel data is recorded in the operations system" gives a verifier nothing to test. "The handling agent enters uplift figures into the named system within 24 hours; the fuel accounting team reconciles them monthly against supplier invoices" is testable, which is exactly what you want.
 
-## The Annual Rhythm the Plan Implies
+**One worked flight.** Take a single sector and show the source document, the system entry, the calculation and the reported figure. It explains your process better than pages of prose.
 
-![The CORSIA annual MRV cycle](/images/corsia-consultant/corsia-mrv-annual-cycle.svg)
+**Evidence pointers.** Next to each control, say where its evidence lives.
 
-A plan is not a filing exercise. It describes an operational routine that runs all year:
+## The year the plan commits you to
 
-| When | Activity |
-|---|---|
-| Continuously | Fuel data captured per flight at every station |
-| Monthly | Completeness check, gap detection, anomaly review |
-| Monthly | Reconciliation against fuel purchase and finance records |
-| Quarterly | Review of any plan changes needed |
-| Year end | Compilation, internal review, reconciliation |
-| Q1 | Verification and submission |
+![Diagram of the annual CORSIA monitoring, reporting and verification cycle](/images/corsia-consultant/corsia-mrv-annual-cycle.svg)
 
-If the monthly rows are not actually happening, the plan is aspirational and verification will show it.
+A plan describes an operating routine, not a filing. Once accepted, it commits the operator to:
 
-## Writing for the Verifier
+- capturing fuel data for every flight at every station, all year
+- a monthly completeness check, gap search and anomaly review
+- a monthly reconciliation against fuel purchase and finance records
+- a quarterly look at whether the plan needs changing
+- compilation, internal review and reconciliation at year end
+- verification and submission in the first quarter
 
-Three habits that make verification faster and cheaper:
+If the monthly items are not really happening, the plan is a wish list and verification will show it. The [fuel data quality guide](/insights/corsia-fuel-data-quality-management/) covers how to run those monthly checks.
 
-**Be specific about systems and people.** "Fuel data is recorded in the operations system" is weak. "Uplift figures are entered into [system] by the station handling agent within 24 hours, reconciled by the fuel accounting team against supplier invoices monthly" is testable — which is the point.
+## Getting it accepted
 
-**Include worked examples.** One example flight, showing the source document, the system entry, the calculation and the reported figure, does more to explain your process than several pages of description.
+Writing the plan is half the work. It must then go to the authority, the DGCA for Indian operators, in the required format and be accepted. The sequence runs: submit by the applicable date; the authority checks every section is there; a technical review raises questions on method, scope, data flow or gaps; you reply in writing and amend the plan where needed; the authority confirms acceptance; and that accepted version becomes the operative document.
 
-**Cross-reference evidence.** For each control, say what evidence exists that it was performed. A control with no evidence trail cannot be verified, and an unverifiable control is treated as absent.
+Allow for questions. First plans rarely pass untouched, and each round uses calendar time you do not control, so filing close to a deadline leaves no space for a second round. Our [DGCA guide](/insights/corsia-dgca-interaction-guide/) covers how those exchanges tend to run.
 
-## Keeping the Plan Current
+Keep every version. Verifiers test practice against the version in force during the year, not the latest draft. An operator who cannot say which version applied when has a documentation problem before any data is opened.
 
-Triggers for an update:
+If an adviser is drafting the plan, write answering the authority's queries into their [scope of work](/insights/corsia-consultant-scope-of-work/) rather than leaving it as an extra.
 
-- Aircraft added or removed
-- New route or station, particularly a new outstation
-- Change in fuel monitoring method
-- Change to a source system
-- Corporate restructure, new AOC, merger
-- Change in the applicable requirements
-- Findings from verification requiring a process change
+## Keeping it alive
 
-Assign ownership for this explicitly. In practice a quarterly review with a named owner catches most changes before they become discrepancies.
+Our carrier's wet lease ends in September and it opens a new outstation in November. Both are triggers for a plan update. The full list:
 
-## What Good Looks Like
-
-A strong plan is usually shorter than a weak one. It describes a simple process precisely, names systems and owners, includes a diagram and a worked example, and contains a data gap procedure written in advance. It does not describe every possible scenario — it describes what actually happens, in enough detail that someone else could follow it.
-
-For the wider compliance picture see [CORSIA compliance for Indian airlines](/insights/corsia-compliance-for-indian-airlines/), and for the data discipline underneath it, [CORSIA fuel data quality management](/insights/corsia-fuel-data-quality-management/).
-
-## Submission and Authority Queries
-
-The plan is not finished when you have written it. It has to be submitted to the authority in the required format and accepted, and that process has its own rhythm.
-
-| Step | What to expect |
-|---|---|
-| Submission | In the authority's format, by the applicable date |
-| Completeness check | The authority confirms all required sections are present |
-| Technical review | Questions on method, scope, data flow or gap procedure |
-| Response | Written, with the plan amended where needed |
-| Acceptance | Confirmed by the authority |
-| Version control | The accepted version becomes the operative document |
-
-Two practical points. **Budget time for queries.** A first plan rarely goes through without questions, and each round takes calendar time you do not control. Submitting close to a deadline leaves no room for a second round.
-
-**Keep the version history.** When a verifier tests practice against the plan, they test against the version in force during the compliance year — not the latest draft. An operator who cannot say which version applied when has a documentation problem before any data is examined.
-
-Where an engagement includes plan preparation, make responding to authority queries an explicit part of the consultant's scope rather than a chargeable extra. See [CORSIA consultant scope of work](/insights/corsia-consultant-scope-of-work/).
-
-## Frequently Asked Questions
-
-**What is a CORSIA emissions monitoring plan?** The document setting out how an operator identifies flights in scope, measures fuel burn, controls data quality and handles gaps. The authority accepts it before reporting begins.
-
-**Who approves the monitoring plan?** The national authority — the DGCA for Indian operators.
-
-**What must it contain?** Operator identification, fleet list, flight scope, fuel monitoring method, data flow, data gap procedure and control procedures.
-
-**How detailed should the data flow section be?** Detailed enough that a verifier can trace any reported figure back to a source document without asking you to explain the route.
-
-**What is a data gap procedure?** A pre-defined, conservative method for substituting missing data, with detection, documentation and escalation. Without one, the verifier applies their own conservative assumption.
-
-**How often must the plan be updated?** Whenever something material changes — fleet, routes, systems, entity structure, method or requirements. A quarterly review is a practical rhythm.
-
-**What happens if practice differs from the plan?** It becomes a verification finding. Either change the practice or update the plan; discrepancy is the problem.
-
-**Do wet-leased aircraft go in the plan?** Yes. Responsibility must be established, stated and evidenced.
-
-**Can we use different fuel methods for different fleets?** Where genuinely justified, yes — but it must be stated and justified in the plan, not applied informally.
-
-**How long should the plan be?** As long as it takes to describe the actual process precisely. Strong plans are usually shorter and more specific than weak ones.
-
----
-
-**Running your first CORSIA compliance cycle?** DSTechnoverse supports Indian aircraft operators with applicability assessment, emissions monitoring plans, fuel data quality management and verification readiness — and hands the annual cycle back to your team. We are based in **Indore, Madhya Pradesh** and work with clients across India. See our [CORSIA carbon credit services](/services/), our carbon credit portal at [carboncredit.dstechnoverse.com](https://carboncredit.dstechnoverse.com/), or [talk to our team](/contact/) about your reporting year.
-
-*This article is general information, not legal or regulatory advice. CORSIA rules, thresholds and participating-state lists change — verify the current position with ICAO and the DGCA before acting.*
+- aircraft added or removed
+- a new route or station, especially an outstation
+- a different fuel monitoring method
+- a change to a source system
+- a restructure, new AOC or merger
+- changes to the requirements themselves
+- verification findings that demand a process change
+
+Give one named person ownership and a quarterly review. That catches most changes before they turn into discrepancies.
+
+## Common mistakes
+
+- Group structure left for the reader to work out.
+- Wet-leased aircraft missing from the fleet list.
+- State-pair logic not written down, or merged with reporting scope.
+- A method that quietly varies from station to station.
+- A data flow section with no named systems or owners.
+- No gap procedure at all.
+- Controls written up after the fact, with no evidence trail.
+- A practice that has drifted from the plan, with neither updated. Either change what you do or change the document; the gap between them is the finding.
+
+If you are drafting a first plan, or yours has come back with questions, look at our [CORSIA services](/services/). We write plans around what your stations actually do and then hand the running of the cycle to your team.

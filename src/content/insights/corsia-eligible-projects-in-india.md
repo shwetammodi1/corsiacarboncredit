@@ -1,150 +1,102 @@
 ---
-title: "CORSIA-Eligible Carbon Projects in India: What Actually Qualifies"
-excerpt: "Which Indian project types can realistically supply CORSIA-eligible credits — the three-part eligibility test, why the corresponding adjustment decides everything, and where additionality arguments break down."
+title: "Which Indian Carbon Projects Can Supply CORSIA? Project Types Screened"
+excerpt: "India has produced carbon credits for two decades, yet most of them cannot be used under CORSIA. The three tests a unit must pass, how common Indian project types fare, and a screening run on five candidate projects."
 date: "2026-08-24"
 topic: "Airline Compliance"
 tags: ["CORSIA eligible projects","carbon projects India","CORSIA credits","corresponding adjustment","additionality","CORSIA India","carbon project developer"]
 image: "/images/corsia-consultant/hero-corsia-supplier-india.svg"
 ---
 
-India has been one of the world's largest sources of carbon credits for two decades. CORSIA is one of the few compliance-grade demand sources those credits can reach — but the eligibility bar is higher than the voluntary market's, and most existing Indian credits do not clear it.
+For about twenty years India has been one of the largest suppliers of carbon credits anywhere. CORSIA is one of the few compliance-grade buyers those credits could reach. The catch is that the bar is higher than the voluntary market's, and most Indian credits in existence today do not clear it.
 
-Understanding why is the difference between developing a project that sells and one that produces credits nobody with a CORSIA obligation can use.
+For a developer, the practical question is which projects to build with airline demand in mind, and which to steer towards other buyers from the outset. That is what this piece works through.
 
-![Supplying CORSIA credits](/images/corsia-consultant/hero-corsia-supplier-india.svg)
+![Illustration of an Indian project developer supplying credits into aviation compliance](/images/corsia-consultant/hero-corsia-supplier-india.svg)
 
-## The Three-Part Eligibility Test
+## Three tests, all compulsory
 
-A unit is CORSIA-eligible only if it satisfies all three:
+A unit can be used for CORSIA compliance only if it passes every one of these:
 
-**1. It comes from an ICAO-approved programme.** ICAO's Technical Advisory Body assesses crediting programmes against the Emissions Unit Eligibility Criteria, and the Council decides which are approved and for what scope. A credit from an unapproved programme is not eligible, regardless of its quality. See [ICAO-approved crediting programmes](/insights/icao-approved-corsia-crediting-programmes/).
+- **Approved programme.** It must be issued by a crediting programme that ICAO has approved. The Technical Advisory Body assesses programmes against the Emissions Unit Eligibility Criteria, and the ICAO Council decides which are approved and for what scope. A unit from an unapproved programme does not count, however good the project. Our note on [programme approval risk](/insights/icao-approved-corsia-crediting-programmes/) covers this in more depth.
+- **Inside the window.** Approval covers particular periods and unit types, not all time. A unit from an approved programme whose vintage falls outside the applicable window still fails.
+- **Corresponding adjustment.** The host country must authorise the transfer and adjust its national accounts so the tonne is not also counted towards its NDC. That is a decision for government, not for the developer, and it is where most projects fall.
 
-**2. It falls within the permitted vintage and eligibility window.** Approval is granted for specific periods and unit types, not indefinitely. A credit from an approved programme but outside the applicable window does not count.
+Two out of three is worthless to an airline with an obligation to meet.
 
-**3. It carries a corresponding adjustment.** The host country must authorise the transfer and adjust its own national accounts so that the same tonne is not counted towards its NDC. **This is a government decision, not a developer decision**, and it is where most projects stop.
+![Diagram of the path from an Indian project, through authorisation and adjustment, to a CORSIA unit](/images/corsia-consultant/corsia-ca-flow-india.svg)
 
-All three, or the unit is not usable for CORSIA compliance. Two out of three is worth nothing to an airline with an obligation to discharge.
+The adjustment deserves one paragraph of explanation. If an airline claims a tonne reduced in India, India cannot also count it against its own target. Adjusting the national account prevents that double claim, which means every authorised export slightly raises the effort India has to make elsewhere. So authorisation is a government policy choice, granted selectively, and no consultant can simply arrange it. Anyone describing it as a documentation step has misunderstood it. The detail is in [corresponding adjustments for Indian CORSIA projects](/insights/corsia-corresponding-adjustment-india/).
 
-## Why the Corresponding Adjustment Dominates
+## How Indian project types fare
 
-![How a corresponding adjustment reaches a CORSIA credit](/images/corsia-consultant/corsia-ca-flow-india.svg)
+![Chart comparing how suitable different Indian project types are for CORSIA supply](/images/corsia-consultant/corsia-india-project-types.svg)
 
-The logic is straightforward once stated plainly. If an Indian project reduces a tonne of emissions and an airline uses that tonne to discharge a CORSIA obligation, that tonne cannot also count towards India's own emissions target. Otherwise it is counted twice.
+Assuming the adjustment question can be answered, here is how the common categories look, strongest first.
 
-The corresponding adjustment is the accounting step that prevents that — India removes the tonne from its own ledger. Which means every authorised export of a CORSIA credit slightly increases the effort India must make elsewhere to meet its own commitments.
+**Methane capture from waste: strong.** Landfill gas, distillery effluent, agricultural waste and biogas projects hold up best. Capturing methane is seldom the cheapest option for whoever runs the site, so the additionality case is straightforward, and methane's high warming potential yields meaningful volumes from modest capital. What decides success is measurement discipline.
 
-That is why authorisation is a policy decision taken at government level, why it is granted selectively, and why a developer cannot simply arrange it. Any consultant who describes the corresponding adjustment as a documentation formality has not understood the mechanism. Full treatment in [corresponding adjustments for Indian CORSIA projects](/insights/corsia-corresponding-adjustment-india/).
+**Wastewater treatment: strong.** Similar methane logic. The weak point to prepare for is justifying the baseline.
 
-## Which Project Types Work
+**Improved cookstoves: moderate, and heavily scrutinised.** Independent research has found systematic over-crediting in parts of this category, so buyers now look hard at usage rates, the non-renewable biomass fraction and efficiency in the field. A programme with sensor-measured usage and conservative parameters is a good project. One resting on survey claims is exactly what buyers are screening out.
 
-![Which Indian project types suit CORSIA supply](/images/corsia-consultant/corsia-india-project-types.svg)
+**Afforestation: moderate.** Permanence and land tenure are the constraints to plan around.
 
-| Project type | CORSIA outlook | Binding constraint |
+**Industrial energy efficiency: moderate.** It stands or falls on the additionality argument.
+
+**Grid-connected solar and wind: difficult.** Both are now the cheapest source of new power in India. A project that pays its way without carbon revenue cannot credibly say carbon revenue was needed, and most programmes have restricted crediting for renewables in countries where they are established. This is a result of market maturity, not a rule against the technology.
+
+**Anything without an adjustment: ineligible**, whatever its type.
+
+For the economics behind these categories, see [carbon credit project types in India](/insights/carbon-credit-project-types-india/).
+
+## What airline buyers weigh
+
+![Checklist of what airline buyers examine before signing for units](/images/corsia-consultant/corsia-supplier-readiness.svg)
+
+Buyers' diligence is weighted differently from what many developers expect. In rough order of weight: whether the adjustment is secured (decisive); approved programme and vintage (very high); registry serial numbers that can be checked (high); a clean verification report (high); evidence of safeguards and consent (moderate); substantiated co-benefits (lower for a compliance buyer).
+
+Co-benefits are welcome but cannot make an ineligible unit eligible. Developers arriving from the voluntary market often lead with the community story and mention the adjustment last, which is exactly backwards for this buyer.
+
+## Worked example: screening five candidates
+
+Illustrative only. A Madhya Pradesh developer has five ideas and a limited budget for design work. Before commissioning anything, it asks eight questions of each: Is an approved programme open to this activity? Does an approved methodology fit without stretching? What is the adjustment policy for the activity? Is it additional, with documents to show it? Is realistic annual volume enough to carry fixed costs? Can monitoring be done with real instruments and real staff? Is title to the credits in writing? Does first issuance fall inside the funding runway?
+
+| Candidate | Where it stopped | Outcome |
 |---|---|---|
-| Waste methane / biogas | **Strong** | Measurement discipline |
-| Wastewater treatment | **Strong** | Baseline justification |
-| Improved cookstoves | Moderate | Usage-rate scrutiny |
-| Afforestation | Moderate | Permanence and land tenure |
-| Industrial efficiency | Moderate | Additionality argument |
-| Grid solar / wind | **Difficult** | Already least-cost |
-| Any project without a CA | **Ineligible** | Corresponding adjustment is mandatory |
+| 1. Biogas at a dairy cluster | Passed all eight | Worth a full feasibility study |
+| 2. Rooftop solar portfolio | Additionality: viable without carbon revenue | Not a CORSIA project |
+| 3. Cookstove programme using household surveys | Monitoring depends on survey claims | Redesign with metered usage, or drop |
+| 4. Small distillery effluent project | Volume: about 3,000 credits a year | Aggregate with similar sites |
+| 5. Farm forestry on leased land | Title and adjustment position unclear | Voluntary route unless both are resolved |
 
-**Methane-related projects hold up best.** Capturing methane from landfill, distillery effluent, agricultural waste or wastewater is rarely the cheapest option for the operator, which makes the additionality argument straightforward. The methane's high warming potential also means meaningful credit volumes from modest capital.
+Candidate 4 shows why the volume question needs arithmetic rather than a guess. Validation, verification, registry fees and monitoring are largely fixed. If a project producing 3,000 credits a year carries the same fixed costs as one producing 50,000, each of its credits bears roughly seventeen times the overhead. Divide realistic volume into expected fixed costs; if the cost per credit comes close to the price you expect, combining with other activities is the only workable route.
 
-**Grid-connected renewables no longer work.** Solar and wind are now the least-cost source of new generation in India. A project that is commercially viable without carbon revenue cannot credibly claim carbon revenue was necessary, and most programmes have restricted crediting in countries where renewables are established.
+Two lessons from the run. Ask the adjustment question first, since it is the cheapest to ask and can sink a project that passes everything else. And any candidate that fails on programme approval or the adjustment should go to the voluntary market straight away rather than being developed in hope.
 
-**Cookstoves are viable but scrutinised.** Independent research has found systematic over-crediting in parts of this category, and buyers now examine usage rates, non-renewable biomass fractions and field efficiency closely. A project with sensor-monitored usage data and conservative parameters is a good project; one built on survey-based claims is what buyers are screening out.
+## The order of work for a CORSIA-targeted project
 
-More detail on the underlying project economics in [carbon credit project types in India](/insights/carbon-credit-project-types-india/).
+1. Confirm which programmes are approved, for which unit types and vintages.
+2. Establish the adjustment position and authorisation route for the activity, and a realistic timeline.
+3. Test additionality honestly. An uncomfortable answer now will be worse at validation.
+4. Confirm an approved methodology exists for the activity under that programme.
+5. Design the monitoring before the project: how each parameter is measured, logged and audited.
+6. Model the economics at conservative volume and price, including verification cycles and any intermediary's margin.
+7. Only then commission the project design document.
 
-## What Buyers Actually Check
+Steps 1 and 2 cost very little. Doing them last, after the design work, is the expensive path and, unfortunately, the usual one. Expect roughly 18 to 36 months from concept to first issuance, plus the adjustment timeline, which you do not control.
 
-![What buyers check before signing](/images/corsia-consultant/corsia-supplier-readiness.svg)
+## When the voluntary market is the better home
 
-Airlines and their advisers run genuine due diligence, and the weighting is not what developers expect:
+If the adjustment route is not realistically open, the project can still sell to voluntary buyers, where adjustments are often not required. The trade-off is plain. CORSIA buyers are airlines with a legal obligation; they pay for eligibility and scarcity, demand follows the offsetting requirement, and the paperwork is heavier. Voluntary buyers are companies with their own commitments; they pay for quality, narrative and co-benefits, demand follows sentiment and budgets, and documentation is lighter.
 
-| Check | Weight in a typical review |
-|---|---|
-| Corresponding adjustment secured | **Decisive** |
-| Approved programme and vintage | Very high |
-| Registry serial numbers verifiable | High |
-| Verification report clean | High |
-| Safeguards and consent evidence | Moderate |
-| Co-benefit substantiation | Lower for compliance buyers |
+Plenty of Indian projects are better placed voluntarily, and hearing that early is worth more than chasing a CORSIA route that policy will not support. For choosing who advises you on that call, see [choosing a CORSIA supplier consultant](/insights/corsia-credit-supplier-consultant-india/).
 
-Note the last row. A compliance buyer is discharging a legal obligation, and while co-benefits are welcome, they do not make an ineligible unit eligible. Developers coming from the voluntary market often lead with the community story and treat the corresponding adjustment as an afterthought — which is precisely inverted for this buyer.
+## Common mistakes by Indian developers
 
-## Sequencing a CORSIA-Targeted Project
+- **Assuming old credits can be redirected.** Existing voluntary-market credits usually lack an adjustment, so they cannot simply be offered to airlines.
+- **Treating a programme's approval as permanent.** Approval covers set periods and unit types; check the window for your vintages, not just the programme's name.
+- **Leading with the story.** For a compliance buyer the adjustment, programme and vintage come first; co-benefits come after.
+- **Building on survey data where buyers expect measurement.** Especially for cookstoves, where scrutiny is now intense.
+- **Skipping the fixed-cost arithmetic.** A small project can be technically sound and still uneconomic on its own.
 
-1. **Check programme approval first.** Which programmes are currently approved, for what unit types and vintages. If your intended programme is not approved for the relevant scope, nothing else matters.
-2. **Assess the corresponding adjustment position** before spending on design. What is the current policy for your activity type? What is the authorisation route? What is the realistic timeline?
-3. **Test additionality honestly.** Would this happen anyway? If the answer is uncomfortable, it will be more uncomfortable at validation.
-4. **Confirm the methodology exists** for your activity under the chosen programme.
-5. **Design monitoring before designing the project.** If you cannot describe how each parameter is measured, logged and audited, the project is not ready.
-6. **Model the economics** at conservative volume and price, including verification cycles and any intermediary margin.
-7. **Then** commit to the project design document.
-
-Steps 1 and 2 cost very little and eliminate most unviable projects. Reversing the order — developing the project and then discovering the authorisation position — is the expensive path, and it is the common one.
-
-## The Voluntary Market Alternative
-
-If the corresponding adjustment route is not available, a project can still serve the voluntary market, where CAs are not universally required. The trade-off:
-
-| | CORSIA-eligible | Voluntary market |
-|---|---|---|
-| Corresponding adjustment | Required | Often not required |
-| Buyer type | Airlines with a compliance obligation | Corporates with voluntary commitments |
-| Price driver | Eligibility and scarcity | Quality, story, co-benefits |
-| Demand certainty | Tied to the offsetting requirement | Sentiment and corporate budgets |
-| Documentation | Heavier | Lighter |
-
-Many Indian projects are better placed in the voluntary market, and saying so early is more useful to a developer than pursuing a CORSIA route that policy will not support. A consultant who never reaches that conclusion for any client is not assessing eligibility, only selling development work.
-
-## A Screening Checklist Before You Spend
-
-Run every candidate activity through this before commissioning any design work. Each question costs a phone call or an afternoon; together they eliminate most unviable projects for a fraction of a percent of the development budget.
-
-| # | Question | Fails if |
-|---|---|---|
-| 1 | Is an ICAO-approved programme currently open to this activity type? | No approved programme covers it |
-| 2 | Does an approved methodology fit without stretching? | You would have to argue the fit |
-| 3 | What is the corresponding adjustment policy for this activity? | Export is not currently contemplated |
-| 4 | Is the activity genuinely additional, with documentary evidence? | The business case works without carbon revenue |
-| 5 | What annual volume is realistic, conservatively? | Below the level that covers fixed costs |
-| 6 | Can monitoring be done with instruments that exist and staff who will use them? | The plan depends on heroics |
-| 7 | Who owns the credits, in writing? | Title is assumed rather than documented |
-| 8 | What is the realistic date of first issuance? | Later than your funding runway |
-
-**Question 3 is the one to answer first**, not last. It is the cheapest question to ask and the most expensive to get wrong, because it can invalidate a project that passes every other test.
-
-**Question 5 deserves arithmetic, not an estimate.** Validation, verification, registry fees and monitoring are largely fixed, so a project generating a few thousand credits a year bears the same compliance cost as one generating fifty thousand. Divide your realistic annual volume into your expected fixed costs before going further; if the per-credit figure is close to the price you expect to achieve, aggregation with other activities is the only viable route.
-
-Projects that clear all eight are worth a proper feasibility study. Projects that fail question 1 or 3 should be redirected to the voluntary market immediately rather than developed in hope.
-
-## Frequently Asked Questions
-
-**What makes a carbon credit CORSIA-eligible?** Three things together: issuance by an ICAO-approved programme, a vintage within the applicable eligibility window, and a corresponding adjustment by the host country.
-
-**Which Indian projects qualify for CORSIA?** Waste methane, biogas and wastewater projects are the strongest technically. Eligibility ultimately depends on programme approval and the corresponding adjustment.
-
-**What is a corresponding adjustment?** The host country's accounting step that removes the transferred tonne from its own national emissions ledger, preventing double counting. It requires government authorisation.
-
-**Can existing Indian credits be sold into CORSIA?** Only if they meet all three eligibility tests. Most existing voluntary-market credits do not, principally because no corresponding adjustment is attached.
-
-**Why don't solar projects qualify?** Grid-scale renewables are now the least-cost option in India, so the additionality argument fails. This is a market maturity outcome rather than a rule about technology.
-
-**How long does a CORSIA-targeted project take?** Typically 18 to 36 months from concept to first issuance, plus the corresponding adjustment timeline, which is outside the developer's control.
-
-**Who authorises the corresponding adjustment?** The host country government, through its designated authority. Not the programme, and not the developer.
-
-**What do airline buyers check?** Corresponding adjustment status first, then programme approval and vintage, registry serial numbers, and the verification report.
-
-**Should I target CORSIA or the voluntary market?** If the corresponding adjustment route is not realistically available for your activity, the voluntary market is the honest answer.
-
-**Is a consultant necessary?** For the eligibility and corresponding adjustment assessment, specialist input pays for itself quickly. See [choosing a CORSIA credit supplier consultant](/insights/corsia-credit-supplier-consultant-india/).
-
----
-
-**Developing CORSIA-eligible credits in India?** DSTechnoverse supports project developers with eligibility screening, methodology selection, monitoring design, documentation packs and buyer due diligence — and advises buyers on whether the units they are offered will actually count. We are based in **Indore, Madhya Pradesh** and work with clients across India. See our [CORSIA carbon credit services](/services/), our carbon credit portal at [carboncredit.dstechnoverse.com](https://carboncredit.dstechnoverse.com/), or [talk to our team](/contact/) about your project.
-
-*This article is general information, not legal, financial or regulatory advice. CORSIA eligibility criteria, approved programmes and vintage windows change — verify the current position with ICAO and your programme before committing capital.*
+If you have a candidate project and want it run through the same eight questions, [contact the desk](/contact/). We will tell you plainly which market it belongs in.

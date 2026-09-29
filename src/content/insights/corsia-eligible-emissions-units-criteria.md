@@ -1,137 +1,123 @@
 ---
-title: "Verifying CORSIA Eligibility: A Buyer Workflow"
-excerpt: "What actually makes a carbon credit CORSIA eligible? A criterion-by-criterion breakdown of the ICAO Emissions Unit Criteria, what evidence each demands, and which ones cause the most projects to fail."
+title: "Checking CORSIA Eligible Emissions Units: A Gated Workflow for Buyers"
+excerpt: "ICAO publishes the eight criteria but not the order to test them. A two-gate buyer workflow that screens out unusable units within an hour, a worked parcel, and how to handle checks with no clean answer."
 date: "2026-08-18"
 topic: "CORSIA Fundamentals"
 tags: ["CORSIA eligible emissions units","CORSIA EEU","emissions unit criteria","CORSIA eligibility","carbon credit additionality","corresponding adjustment","ICAO TAB"]
 image: "/images/corsia/corsia-eeu-criteria.svg"
 ---
 
-The eight ICAO Emissions Unit Criteria are well documented. What is less documented is how a buyer actually works through them against a specific parcel of units, in what order, and what to do when one of them cannot be answered.
+Most buyers who waste time on a CORSIA parcel do it the same way. They start with the interesting part, reading the project design document, weighing the baseline, looking at monitoring data, and a week later ask for the authorisation letter, which does not exist. A week of analyst time has gone into units that could never have been used.
 
-![What makes a unit CORSIA eligible](/images/corsia/corsia-eeu-criteria.svg)
+The fix is to test the criteria in a deliberate order, with a hard gate after the quick checks. This article sets out that workflow.
 
-> For what each criterion requires and why it exists, see [the ICAO Emissions Unit Criteria](/knowledge-base/corsia-emissions-unit-criteria/) in the knowledge base. This piece is the verification workflow.
+![Diagram of the eight criteria a CORSIA emissions unit must meet](/images/corsia/corsia-eeu-criteria.svg)
 
-## Work Them in This Order
+> What each of ICAO's eight criteria requires, and why, is explained in [the ICAO emissions unit criteria](/knowledge-base/corsia-emissions-unit-criteria/). Here the focus is how a buyer applies them to a real parcel.
 
-Not the order they are published in. The order that eliminates unusable supply fastest and cheapest.
+## Two gates, eight checks
 
-| Order | Check | Why here |
+**Gate one: lookups.** Four checks against defined sources. Together they take under an hour and remove most of what fails.
+
+1. **Corresponding adjustment.** It knocks out the most supply and is the cheapest to test, so it goes first.
+2. **Programme approval.** A yes-or-no answer, quickly found.
+3. **Vintage against your compliance period.** Also yes or no.
+4. **Registry record and holding.** Confirms the seller has what it is selling.
+
+Nothing moves to gate two until all four pass.
+
+**Gate two: judgement.** Four checks that need reading, expertise or searching.
+
+5. **The verification report.**
+6. **Additionality and baseline.**
+7. **Permanence**, where the reduction depends on stored carbon.
+8. **Safeguards**, which means looking outside the project file.
+
+This order is not the one in which ICAO publishes the criteria. It is the order that disposes of unusable supply fastest and most cheaply.
+
+## Gate one in practice
+
+**Adjustment.** Ask for the authorisation document itself, issued by the designated national authority and naming your units or a defined volume and vintage. A broker's confirmation, a seller's statement or a project web page is not a substitute. No document, no further work.
+
+**Programme.** Look at the [ICAO emissions units page](https://www.icao.int/environmental-protection/CORSIA/Pages/CORSIA-Emissions-Units.aspx) on the day, not a list someone saved. Note whether approval is full or conditional, and if conditional, whether the condition reaches your methodology. See also [managing programme approval risk](/insights/icao-approved-corsia-crediting-programmes/).
+
+**Vintage.** Take it from the registry, not from the seller's summary. The date of issuance is not the vintage; a unit issued last year can carry a much older vintage. Compare it with the window for your own compliance period.
+
+**Registry.** Unique serial numbers, an unbroken custody chain, no earlier retirement, and confirmation that the seller holds the units. If a broker is selling units it does not hold, there is a delivery risk to account for.
+
+## Gate two in practice
+
+**Verification.** Is the body accredited? Does the report cover the monitoring period your units come from? Are there qualifications, and what are they about? A qualified opinion may be acceptable once you understand it.
+
+**Additionality and baseline.** Ask whether the case holds for this project, in this market, today. Grid-connected renewables where they are the cheapest power deserve real scepticism. For avoided deforestation, ask how the baseline was set and when it was last revised. The reasoning is explained in our [additionality guide](/insights/additionality-in-carbon-credits-explained/).
+
+**Permanence.** Relevant only to storage-based reductions: the buffer percentage, how it was sized, and when it was last reassessed.
+
+**Safeguards.** Impact assessment, consultation records, consent where communities are affected, and a grievance mechanism. Then search the public record. Disputes over a project usually appear in the press or in NGO reports well before they appear in the registry.
+
+## A parcel worked through (illustrative)
+
+A broker offers an Indian operator 15,000 tonnes from a landfill gas project. The details are illustrative.
+
+- **Check 1:** the broker sends an authorisation letter from the host country's designated authority covering a defined volume and vintage that includes this parcel. Pass.
+- **Check 2:** the programme is approved, but conditionally. The analyst reads the condition; it concerns a different methodology. Pass, with the condition text saved to file.
+- **Check 3:** the registry shows a vintage inside the window for the operator's compliance period, though not far from its edge. Pass, flagged.
+- **Check 4:** the registry shows the units in the project developer's account, not the broker's. Gate one is on hold until the developer confirms the broker's mandate and the transfer route.
+
+Once that confirmation arrives, gate two starts. Total time spent on gate one: about an hour, and the parcel's one real weakness, the custody question, surfaced before anyone opened the project design document.
+
+## When a check has no clean answer
+
+Guidance usually stops at the criteria. The judgement lies in what to do when one cannot be answered cleanly.
+
+- **Authorisation pending:** price the government risk and contract for it, or decline. Our piece on [corresponding adjustment risk](/insights/corresponding-adjustments-corsia-explained/) covers the terms.
+- **Conditional approval with an unclear condition:** get clarity before the deal, not after.
+- **Vintage close to a boundary:** take a discount and cancel early rather than holding. Windows have moved before.
+- **Qualified verification:** understand what was qualified; it may be acceptable.
+- **Additionality open to argument:** make the call and write down the reasoning.
+- **Thin safeguards documentation:** treat as a warning sign, since this is where reputational risk sits.
+- **Evidence withheld until after signature:** decline. The evidence is what you are paying for.
+
+## Make the workflow repeatable
+
+Buyers who start from a blank page on every parcel are slower and less consistent than those with a standing template.
+
+- **Three columns:** the check, the evidence that satisfies it, and where that evidence is filed. Filled in, the template becomes the transaction file.
+- **Set policy in advance for gate two.** Decide once which verification qualifications you accept, how close to a vintage boundary you will go, and which project categories you exclude, so the judgement is not remade under deadline pressure.
+- **Log exceptions.** Accepting something outside policy is sometimes right; record who approved it and why. Unrecorded exceptions are what make a portfolio indefensible.
+- **Review the template yearly.** Approval conditions, vintage windows and the scrutiny applied to categories all change.
+
+For each tranche, the file should show the evidence gathered for all eight checks, what was saved as a copy rather than a link, which risks were knowingly accepted, who approved the purchase and on what authority, and the price basis. The question it must answer, years later and for someone who was not there, is simple: why did we accept these units?
+
+Save copies of the programme status, participation lists and window decisions as they stood on the day. All three change.
+
+## How much effort each purchase deserves
+
+Checks one to three always run in full; they take minutes and settle eligibility. Checks five to eight scale with value and familiarity: a large first purchase from an unknown developer needs real scrutiny, while a small repeat tranche from an already-assessed project under the same authorisation does not need that analysis repeated. The file is never trimmed, because small purchases draw audit questions just as large ones do.
+
+## Who does which step
+
+| Step | Nature of the work | Suitable owner |
 |---|---|---|
-| 1 | Corresponding adjustment | Eliminates the most supply; cheapest to check |
-| 2 | Programme approval status | Binary, and quick |
-| 3 | Vintage against your period | Binary, and quick |
-| 4 | Registry record and holding | Confirms the seller has what they are selling |
-| 5 | Verification report | Requires reading a document |
-| 6 | Additionality and baseline | Requires judgement |
-| 7 | Permanence, where relevant | Requires judgement |
-| 8 | Safeguards | Requires searching beyond the file |
+| Checks 1–4 | Lookups against defined sources | Procurement or a carbon analyst who knows what a valid authorisation looks like |
+| Checks 5–7 | Technical review of methodologies and reports | A specialist; for most operators, outside support for at least the first deals |
+| Check 8 | Search for disputes and safeguards issues | Whoever owns reputational risk |
+| Approval | Decision to buy or decline | The owner of the obligation, with real power to say no |
 
-Checks one to four take under an hour and remove most of what fails. Checks five to eight take real effort and should only be spent on supply that has passed the first four.
+The approval step cannot be handed to anyone else, including a broker, and a review that has no power to stop a purchase is not a review.
 
-The common mistake is starting with project quality — the interesting part — and discovering at the end that no corresponding adjustment exists.
+## Short answers
 
-## The First Four, in Practice
+::: accordion Does the workflow change for voluntary purchases?
+The adjustment becomes a preference rather than a requirement, and project quality carries more weight because no regulator sets a floor.
+:::
 
-**Corresponding adjustment.** Ask for the authorisation document. Not a statement, not a broker's confirmation, not a project webpage. The document, from the designated national authority, naming your units or a defined volume and vintage. Absent that, stop.
+::: accordion Is programme approval enough?
+No. It is necessary but not sufficient; vintage and adjustment apply unit by unit.
+:::
 
-**Programme approval.** Check the [ICAO emissions units page](https://www.icao.int/environmental-protection/CORSIA/Pages/CORSIA-Emissions-Units.aspx) today, not a saved list. Read whether the approval is full or conditional, and if conditional whether the condition touches your methodology.
+::: accordion What single signal says a parcel is not worth pursuing?
+A seller who will not show the authorisation document before you commit.
+:::
 
-**Vintage.** From the registry record, not the seller's description. Note that **issuance date is not vintage** — a unit issued last year may carry a much older vintage. Compare against the window for **your** compliance period.
-
-**Registry and holding.** Confirm unique serialisation, an unbroken chain of custody, no prior retirement, and that the seller actually holds them. Brokered supply the broker does not hold introduces a delivery risk worth knowing about.
-
-## The Second Four
-
-These require reading and judgement, and they are where a buyer's own standards matter.
-
-**Verification report.** Accredited body? Covers the monitoring period your units come from? Carries qualifications, and if so, what do they say? A qualified opinion is not automatically disqualifying — you need to know what was qualified and why.
-
-**Additionality and baseline.** Is the argument credible for this project, in this market, now? Grid-connected renewables in a market where they are least-cost warrant real scepticism. Avoided-deforestation baselines warrant asking how they were set and when last revised.
-
-**Permanence.** Only for storage-based reductions. Buffer percentage, how it was sized, when last reassessed.
-
-**Safeguards.** Impact assessment, consultation records, consent where communities are affected, grievance mechanism. And search publicly — contested projects are usually documented outside the registry before they are documented inside it.
-
-## When a Check Cannot Be Answered
-
-This is the part most guidance omits, and it is where judgement actually gets applied.
-
-| Situation | Reasonable response |
-|---|---|
-| Authorisation pending | Price the sovereign risk, contract for it, or decline |
-| Approval conditional, condition unclear | Get clarity before transacting, not after |
-| Vintage near a boundary | Discount, and cancel early rather than holding |
-| Verification qualified | Understand the qualification; may be acceptable |
-| Additionality arguable | A judgement call — document your reasoning |
-| Safeguards documentation thin | Treat as a red flag; this is where reputational risk lives |
-| Seller withholds evidence until signature | Decline |
-
-That last row is worth being firm about. Eligibility evidence is the substance of what you are buying, and a seller asking you to commit before seeing it is asking you to buy blind.
-
-## Recording the Assessment
-
-The file has to answer a question asked three years later by someone who was not involved: **why did we accept these units?**
-
-Record per tranche: what evidence was obtained for each of the eight checks, what was captured rather than linked, which risks were identified and accepted deliberately, who approved and under what authority, and the price basis.
-
-**Capture, do not link.** Programme approval status, participation lists and vintage windows all change. Save the page as at the date you relied on it.
-
-## Proportionality
-
-Not every purchase warrants identical depth, and applying the full workflow to a small repeat tranche wastes effort that could go elsewhere.
-
-**Always, regardless of size:** checks one to three. They determine eligibility, take minutes, and failure makes the unit worthless for the purpose.
-
-**Scale with value:** checks five to eight. A large first purchase from an unfamiliar developer deserves real scrutiny. A small repeat tranche from a project already assessed, under the same authorisation, does not need it repeated.
-
-**Never scale down:** the evidence file. Small purchases generate audit questions exactly as large ones do, and filing properly at the time costs almost nothing.
-
-A practical shortcut for repeat buying: maintain a standing file per project and per authorisation, and record only what is transaction-specific each time — serials, volume, price, transfer and cancellation.
-
-## Building a Repeatable Check
-
-Buyers who assess each parcel from scratch are slower and less consistent than those who work from a standing checklist. The checklist is worth writing once.
-
-A workable structure has three columns: the check, the evidence that satisfies it, and where that evidence was filed. Completing it becomes the transaction file rather than a separate exercise.
-
-**Make the first four checks a gate.** No further work proceeds until all four pass. This is what stops diligence effort going into supply that was never going to be usable, and it is the single biggest efficiency gain available.
-
-**Pre-agree what an acceptable answer looks like** for checks five to eight, so the judgement is made once as policy rather than repeatedly under time pressure. Which verification qualifications you will accept, how close to a vintage boundary you will go, which project categories you exclude outright.
-
-**Record the exceptions.** Where you accept something outside policy, note who approved it and why. Exceptions are legitimate; undocumented exceptions are what make a portfolio impossible to defend later.
-
-**Review the checklist annually.** Programme approval conditions change, vintage windows move, and categories fall in and out of favour as scrutiny shifts. A checklist written two years ago and never revisited encodes assumptions that may no longer hold.
-
-## Who Should Perform Each Check
-
-Splitting the work by capability rather than doing it all in one function produces better results and is easier to resource.
-
-**Checks one to four — administrative verification.** Programme status, vintage, registry record, authorisation document. These are lookups against defined sources and can sit with procurement or a carbon analyst, provided they know what a valid authorisation document looks like.
-
-**Checks five to seven — technical assessment.** Verification reports, additionality arguments, permanence arrangements. These need someone who understands methodologies, and for most organisations that means external support at least for the first transactions.
-
-**Check eight — reputational.** Safeguards and public disputes. This is closer to a due diligence search than a technical review, and it is worth involving whoever owns reputational risk.
-
-**The approval decision** should sit with whoever owns the obligation, and must include the authority to decline. Diligence that cannot stop a transaction is not diligence.
-
-## Frequently Asked Questions
-
-**How much of this can be delegated?** The first four checks are lookups and can sit with procurement once they know what a valid authorisation document looks like. The technical assessment usually needs external support for the first few transactions. The approval decision cannot be delegated at all.
-
-**Does the workflow change for voluntary purchases?** The corresponding adjustment becomes a preference rather than a requirement, and the project quality checks carry proportionally more weight because no regulator is setting a floor.
-
-**Which check eliminates the most supply?** The corresponding adjustment, by a wide margin. Check it first.
-
-**Is programme approval enough?** No. It is necessary and not sufficient — vintage and adjustment apply at unit level regardless.
-
-**How long should verification take?** One to three weeks per tranche for a first-time buyer, less with a process and a known counterparty.
-
-**Can I rely on a broker's checks?** Review their work; do not substitute it for your own. Your authority holds you accountable, not your broker.
-
-**What if the vintage is close to a boundary?** Discount for the risk and cancel early rather than holding. Windows have moved before.
-
-**Should I re-check before cancelling?** Yes, if significant time has passed since purchase. It is minutes of work against a material risk.
-
-**What is the single strongest signal a parcel is not worth pursuing?** A seller who will not provide the authorisation document before commitment.
+If you would like this workflow set up as a standing template for your team, or run on a parcel you are considering, get in touch through our [contact page](/contact/).

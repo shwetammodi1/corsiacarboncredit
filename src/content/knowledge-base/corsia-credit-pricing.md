@@ -1,135 +1,85 @@
 ---
-title: "CORSIA Credit Pricing: What Drives Cost"
-excerpt: "Why CORSIA-eligible units trade at a premium, the five drivers that set the price, why published voluntary market averages will mislead your budget, and how to build a cost forecast that survives scrutiny."
+title: "CORSIA Credit Pricing: The Factors Behind the Cost of Eligible Units"
+excerpt: "There is no single CORSIA price. What actually moves the cost of an eligible unit, why voluntary market averages mislead, and how to put together a compliance budget that stands up in front of a board."
 section: "Market & Pricing"
 order: 21
 image: "/images/corsia/hero-corsia-market.svg"
 ---
 
-Every operator asks the price question first, and the honest answer is unsatisfying: there is no single CORSIA price, no reliable public reference, and any figure quoted without stating project type, vintage, volume and authorisation status is a number with nothing behind it.
+The finance director wants one number for next year's CORSIA line. The compliance team does not have one, and should not invent one. A quoted price that does not say which project type, which vintage, what volume and whether the unit carries an authorisation is not a price anyone can budget on.
 
-That does not make budgeting impossible. It means building the budget from the drivers rather than copying a headline.
+That does not leave you stuck. It means building the figure up from what drives it, rather than lifting a headline from a market report.
 
-![The CORSIA market](/images/corsia/hero-corsia-market.svg)
+![Illustration of the CORSIA unit market](/images/corsia/hero-corsia-market.svg)
 
-## Why Voluntary Market Averages Are the Wrong Number
+## Start by discarding the voluntary average
 
-Published voluntary carbon market averages blend fundamentally incompatible products — old renewable energy credits with contested additionality, cookstove credits, forestry credits, engineered removals — across a price range spanning more than an order of magnitude.
+Averages published for the voluntary carbon market mix products that have little in common: old renewable energy credits whose additionality is disputed, cookstove credits, forestry, engineered removals. The spread between the cheapest and dearest runs well beyond a factor of ten. The average of that spread is not something you can actually buy.
 
-The average of that distribution describes nothing you can actually buy.
+For CORSIA it is worse, because eligible units come from a much smaller pool defined by criteria most of that supply fails. Using a voluntary average for a CORSIA budget is neither cautious nor bold. It measures something else.
 
-For CORSIA the problem compounds, because eligible units are drawn from a much smaller pool defined by criteria most of that supply does not meet. Benchmarking a CORSIA budget against a voluntary average is not conservative or aggressive; it is measuring a different thing.
+## The five things that set the price
 
-## Driver 1: The Corresponding Adjustment
-
-The single largest determinant of price.
-
-Under Article 6, authorising means the host State adds those tonnes back into its own accounting, forgoing them against its NDC. That is a real cost to the government, and governments price it — through fees, revenue-sharing arrangements, conditions on siting or benefit distribution, or simply by declining.
-
-The consequence is a two-tier market. **Identical units from the same project, differing only in whether they carry an adjustment, trade at materially different prices.**
-
-The premium is not a quality premium in any physical sense — the tonnes are the same tonnes. It is the price of a sovereign concession, plus scarcity.
-
-See [corresponding adjustments](/knowledge-base/corresponding-adjustments-article-6/).
-
-## Driver 2: Scarcity Against Demand
-
-Supply of adjusted units is constrained by government decisions. Demand is set by the phase structure and by traffic growth.
-
-Demand's direction is not in doubt: from 2027 mandatory participation expands route coverage, and from 2030 the individual growth factor increases obligations for faster-growing operators. **Demand rises on a known schedule.**
-
-Supply depends on decisions by dozens of governments that cannot be forecast with confidence. See [supply and demand outlook](/knowledge-base/corsia-supply-and-demand-outlook/).
-
-## Driver 3: Project Type
-
-Within eligible supply, type still matters:
-
-| Type | Relative price | Why |
+| Driver | Pushes price up when… | What to ask the seller |
 |---|---|---|
-| Engineered removals | Highest | High production cost, strong permanence |
-| Nature-based removals | High | Permanence and buffer arrangements affect pricing |
-| Methane avoidance | Moderate | Clean additionality, no permanence issue |
-| Cookstoves and household energy | Lower | Cheap to produce, methodological scrutiny |
-| Renewable energy | Lowest | Contested additionality in competitive markets |
+| Corresponding adjustment | The unit carries one | Show me the host-country authorisation |
+| Scarcity | Demand grows faster than adjusted supply | How much of this vintage is already committed? |
+| Project type | It is a removal, or has clean additionality | Which methodology, and has it been challenged? |
+| Vintage | It sits well inside the window for a busy period | What is the monitoring period on the registry record? |
+| Volume and deal structure | Parcel is small, delivery is spot, documents are complete | What exactly is in the evidence pack? |
 
-For CORSIA specifically, buyer preference is weaker than in the voluntary market — the operator needs discharge, not a story — so type premiums are compressed relative to voluntary pricing. But they have not vanished, partly because voluntary buyers competing for the same adjusted supply do care.
+### The adjustment is the biggest factor
 
-See [which projects qualify](/insights/carbon-projects-qualify-for-corsia/).
+When a host government authorises a corresponding adjustment under Article 6, it adds the tonnes back into its own accounts and gives them up against its national target. That costs the government something, and governments charge for it: fees, revenue shares, conditions on where projects go or how benefits are shared, or a plain refusal.
 
-## Driver 4: Vintage
+The result is two price tiers for what are physically the same tonnes. Units from one project, identical except for the adjustment, sell at clearly different prices. The difference is not a quality premium. It is the price of a sovereign concession plus scarcity. See [corresponding adjustments and Article 6](/knowledge-base/corresponding-adjustments-article-6/).
 
-Units near a window boundary carry a discount reflecting the risk that the window moves or the holder cannot place them in time. Units comfortably inside the window for a period with strong demand carry a premium.
+### Scarcity follows the scheme's timetable
 
-Windows have been adjusted before. That history cuts both ways for holders, and is why concentration in a single vintage year is a risk rather than a simplification.
+Adjusted supply depends on government decisions. Demand depends on the phase design and traffic growth, and it rises on a schedule anyone can read: wider route coverage when participation becomes mandatory from 2027, and heavier obligations for fast-growing operators once the individual growth factor applies from 2030. Supply offers no such timetable. The [supply and demand outlook](/knowledge-base/corsia-supply-and-demand-outlook/) goes into the imbalance.
 
-See [vintages and eligibility windows](/knowledge-base/corsia-vintages-and-eligibility-windows/).
+### Project type still counts, less than in voluntary markets
 
-## Driver 5: Volume and Structure
+Roughly, from dearest to cheapest among eligible supply: engineered removals (costly to produce, strong permanence); nature-based removals (priced partly on permanence and buffer arrangements); methane avoidance (clean additionality, no permanence issue); cookstoves and household energy (cheap to produce, under methodological scrutiny); and renewable energy (additionality contested where power markets are competitive).
 
-**Volume** attracts a discount, though illiquidity limits how far this goes — a seller with a small parcel of genuinely adjusted units has little pressure to discount.
+An airline needs discharge rather than a narrative, so these gaps are narrower in CORSIA than in voluntary pricing. They have not closed, partly because voluntary buyers chasing the same adjusted supply do care about type. Which types tend to qualify is discussed in [which carbon projects qualify for CORSIA](/insights/carbon-projects-qualify-for-corsia/).
 
-**Forward contracting** typically prices below spot, because the buyer absorbs delivery and authorisation risk. The discount is compensation for that risk and should be assessed as such rather than treated as a bargain.
+### Vintage position
 
-**Bundled documentation** can carry a premium genuinely worth paying. A seller delivering a complete, audit-ready evidence package saves the buyer real cost and real risk relative to one delivering a serial number and a certificate.
+Units close to the edge of a window trade at a discount, reflecting the chance that the window moves or that the holder cannot sell in time. Units well inside the window for a period with heavy demand command a premium. Windows have moved before, which is why holding one vintage year is a concentration of risk.
 
-## Building a Defensible Budget
+### Volume, structure and paperwork
 
-::: accordion 1. Model the volume properly first
-Price uncertainty is secondary to volume uncertainty for most operators. A requirement estimate that is 30% wrong dominates a price estimate that is 15% wrong. See [the requirement calculation](/knowledge-base/corsia-offsetting-requirement-calculation/).
-:::
+Large orders earn some discount, though thin supply limits it: a seller holding a small parcel of genuinely adjusted units is under little pressure. Forward contracts usually price below spot because the buyer takes on delivery and authorisation risk; treat that discount as payment for risk, not as a bargain. And a seller who hands over a complete, audit-ready evidence pack can justify a premium, because it saves the buyer real work and real risk compared with a serial number and a certificate.
 
-::: accordion 2. Build a range, not a point
-Low, central and high, with the assumptions stated. A single number in a board paper will be treated as a forecast and will be wrong.
-:::
+## Worked example: why volume matters more than price
 
-::: accordion 3. Anchor the range in actual transactions
-Not published averages. Actual quotes for actual adjusted units, of the vintage and type you would buy, in the volume you would buy. Getting those quotes is itself work, and it is the work that makes the budget defensible.
-:::
+An illustrative case, with no real prices. An operator estimates a requirement of 40,000 tonnes for the period and has quotes clustering around a central price C.
 
-::: accordion 4. Price the second-phase step change separately
-Do not extrapolate a trend line through 2027. Model the route coverage change against your actual network — the step is network-specific and can be large.
-:::
+- If the price turns out 15% higher than C, the extra cost equals 6,000 tonnes bought at C.
+- If the volume estimate is 30% low, the operator needs 12,000 more tonnes, and pays for them at whatever the market charges late in the period.
 
-::: accordion 5. Include transaction costs
-Due diligence, legal, registry fees, treasury and foreign exchange, and internal time. On a first cycle these are not trivial relative to the unit cost; at scale they amortise but do not disappear.
-:::
+The volume error costs twice as much before any late-buying premium is added. For most operators, getting the requirement right comes before haggling over price. The method is in [how the offsetting requirement is calculated](/knowledge-base/corsia-offsetting-requirement-calculation/).
 
-::: accordion 6. Model SAF as the alternative
-Qualifying fuel reduces the requirement directly. As unit prices rise, the comparison shifts. See [how SAF reduces your requirement](/knowledge-base/saf-and-corsia-offsetting-reduction/).
-:::
+## Building a budget that holds up
 
-::: accordion 7. State the risks explicitly
-Supply shortfall, vintage window movement, programme approval lapse, participation change. A budget without a risk section implies a confidence nobody has.
-:::
+1. **Fix the volume first**, with its own range.
+2. **Give the price as low, central and high**, with the assumptions written down. A single figure in a board paper gets treated as a forecast and will be wrong.
+3. **Base the range on real quotes** for adjusted units of the type, vintage and volume you would actually buy, not on published averages. Collecting those quotes is work, and it is what makes the budget defensible.
+4. **Model the 2027 step separately** against your own network. Do not draw a trend line through it; the jump depends on where you fly and can be large.
+5. **Add transaction costs**: diligence, legal, registry fees, treasury and foreign exchange, internal time. In a first cycle these are significant next to the unit cost.
+6. **Compare with SAF.** Eligible fuel reduces the requirement directly, and higher unit prices shift the balance. See [how SAF reduces your offsetting requirement](/knowledge-base/saf-and-corsia-offsetting-reduction/).
+7. **Name the risks**: supply shortfall, a vintage window moving, a programme losing approval, a change in State participation.
 
-## What a Budget Line Should Contain
+A finished budget line should show: unit cost as a range tied to stated assumptions; transaction costs; verification and compliance costs including internal data work; the 2027 step on your actual network; the individual growth effect from 2030 tied to fleet plans; sensitivities for the price doubling, the requirement coming in 30% higher, and a programme's approval lapsing; and a risk section. Close parallels to two of those three sensitivities have already happened, so they are not far-fetched.
 
-| Line | Note |
-|---|---|
-| Unit cost, as a range | Tied to stated supply and project-mix assumptions |
-| Transaction costs | Diligence, legal, registry fees, FX |
-| Verification and compliance | Annual fees plus internal data effort |
-| The 2027 step | Modelled against actual network, not extrapolated |
-| Individual growth effect from 2030 | Tied to fleet and network plans |
-| Sensitivity | Price doubling, requirement 30% higher, programme approval lapse |
-| Risk section | The four named risks above |
+## Ways to keep the cost down
 
-Two of those three sensitivity scenarios have close precedents. They are not remote.
+- Buy in instalments through the period instead of in the final rush with every other operator.
+- Contract forward where you are confident of the volume.
+- Spread purchases across programmes, host countries, project types and vintages.
+- Shrink the obligation. Fuel efficiency and eligible SAF both cut the requirement, and a tonne you do not owe costs nothing.
+- Calculate carefully. Cancelling more than you need earns no credit for later periods.
+- Pay for diligence. A cheap unit that turns out to be ineligible is the dearest one you can buy.
 
-## Strategies That Reduce Cost
-
-- **Buy progressively rather than at the deadline.** Averaging into a market beats competing with the whole sector in one window.
-- **Contract forward selectively** where you are confident in volume.
-- **Diversify** across programmes, host States, project types and vintages.
-- **Reduce the obligation.** Fuel efficiency and qualifying SAF both lower the requirement. A tonne not owed is a tonne not bought, at any price.
-- **Get the calculation right.** Over-cancelling does not bank credit for future periods.
-- **Invest in diligence.** A cheap unit that proves ineligible is the most expensive unit you can buy.
-
-## Where to Go Next
-
-- [Supply and demand outlook](/knowledge-base/corsia-supply-and-demand-outlook/) — the direction of travel
-- [The CORSIA market](/knowledge-base/corsia-market-structure/) — how you actually transact
-- [The requirement calculation](/knowledge-base/corsia-offsetting-requirement-calculation/) — the volume side
-- [How SAF reduces your requirement](/knowledge-base/saf-and-corsia-offsetting-reduction/) — the alternative
-
-DSTechnoverse builds CORSIA cost forecasts anchored in current transaction evidence rather than published averages. [Talk to our team](/contact/).
+If you need a CORSIA cost range you can defend to your board, we build them from current quotes, not published averages. [Talk to the desk](/contact/), or run a first estimate of your volume on our [calculator](/calculator/).

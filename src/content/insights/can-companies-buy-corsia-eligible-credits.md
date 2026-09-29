@@ -1,58 +1,66 @@
 ---
-title: "Can Companies Buy CORSIA-Eligible Carbon Credits? A Corporate Buyer’s Guide"
-excerpt: "CORSIA-eligible credits are held to a strict, airline-grade standard — and companies are increasingly buying them for voluntary claims. Whether non-airlines can buy them, why they would, and what the premium buys."
+title: "Can a Company That Is Not an Airline Buy CORSIA-Eligible Carbon Credits?"
+excerpt: "Yes. Nothing reserves CORSIA-eligible units for aircraft operators, and more corporate buyers now use them for voluntary claims. What the eligibility label guarantees, what it costs extra, and how to confirm it before signing."
 date: "2026-09-11"
 topic: "Buying Credits"
 tags: ["CORSIA eligible carbon credits","buy CORSIA eligible emissions units","high-integrity carbon credits","corporate carbon credits","corresponding adjustment","CORSIA-grade credits"]
 image: "/images/aviation-buyers/corporate-corsia-credits.svg"
 ---
 
-Here is a question more corporate sustainability teams are asking: the credits airlines have to buy for CORSIA are held to an unusually strict standard — can *we* buy those same credits for our own voluntary claims? The short answer is yes, and there is a growing, sensible reason to.
+The request usually arrives from a sustainability head who has read that airlines must buy a stricter kind of carbon credit, and wonders why their company is buying the ordinary kind. The answer to "can we buy the airline-grade units?" is yes. Whether you should depends on what your claim has to withstand.
 
-## What "CORSIA-Eligible" Means
+## No rule limits these units to airlines
 
-CORSIA-eligible credits are not a project type; they are a **quality bar**. To qualify, a credit must come from a crediting programme that ICAO has approved, meet the scheme's [eligibility criteria](/insights/corsia-eligible-emissions-units-explained/), fall within the right vintage window, and — for the first phase — carry a **corresponding adjustment** so the reduction is not counted twice. In effect, it is a credit that has already cleared several of the integrity checks that the broader voluntary market leaves to the buyer.
+CORSIA sets what an aircraft operator may surrender. It does not restrict who else may buy the same units. A cement company, a bank or a software firm can purchase CORSIA-eligible credits and retire them against a voluntary claim, in the same way it would retire any other credit.
 
-## Yes, Companies Can Buy Them
+What such a buyer gets is not a different kind of project. It is a unit that has already been through a filter.
 
-There is no rule confining CORSIA-eligible credits to airlines. A company can buy and retire them for a voluntary claim just as it would any other credit. What it is really buying is the **eligibility filter**: a unit that has passed an approval process and, ideally, carries a corresponding adjustment. For a corporate buyer, that is a way to sidestep much of the quality risk that plagues cheap voluntary credits.
+## What the filter checks
 
-## Why a Corporate Would Choose Them
+For a unit to count as CORSIA-eligible:
 
-Three reasons a serious buyer pays up for CORSIA-grade units:
+1. It must be issued by a crediting programme **approved by ICAO**. See [ICAO-approved crediting programmes](/knowledge-base/corsia-approved-crediting-programmes/) for what that approval means.
+2. It must satisfy the scheme's **eligibility criteria**, set out in our piece on [what actually qualifies](/insights/corsia-eligible-emissions-units-explained/).
+3. Its vintage must fall inside the permitted **window**.
+4. For the first phase, it must carry a **corresponding adjustment**, meaning the host country has removed that reduction from its own tally so it is not counted twice.
 
-| Reason | What it delivers |
-|---|---|
-| Integrity signal | Cleared a strict, recognised standard |
-| No double counting | Corresponding adjustment in place |
-| Audit resilience | Easier to defend to auditors and customers |
+In the voluntary market, most of those checks are left to the buyer. Here several have been done upstream.
 
-For a company whose climate claims will be scrutinised — by regulators, customers or investors — buying credits that overlap heavily with the [ICVCM Core Carbon Principles](/insights/icvcm-core-carbon-principles/) is a hedge against reputational risk.
+## Voluntary credit versus CORSIA-grade unit, side by side
 
-## The Premium — and When It Is Worth It
+| | Typical voluntary credit | CORSIA-eligible unit with adjustment |
+|---|---|---|
+| Who checked the programme | The buyer, if anyone | ICAO approval process |
+| Double-counting protection | Often absent | Corresponding adjustment in place |
+| Ease of defending to auditors | Depends on the project | Generally easier |
+| Supply | Broad | Narrow |
+| Price | Wide range | At a premium |
 
-CORSIA-eligible, corresponding-adjusted credits trade at a clear premium, precisely because the filters remove most of the supply — see [why CORSIA-grade credits cost more](/insights/why-corsia-grade-credits-premium/). Whether that premium is worth it depends on your purpose. For a low-stakes gesture, a well-rated ordinary voluntary credit may suffice. For a claim you will have to defend, the corresponding adjustment and eligibility pedigree are usually worth paying for.
+The overlap with the [ICVCM Core Carbon Principles](/insights/icvcm-core-carbon-principles/) is large, which is part of why companies facing scrutiny from investors, customers or regulators find these units attractive as a reputational hedge.
 
-## How to Buy Them
+## Is the premium worth paying?
 
-The mechanics are the same as any [carbon-credit purchase](/insights/how-to-buy-carbon-credits/): source through brokers, exchanges or developers, verify the programme approval and corresponding-adjustment status against the published source, and retire the units in your name with an evidence pack. The extra step is simply confirming CORSIA eligibility before you contract, since not every credit that claims it actually holds it.
+The filters remove most supply, so eligible units with an adjustment cost more. We explain the mechanics in [why CORSIA-grade credits command a premium](/insights/why-corsia-grade-credits-premium/).
 
-## Frequently Asked Questions
+A rough rule we use with clients:
 
-**Can non-airlines buy CORSIA-eligible carbon credits?** Yes — there is no restriction limiting them to airlines; companies can buy and retire them for voluntary claims.
+- **Low-stakes, internal or goodwill use:** a well-rated ordinary voluntary credit is usually enough.
+- **A public claim that will be audited or challenged:** the eligibility pedigree and adjustment are generally worth the extra.
 
-**Why would a company buy CORSIA-grade credits?** They have cleared a strict eligibility and (for the first phase) corresponding-adjustment standard, giving a stronger integrity signal and better audit resilience.
+There is also a practical point. A corporate buyer bidding for these units is competing with airlines that have a legal obligation to surrender them, so volumes can be hard to secure at short notice.
 
-**Are CORSIA-eligible credits more expensive?** Yes — the eligibility filters remove most supply, so corresponding-adjusted, CORSIA-eligible units trade at a premium.
+## Buying them without being misled
 
-**What is a corresponding adjustment?** An accounting step where the host country deducts the traded reduction from its own total, preventing the same tonne being counted twice.
+The purchase itself follows the normal route: brokers, exchanges or developers, then retirement in your organisation's name with an evidence pack. Our general [guide to buying carbon credits](/insights/how-to-buy-carbon-credits/) covers the steps.
 
-**How do I check a credit is really CORSIA-eligible?** Verify the crediting programme's approval and the unit's corresponding-adjustment status against the published source before purchasing — do not rely on the seller's claim.
+The step that must not be skipped is confirming eligibility yourself. Check the programme's approval and the unit's adjustment status against the published source before you contract. Sellers sometimes describe units as "CORSIA-eligible" when only the project type would qualify, not the specific vintage or batch.
 
----
+## Short answers
 
-**Buying carbon credits or measuring travel and freight emissions?** DSTechnoverse works on the data and integrity side of carbon — footprint measurement, project screening, registry and eligibility verification, and defensible reporting. See our [CORSIA carbon credit services](/services/) and [data analytics](https://dstechnoverse.com/services/data-analytics). We are based in **Indore, Madhya Pradesh** and work across India and internationally.
+**Are CORSIA-eligible credits only for airlines?** No. Any organisation can buy and retire them.
 
-[Apply as a carbon credit buyer or seller](https://carboncredit.dstechnoverse.com/)
+**What does a corresponding adjustment do?** The host country deducts the traded reduction from its own accounts, so the tonne is claimed once.
 
-[Talk to our team](/contact/), or start with [the complete carbon credits guide](/insights/corsia-carbon-credits-complete-guide/).
+**How do I verify eligibility?** Against the published programme approval and adjustment status, not the seller's description.
+
+If you are weighing a CORSIA-grade purchase for a voluntary claim, tell us the volume and how the claim will be used through our [contact page](/contact/). We will say plainly whether the premium makes sense for you.

@@ -1,65 +1,73 @@
 ---
-title: "Clean Cooking Carbon Credits: A Usage-Data Case Study"
-excerpt: "Cookstove credits have been criticised for over-crediting — and the fix is data. A case study in verifying real stove usage with sensors, sampling and conservative crediting behind a clean cooking programme."
+title: "Clean Cooking Carbon Credits Case Study: Testing Whether the Stoves Are Used"
+excerpt: "An anonymised, representative review of a clean cooking programme where the real question was usage, not distribution. How sensor logs, survey sampling and cautious crediting assumptions changed what the buyer relied on."
 date: "2026-09-05"
 topic: "Case Studies"
 tags: ["cookstove carbon credits","clean cooking","usage monitoring","digital MRV","additionality","Gold Standard"]
 image: "/images/carbon-case-studies/cookstove-usage-data.svg"
 ---
 
-Clean cooking is one of the most compelling stories in carbon markets — efficient cookstoves cut fuel use, indoor air pollution and emissions, often for some of the poorest households on earth. It is also one of the most criticised, because for years the credits leaned on an assumption that turned out to be shaky: that a stove distributed is a stove used, at the rate the methodology claimed. This representative case study shows how that assumption is now tested with data.
+The development case for efficient cookstoves is strong: less fuel collected or bought, cleaner air inside the home, lower emissions, often in very poor households. The carbon case has had a harder time. For years, credits were calculated as if every stove handed out was used every day in place of the old one. Many were not. That gap is where most of the category's over-crediting came from, and it is where this review focused.
 
-## The Problem in One Sentence
+## The brief
 
-**Distribution is not usage.** A cookstove handed out but not used, broken and not repaired, or used alongside the old stove rather than instead of it, produces far less reduction than a simple distribution count implies. Over-crediting in the category has almost always traced back to this gap. So the entire integrity question for a clean cooking credit is: *how do you know the stoves are actually being used, and by how much?*
+A buyer was looking at a clean cooking programme issued under a standard such as Gold Standard or Verra. On reach and co-benefits it looked good. We were asked a narrow question: does the **usage evidence** support the volumes, and are the crediting assumptions defensible?
 
-## The Engagement
+## Why distribution counts mislead
 
-A buyer was evaluating a clean cooking programme issued under a standard such as Gold Standard or Verra. The programme looked strong on reach and on the development story. Our mandate was narrow and exactly on the pressure point: assess the **usage evidence** and the crediting assumptions before the buyer relied on the volumes.
+A stove can be delivered and then:
 
-## How Real Usage Was Verified
+- sit unused because the family prefers the taste or speed of the old method
+- break and never be repaired
+- be used alongside the old stove, not instead of it, which is called **stacking**
 
-### Usage data, not distribution counts
+In each case the real reduction is smaller than the handover count suggests.
 
-We looked first for **usage measurement** rather than distribution numbers. The stronger programmes now combine **stove-use sensors** — devices that log cooking events — with structured usage surveys, so the usage rate is measured over time instead of assumed at handover. A programme that could only show how many stoves were distributed, with no usage evidence, was treated very differently from one that could show how many were still in regular use a year later.
+**An illustrative example.** Suppose a programme hands out 10,000 stoves and its methodology credits each one as if fully used. If a sound monitored sample showed only 60% in regular use a year later, credits calculated on the full 10,000 would overstate the usage-driven reduction by two-thirds (10,000 against 6,000). The figures are invented; the pattern is what reviewers look for.
 
-### Sampling design
+## What we tested
 
-You cannot instrument every household, so the credibility rests on the **sample**. We reviewed whether the monitored sample was statistically valid and randomly selected, or whether it was a convenient sample of the most accessible, best-supported households — which biases the usage rate upward. As covered in [digital MRV](/insights/dmrv-digital-monitoring-carbon-projects/), the sampling design usually carries more of the integrity than the sensors themselves.
+### Is usage measured, or assumed?
 
-### Conservative crediting
+Our first question was whether the programme measured use at all. Stronger programmes now pair **stove-use sensors**, which log cooking events, with structured household surveys, so the usage rate is tracked over time rather than fixed at handover. We treated a programme that could show stoves still in regular use a year on very differently from one that could only show how many were distributed.
 
-Finally, we examined the crediting assumptions — the fraction of non-renewable biomass, the stacking allowance (households using two stoves), and how silent or dropped-out devices were treated. The consistent theme was conservatism: where an assumption could go either way, the defensible choice is the one less likely to inflate the result.
+### Who was in the sample?
 
-## The Outcome
+No programme can put a sensor in every kitchen, so everything rests on the monitored sample. We checked whether it was random and statistically valid, or drawn from the households easiest to reach and best supported by field staff. The second kind pushes the usage rate up. In our experience the sample design often carries more of the credit's integrity than the sensors do, a point we expand on in [digital MRV](/insights/dmrv-digital-monitoring-carbon-projects/).
 
-The programme that could back its numbers with measured, well-sampled usage data was a different proposition from one relying on distribution counts, even at a higher price. The buyer proceeded on the evidenced usage, with the more conservative crediting assumptions applied, and treated the usage monitoring as an ongoing condition rather than a one-off check. Independent verification by the standard's accredited body closed the loop.
+### Which assumptions drive the tonnes?
 
-## Key Takeaways
+Three parameters did most of the work:
 
-- The whole integrity question in clean cooking is **usage**, not distribution.
-- Look for **sensor plus survey** evidence of usage over time, not a handover count.
-- The **sampling design** carries most of the credibility — insist it is statistically valid and randomised.
-- Prefer **conservative** crediting assumptions on non-renewable biomass and stove stacking.
+| Parameter | What it means | Direction we preferred |
+|---|---|---|
+| Fraction of non-renewable biomass | How much of the displaced wood would not have regrown | The more conservative value |
+| Stacking allowance | How much old-stove use continues | A realistic, not minimal, allowance |
+| Silent or dropped devices | Sensors that stop reporting or households that leave | Counted as not in use unless shown otherwise |
 
-## Frequently Asked Questions
+Where an assumption could reasonably go either way, we recommended the choice less likely to inflate the result.
 
-**Why were cookstove credits criticised?** Because many relied on distribution counts and optimistic usage assumptions, over-estimating the emissions actually avoided.
+## What the buyer did
 
-**What is stove stacking?** When a household uses a new efficient stove alongside its old one rather than replacing it, which reduces the real saving.
+A programme that can support its numbers with measured, properly sampled usage is a different product from one relying on handover counts, even at a higher price. The buyer proceeded on the evidenced usage with the more conservative assumptions applied, and made continued usage monitoring a condition of the relationship rather than a one-time check. Verification by the standard's accredited body completed the chain.
 
-**How is real usage measured now?** Through stove-use sensors that log cooking events, combined with usage surveys across a statistically valid sample.
+## What we would tell any clean cooking buyer
 
-**Does better data make cookstove credits trustworthy?** It addresses the central usage question; conservative assumptions and independent verification are still needed.
+1. Ask for usage data before you ask for price.
+2. Ask how the sample was chosen, and by whom.
+3. Ask how stacking and silent devices are handled.
+4. Treat monitoring as ongoing. Usage can fall after the first year.
 
-**Are clean cooking credits eligible for CORSIA?** They can be, where the programme and unit meet the scheme's eligibility and authorisation requirements.
+For background on why the category is debated, read [cookstove carbon projects: how they work and why they are contested](/insights/cookstove-carbon-projects-guide/). Cookstove units can be CORSIA-eligible where the programme and unit meet the scheme's eligibility and authorisation rules; our piece on [which projects qualify for CORSIA](/insights/carbon-projects-qualify-for-corsia/) covers that.
 
----
+## Short answers
 
-**Evaluating carbon credits across standards and project types?** DSTechnoverse works on the data and integrity side of carbon procurement — project screening, registry and eligibility verification, MRV and monitoring-data analysis, reconciliation and defensible reporting. See our [CORSIA carbon credit services](/services/) and [data analytics](https://dstechnoverse.com/services/data-analytics). We are based in **Indore, Madhya Pradesh** and work across India and internationally.
+**Why were cookstove credits criticised?** Reliance on distribution counts and optimistic usage assumptions.
 
-[Apply as a carbon credit buyer or seller](https://carboncredit.dstechnoverse.com/)
+**What is stacking?** Using the new stove alongside the old one, which reduces the real saving.
 
-[Talk to our team](/contact/), or start with [the complete carbon credits guide](/insights/corsia-carbon-credits-complete-guide/).
+**Does sensor data settle the question?** It addresses usage; conservative assumptions and independent verification are still needed.
 
-*This is an anonymised, representative case study that illustrates our approach. It does not identify any specific client, project, price or transaction.*
+If you hold or are offered clean cooking credits and want the usage evidence read by someone independent, [contact us](/contact/) with the monitoring report and sampling plan.
+
+*This case study is anonymised and representative. It illustrates our approach and does not identify any client, project, price or transaction.*

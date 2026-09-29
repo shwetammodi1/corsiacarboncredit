@@ -1,177 +1,146 @@
 ---
-title: "ESG Reporting and Carbon Credits: What You Must Disclose"
-excerpt: "How the major reporting frameworks treat carbon credits, why every credible one refuses to let credits substitute for reductions, what a defensible disclosure looks like, and the claim language that now attracts regulatory attention."
+title: "Carbon Credits in ESG Reports: How to Disclose Them Without Inviting Challenge"
+excerpt: "Every major framework says the same thing: report credits next to your emissions, never deducted from them, and never as a stand-in for cuts. What to disclose, which claims draw regulators, and how to prepare for assurance."
 date: "2026-09-06"
 topic: "Carbon Market Guides"
 tags: ["ESG reporting","carbon disclosure","net zero claims","SBTi","ISSB IFRS S2","BRSR","greenwashing"]
 image: "/images/carbon-credits/esg-frameworks-map.svg"
 ---
 
-Buying credits is the easy part. Saying something accurate about them afterwards, in a disclosure that will be read by investors, auditors and increasingly regulators, is where organisations create problems for themselves.
+The purchase order for carbon credits takes an afternoon. The paragraph about them in the annual report can take weeks, because that paragraph will be read by auditors, analysts, journalists and, more and more often, regulators. Most of the trouble we see with credits starts at the writing stage, not the buying stage.
 
-![Where carbon credits appear in reporting frameworks](/images/carbon-credits/esg-frameworks-map.svg)
+This note covers what the frameworks require, what a disclosure should contain, and how to prepare for the people who will test it.
 
-## The Rule Every Framework Shares
+## One rule, many frameworks
 
-| Framework | Treatment of credits |
+![Map of how the main reporting frameworks treat carbon credits](/images/carbon-credits/esg-frameworks-map.svg)
+
+The frameworks use different language but land in the same place.
+
+- **GHG Protocol.** Credits sit outside scope 1, 2 and 3 and are never netted against them.
+- **SBTi.** Credits cannot replace the reductions a target requires.
+- **ISSB / IFRS S2.** Expects disclosure of how credits are used, what type they are and their quality.
+- **CDP.** Credits purchased and retired are shown separately.
+- **India's BRSR.** Credits are disclosed under environmental attributes.
+- **CORSIA.** Cancelled units discharge a legal obligation; they are not a voluntary claim.
+
+Put simply: show credits beside your emissions, not subtracted from them.
+
+The reason is informational. A single "net" number hides whether a company cut its emissions or bought its way to the figure. Those are very different positions, and a reader is entitled to know which one they are looking at. A "net scope 1 after offsets" figure is a misstatement under the GHG Protocol for exactly this reason.
+
+## Why credits do not count as progress
+
+SBTi is the most explicit on this, and its view has become the general expectation. The logic runs in a fixed order:
+
+1. Cut absolute emissions across all three scopes, on a path consistent with the target.
+2. Only then deal with the residual emissions that genuinely cannot be eliminated, and for a net zero claim, deal with them using removals rather than avoidance credits.
+
+Credits bought on top of a reduction path, not in place of one, are known as **beyond value chain mitigation**. Frameworks encourage it. They do not count it towards the target.
+
+So a credit purchase does not move you closer to a science-based target. Reporting it as if it does is one of the easiest ways to attract a challenge.
+
+## What goes in the disclosure
+
+The more specific a disclosure is, the harder it is to attack. We suggest a minimum set, laid out here as a checklist to complete for each block of credits retired:
+
+- Tonnes retired
+- Project type and country or state
+- Crediting standard and methodology
+- Vintage
+- Removal or avoidance
+- Whether a corresponding adjustment was applied
+- Registry reference or serial range
+- The exact claim you are making on the strength of them
+
+### The same year, written two ways
+
+*Illustrative example; the company and figures are invented.* A mid-sized Indian manufacturer has cut its scope 1 and 2 emissions and wants to say so.
+
+**Version A:**
+
+> "We were carbon neutral in the reporting year."
+
+**Version B:**
+
+> "Absolute scope 1 and 2 emissions fell 12% against our base year. For 2,500 tCO2e of residual scope 1 emissions we retired 2,500 removal credits from a named agroforestry project in Maharashtra, issued under a named standard, recent vintage, with serial numbers listed in the annex. These credits are reported separately from our inventory and are not deducted from it."
+
+Version A is shorter and invites every question in the next sections. Version B answers most of them before they are asked. Disclosure rules are moving towards B.
+
+## Claims that attract regulators
+
+Advertising and consumer-protection regulators in several countries have acted against carbon-neutral claims. The cases share features.
+
+| Tends to draw attention | Tends to hold up |
 |---|---|
-| GHG Protocol | Reported outside the scopes, never netted against them |
-| SBTi | **Cannot substitute for required reductions** |
-| ISSB / IFRS S2 | Disclosure of use, type and quality expected |
-| CDP | Separate disclosure of credits purchased and retired |
-| India BRSR | Disclosed under environmental attributes |
-| CORSIA | A compliance obligation, not a voluntary claim |
+| "Carbon neutral" resting on avoidance credits, read by consumers as "no emissions" | A plain account of what was done, with quantities and credit types |
+| Credits of weak quality that the company never examined | Reduction and compensation reported as separate things |
+| Credits bought instead of cutting emissions | Standard, vintage and project named |
+| Product-level neutrality with an unclear boundary | A claim no larger than the evidence behind it |
+| Vague labels such as "climate positive" with no method stated | A stated methodology for any label used |
 
-The common thread: **credits are disclosed alongside emissions, never subtracted from them.**
+Brevity can look like concealment even when it is not intended that way. Detail is the defence.
 
-An organisation reporting a "net" figure after offsets is misreporting under the GHG Protocol, and the reason is that netting destroys information. A reader cannot distinguish an organisation that cut emissions from one that bought credits, and those represent very different positions.
+## Assurance: what the assurer will ask for
 
-## Credits Cannot Replace Reductions
+External assurance of sustainability data is increasingly expected and, in some places, required.
 
-The Science Based Targets initiative is the most explicit, and the position has become the mainstream expectation rather than a strict outlier.
+- **Limited assurance** is the usual starting point. The assurer says nothing came to their attention suggesting a material misstatement.
+- **Reasonable assurance** is a higher standard, closer to a financial audit opinion, and several regimes are heading towards it.
 
-The framing that most frameworks now use:
+On credits, an assurer will normally ask for the registry retirement records, the basis for the quantity claimed, and evidence behind any quality statement. If you cannot produce the serial numbers and your due diligence file, the disclosure cannot be supported. Gather this evidence when you retire the credits. Rebuilding it a year later rarely works.
 
-**Reduce first.** Deep, absolute emissions reduction across scopes 1, 2 and 3, on a trajectory consistent with the target.
+## India: BRSR and the CORSIA overlap
 
-**Then address residuals.** Only the emissions that genuinely cannot be eliminated are addressed with credits — and for net zero claims specifically, with **removals** rather than avoidance.
+BRSR, the Business Responsibility and Sustainability Report, applies to listed companies above defined thresholds, and BRSR Core requires assurance over specified attributes. Credits appear in the environmental section, and the same principles apply: gross emissions, credits separately, type and standard named.
 
-**Beyond value chain mitigation** is the term for credits bought in addition to, rather than instead of, a reduction pathway. It is encouraged; it is not counted toward the target.
+Companies that also carry a CORSIA obligation, such as Indian airlines, need to keep the two apart. A CORSIA cancellation discharges a legal duty and should be reported as compliance. Presenting the same units in the sustainability section as a voluntary achievement is a double claim on the same tonnes. The difference between the two markets is set out in [voluntary vs compliance carbon markets](/insights/voluntary-vs-compliance-carbon-markets/).
 
-The practical consequence for an organisation: **a credit purchase does not move you toward a science-based target.** If you are buying credits in place of reductions, no credible framework will recognise it, and disclosing it as progress invites challenge.
+## Getting the order right
 
-## What a Defensible Disclosure Contains
+Companies that end up with disclosures they can defend tend to follow the same sequence. The sequence matters more than any single step.
 
-Specificity is what makes a disclosure hard to attack. At minimum:
+| Step | What it involves | Why it comes here |
+|---|---|---|
+| 1. Measure | A full inventory with a documented boundary | Targets set on partial inventories get revised, which looks bad |
+| 2. Set a target | Absolute reductions, stated base year and path | It needs the inventory to rest on |
+| 3. Plan reductions | Named measures with expected contributions | A straight line to zero is a hope, not a plan |
+| 4. Reduce | Years of operational change | Nothing can be bought to speed this up |
+| 5. Address residuals | Credits for what is genuinely hard to cut; removals for net zero | Only meaningful once reduction is under way |
+| 6. Disclose | Reduction and compensation shown separately, with credit details | Needs everything above |
+| 7. Keep evidence | Retirement records, due diligence, boundary notes | Assurance will ask |
 
-| Element | Why |
-|---|---|
-| Quantity retired, in tonnes | The basic fact |
-| Project type and location | Lets a reader assess quality |
-| Standard and methodology | Establishes the rules applied |
-| Vintage | Recency matters for credibility |
-| Removal or avoidance | Determines what claim is supportable |
-| Corresponding adjustment status | The strongest double-counting protection |
-| Retirement serial numbers or registry reference | Makes it checkable |
-| The claim being made | Stated precisely rather than by label |
+The usual failure is to start at step 5, because it is the only step a purchase order can finish. A company that buys credits before it has measured properly has bought something it cannot describe accurately. Our [guide to scope 1, 2 and 3](/insights/ghg-accounting-scope-1-2-3-explained/) covers step 1.
 
-Compare two disclosures:
+## Common disclosure errors
 
-> "We achieved carbon neutrality in 2026."
+- Deducting credits from scope emissions.
+- Presenting credits as progress towards a science-based target.
+- Using "carbon neutral" without stating how it was reached.
+- Claiming CORSIA units as a voluntary achievement.
+- Giving no project detail, so neither readers nor assurers can judge quality.
+- Retiring credits in one year and claiming them in another.
+- Keeping no retirement evidence.
 
-> "We reduced absolute scope 1 and 2 emissions by 18% against our 2019 baseline. For residual emissions of 4,200 tCO2e we retired 4,200 removal credits from an afforestation project in Madhya Pradesh, verified under [standard], vintage 2025, registry serials available on request."
+## Who will ask what
 
-The second is longer, harder to write, and considerably harder to attack. It is also the direction disclosure requirements are moving.
+Anticipating the questions costs less than answering them under pressure.
 
-## Claim Language Under Scrutiny
+::: accordion From your assurer
+Show me the retirement records. How did you arrive at the quantity? What checks did you make on quality? Which boundary applies, and has it changed? Where do your emission factors come from?
+:::
 
-Consumer protection and advertising regulators in several jurisdictions have taken action over carbon neutrality claims, and the pattern in those cases is consistent.
+::: accordion From investors
+How much of the progress is reduction and how much compensation? What is happening to absolute emissions, not just intensity? How much of scope 3 is measured rather than estimated?
+:::
 
-**What attracts attention:**
+::: accordion From journalists
+Which projects? Have they been criticised? Removals or avoidance? Did anyone check the additionality case?
+:::
 
-- "Carbon neutral" based on avoidance credits, where a reader would understand it as emissions eliminated
-- Claims where the credits' quality is weak and the organisation did not check
-- Claims made instead of reduction rather than alongside it
-- Product-level neutrality claims where the accounting boundary is unclear
-- Vague terms — "climate positive", "net zero product" — without a stated methodology
+::: accordion From a regulator
+What exactly does the claim mean, and what supports it? Would an ordinary consumer read it the way you intend?
+:::
 
-**What is more defensible:**
+All of these can be answered if the work was done and the evidence kept. None can be answered after the fact from a single summary number. In our experience, the companies that handle scrutiny best are not those with the best figures but those that can explain their figures, including the estimated, uncertain or unflattering parts. A weakness you disclose does far less damage than one somebody else finds. Before you disclose anything, it is worth running the credits through a [quality assessment](/insights/carbon-credit-quality-assessment/).
 
-- Describing what was actually done, in quantities and types
-- Distinguishing reduction from compensation explicitly
-- Stating the standard, vintage and project
-- Making claims proportionate to the evidence
-
-The general principle: **the more specific the disclosure, the more robust it is.** Vagueness reads as concealment even when it is only brevity.
-
-## Assurance
-
-External assurance over sustainability information is increasingly expected and in some jurisdictions required.
-
-**Limited assurance** is the common starting point — the assurer states that nothing came to their attention suggesting the information is materially misstated.
-
-**Reasonable assurance** is a higher bar, closer to a financial audit opinion, and the direction of travel in several regimes.
-
-For carbon credits specifically, an assurer will typically want the retirement evidence from the registry, the basis for the quantity claimed, and evidence supporting any quality assertions made. An organisation that cannot produce the retirement serials and the underlying due diligence has a disclosure it cannot support.
-
-This is the same discipline as compliance verification: **capture the evidence at the time**, because reconstructing it later does not work.
-
-## The Indian Position
-
-**BRSR** — the Business Responsibility and Sustainability Report — applies to listed entities above defined thresholds, with BRSR Core requiring assurance over specified attributes.
-
-Carbon credits appear under environmental disclosure, and the same principles hold: report emissions gross, disclose credits separately, and be specific about type and standard.
-
-For organisations also subject to CORSIA, the two are distinct. **CORSIA cancellation discharges a legal obligation** and should be reported as compliance, not presented as a voluntary sustainability achievement. Reporting the same units in both places is a double claim.
-
-## Sequencing a Credible Programme
-
-Organisations that end up with defensible disclosures generally follow the same order, and the order matters more than the individual steps.
-
-**1. Measure first.** A complete inventory with a documented boundary, before any target is set. Targets set on incomplete inventories get revised, and revisions read badly.
-
-**2. Set a target grounded in the inventory.** Absolute reduction across the scopes that matter, on a stated trajectory and against a stated base year.
-
-**3. Build a reduction pathway.** Named interventions with expected contributions, not a straight line to zero. A pathway that cannot be decomposed into actions is an aspiration.
-
-**4. Reduce.** This is the part that takes years and cannot be accelerated by purchasing.
-
-**5. Address residuals with credits**, once the pathway is delivering and what remains is genuinely hard to abate. Removals for net zero claims.
-
-**6. Disclose specifically**, distinguishing reduction from compensation, with the credit detail set out.
-
-**7. Retain the evidence** — retirement records, due diligence, boundary documentation — because assurance will ask.
-
-The failure pattern is doing step 5 first, because it is the only step that can be completed with a purchase order. An organisation that buys credits before measuring properly has bought something it cannot describe accurately, and the disclosure problem follows from that rather than from the credits themselves.
-
-## Common Disclosure Errors
-
-| Error | Why it is a problem |
-|---|---|
-| Netting credits against scope emissions | Misreporting under every major framework |
-| Presenting credits as progress toward a science-based target | Not recognised; invites challenge |
-| "Carbon neutral" with no methodology stated | Increasingly attracts regulatory attention |
-| Claiming CORSIA units as a voluntary achievement | Double claim |
-| No project detail | Reader cannot assess quality; assurer cannot verify |
-| Retiring in one year, claiming in another | Timing mismatch between claim and retirement |
-| No retirement evidence retained | Cannot support the disclosure under assurance |
-
-## Preparing for Questions
-
-Whatever you disclose will be read by people whose job is to test it. Anticipating the questions is cheaper than answering them under pressure.
-
-**From an assurer:** show me the retirement evidence. How did you establish the quantity? What due diligence did you do on quality? Which boundary applies and did it change? Where are the emission factors from?
-
-**From an investor:** how much of your progress is reduction and how much is compensation? What is the trajectory on absolute emissions, not intensity? What proportion of scope 3 is measured rather than estimated?
-
-**From a journalist:** which projects, and have they been criticised? Are these removals or avoidance? Did you check the additionality argument?
-
-**From a regulator:** what does your claim mean precisely, and what evidence supports it? Would a reasonable consumer understand it the way you intend?
-
-Each of these is answerable if the work was done and the evidence retained. None is answerable retrospectively from a summary figure.
-
-The organisations that handle scrutiny well are not necessarily the ones with the best numbers. They are the ones that can explain their numbers — including the parts that are estimated, uncertain or unflattering. **Disclosed weakness is far more robust than discovered weakness.**
-
-## Frequently Asked Questions
-
-**Can I subtract carbon credits from my reported emissions?** No. Report gross emissions and disclose credits separately.
-
-**Do credits count toward a science-based target?** No. SBTi and comparable frameworks require reductions, with credits addressing residuals only.
-
-**Is "carbon neutral" still safe to claim?** It carries regulatory risk in several jurisdictions, particularly when based on avoidance credits without a clear methodology. Describing what you did is safer than using the label.
-
-**What is beyond value chain mitigation?** Credits purchased in addition to a reduction pathway rather than instead of it. Encouraged, but not counted toward targets.
-
-**Do I need assurance over credit disclosures?** Increasingly expected, and required in some regimes. Retain retirement evidence and due diligence regardless.
-
-**How do CORSIA units appear in ESG reporting?** As a compliance obligation discharged, not as a voluntary claim. They are not available for both.
-
-**What should I disclose about credit quality?** Type, standard, methodology, vintage, removal or avoidance, corresponding adjustment status, and retirement reference. See [carbon credit quality assessment](/insights/carbon-credit-quality-assessment/).
-
----
-
-**Measuring, reporting or disclosing emissions and credits?** DSTechnoverse works on the data side of carbon and environmental compliance — monitoring design, reconciliation, verification support and defensible reporting. See our [CORSIA carbon credit services](/services/) and [data analytics](https://dstechnoverse.com/services/data-analytics). We are based in **Indore, Madhya Pradesh** and work across India and internationally.
-
-[Apply as a CORSIA buyer or seller](https://carboncredit.dstechnoverse.com/)
-
-[Talk to our team](/contact/), or start with [the complete carbon credits guide](/insights/corsia-carbon-credits-complete-guide/).
+If your next report will mention credits and you want the wording and the evidence checked before it goes to the assurer, [send us the draft](/contact/). We will tell you which sentences are likely to be questioned.

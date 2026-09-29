@@ -1,121 +1,93 @@
 ---
-title: "The CORSIA Emissions Monitoring Plan: What It Must Contain"
-excerpt: "The EMP is the document everything else depends on. What it must specify, how national authorities assess it, when it must be revised, and the method-selection mistake that surfaces a year later when it cannot be fixed."
+title: "CORSIA Emissions Monitoring Plan (EMP): Contents, Approval and Revisions"
+excerpt: "Every CORSIA figure an operator reports is judged against its Emissions Monitoring Plan. What the plan has to cover, the questions an authority will put to it, when it must be revised, and how to test the method before you commit."
 section: "Monitoring, Reporting & Verification"
 order: 10
 image: "/images/corsia/corsia-mrv-cycle.svg"
 ---
 
-The Emissions Monitoring Plan is the document everything else rests on. A defective plan is not a paperwork problem — it produces a year of data that cannot be verified, discovered at a point when the year is closed and the missing information cannot be recreated.
+When a verifier opens an operator's CORSIA file, the first document they read is not the emissions report. It is the Emissions Monitoring Plan, because the report is judged against it. If the plan promised something the operator never did, or described data the operator never captured, the year's figures cannot be verified, and by then the year is over and the missing records cannot be recreated.
 
-![The CORSIA MRV cycle](/images/corsia/corsia-mrv-cycle.svg)
+![Diagram of the CORSIA monitoring, reporting and verification cycle](/images/corsia/corsia-mrv-cycle.svg)
 
-## What the EMP Is
+## What kind of document it is
 
-The EMP is a formal document submitted to your national authority describing exactly how you will monitor and report CO2 emissions from international flights. It must be **approved before monitoring begins**, and monitoring must then follow it.
+The EMP is a formal submission to the national authority (the DGCA, for an Indian operator) setting out exactly how the operator will monitor and report CO2 from its international flights. Two rules govern it:
 
-It is a controlled document. Changing how you monitor without updating and re-approving the plan creates a mismatch between what you said you would do and what you did — which is precisely what verification tests.
+- it has to be **approved before monitoring starts**;
+- monitoring then has to **follow it**.
 
-## What It Must Contain
+Treat it as a controlled document. If monitoring practice changes and the plan is not updated and re-approved, there is a gap between what you said and what you did, and that gap is exactly what a verifier looks for.
 
-| Section | What it specifies |
-|---|---|
-| Operator identification | Legal entity, Air Operator Certificate, ICAO designator, State |
-| Fleet | Aeroplane types, registrations, MTOM, ownership and lease status |
-| Scope | How flights are classified international/domestic, in/out of scope |
-| Monitoring method | Which fuel use method, and why it suits your data |
-| Data sources | The specific systems and documents each figure comes from |
-| Data flow | How data moves from source to report, including any transformations |
-| Roles | Who is responsible for each step, with named functions |
-| Quality control | Checks, reconciliation rules, review and sign-off |
-| Data gaps | The procedure for filling gaps, defined in advance |
-| CORSIA Eligible Fuels | If claimed, how the fuel and chain of custody are evidenced |
-| Version control | Revision history and approval status |
+## What goes in it
 
-## The Method Choice Is the Critical Decision
+We find it easiest to organise the contents around four questions.
 
-ICAO permits several fuel use monitoring methods. They are not equivalent in what they demand of your systems.
+**Who is reporting?**
+- The legal entity, its Air Operator Certificate, ICAO designator and State.
+- The fleet: aeroplane types, registrations, maximum certificated take-off mass, and whether each is owned or leased.
 
-::: accordion The failure mode, stated plainly
-A method is selected because it appears simplest, or because another operator uses it, or because it looked defensible in a proposal. The plan is approved. Monitoring runs for a year.
+**Which flights count?**
+- The rule for classifying each flight as domestic or international, and as in or out of scope.
 
-At verification, it emerges that the required data was never captured at the necessary granularity — the tank readings were not recorded at block times, or the uplift dockets do not reconcile to the flight list, or the system that was supposed to hold the figures does not retain them.
+**How is fuel measured?**
+- The fuel use monitoring method chosen, and why it suits the operator's data.
+- The specific system or document behind every figure.
+- The path each figure takes from source to report, including any conversions or transformations.
+- If CORSIA Eligible Fuels are claimed, how the fuel and its chain of custody will be evidenced.
 
-The reporting year is closed. The data cannot be recreated. The options at that point are all bad.
-:::
+**How is it controlled?**
+- Who does each step, identified by function.
+- Checks, reconciliation rules, review and sign-off.
+- The procedure for filling data gaps, written in advance.
+- Revision history and approval status.
 
-::: accordion How to avoid it — test before you choose
-Pull a sample month of real data before selecting. Try to produce the figures the method demands, from the systems you actually have, without manual reconstruction.
+## Choosing the method: test it on a real month
 
-If you cannot do it for one month with the pressure off, you will not do it for twelve months under a deadline. Choose a method your data supports, even if it is less elegant.
-:::
+ICAO allows several fuel use monitoring methods, and they ask very different things of an operator's systems. Choosing the wrong one is the most expensive EMP mistake because it stays hidden for a year.
 
-Full comparison in [fuel monitoring methods compared](/knowledge-base/corsia-fuel-monitoring-methods/).
+The usual pattern: a method is picked because it looks simplest, or another airline uses it, or it read well in a proposal. The plan is approved and a year of monitoring runs. At verification it turns out the data was never captured at the level the method needs. Tank readings were not recorded at block times, or uplift dockets do not tie back to the flight list, or the system meant to hold the figures does not retain them.
 
-## How Authorities Assess the Plan
+**The test we use.** Before committing, take one real month and try to produce every figure the method demands from the systems the operator actually has, with no manual rebuilding. If that cannot be done for one month without deadline pressure, it will not be done for twelve months with it. Pick the method the data supports, even if it is the less elegant choice. The methods are compared in [fuel monitoring methods](/knowledge-base/corsia-fuel-monitoring-methods/).
 
-National authorities review for completeness, internal consistency and plausibility. Typical areas of challenge:
+## What the authority will ask
 
-- **Method justification.** Why this method, given your fleet and systems?
-- **Data source specificity.** "Our fuel system" is not a data source. Name it.
-- **Scope logic.** How exactly is a flight classified? Can it be applied consistently?
-- **Gap procedures.** Defined in advance, or left to be decided later?
-- **Roles.** Named functions with real authority, or a diagram?
-- **Fleet completeness.** Does the aeroplane list match the operating certificate?
+Authorities review the plan for completeness, internal consistency and plausibility. The same challenges come up repeatedly:
 
-Approval practice varies by authority. Familiarity with the specific regulator's expectations has real value, which is one of the few genuinely local aspects of CORSIA work.
+| Area | Weak answer | Answer that passes |
+|---|---|---|
+| Method | "Chosen as industry standard" | Why it fits this fleet and these systems, with the sample test described |
+| Data sources | "Our fuel system" | The named system, the field used and who owns it |
+| Scope logic | A general statement | A rule that anyone could apply to a flight and get the same result |
+| Data gaps | "Will be estimated if needed" | A defined estimation method, fixed before any gap occurs |
+| Roles | An organisation chart | Named functions with real authority over each step |
+| Fleet | A list from memory | A list that matches the operating certificate exactly |
 
-## When the Plan Must Be Revised
+Approval practice differs between authorities, and knowing a particular regulator's expectations is one of the few parts of CORSIA work that is truly local. The DGCA relationship for Indian operators is covered in [CORSIA in India](/knowledge-base/corsia-in-india/).
 
-The EMP is not written once. It must be updated and re-approved when:
+## When the plan has to be revised
 
-- A new aeroplane type joins the fleet
-- The monitoring method changes
-- A source system is replaced or materially reconfigured
-- The operator's scope changes — new international routes, threshold crossing
-- Errors or verification findings reveal the plan does not match practice
-- Organisational change moves responsibility for a step
+Update the plan and get it re-approved when:
 
-::: accordion The version-control trap
-Verification tests your reporting against the plan **that was in force during the reporting period**. If the plan was revised mid-year, both versions matter, and you need to be able to show which applied when.
+- a new aeroplane type enters the fleet;
+- the monitoring method changes;
+- a source system is replaced or significantly reconfigured;
+- scope changes, for example new international routes or crossing the threshold;
+- errors or verification findings show the plan and practice have diverged;
+- a reorganisation moves responsibility for a step.
 
-Operators who keep only the current version, overwriting as they go, cannot answer that question. Keep every version with its approval date.
-:::
+**Keep every version.** A verifier tests each reporting period against the plan that was in force during it. If the plan changed mid-year, both versions apply, each to its own months. An operator that overwrote the old version cannot show which rules applied when. Store each version with its approval date.
 
-## Practical Advice
+## Drafting principles
 
-**Write it against reality, not aspiration.** A plan describing an idealised process you do not actually follow guarantees verification findings. Describe what you will genuinely do.
+- **Describe what you will really do.** An idealised process the team does not follow guarantees findings.
+- **Name one authoritative system per figure** and say what happens when two sources disagree. This is the most useful section of a good plan and the one most often left vague.
+- **Write the gap procedure before you need it.** A method fixed in advance and applied consistently can be defended. An estimate invented after the gap appears cannot.
+- **Use job titles, not names.** "Head of Flight Operations" survives staff turnover; a person's name does not.
+- **Build around what systems produce automatically.** A plan that needs heavy manual work each year will degrade.
 
-**Make the data flow explicit.** The most useful part of a good EMP is a clear statement of which system is authoritative for each field, and what happens when two disagree. This is also the part most often left vague.
+## Before you submit
 
-**Define gap procedures before you need them.** A documented estimation method applied consistently is defensible. An ad hoc estimate invented after a gap appears is not.
+Run one final test: give the plan to someone outside the monitoring team and ask them to trace one reported figure from source data to the report using only the document. If they need to ask you anything, the plan is not finished. The wider cycle the plan starts is explained in [CORSIA MRV explained](/knowledge-base/corsia-mrv-explained/), and how scope decisions feed into the plan in [scope and thresholds](/knowledge-base/corsia-scope-and-thresholds/). The underlying requirements are in Annex 16, Volume IV, available from [ICAO](https://www.icao.int/environmental-protection/CORSIA/Pages/default.aspx).
 
-**Name functions, not people.** Individuals leave. "Head of Flight Operations" survives turnover in a way that a personal name does not.
-
-**Keep it maintainable.** A plan requiring heroic manual effort each year will degrade. One built around what your systems produce automatically will hold up.
-
-## A Review Checklist
-
-Before submitting, work through these:
-
-1. Does every aeroplane on the operating certificate appear in the fleet list?
-2. Is the classification logic for in-scope flights written so a new employee could apply it identically?
-3. For each reported figure, is exactly one system named as authoritative?
-4. Have you tested the chosen method against a real sample month?
-5. Is the reconciliation rule for each known discrepancy written down?
-6. Is the data gap procedure specific enough to apply without further judgement?
-7. Are roles named as functions rather than individuals?
-8. Is there a version history, and does it record approval dates?
-9. If you claim CORSIA Eligible Fuels, is the chain-of-custody evidence path specified?
-10. Could a verifier follow the document from source data to reported figure without asking you anything?
-
-## Where to Go Next
-
-- [Fuel monitoring methods compared](/knowledge-base/corsia-fuel-monitoring-methods/) — the method decision
-- [CORSIA MRV explained](/knowledge-base/corsia-mrv-explained/) — the cycle the EMP starts
-- [CORSIA scope and thresholds](/knowledge-base/corsia-scope-and-thresholds/) — defining the scope section
-- [CORSIA in India](/knowledge-base/corsia-in-india/) — DGCA as approving authority
-
-Requirements are set out in Annex 16 Volume IV, published by [ICAO](https://www.icao.int/environmental-protection/CORSIA/Pages/default.aspx).
-
-DSTechnoverse develops and reviews Emissions Monitoring Plans, testing method choice against your actual data before submission. [Talk to our team](/contact/).
+We draft and review monitoring plans, and we run the sample-month test against your own data before anything goes to the authority. See our [services](/services/) for how that engagement works.

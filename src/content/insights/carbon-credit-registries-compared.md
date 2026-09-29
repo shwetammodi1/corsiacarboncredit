@@ -1,60 +1,78 @@
 ---
-title: "Carbon Credit Registries Compared: Verra, Gold Standard, ACR & More"
-excerpt: "Verra, Gold Standard, ACR, ART-TREES, Global Carbon Council — the major carbon credit registries compared. What each is known for, which project types they suit, and how to choose the right standard."
+title: "Carbon Credit Registries Compared: Choosing Between Verra, Gold Standard and Others"
+excerpt: "A side-by-side look at Verra, Gold Standard, ACR, ART-TREES and the Global Carbon Council: what each is known for, which projects fit where, how to look a credit up, and why the registry name never settles quality."
 date: "2026-09-07"
 topic: "Carbon Market Guides"
 tags: ["carbon credit registries","Verra vs Gold Standard","carbon standards","ACR carbon registry","ART-TREES","Global Carbon Council"]
 image: "/images/carbon-guides/carbon-registries-compared.svg"
 ---
 
-Every carbon credit is issued and tracked by a **registry** run by a carbon **standard** — the body that sets the rules, approves methodologies, and records issuance and retirement. Which standard a credit comes from tells you a lot about its rules, its typical project types and how buyers perceive it. Here is a plain-English comparison of the major ones.
+"Which registry is it on?" is usually one of the first questions we ask about a credit, and one of the first decisions a developer makes. The answer tells you whose rules the project follows, what kinds of projects sit alongside it, and how buyers are likely to see it. It does not tell you whether the credit is any good. Both halves of that matter.
 
-## Why the Standard Matters
+## Standard and registry: the working distinction
 
-The standard is the credit's rulebook. It defines what counts as additional, how baselines are set, how permanence is handled, and what a serial number means. Two credits from different registries are not directly interchangeable, and compliance schemes such as CORSIA only accept credits from **approved** programmes. So "which registry?" is one of the first questions a buyer or developer answers.
+A **standard** writes the rules: which methodologies exist, what counts as additional, how baselines are set and how permanence is handled. The **registry** is the system the standard runs to issue credits, give each one a serial number, and record every transfer and retirement. Most standards run their own registry, so the names are used interchangeably in conversation.
 
-## The Major Registries at a Glance
+Credits from different registries are not interchangeable. Each serial number means something under its own rulebook. Compliance schemes such as CORSIA also accept only units from **approved** programmes, which narrows the field before quality even comes up. Our longer piece on [carbon credit standards](/insights/carbon-credit-standards-explained/) covers how standards work internally.
 
-| Registry / standard | Best known for | Notes |
+## Five registries in brief
+
+::: accordion Verra (VCS)
+The largest voluntary registry, with the widest range of project types: forestry, renewables, cookstoves and more. Size gives buyers the most choice. It also attracts the most scrutiny.
+:::
+
+::: accordion Gold Standard
+Focused on development benefits and integrity. Strong on community and SDG outcomes, and a common home for cookstove programmes.
+:::
+
+::: accordion ACR (American Carbon Registry)
+US-based, with a long record and a background in compliance markets. Used in compliance settings.
+:::
+
+::: accordion ART-TREES
+Built for jurisdictional REDD+: forest programmes that cover a whole jurisdiction rather than a single project area.
+:::
+
+::: accordion Global Carbon Council (GCC)
+Originated in the Middle East, covering renewables and other types. CORSIA-approved, though eligibility still has to be checked methodology by methodology.
+:::
+
+Other credible programmes exist, including national schemes. Buyers who are cautious often keep a standing list of programmes they will not buy from. That is normal practice, not a sign of trouble.
+
+## Which registry suits which project
+
+| If the project is... | Registries developers usually look at | What to check |
 |---|---|---|
-| **Verra (VCS)** | The largest voluntary registry; broad scope | Covers forestry, renewables, cookstoves and more; scale brings both choice and scrutiny |
-| **Gold Standard** | Development co-benefits and high-integrity focus | Strong on community and SDG outcomes, common for cookstoves |
-| **ACR** | US-based, compliance heritage | American Carbon Registry; long track record, used in compliance contexts |
-| **ART-TREES** | Jurisdictional REDD+ forestry | Designed for whole-jurisdiction forest programmes |
-| **Global Carbon Council (GCC)** | Middle East origin; renewables and more | CORSIA-approved; verify methodology-level eligibility |
+| Forest protection across a state or country | ART-TREES | Jurisdictional structure and government involvement |
+| Cookstoves or household energy | Gold Standard or Verra | Usage monitoring requirements |
+| Broad voluntary project types | Verra | Methodology version and any revisions |
+| Renewables | Depends on methodology | Many renewable methodologies are restricted; confirm eligibility before committing |
+| Aimed at CORSIA buyers | An ICAO-approved programme | Methodology-level eligibility and host-country authorisation |
 
-Other credible programmes exist (including national and premium VER programmes), and some registries are deliberately excluded by cautious buyers — so a standing exclusion list is normal on the buyer side.
+For a buyer the logic starts from the other end. Decide what the credits are **for**. A compliance use restricts you to approved programmes and authorised units, so eligibility does much of the filtering. A voluntary claim leaves more choice and more responsibility, because no registry name is a quality guarantee.
 
-## How to Choose the Right Standard
+## Looking a credit up yourself
 
-### If you are a buyer
+Registries are public in most respects, and a lookup takes minutes. Before talking price:
 
-Start from your **purpose**. For a compliance use such as CORSIA, you are limited to approved programmes and authorised units, so eligibility narrows the field for you. For a voluntary claim, you have more freedom but more responsibility — the registry name alone is not a quality guarantee, so run [offset quality due diligence](/insights/evaluating-carbon-offset-quality-airlines/) whatever the standard.
+1. Ask the seller for the registry name, the project ID and the serial number range.
+2. Find the project on the registry and confirm its methodology, location and crediting period.
+3. Check the verification history for the vintage on offer.
+4. Confirm the units are issued, not retired, and held by the seller.
+5. Save a copy of what you found, dated.
 
-### If you are a developer
+A seller who resists this is telling you something. Few buyers do this first step, which is surprising given how cheap it is.
 
-Choose the standard whose **methodologies fit your activity** and whose credits your target buyers will accept. A forestry jurisdiction leans toward ART-TREES; a cookstove programme toward Gold Standard or Verra; a renewables project must check methodology-level eligibility carefully because many renewable methodologies are restricted.
+## The label is not the verdict
 
-## A Common Misconception
+People often say "it's a Verra credit" or "it's Gold Standard" as though that closes the quality question. It does not. Every major registry has issued both excellent and weak credits, because quality belongs to the **individual project**: its additionality, baseline and permanence. The registry sets the floor. The project determines the value. That is why the [quality checks](/insights/carbon-credit-quality-assessment/) apply whichever registry a credit sits on.
 
-"It's a Verra credit" (or a Gold Standard credit) is often said as if it settles the quality question. It does not. Every major registry issues both excellent and weak credits, because quality is a property of the **specific project** — its additionality, baseline and permanence — not just the logo on the certificate. The standard sets the floor; the project determines the value.
+## Short answers
 
-## Frequently Asked Questions
+**Which registry is best?** None in general. It depends on the project type and, for buyers, on purpose and required eligibility.
 
-**What is a carbon credit registry?** The system, run by a carbon standard, that sets the rules, approves methodologies and records the issuance, transfer and retirement of credits.
+**Are they all accepted for CORSIA?** Only ICAO-approved programmes, and only units meeting CORSIA's criteria. Check the current list at the time of purchase; our knowledge base page on [approved crediting programmes](/knowledge-base/corsia-approved-crediting-programmes/) explains what approval covers.
 
-**What is the difference between Verra and Gold Standard?** Verra (VCS) is the largest voluntary registry with the broadest scope; Gold Standard emphasises development co-benefits and is common for cookstove and community projects.
+**Does a registry guarantee quality?** No. It sets rules and records units.
 
-**Which carbon standard is best?** There is no single best — the right standard depends on the project type and, for buyers, on the purpose and required eligibility. Quality varies within every standard.
-
-**Are all these registries accepted for CORSIA?** Only programmes ICAO has approved, and only units meeting CORSIA's criteria, are eligible — always verify against the live approved list.
-
-**Does the registry guarantee credit quality?** No. It sets the rules and records the units, but quality depends on the specific project's additionality, baseline and permanence.
-
----
-
-**Buying, selling or evaluating carbon credits?** DSTechnoverse works on the data and integrity side of carbon procurement — project screening, registry and eligibility verification, MRV and monitoring-data analysis, reconciliation and defensible reporting. See our [CORSIA carbon credit services](/services/) and [data analytics](https://dstechnoverse.com/services/data-analytics). We are based in **Indore, Madhya Pradesh** and work across India and internationally.
-
-[Apply as a carbon credit buyer or seller](https://carboncredit.dstechnoverse.com/)
-
-[Talk to our team](/contact/), or start with [the complete carbon credits guide](/insights/corsia-carbon-credits-complete-guide/).
+If you are a developer deciding where to register, or a buyer who wants a registry record checked before you sign, [the desk can help](/contact/).
