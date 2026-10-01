@@ -91,6 +91,6 @@ Each scheme has its own documentation rules, and meeting one does not automatica
 - **Double claiming.** Announcing carbon neutrality on the back of units already cancelled for CORSIA counts the same tonnes twice, and disclosure regulators are increasingly watching for it.
 - **Judging SAF on one scheme.** Looked at alone, it seems dearer than it is.
 
-The official sources are [ICAO's CORSIA pages](https://www.icao.int/environmental-protection/CORSIA/Pages/default.aspx) and the European Commission's [EU ETS aviation pages](https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/reducing-emissions-aviation_en). For the basics of CORSIA on its own, start with [what is CORSIA](/knowledge-base/what-is-corsia/).
+The official sources are [ICAO's CORSIA pages](https://www.icao.int/environmental-protection/CORSIA/Pages/default.aspx) and the European Commission's [EU ETS aviation pages](https://climate.ec.europa.eu/areas-action/transport-decarbonisation/reducing-emissions-aviation_en). For the basics of CORSIA on its own, start with [what is CORSIA](/knowledge-base/what-is-corsia/).
 
 If your network touches more than one of these schemes, we can map the exposure route by route and help set up the shared data behind it. [Write to us](/contact/) with a list of your routes.

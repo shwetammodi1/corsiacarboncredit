@@ -15,6 +15,10 @@ const projects = readJSON("data/projects.json");
 const service = readJSON("data/corsia-service.json");
 const AVIATION_IMG = "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=2000&q=70";
 const u = (id, w = 2000) => `https://images.unsplash.com/photo-${id}?auto=format&fit=crop&w=${w}&q=72`;
+
+// Responsive Unsplash images: same photo at several widths.
+const atW = (url, w) => url.replace(/([?&])w=\d+/, `$1w=${w}`);
+const srcset = (url, widths) => widths.map((w) => `${atW(url, w)} ${w}w`).join(", ");
 const PHOTOS = {
   impact: u("1473448912268-2022ce9509d8"),
   marketplace: u("1542273917363-3b1817f69a2d", 1400),
@@ -48,12 +52,22 @@ function emit(urlPath, html) {
 const dateLong = (d) => new Date(d + "T00:00:00Z").toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric", timeZone: "UTC" });
 
 // ---------------------------------------------------------------- components
-const sdgTiles = (list) => `<div class="sdgs" aria-label="Sustainable Development Goals">${list
-  .map((n) => `<span class="sdg" style="background:${sdgs[n][1]}" title="SDG ${n}: ${esc(sdgs[n][0])}">${n}</span>`).join("")}</div>`;
+// SDG tiles keep the official UN colours; text switches to dark ink where white would fall below 4.5:1.
+const luminance = (hex) => {
+  const c = [1, 3, 5].map((i) => parseInt(hex.slice(i, i + 2), 16) / 255).map((v) => (v <= 0.03928 ? v / 12.92 : ((v + 0.055) / 1.055) ** 2.4));
+  return 0.2126 * c[0] + 0.7152 * c[1] + 0.0722 * c[2];
+};
+const sdgStyle = (n) => {
+  const bg = sdgs[n][1];
+  const onWhite = 1.05 / (luminance(bg) + 0.05);
+  return `background:${bg};color:${onWhite >= 4.5 ? "#fff" : "#10261f"}`;
+};
+const sdgTiles = (list) => `<div class="sdgs" role="list" aria-label="Sustainable Development Goals">${list
+  .map((n) => `<span class="sdg" role="listitem" style="${sdgStyle(n)}" title="SDG ${n}: ${esc(sdgs[n][0])}" aria-label="SDG ${n}: ${esc(sdgs[n][0])}">${n}</span>`).join("")}</div>`;
 
 const projectCard = (p, i = 0) => `<a class="pcard" href="/marketplace/${p.slug}/" data-i="${i}" data-cat="${esc(p.category)}" data-reg="${esc(p.registry)}" data-status="${p.status}" data-price="${p.price}" data-vol="${p.volume}" data-vintage="${p.vintage}" data-name="${esc(p.name)}" data-search="${esc([p.name, p.developer, p.country, p.registry, p.category, p.methodology, p.projectType].join(" ").toLowerCase())}">
   <div class="pcard__img">
-    <img src="${p.image.replace("w=1200", "w=700")}" alt="" loading="lazy" decoding="async">
+    <img src="${atW(p.image, 700)}" srcset="${srcset(p.image, [400, 700])}" sizes="(max-width: 640px) 100vw, (max-width: 1000px) 50vw, 400px" alt="" loading="lazy" decoding="async">
     <span class="pcard__cat">${esc(p.category)}</span>
     <span class="pcard__status pill pill--${p.status}">${p.status}</span>
   </div>
@@ -77,7 +91,7 @@ const articleCard = (a, base) => `<a class="acard" href="/${base}/${a.slug}/" da
   <p>${esc(a.excerpt)}</p>
 </a>`;
 
-const phead = ({ crumbs, eyebrow, title, lede, extra = "", img }) => `<section class="phead${img ? " phead--img" : ""}">${img ? `<div class="phead__img"><img src="${img}" alt="" fetchpriority="high"></div>` : ""}<div class="wrap">
+const phead = ({ crumbs, eyebrow, title, lede, extra = "", img }) => `<section class="phead${img ? " phead--img" : ""}">${img ? `<div class="phead__img"><img src="${atW(img, 1400)}" srcset="${srcset(img, [600, 900, 1400])}" sizes="(max-width: 900px) calc(100vw - 32px), 46vw" alt="" fetchpriority="high"></div>` : ""}<div class="wrap">
   ${crumbs ? `<nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a>${crumbs.map((c) => `<span>/</span>${c.href ? `<a href="${c.href}">${esc(c.label)}</a>` : `<span>${esc(c.label)}</span>`}`).join("")}</nav>` : ""}
   ${eyebrow ? `<p class="eyebrow" style="margin-top:28px">${eyebrow}</p>` : ""}
   <h1 class="h1">${title}</h1>
@@ -150,8 +164,8 @@ function home() {
   const body = `
 <section class="hero hero--photo">
 <div class="hero__bg">
-  <img src="/media/hero-forest.jpg" alt="" fetchpriority="high">
-  <video class="hero__video" muted loop playsinline preload="none" poster="/media/hero-forest.jpg" data-src="/media/hero-forest.mp4" aria-hidden="true"></video>
+  <picture><source media="(max-width: 767px)" srcset="/media/hero-forest-800.jpg"><img src="/media/hero-forest.jpg" alt="" fetchpriority="high"></picture>
+  <video class="hero__video" muted loop playsinline preload="none" data-src="/media/hero-forest.mp4" aria-hidden="true"></video>
 </div>
 <button class="hero__pause" type="button" aria-label="Pause background video" hidden><svg viewBox="0 0 16 16" aria-hidden="true"><rect x="4" y="3" width="3" height="10" rx="1"/><rect x="9" y="3" width="3" height="10" rx="1"/></svg></button>
 <div class="wrap hero__grid">
@@ -271,13 +285,13 @@ ${programmeStrip()}
 <section class="section section--rule section--tight"><div class="wrap">
   <div class="sec-head"><div><p class="eyebrow"><span class="n">05</span> Browse by type</p><h2 class="h2">Project categories</h2></div></div>
   <div class="cat-tiles">${Object.entries(categories).map(([c, v]) => `<a class="cat-tile reveal" href="/marketplace/?category=${encodeURIComponent(c)}">
-    <img src="${v.image.replace("w=900", "w=1200")}" alt="" loading="lazy">
+    <img src="${atW(v.image, 900)}" srcset="${srcset(v.image, [500, 900, 1200])}" sizes="(max-width: 520px) 100vw, (max-width: 960px) 50vw, 40vw" alt="" loading="lazy">
     <span class="cat-tile__n">${catCount(c)} PROJECTS</span><span class="cat-tile__go" aria-hidden="true">→</span>
     <h3>${esc(c)}</h3><p>${esc(v.blurb)}</p></a>`).join("")}</div>
 </div></section>
 
 <section class="impact">
-  <div class="impact__bg" data-parallax><img src="${PHOTOS.impact}" alt="" loading="lazy"></div>
+  <div class="impact__bg" data-parallax><img src="${PHOTOS.impact}" srcset="${srcset(PHOTOS.impact, [800, 1400, 2000])}" sizes="100vw" alt="" loading="lazy"></div>
   <div class="wrap">
     <p class="eyebrow" style="color:rgba(255,255,255,.7)">Why it matters</p>
     <blockquote style="margin-top:20px">Every tonne we sell is <em>traceable to a registry serial</em> — and retired in your name.</blockquote>
@@ -309,6 +323,7 @@ ${ctaBand()}`;
   emit("/", page({
     path: "/",
     body,
+    preload: '<link rel="preload" as="image" href="/media/hero-forest-800.jpg" media="(max-width: 767px)">\n<link rel="preload" as="image" href="/media/hero-forest.jpg" media="(min-width: 768px)">',
     jsonld: {
       "@context": "https://schema.org",
       "@type": "ProfessionalService",
@@ -408,6 +423,7 @@ ${phead({
   </div></div>
   <div class="wrap">
     <div class="mk-summary"><span>Showing <b id="mk-count">${projects.length}</b> projects · <b id="mk-vol">${fmt(totalVolume)}</b> tCO₂e</span><span>Prices in USD per tCO₂e · inventory as of ${asOf}</span></div>
+    <h2 class="sr-only">All projects</h2>
     <div class="grid-cards">${projects.map((p, i) => projectCard(p, i)).join("")}</div>
     <div class="table-scroll"><table class="mk-table">
       <thead><tr><th>Project</th><th>Category</th><th>Registry</th><th>Methodology</th><th>Vintage</th><th>Delivery</th><th class="num">Volume</th><th class="num">$/tCO₂e</th></tr></thead>
@@ -416,7 +432,7 @@ ${phead({
         <td>${esc(p.category)}</td><td>${esc(p.registry)}</td><td class="mono small">${esc(p.methodology)}</td><td class="mono">${p.vintage}</td>
         <td><span class="pill pill--${p.status}">${p.status}</span></td><td class="num">${fmt(p.volume)}</td><td class="num">${p.price.toFixed(2)}</td></tr>`).join("")}</tbody>
     </table></div>
-    <div class="empty"><h3 class="h3">No projects match those filters</h3><p>Try another category, or <button id="mk-reset" class="link" style="background:none;border:0;cursor:pointer">clear all filters</button>.</p></div>
+    <div class="empty"><p class="h3">No projects match those filters</p><p>Try another category, or <button id="mk-reset" class="link" style="background:none;border:0;cursor:pointer">clear all filters</button>.</p></div>
   </div>
 </div>
 
@@ -424,13 +440,13 @@ ${phead({
   <div class="sides">
     <div class="side">
       <p class="eyebrow">Can’t see what you need?</p>
-      <h3 class="h3">Tell us what you’re looking for.</h3>
+      <h2 class="h3">Tell us what you’re looking for.</h2>
       <p>Share the volume, the programmes and vintages you accept, any CORSIA or Article 6 conditions, and anything you want to avoid. We check listed and unlisted supply and explain each match.</p>
       <div class="actions"><a class="btn" href="${site.intake.buy}" target="_blank" rel="noopener">Post a buy requirement ${arrow}</a></div>
     </div>
     <div class="side">
       <p class="eyebrow">Have credits to sell?</p>
-      <h3 class="h3">List your project and lots.</h3>
+      <h2 class="h3">List your project and lots.</h2>
       <p>Give us the project details once: registry ID, methodology, host country and where authorisation stands. Then add each lot with its vintage, quantity and asking price.</p>
       <div class="actions"><a class="btn" href="${site.intake.sell}" target="_blank" rel="noopener">List inventory ${arrow}</a><a class="btn btn--ghost" href="/contact/?topic=sell">Talk to us first</a></div>
     </div>
@@ -451,7 +467,7 @@ function projectPage(p) {
   ];
   const stats = [["Available volume", `${fmt(p.volume)} tCO₂e`], ["Issued to date", `${fmt(p.issued)} tCO₂e`], ["Est. annual reductions", `${fmt(p.estAnnual)} tCO₂e`]];
   const body = `
-<div class="pd-hero"><img src="${p.image.replace("w=1200", "w=2000")}" alt="${esc(p.name)}"></div>
+<div class="pd-hero"><img src="${atW(p.image, 1600)}" srcset="${srcset(p.image, [800, 1200, 1600, 2000])}" sizes="100vw" alt="${esc(p.name)}" fetchpriority="high"></div>
 <div class="wrap pd-grid">
   <div>
     <div class="pd-head">
@@ -484,7 +500,7 @@ function projectPage(p) {
     </div>
     <div class="pd-block">
       <h2>Sustainable Development Goals</h2>
-      <div class="sdgs">${p.sdgs.map((n) => `<span class="sdg sdg--lg" style="background:${sdgs[n][1]}"><b>${n}</b>${esc(sdgs[n][0])}</span>`).join("")}</div>
+      <div class="sdgs">${p.sdgs.map((n) => `<span class="sdg sdg--lg" style="${sdgStyle(n)}"><b>${n}</b>${esc(sdgs[n][0])}</span>`).join("")}</div>
     </div>
   </div>
   <aside id="buy">
@@ -743,7 +759,7 @@ ${ctaBand()}`;
 </div></section>
 <section class="section section--tight"><div class="wrap kbt-layout">
   <aside class="kbt-side" aria-label="Knowledge base topics">
-    <h4>All topics</h4>
+    <p class="side-label">All topics</p>
     ${KB_TOPICS.map((x) => `<a href="/knowledge-base/topic/${x.slug}/"${x.slug === t.slug ? ' aria-current="page"' : ""}>${topicIcon(x, "kbt-ico kbt-ico--sm")}<span>${esc(x.section)}</span><small>${topicArticles(x).length}</small></a>`).join("")}
     <a class="kbt-side__all" href="/knowledge-base/">← Knowledge base home</a>
   </aside>
@@ -774,7 +790,7 @@ ${ctaBand()}`;
   kb.forEach((a, i) => {
     const r = renderMarkdown(a.body);
     const prev = kb[i - 1], next = kb[i + 1];
-    const nav = KB_TOPICS.map((t) => `<h4><a class="kbnav__topic" href="/knowledge-base/topic/${t.slug}/">${esc(t.section)}</a></h4>${topicArticles(t).map((x) => `<a href="/knowledge-base/${x.slug}/"${x.slug === a.slug ? ' aria-current="page"' : ""}>${esc(x.title.split(":")[0])}</a>`).join("")}`).join("");
+    const nav = KB_TOPICS.map((t) => `<p class="side-label"><a class="kbnav__topic" href="/knowledge-base/topic/${t.slug}/">${esc(t.section)}</a></p>${topicArticles(t).map((x) => `<a href="/knowledge-base/${x.slug}/"${x.slug === a.slug ? ' aria-current="page"' : ""}>${esc(x.title.split(":")[0])}</a>`).join("")}`).join("");
     const t = topicOf(a.section);
     const body = `
 <div class="wrap"><div class="doc-grid" style="padding-top:clamp(28px,4vw,48px)">
@@ -792,7 +808,7 @@ ${ctaBand()}`;
     </div>
     <div class="callout"><div><h3>Need this applied to your position?</h3><p>We assess operators’ obligations and developers’ eligibility pathways directly.</p></div><a class="btn btn--light" href="/contact/?topic=corsia">Talk to the desk ${arrow}</a></div>
   </article>
-  <aside class="toc" aria-label="On this page">${r.toc.length ? `<h4>On this page</h4>${r.toc.map((t) => `<a href="#${t.id}" class="lvl${t.depth}">${esc(t.text)}</a>`).join("")}` : ""}</aside>
+  <aside class="toc" aria-label="On this page">${r.toc.length ? `<p class="side-label">On this page</p>${r.toc.map((t) => `<a href="#${t.id}" class="lvl${t.depth}">${esc(t.text)}</a>`).join("")}` : ""}</aside>
 </div></div>
 <div style="height:80px"></div>`;
     emit(`/knowledge-base/${a.slug}/`, page({
@@ -818,6 +834,7 @@ ${phead({
     <button class="chip" data-topic="All" aria-pressed="true">All <span>${insights.length}</span></button>
     ${topics.map((t) => `<button class="chip" data-topic="${esc(t)}" aria-pressed="false">${esc(t)} <span>${tc(t)}</span></button>`).join("")}
   </div>
+  <h2 class="sr-only">All articles</h2>
   <div class="acards">${insights.map((a) => articleCard(a, "insights")).join("")}</div>
   <div class="more"><button id="ins-more" class="btn btn--ghost">Load more</button></div>
 </div></section>
@@ -841,7 +858,7 @@ ${ctaBand()}`;
       <div class="prose">${r.html}</div>
       ${a.tags?.length ? `<div class="tags">${a.tags.map((t) => `<span>${esc(t)}</span>`).join("")}</div>` : ""}
     </article>
-    <aside class="toc" aria-label="On this page">${r.toc.filter((t) => t.depth === 2).length ? `<h4>On this page</h4>${r.toc.filter((t) => t.depth === 2).map((t) => `<a href="#${t.id}">${esc(t.text)}</a>`).join("")}` : ""}</aside>
+    <aside class="toc" aria-label="On this page">${r.toc.filter((t) => t.depth === 2).length ? `<p class="side-label">On this page</p>${r.toc.filter((t) => t.depth === 2).map((t) => `<a href="#${t.id}">${esc(t.text)}</a>`).join("")}` : ""}</aside>
   </div>
 </div>
 ${related.length ? `<section class="section section--rule section--paper2" style="margin-top:80px"><div class="wrap">
@@ -1004,7 +1021,12 @@ ${phead({ crumbs: [{ label: "Terms" }], title: "Terms of use" })}
 // ---------------------------------------------------------------- assets, index, sitemap
 function assets() {
   fs.mkdirSync(path.join(OUT, "assets"), { recursive: true });
-  fs.copyFileSync(path.join(SRC, "assets/css/main.css"), path.join(OUT, "assets/main.css"));
+  const css = fs.readFileSync(path.join(SRC, "assets/css/main.css"), "utf8")
+    .replace(/\/\*[\s\S]*?\*\//g, "")
+    .replace(/\s+/g, " ")
+    .replace(/\s*([{};])\s*/g, "$1")
+    .trim();
+  fs.writeFileSync(path.join(OUT, "assets/main.css"), css);
   fs.copyFileSync(path.join(SRC, "assets/js/main.js"), path.join(OUT, "assets/main.js"));
   fs.cpSync(path.join(SRC, "public"), OUT, { recursive: true });
   fs.writeFileSync(path.join(OUT, "favicon.svg"),

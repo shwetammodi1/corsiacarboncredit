@@ -50,7 +50,7 @@ function header(path) {
 }
 
 export function ctaBand({ title = `Tell us where you stand.<br><em class="it">We’ll tell you what’s achievable.</em>`, text } = {}) {
-  return `<section class="cta-band"><div class="cta-band__bg"><img src="https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=2000&q=70" alt="" loading="lazy"></div><div class="wrap">
+  return `<section class="cta-band"><div class="cta-band__bg"><img src="https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1400&q=70" srcset="https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=800&q=70 800w, https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1400&q=70 1400w, https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=2000&q=70 2000w" sizes="100vw" alt="" loading="lazy"></div><div class="wrap">
   <div>
     <p class="eyebrow" style="color:var(--on-forest-2)">Start a conversation</p>
     <h2 style="margin-top:18px">${title}</h2>
@@ -79,27 +79,27 @@ function footer() {
         <img src="/brand/dstechnoverse-white.png" alt="DSTechnoverse" width="139" height="52" loading="lazy">
       </a>
     </div>
-    <div><h4>Market</h4><ul>
+    <div><h2 class="footer__h">Market</h2><ul>
       <li><a href="/marketplace/">All listings</a></li>
       <li><a href="/marketplace/?category=Forestry">Forestry</a></li>
       <li><a href="/marketplace/?category=Renewable">Renewable</a></li>
       <li><a href="/marketplace/?category=Blue%20Carbon">Blue carbon</a></li>
       <li><a href="${site.intake.sell}" target="_blank" rel="noopener">List your project</a></li>
     </ul></div>
-    <div><h4>CORSIA</h4><ul>
+    <div><h2 class="footer__h">CORSIA</h2><ul>
       <li><a href="/services/">Advisory services</a></li>
       <li><a href="/calculator/">Offsetting estimator</a></li>
       <li><a href="/knowledge-base/what-is-corsia/">What is CORSIA?</a></li>
       <li><a href="/knowledge-base/corsia-eligible-emissions-units/">Eligible units</a></li>
       <li><a href="/knowledge-base/corsia-in-india/">CORSIA in India</a></li>
     </ul></div>
-    <div><h4>Learn</h4><ul>
+    <div><h2 class="footer__h">Learn</h2><ul>
       <li><a href="/knowledge-base/">Knowledge base</a></li>
       <li><a href="/insights/">Insights</a></li>
       <li><a href="/knowledge-base/corsia-glossary/">Glossary</a></li>
       <li><a href="/knowledge-base/corsia-faq/">FAQ</a></li>
     </ul></div>
-    <div><h4>Company</h4><ul>
+    <div><h2 class="footer__h">Company</h2><ul>
       <li><a href="/about/">About</a></li>
       <li><a href="/contact/">Contact</a></li>
       <li><a href="${site.parent.url}" target="_blank" rel="noopener">DSTechnoverse</a></li>
@@ -113,10 +113,19 @@ function footer() {
 </div></footer>`;
 }
 
-export function page({ path, title, description, body, jsonld, ogImage, noindex }) {
-  const fullTitle = title ? `${title} · ${site.name}` : `${site.name} — CORSIA-eligible & voluntary carbon credits`;
+// Trim to a word boundary so meta descriptions stay within what search results display.
+const clip = (s, n) => {
+  if (s.length <= n) return s;
+  const cut = s.slice(0, n - 1);
+  return cut.slice(0, cut.lastIndexOf(" ")).replace(/[\s,;:.\u2014-]+$/, "") + "…";
+};
+
+export function page({ path, title, description, body, jsonld, ogImage, noindex, preload = "" }) {
+  // Keep titles near the ~60 characters search results show; long titles drop the site name.
+  const suffix = ` · ${site.name}`;
+  const fullTitle = !title ? `${site.name} — CORSIA-eligible & voluntary carbon credits` : title.length + suffix.length <= 64 ? title + suffix : title;
   const url = site.url + path;
-  const desc = description || site.description;
+  const desc = clip(description || site.description, 158);
   const og = ogImage && ogImage.startsWith("http") && !ogImage.endsWith(".svg")
     ? ogImage
     : "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1200&h=630&q=70";
@@ -140,7 +149,11 @@ ${noindex ? '<meta name="robots" content="noindex">' : ""}
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://images.unsplash.com">
+${preload}
+<link rel="preload" as="style" href="${FONTS}">
+<link rel="stylesheet" href="${FONTS}" media="print" onload="this.media='all'">
+<noscript><link rel="stylesheet" href="${FONTS}"></noscript>
 <link rel="stylesheet" href="/assets/main.css?v=${BUILD_ID}">
 ${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld)}</script>` : ""}
 </head>
@@ -158,3 +171,4 @@ ${footer()}
 }
 
 const BUILD_ID = Date.now().toString(36);
+const FONTS = "https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap";

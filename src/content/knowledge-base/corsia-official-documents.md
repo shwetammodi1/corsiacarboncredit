@@ -55,7 +55,7 @@ Anything in the third group should be checked on the day you rely on it, and cap
 
 - [UNFCCC Article 6](https://unfccc.int/process-and-meetings/the-paris-agreement/article-64-mechanism) for corresponding adjustments and Article 6 mechanics; our summary is in [corresponding adjustments and Article 6](/knowledge-base/corresponding-adjustments-article-6/).
 - The [DGCA](https://www.dgca.gov.in/) for how India implements the scheme.
-- The European Commission's [EU ETS aviation pages](https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/reducing-emissions-aviation_en) for the EU scheme's scope.
+- The European Commission's [EU ETS aviation pages](https://climate.ec.europa.eu/areas-action/transport-decarbonisation/reducing-emissions-aviation_en) for the EU scheme's scope.
 - [IATA](https://www.iata.org/) for industry guidance and context on SAF.
 - Crediting programme registries for unit records, serial numbers and chain of custody.
 
