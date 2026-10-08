@@ -30,7 +30,7 @@ export function renderMarkdown(src) {
       },
       link({ href, title, tokens }) {
         const inner = this.parser.parseInline(tokens);
-        const ext = /^https?:\/\//.test(href) && !href.includes("corsiacarboncredit.com");
+        const ext = /^https?:\/\//.test(href) && !/^https?:\/\/(www\.)?corsiacarboncredit\.in(\/|$)/.test(href);
         return `<a href="${href}"${title ? ` title="${title}"` : ""}${ext ? ' target="_blank" rel="noopener"' : ""}>${inner}</a>`;
       },
       image({ href, text }) {

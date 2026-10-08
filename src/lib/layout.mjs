@@ -1,4 +1,5 @@
 import { site, nav } from "../data/site.js";
+import { seo } from "../data/seo.js";
 
 export const esc = (s = "") =>
   String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
@@ -32,7 +33,7 @@ function header(path) {
   const cur = (href) => (path.startsWith(href) ? ' aria-current="page"' : "");
   return `<a class="skip" href="#main">Skip to content</a>
 <div class="strip"><div class="wrap">
-  <div class="strip__l"><a class="strip__parent" href="${site.parent.url}" target="_blank" rel="noopener" >A <img src="/brand/dstechnoverse-mark-white.png" alt="" width="11" height="18"><b>DSTechnoverse</b> company</a><span class="hide-sm">Indore, India · since ${site.parent.founded}</span></div>
+  <div class="strip__l"><a class="strip__parent" href="${site.parent.url}" target="_blank" rel="noopener" >A <img src="/brand/dstechnoverse-mark-white.webp" alt="" width="11" height="18"><b>DSTechnoverse</b> company</a><span class="hide-sm">Indore, India · since ${site.parent.founded}</span></div>
   <div class="strip__r"><a href="https://wa.me/${site.whatsapp}" target="_blank" rel="noopener">WhatsApp</a><a href="${site.phoneHref}">${site.phone}</a><a href="mailto:${site.email}">${site.email}</a></div>
 </div></div>
 <header class="header"><div class="wrap">
@@ -76,7 +77,7 @@ function footer() {
       <p style="margin-top:18px">${a.line1}, ${a.line2}<br>${a.city}, ${a.region} ${a.postcode}</p>
       <a class="footer__parent" href="${site.parent.url}" target="_blank" rel="noopener">
         <span>A company of</span>
-        <img src="/brand/dstechnoverse-white.png" alt="DSTechnoverse" width="139" height="52" loading="lazy">
+        <img src="/brand/dstechnoverse-white.webp" alt="DSTechnoverse" width="139" height="52" loading="lazy">
       </a>
     </div>
     <div><h2 class="footer__h">Market</h2><ul>
@@ -120,33 +121,76 @@ const clip = (s, n) => {
   return cut.slice(0, cut.lastIndexOf(" ")).replace(/[\s,;:.\u2014-]+$/, "") + "…";
 };
 
-export function page({ path, title, description, body, jsonld, ogImage, noindex, preload = "" }) {
+// Organization and WebSite nodes, emitted on every page so search engines tie each page to the business.
+const ORG_ID = `${site.url}/#organization`;
+const siteGraph = () => ({
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["Organization", "ProfessionalService"],
+      "@id": ORG_ID,
+      name: site.name,
+      url: `${site.url}/`,
+      logo: { "@type": "ImageObject", url: `${site.url}/brand/logo-512.png`, width: 512, height: 512 },
+      image: `${site.url}/brand/logo-512.png`,
+      description: site.description,
+      email: site.email,
+      telephone: site.phone.replace(/\s/g, ""),
+      address: { "@type": "PostalAddress", streetAddress: `${site.address.line1}, ${site.address.line2}`, addressLocality: site.address.city, addressRegion: site.address.region, postalCode: site.address.postcode, addressCountry: "IN" },
+      areaServed: ["IN", "Worldwide"],
+      sameAs: site.social.map((s) => s.url),
+      parentOrganization: { "@type": "Organization", name: site.parent.name, url: site.parent.url, logo: `${site.url}/brand/dstechnoverse.png` },
+    },
+    { "@type": "WebSite", "@id": `${site.url}/#website`, url: `${site.url}/`, name: site.name, inLanguage: "en-IN", publisher: { "@id": ORG_ID } },
+  ],
+});
+export { ORG_ID };
+
+const breadcrumbGraph = (crumbs) => ({
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: [{ name: "Home", url: "/" }, ...crumbs].map((c, i) => ({ "@type": "ListItem", position: i + 1, name: c.name, item: site.url + c.url })),
+});
+
+const ldScript = (o) => `<script type="application/ld+json">${JSON.stringify(o).replace(/</g, "\\u003c")}</script>`;
+
+export function page({ path, title, description, body, jsonld, ogImage, ogType = "website", noindex, preload = "", breadcrumbs }) {
+  // Per-page overrides in src/data/seo.js win over the defaults passed in by the builder.
+  const o = seo[path] || {};
+  title = o.title ?? title;
+  description = o.description ?? description;
   // Keep titles near the ~60 characters search results show; long titles drop the site name.
   const suffix = ` · ${site.name}`;
-  const fullTitle = !title ? `${site.name} — CORSIA-eligible & voluntary carbon credits` : title.length + suffix.length <= 64 ? title + suffix : title;
+  const fullTitle = o.fullTitle ?? (!title ? `${site.name} — CORSIA-eligible & voluntary carbon credits` : title.length + suffix.length <= 64 ? title + suffix : title);
   const url = site.url + path;
   const desc = clip(description || site.description, 158);
   const og = ogImage && ogImage.startsWith("http") && !ogImage.endsWith(".svg")
     ? ogImage
     : "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1200&h=630&q=70";
+  const ld = [siteGraph(), ...(breadcrumbs?.length ? [breadcrumbGraph(breadcrumbs)] : []), ...[].concat(jsonld || [])];
   return `<!doctype html>
-<html lang="en">
+<html lang="en-IN">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(fullTitle)}</title>
 <meta name="description" content="${esc(desc)}">
 <link rel="canonical" href="${url}">
-${noindex ? '<meta name="robots" content="noindex">' : ""}
-<meta property="og:type" content="website">
+${noindex ? '<meta name="robots" content="noindex">' : '<meta name="robots" content="index, follow, max-image-preview:large">'}
+<meta property="og:type" content="${ogType}">
+<meta property="og:locale" content="en_IN">
 <meta property="og:site_name" content="${esc(site.name)}">
 <meta property="og:title" content="${esc(fullTitle)}">
 <meta property="og:description" content="${esc(desc)}">
 <meta property="og:url" content="${url}">
 <meta property="og:image" content="${og}">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="${esc(fullTitle)}">
+<meta name="twitter:description" content="${esc(desc)}">
+<meta name="twitter:image" content="${og}">
 <meta name="theme-color" content="#10261f">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/brand/logo-512.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="preconnect" href="https://images.unsplash.com">
@@ -155,7 +199,7 @@ ${preload}
 <link rel="stylesheet" href="${FONTS}" media="print" onload="this.media='all'">
 <noscript><link rel="stylesheet" href="${FONTS}"></noscript>
 <link rel="stylesheet" href="/assets/main.css?v=${BUILD_ID}">
-${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld)}</script>` : ""}
+${ld.map(ldScript).join("\n")}
 </head>
 <body data-wa="${site.whatsapp}">
 ${header(path)}

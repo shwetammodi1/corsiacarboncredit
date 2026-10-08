@@ -1,9 +1,10 @@
-// Static site generator for corsiacarboncredit.com. Run: npm run build  → ./dist
+// Static site generator for corsiacarboncredit.in. Run: npm run build  → ./dist
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { site, categories, sdgs } from "./src/data/site.js";
-import { page, esc, fmt, arrow, ctaBand, waLink, waIcon, searchIcon, mark } from "./src/lib/layout.mjs";
+import { page, esc, fmt, arrow, ctaBand, waLink, waIcon, searchIcon, mark, ORG_ID } from "./src/lib/layout.mjs";
+import { execFileSync } from "node:child_process";
 import { renderMarkdown, inline, parseFrontmatter } from "./src/lib/markdown.mjs";
 
 const ROOT = path.dirname(fileURLToPath(import.meta.url));
@@ -34,11 +35,66 @@ const asOf =new Date().toLocaleDateString("en-GB", { month: "short", year: "nume
 function loadDir(dir) {
   return fs.readdirSync(path.join(SRC, dir)).filter((f) => f.endsWith(".md")).map((f) => {
     const { data, body } = parseFrontmatter(fs.readFileSync(path.join(SRC, dir, f), "utf8").replace(/\r\n/g, "\n"));
-    return { slug: f.replace(/\.md$/, ""), ...data, body };
+    return { slug: f.replace(/\.md$/, ""), ...data, body, file: `src/${dir}/${f}` };
   });
 }
 const kb = loadDir("content/knowledge-base").sort((a, b) => a.order - b.order);
 const insights = loadDir("content/insights").sort((a, b) => b.date.localeCompare(a.date) || a.title.localeCompare(b.title));
+// First and last commit date of every content file, from one git call. Falls back to the build date.
+const today = new Date().toISOString().slice(0, 10);
+const gitDates = (() => {
+  const map = new Map();
+  try {
+    const out = execFileSync("git", ["log", "--format=@%cs", "--name-only", "--", "src/content"], { cwd: ROOT, encoding: "utf8", maxBuffer: 32 * 1024 * 1024 });
+    let d = null;
+    for (const line of out.split(/\r?\n/)) {
+      if (line.startsWith("@")) { d = line.slice(1); continue; }
+      if (!line.trim() || !d) continue;
+      const e = map.get(line) || { first: d, last: d };
+      if (d > e.last) e.last = d;
+      if (d < e.first) e.first = d;
+      map.set(line, e);
+    }
+  } catch { /* not a git checkout */ }
+  return map;
+})();
+const datesOf = (a) => gitDates.get(a.file) || { first: today, last: today };
+const absUrl = (u) => (u.startsWith("http") ? u : site.url + u);
+
+// Article / TechArticle structured data for knowledge base and insights pages.
+function articleLd(a, path, type, section) {
+  const g = datesOf(a);
+  const published = a.date || g.first;
+  const modified = [a.date, g.last].filter(Boolean).sort().pop();
+  return {
+    "@context": "https://schema.org",
+    "@type": type,
+    headline: (a.metaTitle || a.title).slice(0, 110),
+    description: a.metaDescription || a.excerpt,
+    image: [absUrl(a.image)],
+    datePublished: published,
+    dateModified: modified,
+    author: { "@type": "Organization", "@id": ORG_ID, name: site.name, url: site.url + "/" },
+    publisher: { "@type": "Organization", "@id": ORG_ID, name: site.name, logo: { "@type": "ImageObject", url: site.url + "/brand/logo-512.png" } },
+    mainEntityOfPage: { "@type": "WebPage", "@id": site.url + path },
+    url: site.url + path,
+    inLanguage: "en-IN",
+    articleSection: section,
+    ...(a.tags?.length ? { keywords: a.tags.join(", ") } : {}),
+  };
+}
+
+// FAQPage only for pages whose content is a list of questions and answers.
+const FAQ_PAGES = new Set(["corsia-faq"]);
+function faqLd(md) {
+  const qa = [...md.matchAll(/^::: ?accordion (.+\?)\s*\n([\s\S]*?)\n:::[ \t]*$/gm)].map((m) => ({
+    "@type": "Question",
+    name: m[1].replace(/\*\*/g, "").trim(),
+    acceptedAnswer: { "@type": "Answer", text: m[2].replace(/!\[[^\]]*\]\([^)]*\)/g, "").replace(/\[([^\]]+)\]\([^)]*\)/g, "$1").replace(/[*_`>#|]/g, "").replace(/\s+/g, " ").trim() },
+  }));
+  return qa.length ? { "@context": "https://schema.org", "@type": "FAQPage", mainEntity: qa } : null;
+}
+
 const kbSections = [...new Set(kb.map((a) => a.section))];
 const topics = [...new Set(insights.map((a) => a.topic))];
 
@@ -164,7 +220,7 @@ function home() {
   const body = `
 <section class="hero hero--photo">
 <div class="hero__bg">
-  <picture><source media="(max-width: 767px)" srcset="/media/hero-forest-800.jpg"><img src="/media/hero-forest.jpg" alt="" fetchpriority="high"></picture>
+  <picture><source media="(max-width: 767px)" type="image/avif" srcset="/media/hero-forest-800.avif"><source media="(max-width: 767px)" srcset="/media/hero-forest-800.jpg"><source type="image/avif" srcset="/media/hero-forest.avif"><img src="/media/hero-forest.jpg" alt="" fetchpriority="high" width="1600" height="900"></picture>
   <video class="hero__video" muted loop playsinline preload="none" data-src="/media/hero-forest.mp4" aria-hidden="true"></video>
 </div>
 <button class="hero__pause" type="button" aria-label="Pause background video" hidden><svg viewBox="0 0 16 16" aria-hidden="true"><rect x="4" y="3" width="3" height="10" rx="1"/><rect x="9" y="3" width="3" height="10" rx="1"/></svg></button>
@@ -323,19 +379,7 @@ ${ctaBand()}`;
   emit("/", page({
     path: "/",
     body,
-    preload: '<link rel="preload" as="image" href="/media/hero-forest-800.jpg" media="(max-width: 767px)">\n<link rel="preload" as="image" href="/media/hero-forest.jpg" media="(min-width: 768px)">',
-    jsonld: {
-      "@context": "https://schema.org",
-      "@type": "ProfessionalService",
-      name: site.name,
-      url: site.url,
-      description: site.description,
-      telephone: site.phone,
-      email: site.email,
-      parentOrganization: { "@type": "Organization", name: site.parent.name, url: site.parent.url, logo: `${site.url}/brand/dstechnoverse.png` },
-      address: { "@type": "PostalAddress", streetAddress: `${site.address.line1}, ${site.address.line2}`, addressLocality: site.address.city, addressRegion: site.address.region, postalCode: site.address.postcode, addressCountry: "IN" },
-      sameAs: site.social.map((s) => s.url),
-    },
+    preload: '<link rel="preload" as="image" type="image/avif" href="/media/hero-forest-800.avif" media="(max-width: 767px)">\n<link rel="preload" as="image" type="image/avif" href="/media/hero-forest.avif" media="(min-width: 768px)">',
   }));
 }
 
@@ -453,7 +497,7 @@ ${phead({
   </div>
 </div></section>
 ${ctaBand()}`;
-  emit("/marketplace/", page({ path: "/marketplace/", title: "Carbon Credit Marketplace", description: `Browse ${projects.length} verified carbon credit projects — forestry, renewable, blue carbon, agriculture, waste and industrial. Transparent per-tonne pricing, registry details and retirement support.`, body }));
+  emit("/marketplace/", page({ path: "/marketplace/", breadcrumbs: [{ name: "Marketplace", url: "/marketplace/" }], title: "Carbon Credit Marketplace", description: `Browse ${projects.length} verified carbon credit projects — forestry, renewable, blue carbon, agriculture, waste and industrial. Transparent per-tonne pricing, registry details and retirement support.`, body }));
 
   projects.forEach((p) => projectPage(p));
 }
@@ -537,6 +581,7 @@ ${ctaBand()}`;
     title: `${p.name} — ${p.category} Carbon Credits`,
     description: `${p.name} by ${p.developer}, ${p.country}. ${p.summary} ${p.registry}, vintage ${p.vintage}, $${p.price.toFixed(2)}/tCO₂e.`,
     ogImage: p.image,
+    breadcrumbs: [{ name: "Marketplace", url: "/marketplace/" }, { name: p.name, url: `/marketplace/${p.slug}/` }],
     body,
   }));
 }
@@ -643,6 +688,7 @@ ${phead({
 ${ctaBand()}`;
 
   emit("/services/", page({
+    breadcrumbs: [{ name: "CORSIA Services", url: "/services/" }],
     path: "/services/",
     title: "CORSIA Carbon Credit Services",
     description: service.shortDescription,
@@ -711,7 +757,7 @@ ${phead({
   </div>
 </div></section>
 ${ctaBand()}`;
-  emit("/calculator/", page({ path: "/calculator/", title: "CORSIA Offsetting Requirement Calculator", description: "Estimate your CORSIA offsetting requirement from fuel burned or CO₂ emissions, growth factor and eligible-fuel reductions — with an indicative cost in USD and INR.", body }));
+  emit("/calculator/", page({ path: "/calculator/", breadcrumbs: [{ name: "Calculator", url: "/calculator/" }], title: "CORSIA Offsetting Requirement Calculator", description: "Estimate your CORSIA offsetting requirement from fuel burned or CO₂ emissions, growth factor and eligible-fuel reductions — with an indicative cost in USD and INR.", body }));
 }
 
 // ---------------------------------------------------------------- knowledge base
@@ -738,7 +784,7 @@ ${phead({
   <div class="acards">${insights.filter((a) => a.topic === "Airline Compliance").slice(0, 3).map((a) => articleCard(a, "insights")).join("")}</div>
 </div></section>
 ${ctaBand()}`;
-  emit("/knowledge-base/", page({ path: "/knowledge-base/", title: "CORSIA Knowledge Base", description: `A ${kb.length}-article reference on CORSIA: scope, phases, growth factors, MRV, eligible emissions units, corresponding adjustments, registries, eligible fuels, pricing and India.`, body }));
+  emit("/knowledge-base/", page({ path: "/knowledge-base/", breadcrumbs: [{ name: "Knowledge Base", url: "/knowledge-base/" }], title: "CORSIA Knowledge Base", description: `A ${kb.length}-article reference on CORSIA: scope, phases, growth factors, MRV, eligible emissions units, corresponding adjustments, registries, eligible fuels, pricing and India.`, body }));
 
   // One page per topic
   KB_TOPICS.forEach((t, ti) => {
@@ -782,7 +828,8 @@ ${ctaBand()}`;
       title: `${t.section} — CORSIA Knowledge Base`,
       description: t.blurb,
       body,
-      jsonld: { "@context": "https://schema.org", "@type": "CollectionPage", name: `${t.section} — CORSIA Knowledge Base`, description: t.blurb,
+      breadcrumbs: [{ name: "Knowledge Base", url: "/knowledge-base/" }, { name: t.section, url: `/knowledge-base/topic/${t.slug}/` }],
+      jsonld: { "@context": "https://schema.org", "@type": "CollectionPage", name: `${t.section} — CORSIA Knowledge Base`, description: t.blurb, url: `${site.url}/knowledge-base/topic/${t.slug}/`, isPartOf: { "@id": `${site.url}/#website` },
         hasPart: list.map((a) => ({ "@type": "TechArticle", headline: a.title, url: `${site.url}/knowledge-base/${a.slug}/` })) },
     }));
   });
@@ -812,8 +859,9 @@ ${ctaBand()}`;
 </div></div>
 <div style="height:80px"></div>`;
     emit(`/knowledge-base/${a.slug}/`, page({
-      path: `/knowledge-base/${a.slug}/`, title: a.title, description: a.excerpt, body,
-      jsonld: { "@context": "https://schema.org", "@type": "TechArticle", headline: a.title, description: a.excerpt, author: { "@type": "Organization", name: "DSTechnoverse" }, publisher: { "@type": "Organization", name: site.name } },
+      path: `/knowledge-base/${a.slug}/`, title: a.metaTitle || a.title, description: a.metaDescription || a.excerpt, body, ogType: "article", ogImage: a.ogImage,
+      breadcrumbs: [{ name: "Knowledge Base", url: "/knowledge-base/" }, { name: t.section, url: `/knowledge-base/topic/${t.slug}/` }, { name: a.title, url: `/knowledge-base/${a.slug}/` }],
+      jsonld: [articleLd(a, `/knowledge-base/${a.slug}/`, "TechArticle", a.section), ...(FAQ_PAGES.has(a.slug) ? [faqLd(a.body)].filter(Boolean) : [])],
     }));
   });
 }
@@ -839,7 +887,7 @@ ${phead({
   <div class="more"><button id="ins-more" class="btn btn--ghost">Load more</button></div>
 </div></section>
 ${ctaBand()}`;
-  emit("/insights/", page({ path: "/insights/", title: "Insights", description: "Guides and analysis on CORSIA compliance, carbon credit buying and selling, pricing, due diligence and the Indian carbon market.", body }));
+  emit("/insights/", page({ path: "/insights/", breadcrumbs: [{ name: "Insights", url: "/insights/" }], title: "Insights", description: "Guides and analysis on CORSIA compliance, carbon credit buying and selling, pricing, due diligence and the Indian carbon market.", body }));
 
   insights.forEach((a) => {
     const r = renderMarkdown(a.body);
@@ -850,7 +898,7 @@ ${ctaBand()}`;
     <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span>/</span><a href="/insights/">Insights</a><span>/</span><a href="/insights/?topic=${encodeURIComponent(a.topic)}">${esc(a.topic)}</a></nav>
     <h1 class="h1">${esc(a.title)}</h1>
     <p class="lede">${esc(a.excerpt)}</p>
-    <div class="art-meta"><span>${dateLong(a.date)}</span><span>${r.minutes} min read</span><span>By DSTechnoverse</span></div>
+    <div class="art-meta"><span>${dateLong(a.date)}</span><span>${r.minutes} min read</span><span>By the CORSIA Carbon Credit desk</span></div>
   </header>
   <div class="doc-grid doc-grid--2">
     <article>
@@ -867,8 +915,9 @@ ${related.length ? `<section class="section section--rule section--paper2" style
 </div></section>` : ""}
 ${ctaBand()}`;
     emit(`/insights/${a.slug}/`, page({
-      path: `/insights/${a.slug}/`, title: a.title, description: a.excerpt, body,
-      jsonld: { "@context": "https://schema.org", "@type": "BlogPosting", headline: a.title, description: a.excerpt, datePublished: a.date, keywords: (a.tags || []).join(", "), author: { "@type": "Organization", name: "DSTechnoverse" }, publisher: { "@type": "Organization", name: site.name } },
+      path: `/insights/${a.slug}/`, title: a.metaTitle || a.title, description: a.metaDescription || a.excerpt, body, ogType: "article", ogImage: a.ogImage,
+      breadcrumbs: [{ name: "Insights", url: "/insights/" }, { name: a.title, url: `/insights/${a.slug}/` }],
+      jsonld: articleLd(a, `/insights/${a.slug}/`, "Article", a.topic),
     }));
   });
 }
@@ -927,7 +976,7 @@ ${phead({
   </ul>
 </div></section>
 ${ctaBand()}`;
-  emit("/about/", page({ path: "/about/", title: "About", description: `${site.name} is the carbon markets desk of DSTechnoverse, an environmental data and analytics consultancy in Indore founded in ${site.parent.founded}.`, body }));
+  emit("/about/", page({ path: "/about/", breadcrumbs: [{ name: "About", url: "/about/" }], title: "About", description: `${site.name} is the carbon markets desk of DSTechnoverse, an environmental data and analytics consultancy in Indore founded in ${site.parent.founded}.`, body }));
 }
 
 // ---------------------------------------------------------------- contact
@@ -980,7 +1029,7 @@ ${phead({
     <p class="small muted" style="margin:16px 0 0">Nothing you type here is stored on this website. See our <a href="/privacy/">privacy note</a>.</p>
   </form>
 </div></section>`;
-  emit("/contact/", page({ path: "/contact/", title: "Contact", description: `Contact the ${site.name} desk in Indore — ${site.phone}, ${site.email}.`, body }));
+  emit("/contact/", page({ path: "/contact/", breadcrumbs: [{ name: "Contact", url: "/contact/" }], title: "Contact", description: `Contact the ${site.name} desk in Indore — ${site.phone}, ${site.email}.`, body }));
 }
 
 // ---------------------------------------------------------------- legal + 404
@@ -994,7 +1043,7 @@ ${phead({ crumbs: [{ label: "Privacy" }], title: "Privacy note" })}
 <h2 id="storage">Browser storage</h2><p>The marketplace remembers whether you prefer grid or table view in your browser’s local storage. No tracking cookies are set by this site.</p>
 <h2 id="contact">Contact</h2><p>For any request about your data, email <a href="mailto:${site.email}">${site.email}</a>.</p>
 </div></div></section>`;
-  emit("/privacy/", page({ path: "/privacy/", title: "Privacy", body: privacy }));
+  emit("/privacy/", page({ path: "/privacy/", breadcrumbs: [{ name: "Privacy", url: "/privacy/" }], title: "Privacy", body: privacy }));
 
   const terms = `
 ${phead({ crumbs: [{ label: "Terms" }], title: "Terms of use" })}
@@ -1005,7 +1054,7 @@ ${phead({ crumbs: [{ label: "Terms" }], title: "Terms of use" })}
 <h2 id="icao">No affiliation</h2><p>CORSIA is a scheme of the International Civil Aviation Organization. This website is independent and is not affiliated with or endorsed by ICAO, any registry or any crediting programme named on it.</p>
 <h2 id="law">Governing law</h2><p>These terms are governed by the laws of India, with courts at Indore, Madhya Pradesh having jurisdiction.</p>
 </div></div></section>`;
-  emit("/terms/", page({ path: "/terms/", title: "Terms", body: terms }));
+  emit("/terms/", page({ path: "/terms/", breadcrumbs: [{ name: "Terms", url: "/terms/" }], title: "Terms", body: terms }));
 
   const nf = `
 <section class="phead" style="border:0;padding-bottom:120px"><div class="wrap">
@@ -1040,9 +1089,15 @@ function assets() {
   ];
   fs.writeFileSync(path.join(OUT, "search-index.json"), JSON.stringify(idx));
 
-  const today = new Date().toISOString().slice(0, 10);
+  // Articles report the date their file last changed; every other page the build date.
+  const lastmodOf = (p) => {
+    const m = p.match(/^\/(knowledge-base|insights)\/([^/]+)\/$/);
+    const a = m && (m[1] === "insights" ? insights : kb).find((x) => x.slug === m[2]);
+    if (!a) return today;
+    return [a.date, datesOf(a).last].filter(Boolean).sort().pop();
+  };
   fs.writeFileSync(path.join(OUT, "sitemap.xml"),
-    `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${pages.map((p) => `  <url><loc>${site.url}${p}</loc><lastmod>${today}</lastmod></url>`).join("\n")}\n</urlset>\n`);
+    `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${pages.map((p) => `  <url><loc>${site.url}${p}</loc><lastmod>${lastmodOf(p)}</lastmod></url>`).join("\n")}\n</urlset>\n`);
   fs.writeFileSync(path.join(OUT, "robots.txt"), `User-agent: *\nAllow: /\n\nSitemap: ${site.url}/sitemap.xml\n`);
 }
 

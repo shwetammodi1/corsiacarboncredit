@@ -2,8 +2,8 @@
 export const site = {
   name: "CORSIA Carbon Credit",
   shortName: "CORSIA Carbon Credit",
-  // Switch to https://corsiacarboncredit.com once the domain is connected.
-  url: "https://corsiacarboncredit.pages.dev",
+  // Canonical domain. Used for canonical tags, sitemap, robots.txt, Open Graph and schema.
+  url: "https://corsiacarboncredit.in",
   parent: {
     name: "DSTechnoverse",
     url: "https://dstechnoverse.com",
@@ -43,14 +43,14 @@ export const site = {
     {
       name: "Shwetam Modi",
       role: "Founder & Lead Developer",
-      image: "https://dstechnoverse.com/r2/1776517579536-j6c6eg8b.png",
+      image: "/team/shwetam-modi.webp",
       bio: "Software developer and entrepreneur who founded DSTechnoverse in 2015. Shwetam leads the firm's technical vision and delivery, including the carbon markets desk.",
       links: [{ name: "Website", url: "https://shwetammodi.netlify.app" }],
     },
     {
       name: "Satyam Modi",
       role: "Senior Software Developer",
-      image: "https://dstechnoverse.com/r2/1776515190408-andizd7k.jpeg",
+      image: "/team/satyam-modi.webp",
       bio: "Builds the data systems behind the desk — emissions accounting, registry reconciliation and the marketplace itself.",
       links: [
         { name: "LinkedIn", url: "https://www.linkedin.com/in/satyamok" },
