@@ -13,11 +13,20 @@ export async function onRequest({ request, next }) {
     url.port = "";
     moved = true;
   }
-  // The blog used to live under /insights/. Old links keep working.
-  const old = url.pathname.match(/^\/insights(?:\/([^/]+))?\/?$/);
-  if (old) {
-    url.pathname = old[1] ? `/blog/${old[1]}/` : "/blog/";
+  // The blog used to live under /insights/, and those early posts have been retired.
+  if (/^\/insights(\/.*)?$/.test(url.pathname)) {
+    url.pathname = "/blog/";
+    url.search = "";
     moved = true;
   }
-  return moved ? Response.redirect(url.toString(), 301) : next();
+  if (moved) return Response.redirect(url.toString(), 301);
+
+  const res = await next();
+  // A blog post or knowledge base page that no longer exists sends visitors to the section
+  // home instead of a dead end (old article URLs from before the knowledge base was rebuilt).
+  if (res.status === 404) {
+    if (/^\/blog\/[^/]+\/?$/.test(url.pathname)) return Response.redirect(`https://${url.host}/blog/`, 301);
+    if (/^\/knowledge-base\/(topic\/)?[^/]+\/?$/.test(url.pathname)) return Response.redirect(`https://${url.host}/knowledge-base/`, 301);
+  }
+  return res;
 }

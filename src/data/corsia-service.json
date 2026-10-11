@@ -8,7 +8,7 @@
       "key": "intro",
       "heading": "A CORSIA Desk That Works for Buyers and Sellers",
       "paragraphs": [
-        "CORSIA is the scheme agreed at [ICAO](https://www.icao.int/environmental-protection/CORSIA/Pages/default.aspx) under which aircraft operators offset the growth in CO2 from international flights above a set baseline. No other single industry has a global market-based measure of its own, and the credits it calls for are a narrow slice of what the voluntary market produces. For the mechanics, see [how CORSIA works](/knowledge-base/how-corsia-works/).",
+        "CORSIA is the scheme agreed at [ICAO](https://www.icao.int/environmental-protection/CORSIA/Pages/default.aspx) under which aircraft operators offset the growth in CO2 from international flights above a set baseline. No other single industry has a global market-based measure of its own, and the credits it calls for are a narrow slice of what the voluntary market produces. For the mechanics, see [how CORSIA works](/knowledge-base/corsia-explained-for-airlines/).",
         "We act for both parties to that trade. Airlines and other **aircraft operators** come to us for the compliance chain: the monitoring plan, the annual emissions report, the offsetting calculation, finding units that genuinely qualify and cancelling them. **Project developers, aggregators and sellers** come to us to find out whether their project can realistically yield CORSIA Eligible Emissions Units, to work through host-State authorisation (the step sellers most often underestimate) and to reach buyers.",
         "Start with the point that catches out most newcomers: **being a carbon credit does not make a unit usable for CORSIA.** Three tests apply. The unit has to be issued by a crediting programme ICAO has approved, its vintage must sit inside an eligible window, and the host government must have applied a corresponding adjustment. A unit that fails any one of them can still be sold as a voluntary credit, but no operator can surrender it for compliance.",
         "[Register as a CORSIA buyer or seller](https://carboncredit.dstechnoverse.com/)"
@@ -18,7 +18,7 @@
       "key": "requires",
       "heading": "The Obligation, Phase by Phase",
       "paragraphs": [
-        "Obligations under CORSIA depend on the phase. Monitoring, reporting and verification have applied to every operator over the threshold since the scheme began, while offsetting has been introduced in stages. Our [phases and timeline](/knowledge-base/corsia-phases-and-timeline/) page covers each one in more depth."
+        "Obligations under CORSIA depend on the phase. Monitoring, reporting and verification have applied to every operator over the threshold since the scheme began, while offsetting has been introduced in stages. Our [phases and timeline](/knowledge-base/corsia-compliance-calendar/) page covers each one in more depth."
       ],
       "numbered": [
         "Baseline period, 2019 to 2020 — the years whose emissions set the reference point for measuring growth. After traffic collapsed during the pandemic, the reference was in practice moved to 2019 levels.",
@@ -32,10 +32,10 @@
       "key": "buyers",
       "heading": "For Airlines and Aircraft Operators",
       "paragraphs": [
-        "For an operator, CORSIA is two jobs. Compliance is the procedural one, and its rules are clear. Procurement is the one that costs money: eligible supply is scarce, prices are hard to see, and they bear little relation to general voluntary market prices. Our guide on [how to buy CORSIA carbon credits](/blog/how-to-buy-corsia-carbon-credits/) walks through the process."
+        "For an operator, CORSIA is two jobs. Compliance is the procedural one, and its rules are clear. Procurement is the one that costs money: eligible supply is scarce, prices are hard to see, and they bear little relation to general voluntary market prices. Our guide on [how to buy CORSIA carbon credits](/knowledge-base/buying-carbon-credits-step-by-step/) walks through the process."
       ],
       "bullets": [
-        "Drafting or reviewing your [Emissions Monitoring Plan](/knowledge-base/corsia-emissions-monitoring-plan/) against ICAO Annex 16 Volume IV and what your national authority expects.",
+        "Drafting or reviewing your [Emissions Monitoring Plan](/knowledge-base/corsia-compliance-calendar/) against ICAO Annex 16 Volume IV and what your national authority expects.",
         "Choosing a fuel use monitoring method by weighing the approved options against the data your operations actually produce.",
         "Preparing the Annual Emissions Report and supporting you through third-party verification.",
         "Calculating your offsetting requirement, with the sectoral and individual growth factors applied correctly to reported emissions.",
@@ -51,7 +51,7 @@
       "heading": "For Project Developers and Sellers",
       "paragraphs": [
         "Getting credits accepted into CORSIA is much harder than selling them voluntarily. The obstacle is rarely the project itself; it is nearly always the corresponding adjustment.",
-        "Article 6 of the Paris Agreement requires a host State that authorises a credit for another country's obligation, or for an international scheme like CORSIA, to adjust its own national inventory to match. In effect, the country gives up that reduction in its own NDC accounting. Plenty of governments are unwilling to do that, and some have no procedure for it. So a project can be registered, verified and issuing, and still be shut out of CORSIA because the host State will not sign off. More on this in [corresponding adjustments and Article 6](/knowledge-base/corresponding-adjustments-article-6/).",
+        "Article 6 of the Paris Agreement requires a host State that authorises a credit for another country's obligation, or for an international scheme like CORSIA, to adjust its own national inventory to match. In effect, the country gives up that reduction in its own NDC accounting. Plenty of governments are unwilling to do that, and some have no procedure for it. So a project can be registered, verified and issuing, and still be shut out of CORSIA because the host State will not sign off. More on this in [corresponding adjustments and Article 6](/knowledge-base/corresponding-adjustments-made-simple/).",
         "That is why authorisation is the first thing we look at, before a developer spends on a route that cannot be finished."
       ],
       "bullets": [
@@ -69,7 +69,7 @@
       "key": "criteria",
       "heading": "The Tests a Unit Must Pass",
       "paragraphs": [
-        "Crediting programmes are assessed against the Emissions Unit Criteria by the ICAO Technical Advisory Body, and approval is given by the ICAO Council. Programme approval is only the first gate: each unit must also meet the criteria itself. The full list is set out in [the Emissions Unit Criteria](/knowledge-base/corsia-emissions-unit-criteria/)."
+        "Crediting programmes are assessed against the Emissions Unit Criteria by the ICAO Technical Advisory Body, and approval is given by the ICAO Council. Programme approval is only the first gate: each unit must also meet the criteria itself. The full list is set out in [the Emissions Unit Criteria](/knowledge-base/corsia-eligible-units-checklist/)."
       ],
       "bullets": [
         "Additionality: without the credit revenue, the reduction would not have happened.",
@@ -88,7 +88,7 @@
       "paragraphs": [
         "Approvals come from the ICAO Council and are reviewed from time to time, so the list moves. Programmes have been approved, approved with conditions, and seen approval lapse. Before any transaction, check the current status on the [ICAO CORSIA emissions units page](https://www.icao.int/environmental-protection/CORSIA/Pages/CORSIA-Emissions-Units.aspx), not a list copied somewhere else, this page included.",
         "[Verra](https://verra.org/), [Gold Standard](https://www.goldstandard.org/), the Global Carbon Council, the Climate Action Reserve, the American Carbon Registry and Architecture for REDD+ Transactions are among the programmes that have held approval. Some approvals are full and some conditional, and the conditions often concern how a programme deals with corresponding adjustments.",
-        "The practical upshot for buyers: an approved programme can still issue units that do not qualify. Approval is required, but the unit-level criteria apply on top. We cover this in [ICAO-approved crediting programmes](/knowledge-base/corsia-approved-crediting-programmes/)."
+        "The practical upshot for buyers: an approved programme can still issue units that do not qualify. Approval is required, but the unit-level criteria apply on top. We cover this in [ICAO-approved crediting programmes](/knowledge-base/carbon-standards-compared/)."
       ]
     },
     {
@@ -96,7 +96,7 @@
       "heading": "CORSIA from India",
       "paragraphs": [
         "India takes part in CORSIA, so Indian carriers flying international routes are in scope. Their national authority is the [Directorate General of Civil Aviation](https://www.dgca.gov.in/), which handles emissions monitoring plans and annual reports and oversees verification.",
-        "Developers in India face a less settled position. India has been setting up a domestic Carbon Credit Trading Scheme, with the Energy Conservation Act framework as its legal base, and how that scheme, Article 6 authorisation and CORSIA eligibility fit together is still being worked out. Anyone planning an international sale should know which route their credits will take before choosing a methodology. [CORSIA in India](/knowledge-base/corsia-in-india/) sets out the detail.",
+        "Developers in India face a less settled position. India has been setting up a domestic Carbon Credit Trading Scheme, with the Energy Conservation Act framework as its legal base, and how that scheme, Article 6 authorisation and CORSIA eligibility fit together is still being worked out. Anyone planning an international sale should know which route their credits will take before choosing a methodology. [CORSIA in India](/knowledge-base/is-your-airline-covered-by-corsia/) sets out the detail.",
         "Our clients here include Indian operators handling CORSIA compliance, and developers from India and the wider region testing whether an overseas sale is realistic under the authorisation position as it stands."
       ]
     },
@@ -141,7 +141,7 @@
         "Which operators must buy CORSIA units? Those flying internationally between States that participate in CORSIA, where emissions are above the baseline. Operators emitting under 10,000 tonnes of CO2 a year on international flights are exempt from offsetting, although reporting may still be required.",
         "Is every carbon project able to sell into CORSIA? No. Its methodology has to sit under a programme ICAO has approved, and the host State must be prepared to authorise its units and make a corresponding adjustment. That second requirement rules out many projects that are otherwise sound.",
         "Why does the corresponding adjustment matter so much? A host State that authorises a credit for use abroad adds that reduction back into its own emissions accounts so the tonne is only counted once. Governments often resist because it makes their own targets harder to hit, and without the adjustment a unit cannot qualify for CORSIA.",
-        "What do CORSIA units cost? More than general voluntary credits, because the eligible pool is far smaller. Prices vary a great deal with project type, vintage and volume, and published voluntary market averages tell you little. See [CORSIA credit pricing](/knowledge-base/corsia-credit-pricing/).",
+        "What do CORSIA units cost? More than general voluntary credits, because the eligible pool is far smaller. Prices vary a great deal with project type, vintage and volume, and published voluntary market averages tell you little. See [CORSIA credit pricing](/knowledge-base/how-carbon-credit-prices-are-quoted/).",
         "How long before a new project can issue CORSIA-eligible units? Usually somewhere between eighteen months and three years from concept to first issuance. The methodology, the validation queue and the speed of host-State authorisation all affect it, and authorisation is the hardest to predict.",
         "Is India part of CORSIA? Yes. Indian carriers on international routes are covered, and the DGCA is the national authority for monitoring, reporting and verification.",
         "What is the first step? Register on our application portal as a buyer or a seller. We will look at your position and tell you what is realistically achievable. [Register here](https://carboncredit.dstechnoverse.com/)."

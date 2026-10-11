@@ -3,13 +3,12 @@ import { groups, title, slug, excerpt, coverImage, body, metaTitle, metaDescript
 
 // Must match the `section` values of KB_TOPICS in build.mjs.
 export const KB_SECTIONS = [
-  "Foundations",
-  "Obligations & Calculation",
-  "Monitoring, Reporting & Verification",
-  "Eligible Emissions Units",
-  "Eligible Fuels",
-  "Market & Pricing",
-  "Governance & India",
+  "Marketplace Basics",
+  "Buying Credits",
+  "Selling & Listing",
+  "Project Types",
+  "CORSIA for Airlines",
+  "Quality & Registries",
   "Reference",
 ];
 
@@ -35,7 +34,7 @@ export const kbArticle = defineType({
       name: "order",
       type: "number",
       group: "content",
-      description: "Reading order. The existing 30 articles use 1–30; use 31 and up, or a decimal like 12.5 to slot between two.",
+      description: "Reading order. The existing articles use 1–32; use 33 and up, or a decimal like 12.5 to slot between two.",
       validation: (Rule) => Rule.required().min(0),
     }),
     coverImage,

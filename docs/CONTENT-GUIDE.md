@@ -4,15 +4,15 @@ Site par do tarah ke articles hain:
 
 | Kya | Website par kahan | Abhi kitne |
 |---|---|---|
-| **Blog posts** | `corsiacarboncredit.in/blog/<slug>/` | 126 |
-| **Knowledge base articles** | `corsiacarboncredit.in/knowledge-base/<slug>/` | 30 |
+| **Blog posts** | `corsiacarboncredit.in/blog/<slug>/` | 0 (naye posts aane baaki hain) |
+| **Knowledge base articles** | `corsiacarboncredit.in/knowledge-base/<slug>/` | 32 |
 
 Naya article jodne ke **do tareeke** hain. Dono saath-saath chal sakte hain.
 
 - **Tareeka A — Markdown file (abhi se kaam karta hai):** GitHub par ek file banao, site 1–2 minute mein update.
 - **Tareeka B — Sanity Studio (connect karne ke baad):** Word jaisa editor, "Publish" dabao, site 1–2 minute mein update.
 
-Purane `/insights/...` links apne aap `/blog/...` par pahunch jaate hain.
+Purane `/insights/...` aur hataaye gaye blog/knowledge base links apne aap section ke home page (`/blog/` ya `/knowledge-base/`) par pahunch jaate hain. Jab tak blog mein ek bhi post nahi hai, `/blog/` page Google se chhupa (noindex) rehta hai; pehla post aate hi apne aap index ho jaata hai.
 
 ---
 
@@ -30,11 +30,11 @@ Purane `/insights/...` links apne aap `/blog/...` par pahunch jaate hain.
 **Front matter ke niyam:**
 - Har value double quotes mein likho: `title: "..."`
 - Blog ka `topic` inmein se hi ek hona chahiye: `CORSIA Fundamentals`, `Airline Compliance`, `Carbon Market Guides`, `Buying Credits`, `Case Studies`, `India Carbon Market`
-- Knowledge base ka `section` inmein se hi ek hona chahiye: `Foundations`, `Obligations & Calculation`, `Monitoring, Reporting & Verification`, `Eligible Emissions Units`, `Eligible Fuels`, `Market & Pricing`, `Governance & India`, `Reference`
+- Knowledge base ka `section` inmein se hi ek hona chahiye: `Marketplace Basics`, `Buying Credits`, `Selling & Listing`, `Project Types`, `CORSIA for Airlines`, `Quality & Registries`, `Reference`. Abhi 1–32 tak `order` lag chuka hai, naye article ke liye 33 se aage do.
 - `metaTitle` / `metaDescription` khaali chhod sakte ho. Tab Google mein `title` / `excerpt` dikhega.
 - `_` se shuru hone wali files (jaise `_template.md`) publish nahi hoti.
 
-**Article ke andar likhne ka tareeka:** `## Heading`, `### Sub-heading`, `**bold**`, `- bullet`, `1. numbered`, `[link text](/knowledge-base/how-corsia-works/)`, tables, aur `::: accordion Sawaal? ... :::` (khulne-band hone wala panel). Template mein sabka example hai.
+**Article ke andar likhne ka tareeka:** `## Heading`, `### Sub-heading`, `**bold**`, `- bullet`, `1. numbered`, `[link text](/knowledge-base/corsia-explained-for-airlines/)`, tables, aur `::: accordion Sawaal? ... :::` (khulne-band hone wala panel). Template mein sabka example hai.
 
 ---
 

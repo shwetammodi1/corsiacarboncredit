@@ -24,8 +24,8 @@ export const seo = {
     description: "Estimate your CORSIA offsetting requirement from fuel burned or CO₂, the growth factor and eligible-fuel claims, with an indicative cost in USD and INR.",
   },
   "/knowledge-base/": {
-    title: "CORSIA Knowledge Base",
-    description: "A topic-by-topic reference on CORSIA: scope and phases, growth factors, MRV, eligible emissions units, corresponding adjustments, fuels, pricing and India.",
+    title: "Carbon Credit Knowledge Base",
+    description: "Guides to buying and selling carbon credits, reading a listing, project types, credit quality and registries, and CORSIA compliance for airlines.",
   },
   "/blog/": {
     title: "Carbon Credit & CORSIA Blog",

@@ -90,15 +90,15 @@ function footer() {
     <div><h2 class="footer__h">CORSIA</h2><ul>
       <li><a href="/services/">Advisory services</a></li>
       <li><a href="/calculator/">Offsetting estimator</a></li>
-      <li><a href="/knowledge-base/what-is-corsia/">What is CORSIA?</a></li>
-      <li><a href="/knowledge-base/corsia-eligible-emissions-units/">Eligible units</a></li>
-      <li><a href="/knowledge-base/corsia-in-india/">CORSIA in India</a></li>
+      <li><a href="/knowledge-base/corsia-explained-for-airlines/">CORSIA for airlines</a></li>
+      <li><a href="/knowledge-base/corsia-eligible-units-checklist/">Eligible units checklist</a></li>
+      <li><a href="/knowledge-base/is-your-airline-covered-by-corsia/">Is your airline covered?</a></li>
     </ul></div>
     <div><h2 class="footer__h">Learn</h2><ul>
       <li><a href="/knowledge-base/">Knowledge base</a></li>
       <li><a href="/blog/">Blog</a></li>
-      <li><a href="/knowledge-base/corsia-glossary/">Glossary</a></li>
-      <li><a href="/knowledge-base/corsia-faq/">FAQ</a></li>
+      <li><a href="/knowledge-base/carbon-credit-glossary/">Glossary</a></li>
+      <li><a href="/knowledge-base/marketplace-faq/">FAQ</a></li>
     </ul></div>
     <div><h2 class="footer__h">Company</h2><ul>
       <li><a href="/about/">About</a></li>

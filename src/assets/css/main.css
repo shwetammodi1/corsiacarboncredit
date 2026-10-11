@@ -910,7 +910,8 @@ em.it, .it { font-style: italic; }
 .kbt-related__grid b { font-weight: 500; font-size: 0.95rem; line-height: 1.35; }
 
 @media (max-width: 900px) {
-  .kbt-layout .kbt-side { position: static; display: flex; gap: 8px; overflow-x: auto; padding-bottom: 8px; margin: 0 calc(var(--gutter) * -1); padding-left: var(--gutter); padding-right: var(--gutter); scrollbar-width: none; }
+  .kbt-layout .kbt-side { position: static; display: flex; gap: 8px; overflow-x: auto; padding-bottom: 8px; margin: 0 calc(var(--gutter) * -1); padding-left: var(--gutter); padding-right: 0; scrollbar-width: none; }
+  .kbt-layout .kbt-side::after { content: ""; flex: 0 0 var(--gutter); }
   .kbt-layout .kbt-side::-webkit-scrollbar { display: none; }
   .kbt-layout .kbt-side a { flex-shrink: 0; background: var(--card); border-color: var(--line); border-radius: 999px; padding: 6px 14px 6px 6px; white-space: nowrap; }
   .kbt-layout .kbt-side a[aria-current="page"] { background: var(--moss); border-color: var(--moss); color: #fff; }
@@ -922,6 +923,17 @@ em.it, .it { font-style: italic; }
 .kbnav .side-label a.kbnav__topic:hover { color: var(--moss); }
 .art-meta__topic { display: inline-flex; align-items: center; gap: 6px; color: var(--moss); text-decoration: none; }
 .art-meta__topic:hover { text-decoration: underline; }
+
+/* blog with no posts yet */
+.blog-empty { max-width: 640px; margin: 0 auto; text-align: center; padding: clamp(24px, 5vw, 56px) 0; display: flex; flex-direction: column; align-items: center; gap: 18px; }
+.blog-empty .lede { margin: 0 auto; }
+.blog-empty .hero__actions { justify-content: center; margin-top: 8px; }
+
+/* project-type topic: links to the matching marketplace categories */
+.kbt-cats { margin-top: 40px; }
+.kbt-cats h2 { margin-bottom: 14px; }
+.kbt-cats .chips { gap: 8px; }
+.kbt-cats .chip { text-decoration: none; }
 
 /* DSTechnoverse endorsement */
 .strip__parent { display: inline-flex; align-items: center; gap: 7px; text-decoration: none !important; font-family: var(--mono); font-size: 0.7rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--on-forest-2) !important; }

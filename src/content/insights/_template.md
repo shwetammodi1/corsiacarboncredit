@@ -4,7 +4,7 @@ excerpt: "One or two sentences that sum the post up. Shown on cards and in searc
 date: "2026-10-11"
 topic: "Carbon Market Guides"
 tags: ["carbon credits", "CORSIA"]
-image: "/images/carbon-credits/hero-carbon-credits-guide.svg"
+image: ""
 metaTitle: ""
 metaDescription: ""
 ---
@@ -18,7 +18,7 @@ HOW TO USE THIS TEMPLATE
    to use the title and excerpt in Google.
 3. topic must be exactly one of:
    CORSIA Fundamentals · Airline Compliance · Carbon Market Guides · Buying Credits · Case Studies · India Carbon Market
-4. image: a diagram from /images/... or a full https:// image URL.
+4. image: a full https:// image URL (at least 1200 × 630), or leave it empty for the default photo.
 5. Write the post below, delete this comment, commit and push. The site rebuilds in 1–2 minutes.
 -->
 
@@ -27,7 +27,7 @@ Opening paragraph: say who this is for and what they will know by the end.
 ## First section heading
 
 Paragraph text. **Bold** for key terms, and links to related pages like
-[how CORSIA works](/knowledge-base/how-corsia-works/).
+[CORSIA explained for airlines](/knowledge-base/corsia-explained-for-airlines/).
 
 - Bullet point
 - Another bullet point

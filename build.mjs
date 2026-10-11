@@ -44,9 +44,10 @@ function loadDir(dir) {
 // Markdown and Sanity articles together. A Sanity document with the same slug as a
 // markdown file replaces it, so an existing article can be moved into Sanity and edited there.
 const INSIGHT_TOPICS = ["CORSIA Fundamentals", "Airline Compliance", "Carbon Market Guides", "Buying Credits", "Case Studies", "India Carbon Market"];
-const DEFAULT_IMAGE = { insights: "/images/carbon-credits/hero-carbon-credits-guide.svg", kb: "/images/corsia/hero-corsia-knowledge-base.svg" };
+const DEFAULT_IMAGE = { insights: u("1469474968028-56623f02e42e", 1200), kb: u("1501854140801-50d01698950b", 1200) };
 function merge(kind, local, remote) {
-  const bySlug = new Map(local.map((a) => [a.slug, a]));
+  // Blog posts without an image get the default photo; knowledge base articles get their topic's photo later.
+  const bySlug = new Map(local.map((a) => [a.slug, kind === "insights" ? { ...a, image: a.image || DEFAULT_IMAGE.insights } : a]));
   for (const a of remote) {
     // URLs are built from the slug; anything other than lowercase letters, digits, - and _ is cleaned up.
     if (!/^[a-z0-9]+(?:[-_][a-z0-9]+)*$/.test(a.slug)) {
@@ -60,7 +61,7 @@ function merge(kind, local, remote) {
       a.topic = "Carbon Market Guides";
     }
     if (bySlug.has(a.slug)) console.log(`  Sanity replaces ${kind}/${a.slug}.md`);
-    bySlug.set(a.slug, { ...a, image: a.image || DEFAULT_IMAGE[kind] });
+    bySlug.set(a.slug, kind === "insights" ? { ...a, image: a.image || DEFAULT_IMAGE.insights } : a);
   }
   return [...bySlug.values()];
 }
@@ -121,7 +122,7 @@ function tocLinks(toc) {
 }
 
 // FAQPage only for pages whose content is a list of questions and answers.
-const FAQ_PAGES = new Set(["corsia-faq"]);
+const FAQ_PAGES = new Set(["marketplace-faq"]);
 function faqLd(md) {
   const qa = [...md.matchAll(/^::: ?accordion (.+\?)\s*\n([\s\S]*?)\n:::[ \t]*$/gm)].map((m) => ({
     "@type": "Question",
@@ -139,7 +140,7 @@ function emit(urlPath, html) {
   const file = urlPath.endsWith("/") ? path.join(OUT, urlPath, "index.html") : path.join(OUT, urlPath);
   fs.mkdirSync(path.dirname(file), { recursive: true });
   fs.writeFileSync(file, html);
-  if (urlPath.endsWith("/")) pages.push(urlPath);
+  if (urlPath.endsWith("/") && !html.includes('<meta name="robots" content="noindex">')) pages.push(urlPath);
 }
 const dateLong = (d) => new Date(d + "T00:00:00Z").toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric", timeZone: "UTC" });
 
@@ -331,7 +332,7 @@ ${programmeStrip()}
     <p class="eyebrow">Market snapshot</p>
     <h2 class="h2" style="margin-top:18px">What a tonne costs, by project type.</h2>
     <p class="lede" style="margin-top:18px">Removals and blue carbon price well above renewable energy avoidance credits. The spread inside each category is driven by vintage, co-benefits and whether a unit can carry a corresponding adjustment.</p>
-    <p style="margin-top:24px"><a class="link" href="/knowledge-base/corsia-credit-pricing/">What drives CORSIA credit pricing ${arrow}</a></p>
+    <p style="margin-top:24px"><a class="link" href="/knowledge-base/how-carbon-credit-prices-are-quoted/">How carbon credit prices are quoted ${arrow}</a></p>
   </div>
   <div class="reveal">${priceRanges()}</div>
 </div></section>
@@ -366,11 +367,11 @@ ${programmeStrip()}
       <li><span class="no">2</span><b>An eligible vintage</b><p>Reductions must fall inside the vintage window set for that compliance period.</p></li>
       <li><span class="no">3</span><b>A corresponding adjustment</b><p>The host government must authorise the unit and adjust its own inventory so the tonne is not counted twice.</p></li>
     </ol>
-    <p style="margin-top:28px"><a class="link" href="/knowledge-base/corsia-eligible-emissions-units/">Read: CORSIA Eligible Emissions Units ${arrow}</a></p>
+    <p style="margin-top:28px"><a class="link" href="/knowledge-base/corsia-eligible-units-checklist/">Read: our CORSIA-eligible units checklist ${arrow}</a></p>
   </div>
   <div class="reveal">
-    <div class="figure-frame"><img src="/images/corsia/corsia-eeu-criteria.svg" alt="The ICAO Emissions Unit Criteria that a CORSIA-eligible unit must satisfy" loading="lazy" width="920" height="476"></div>
-    <p class="caption">Fig. — The Emissions Unit Criteria, applied at unit level.</p>
+    <div class="figure-frame"><img src="${atW(PHOTOS.services, 900)}" srcset="${srcset(PHOTOS.services, [600, 900, 1400])}" sizes="(max-width: 900px) 100vw, 50vw" alt="Aircraft wing above the clouds" loading="lazy" width="900" height="600"></div>
+    <p class="caption">For airlines: we check all three before a unit is offered for CORSIA.</p>
   </div>
 </div></section>
 
@@ -397,19 +398,19 @@ ${programmeStrip()}
 
 <section class="section section--rule section--paper2"><div class="wrap">
   <div class="sec-head">
-    <div><p class="eyebrow"><span class="n">06</span> Knowledge base</p><h2 class="h2">CORSIA, explained properly.</h2><p class="lede">${kb.length} reference articles written for operators, developers and compliance teams — from the legal basis to registry cancellation.</p></div>
+    <div><p class="eyebrow"><span class="n">06</span> Knowledge base</p><h2 class="h2">Carbon credits, explained.</h2><p class="lede">${kb.length} practical articles for buyers, sellers and airlines — from reading a listing to retiring credits and meeting CORSIA.</p></div>
     <a class="btn btn--ghost" href="/knowledge-base/">Open the knowledge base ${arrow}</a>
   </div>
   <div class="kbt-grid">${KB_TOPICS.map((t, i) => topicCard(t, i)).join("")}</div>
 </div></section>
 
-<section class="section section--rule"><div class="wrap">
+${latest.length ? `<section class="section section--rule"><div class="wrap">
   <div class="sec-head">
     <div><p class="eyebrow"><span class="n">07</span> Blog</p><h2 class="h2">Latest from the blog</h2></div>
     <a class="btn btn--ghost" href="/blog/">All blog posts ${arrow}</a>
   </div>
   <div class="acards">${latest.map((a) => articleCard(a, "blog")).join("")}</div>
-</div></section>
+</div></section>` : ""}
 ${ctaBand()}`;
 
   emit("/", page({
@@ -421,40 +422,39 @@ ${ctaBand()}`;
 
 // Knowledge base topics. `section` must match the `section` front matter of the articles.
 const ICON = {
-  book: '<path d="M4 4.5A2.5 2.5 0 0 1 6.5 2H20v16H6.5A2.5 2.5 0 0 0 4 20.5v-16Z"/><path d="M4 20.5A2.5 2.5 0 0 0 6.5 23H20v-5"/><path d="M8 7h8M8 11h5"/>',
-  calc: '<rect x="5" y="2.5" width="14" height="19" rx="2"/><path d="M8 6.5h8M8 11h.01M12 11h.01M16 11h.01M8 14.5h.01M12 14.5h.01M16 14.5v3.5M8 18h4"/>',
-  clip: '<rect x="5" y="4" width="14" height="18" rx="2"/><path d="M9 4V2.5h6V4"/><path d="m9 13 2 2 4-4"/>',
-  layers: '<path d="m12 3 9 5-9 5-9-5 9-5Z"/><path d="m3 12.5 9 5 9-5"/><path d="m3 17 9 5 9-5"/>',
-  drop: '<path d="M12 2.5s6.5 6.8 6.5 11.5a6.5 6.5 0 0 1-13 0C5.5 9.3 12 2.5 12 2.5Z"/><path d="M9 14.5a3 3 0 0 0 3 3"/>',
-  chart: '<path d="M3 3v18h18"/><path d="m7 15 4-4 3 3 6-7"/><path d="M16 7h4v4"/>',
-  bank: '<path d="M3 10h18L12 3.5 3 10Z"/><path d="M5.5 10v8M10 10v8M14 10v8M18.5 10v8M3 21h18"/>',
+  store: '<path d="M3 9.5 4.5 4h15L21 9.5"/><path d="M3 9.5h18v1a3 3 0 0 1-6 0 3 3 0 0 1-6 0 3 3 0 0 1-6 0Z"/><path d="M5 13.5V20h14v-6.5"/><path d="M10 20v-4h4v4"/>',
+  cart: '<circle cx="9" cy="20" r="1.4"/><circle cx="17" cy="20" r="1.4"/><path d="M2.5 3.5h2.6l2.4 11.5h10.6l2-8H6.3"/>',
+  tag: '<path d="M3 12V3.5h8.5L21 13l-8.5 8.5L3 12Z"/><circle cx="7.8" cy="8.3" r="1.5"/>',
+  leaf: '<path d="M5 19c0-8 5-14 15-15-1 10-7 15-15 15Z"/><path d="m5 19 8-8"/>',
+  plane: '<path d="M17.8 19.2 16 11l3.5-3.5C21 6 21.5 4 21 3c-1-.5-3 0-4.5 1.5L13 8 4.8 6.2c-.5-.1-.9.1-1.1.5l-.3.5c-.2.5-.1 1 .3 1.3L9 12l-2 3H4l-1 1 3 2 2 3 1-1v-3l3-2 3.5 5.3c.3.4.8.5 1.3.3l.5-.2c.4-.3.6-.7.5-1.2Z"/>',
+  shield: '<path d="M12 2.5 4 5.5v6c0 5 3.4 8.6 8 10 4.6-1.4 8-5 8-10v-6l-8-3Z"/><path d="m8.5 12 2.5 2.5 4.5-5"/>',
   mark: '<path d="M6 2.5h12v19l-6-4-6 4v-19Z"/><path d="M9.5 7.5h5"/>',
+  pen: '<path d="M4 20h4L19.5 8.5a2.1 2.1 0 0 0-4-4L4 16v4Z"/><path d="m13.5 6.5 4 4"/>',
 };
+// photo: used as the article image in structured data and when an article is shared.
+// related: blog post slugs that match are listed on the topic page.
 const KB_TOPICS = [
-  { slug: "foundations", section: "Foundations", icon: "book",
-    blurb: "What CORSIA is, why ICAO created it, which flights it covers and how the phases run to 2035.",
-    related: /what-is-corsia-complete-guide|corsia-explained|corsia-phases-timeline|future-of-corsia|aviation-carbon-markets|carbon-markets-reducing/ },
-  { slug: "obligations-and-calculation", section: "Obligations & Calculation", icon: "calc",
-    blurb: "The 2019 baseline, sectoral and individual growth factors, and how the number of units you owe is worked out.",
-    related: /offsetting-requirements-calculation|budgeting|compliance-cost|carbon-pricing-impact|compliance-roadmap/ },
-  { slug: "monitoring-reporting-verification", section: "Monitoring, Reporting & Verification", icon: "clip",
-    blurb: "Emissions Monitoring Plans, fuel-use methods and the yearly cycle of reporting and third-party verification.",
-    related: /monitoring|fuel-data|fuel-supplier|emissions-report|verification|internal-audit|data-systems|reporting-deadlines/ },
-  { slug: "eligible-emissions-units", section: "Eligible Emissions Units", icon: "layers",
-    blurb: "Which carbon credits an airline can actually cancel: approved programmes, unit criteria, vintages, adjustments and registries.",
-    related: /eligible-emissions-units|corresponding-adjustment|registry|icao-approved|due-diligence|carbon-projects-qualify|unit-procurement/ },
-  { slug: "eligible-fuels", section: "Eligible Fuels", icon: "drop",
-    blurb: "Sustainable and lower-carbon aviation fuels, their sustainability criteria, and how they reduce what you owe.",
-    related: /saf|sustainable-aviation-fuel|iscc/ },
-  { slug: "market-and-pricing", section: "Market & Pricing", icon: "chart",
-    blurb: "Who buys and sells CORSIA units, what drives the price, and why a supply shortfall is expected.",
-    related: /price|buyer-guide|seller-guide|how-to-buy-corsia|supplier|offtake|why-corsia-grade/ },
-  { slug: "governance-and-india", section: "Governance & India", icon: "bank",
-    blurb: "The ICAO bodies behind the rules, the national authorities that enforce them, and what it all means in India.",
-    related: /india|dgca|ccts/ },
-  { slug: "reference", section: "Reference", icon: "mark",
-    blurb: "Glossary, acronyms, frequently asked questions and where to find the official documents.",
-    related: /complete-guide|questions-to-ask|readiness-assessment|how-to-choose/ },
+  { slug: "marketplace-basics", section: "Marketplace Basics", icon: "store", photo: u("1542273917363-3b1817f69a2d", 1200),
+    blurb: "How the marketplace works: reading a listing, delivery types, how prices are quoted and the documents behind each project.",
+    related: /marketplace|listing|price|document/ },
+  { slug: "buying-credits", section: "Buying Credits", icon: "cart", photo: u("1441974231531-c6227db76b6e", 1200),
+    blurb: "From first enquiry to retirement certificate: registry accounts, retiring credits, what you can claim, and choosing vintage and volume.",
+    related: /buy|retire|claim|vintage|offset/ },
+  { slug: "selling-and-listing", section: "Selling & Listing", icon: "tag", photo: u("1500382017468-9049fed747ef", 1200),
+    blurb: "For developers, aggregators and traders: who can list, what we need, pricing your credits, forward sales and buyer due diligence.",
+    related: /sell|list|offtake|forward|developer|supplier/ },
+  { slug: "project-types", section: "Project Types", icon: "leaf", photo: u("1473448912268-2022ce9509d8", 1200),
+    blurb: "The six kinds of projects on the marketplace — forestry, renewable, blue carbon, agriculture, waste and industrial — and what to check in each.",
+    related: /forest|renewable|solar|wind|hydro|blue-carbon|mangrove|cookstove|biogas|waste|industrial|agri|biochar|redd/ },
+  { slug: "corsia-for-airlines", section: "CORSIA for Airlines", icon: "plane", photo: u("1436491865332-7a61a109cc05", 1200),
+    blurb: "What CORSIA asks of an airline, whether you are covered, how to check that units are eligible, and the yearly compliance rhythm.",
+    related: /corsia|airline|aviation|saf|icao/ },
+  { slug: "quality-and-registries", section: "Quality & Registries", icon: "shield", photo: u("1501854140801-50d01698950b", 1200),
+    blurb: "How to judge a credit: registries and serial numbers, standards, additionality and permanence, corresponding adjustments and co-benefits.",
+    related: /registry|standard|verra|gold-standard|additional|adjustment|article-6|sdg|quality|rating/ },
+  { slug: "reference", section: "Reference", icon: "mark", photo: u("1469474968028-56623f02e42e", 1200),
+    blurb: "A glossary of the terms used across the site and answers to the questions we are asked most often.",
+    related: /glossary|faq/ },
 ];
 for (const a of kb) if (!KB_TOPICS.find((t) => t.section === a.section)) {
   throw new Error(`Knowledge base article "${a.slug}" (${a.source}) has section "${a.section}", which is not one of: ${KB_TOPICS.map((t) => t.section).join(" · ")}`);
@@ -578,7 +578,7 @@ function projectPage(p) {
     <div class="pd-block">
       <h2>CORSIA eligibility</h2>
       <p>Being issued by ${esc(p.registry)} is a necessary condition for CORSIA use, not a sufficient one. Eligibility for a given compliance period also depends on the vintage window and on whether the host State has authorised the units with a corresponding adjustment. We confirm the position for this lot in writing before you commit.</p>
-      <p><a class="link" href="/knowledge-base/corresponding-adjustments-article-6/">Why corresponding adjustments decide eligibility ${arrow}</a></p>
+      <p><a class="link" href="/knowledge-base/corresponding-adjustments-made-simple/">Corresponding adjustments, made simple ${arrow}</a></p>
     </div>
     <div class="pd-block">
       <h2>Sustainable Development Goals</h2>
@@ -720,7 +720,7 @@ ${phead({
 </div></section>
 
 <section class="section section--rule section--paper2"><div class="wrap split">
-  <div><p class="eyebrow"><span class="n">09</span> FAQ</p><h2 class="h2" style="margin-top:18px">Questions operators and developers ask</h2><p class="lede" style="margin-top:18px">More in the <a href="/knowledge-base/corsia-faq/">full CORSIA FAQ</a>.</p></div>
+  <div><p class="eyebrow"><span class="n">09</span> FAQ</p><h2 class="h2" style="margin-top:18px">Questions operators and developers ask</h2><p class="lede" style="margin-top:18px">More in the <a href="/knowledge-base/marketplace-faq/">full CORSIA FAQ</a>.</p></div>
   <div class="faq">${faq.paragraphs.map((p) => { const i = p.indexOf("? "); return i < 0 ? "" : `<details><summary>${esc(p.slice(0, i + 1))}</summary><p>${inline(p.slice(i + 2))}</p></details>`; }).join("")}</div>
 </div></section>
 ${ctaBand()}`;
@@ -781,7 +781,7 @@ ${phead({
       <div class="out-row"><span></span><b id="o-cost-inr" style="color:var(--on-forest-2)">—</b></div>
       <p id="o-threshold" class="hidden" style="margin:18px 0 0;color:var(--brass-soft);font-size:.9rem">Below 10,000 tCO₂ a year from international flights, operators are outside CORSIA’s offsetting requirements. Check your position before relying on this.</p>
       <div class="formula">requirement = emissions × growth factor − eligible-fuel reductions<br>emissions = fuel (t) × fuel conversion factor</div>
-      <p style="margin-top:24px;display:flex;gap:10px;flex-wrap:wrap"><a id="o-wa" class="btn btn--light" href="#" target="_blank" rel="noopener">Get a proper assessment ${arrow}</a><a class="btn btn--line-light" href="/knowledge-base/corsia-offsetting-requirement-calculation/">How the calculation works</a></p>
+      <p style="margin-top:24px;display:flex;gap:10px;flex-wrap:wrap"><a id="o-wa" class="btn btn--light" href="#" target="_blank" rel="noopener">Get a proper assessment ${arrow}</a><a class="btn btn--line-light" href="/knowledge-base/corsia-explained-for-airlines/">CORSIA explained for airlines</a></p>
     </div>
   </div>
 </div></section>
@@ -806,7 +806,7 @@ ${phead({
   img: PHOTOS.kb,
   eyebrow: `<span class="n">${kb.length}</span> reference articles`,
   title: "The CORSIA <em class=\"it\">knowledge base</em>",
-  lede: "A structured reference for aircraft operators, project developers and compliance teams — how the scheme works, what the obligations are, and what makes a unit eligible.",
+  lede: "Practical guides for buying and selling carbon credits on this marketplace, judging project quality, and meeting CORSIA as an airline.",
   extra: `<div class="kb-search"><label class="sr-only" for="kb-search">Search the knowledge base</label>${searchIcon}<input id="kb-search" type="search" placeholder="Search — e.g. corresponding adjustment, vintage, DGCA" autocomplete="off" data-index="/search-index.json"><ul id="kb-results" class="kb-results"></ul></div>`,
 })}
 <section class="section section--tight"><div class="wrap">
@@ -815,11 +815,11 @@ ${phead({
 </div></section>
 <section class="section section--rule section--tight"><div class="wrap">
   <div class="sec-head"><div><p class="eyebrow">New to CORSIA?</p><h2 class="h2">Start here</h2><p class="lede">Three articles, read in this order, give you the whole scheme in about twenty minutes.</p></div></div>
-  <ol class="kb-path">${["what-is-corsia", "how-corsia-works", "corsia-eligible-emissions-units"].map((s, i) => { const a = kb.find((x) => x.slug === s); return a ? `<li><a href="/knowledge-base/${a.slug}/"><span class="kb-path__n">Step ${i + 1}</span><b>${esc(a.title.split(":")[0])}</b><span class="kb-path__x">${esc(a.excerpt)}</span><span class="kb-path__m">${readMins(a.body)} min read →</span></a></li>` : ""; }).join("")}</ol>
+  <ol class="kb-path">${["using-the-marketplace", "reading-a-carbon-credit-listing", "buying-carbon-credits-step-by-step"].map((s, i) => { const a = kb.find((x) => x.slug === s); return a ? `<li><a href="/knowledge-base/${a.slug}/"><span class="kb-path__n">Step ${i + 1}</span><b>${esc(a.title.split(":")[0])}</b><span class="kb-path__x">${esc(a.excerpt)}</span><span class="kb-path__m">${readMins(a.body)} min read →</span></a></li>` : ""; }).join("")}</ol>
 </div></section>
 <section class="section section--rule section--paper2"><div class="wrap">
-  <div class="sec-head"><div><p class="eyebrow">Go further</p><h2 class="h2">Practical guides on the blog</h2><p class="lede">${insights.length} longer pieces on buying, selling, compliance practice and the Indian carbon market.</p></div><a class="btn btn--ghost" href="/blog/">Read the blog ${arrow}</a></div>
-  <div class="acards">${insights.filter((a) => a.topic === "Airline Compliance").slice(0, 3).map((a) => articleCard(a, "blog")).join("")}</div>
+  <div class="sec-head"><div><p class="eyebrow">Go further</p><h2 class="h2">Latest from the blog</h2><p class="lede">Longer pieces on buying, selling and compliance.</p></div><a class="btn btn--ghost" href="/blog/">Read the blog ${arrow}</a></div>
+  <div class="acards">${insights.slice(0, 3).map((a) => articleCard(a, "blog")).join("")}</div>
 </div></section>
 ${ctaBand()}`;
   emit("/knowledge-base/", page({ path: "/knowledge-base/", breadcrumbs: [{ name: "Knowledge Base", url: "/knowledge-base/" }], title: "CORSIA Knowledge Base", description: `A ${kb.length}-article reference on CORSIA: scope, phases, growth factors, MRV, eligible emissions units, corresponding adjustments, registries, eligible fuels, pricing and India.`, body }));
@@ -853,6 +853,7 @@ ${ctaBand()}`;
       <span class="kbt-list__body"><b>${esc(a.title)}</b><span>${esc(a.excerpt)}</span><small>${readMins(a.body)} min read</small></span>
       <span class="kbt-list__go" aria-hidden="true">→</span>
     </a></li>`).join("")}</ol>
+    ${t.slug === "project-types" ? `<div class="kbt-cats"><h2 class="h3">See these projects on the marketplace</h2><div class="chips">${Object.keys(categories).map((c) => `<a class="chip" href="/marketplace/?category=${encodeURIComponent(c)}">${esc(c)} <span>${projects.filter((p) => p.category === c).length}</span></a>`).join("")}</div></div>` : ""}
     ${related.length ? `<div class="kbt-related"><h2 class="h3">Related posts from the blog</h2><div class="kbt-related__grid">${related.map((a) => `<a href="/blog/${a.slug}/"><small>${esc(a.topic)}</small><b>${esc(a.title)}</b></a>`).join("")}</div></div>` : ""}
     <div class="pager">
       ${prevT ? `<a href="/knowledge-base/topic/${prevT.slug}/"><span>← Previous topic</span><b>${esc(prevT.section)}</b></a>` : "<div></div>"}
@@ -877,6 +878,7 @@ ${ctaBand()}`;
     const prev = kb[i - 1], next = kb[i + 1];
     const nav = KB_TOPICS.map((t) => `<p class="side-label"><a class="kbnav__topic" href="/knowledge-base/topic/${t.slug}/">${esc(t.section)}</a></p>${topicArticles(t).map((x) => `<a href="/knowledge-base/${x.slug}/"${x.slug === a.slug ? ' aria-current="page"' : ""}>${esc(x.title.split(":")[0])}</a>`).join("")}`).join("");
     const t = topicOf(a.section);
+    if (!a.image) a.image = t.photo;
     const body = `
 <div class="wrap"><div class="doc-grid" style="padding-top:clamp(28px,4vw,48px)">
   <aside class="kbnav" aria-label="Knowledge base">${nav}</aside>
@@ -911,11 +913,17 @@ function insightsPages() {
 ${phead({
   crumbs: [{ label: "Blog" }],
   img: PHOTOS.insights,
-  eyebrow: `<span class="n">${insights.length}</span> articles`,
+  eyebrow: insights.length ? `<span class="n">${insights.length}</span> articles` : "New posts coming soon",
   title: "The carbon desk <em class=\"it\">blog</em>",
   lede: "Practical guides on CORSIA compliance, buying and selling credits, pricing, due diligence and India’s carbon market.",
 })}
-<section class="section section--tight" id="insights"><div class="wrap">
+${insights.length ? "" : `<section class="section section--tight"><div class="wrap"><div class="blog-empty">
+  ${topicIcon({ icon: "pen" }, "kbt-ico kbt-ico--lg")}
+  <h2 class="h2">Our first posts are on their way.</h2>
+  <p class="lede">We are writing new guides on buying and selling carbon credits and on CORSIA compliance. Until they are up, the knowledge base covers the essentials.</p>
+  <div class="hero__actions"><a class="btn" href="/knowledge-base/">Open the knowledge base ${arrow}</a><a class="btn btn--ghost" href="/marketplace/">Browse the marketplace</a></div>
+</div></div></section>`}
+${insights.length ? `<section class="section section--tight" id="insights"><div class="wrap">
   <div class="chips" role="group" aria-label="Topic" style="margin-bottom:40px">
     <button class="chip" data-topic="All" aria-pressed="true">All <span>${insights.length}</span></button>
     ${topics.map((t) => `<button class="chip" data-topic="${esc(t)}" aria-pressed="false">${esc(t)} <span>${tc(t)}</span></button>`).join("")}
@@ -923,9 +931,9 @@ ${phead({
   <h2 class="sr-only">All articles</h2>
   <div class="acards">${insights.map((a) => articleCard(a, "blog")).join("")}</div>
   <div class="more"><button id="ins-more" class="btn btn--ghost">Load more</button></div>
-</div></section>
+</div></section>` : ""}
 ${ctaBand()}`;
-  emit("/blog/", page({ path: "/blog/", breadcrumbs: [{ name: "Blog", url: "/blog/" }], title: "Blog", description: "Guides and analysis on CORSIA compliance, carbon credit buying and selling, pricing, due diligence and the Indian carbon market.", body }));
+  emit("/blog/", page({ path: "/blog/", noindex: insights.length === 0, breadcrumbs: [{ name: "Blog", url: "/blog/" }], title: "Blog", description: "Guides and analysis on CORSIA compliance, carbon credit buying and selling, pricing, due diligence and the Indian carbon market.", body }));
 
   insights.forEach((a) => {
     const r = renderMarkdown(a.body);

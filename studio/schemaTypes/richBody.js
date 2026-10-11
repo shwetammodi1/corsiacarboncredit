@@ -11,7 +11,7 @@ const link = {
       name: "href",
       type: "url",
       title: "URL",
-      description: "Full URL (https://…) or a page on this site, e.g. /knowledge-base/how-corsia-works/",
+      description: "Full URL (https://…) or a page on this site, e.g. /knowledge-base/corsia-explained-for-airlines/",
       validation: (Rule) => Rule.required().uri({ scheme: ["http", "https", "mailto", "tel"], allowRelative: true }),
     }),
   ],
