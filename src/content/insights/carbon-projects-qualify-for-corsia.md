@@ -47,17 +47,17 @@ Additionality asks whether the activity would have happened without the credit i
 
 **Grid-connected solar and wind** are the clearest case. In many markets they are now the cheapest new power, which is good for the climate and bad for the argument that carbon finance was decisive. Several programmes have narrowed or withdrawn their grid-renewable methodologies in such markets. What remains tends to be limited to least developed country settings, technologies still early in deployment, projects facing documented financing or regulatory barriers, and off-grid or mini-grid systems where the commercial case is weaker. Past issuances in the same category are no guide to what will pass today.
 
-**Energy efficiency** meets the same challenge when payback is quick. Baselines are also slippery, because efficiency improves over time for reasons unrelated to the project. A further complication: where a country runs its own trading scheme covering efficiency, the same reductions may already be counted there. For Indian projects, check the overlap with the [CCTS](/insights/indian-carbon-market-ccts-explained/) before assuming a clean authorisation path.
+**Energy efficiency** meets the same challenge when payback is quick. Baselines are also slippery, because efficiency improves over time for reasons unrelated to the project. A further complication: where a country runs its own trading scheme covering efficiency, the same reductions may already be counted there. For Indian projects, check the overlap with the [CCTS](/blog/indian-carbon-market-ccts-explained/) before assuming a clean authorisation path.
 
 **Waste-to-energy** depends on what would otherwise have happened to the waste, and that is often governed by local rules that are themselves changing. Once landfill diversion becomes mandatory, the additionality case weakens. **Biomass energy** must also show that its feedstock is renewable and sustainably sourced, and proving that takes more work than most developers expect.
 
 **Transport** projects face an attribution problem: showing that one intervention caused a shift in behaviour or fleet mix, rather than riding a trend driven by policy, cost or consumer taste. That difficulty is the main reason approved methodologies are scarce here.
 
-Our [additionality explainer](/insights/additionality-in-carbon-credits-explained/) goes further into how the test is argued.
+Our [additionality explainer](/blog/additionality-in-carbon-credits-explained/) goes further into how the test is argued.
 
 ## Problem two: measuring the reduction credibly
 
-**Cookstoves** can reach enormous numbers of households and bring real health and development benefits. They also carry a long record of methodological criticism. The disputed inputs are how often the new stove is used, whether it replaces the old one or sits beside it, and what share of the baseline biomass is non-renewable. Independent studies have repeatedly found actual reductions below credited figures for some methodologies; programmes have tightened rules and buyers have grown wary. A project built on older assumptions will meet resistance even if it is technically compliant. See [cookstove carbon projects](/insights/cookstove-carbon-projects-guide/).
+**Cookstoves** can reach enormous numbers of households and bring real health and development benefits. They also carry a long record of methodological criticism. The disputed inputs are how often the new stove is used, whether it replaces the old one or sits beside it, and what share of the baseline biomass is non-renewable. Independent studies have repeatedly found actual reductions below credited figures for some methodologies; programmes have tightened rules and buyers have grown wary. A project built on older assumptions will meet resistance even if it is technically compliant. See [cookstove carbon projects](/blog/cookstove-carbon-projects-guide/).
 
 **Safe water** projects credit the fuel no longer burnt to boil water and share every one of those questions, plus the need to show that treated water actually replaced boiling. The co-benefits support voluntary demand. An airline, though, needs a unit that discharges an obligation, so quantification matters more than the story.
 
@@ -83,7 +83,7 @@ Running each hypothetical project through the same order of questions:
 
 **Farm forestry scheme.** Methodology: available. The open questions are tenure records for each smallholding, documented consent, buffer contribution and a monitoring plan that could hold for decades. Possible, but a multi-year effort before any unit could be offered to an airline.
 
-In all three cases the authorisation question sat over everything else. We treat it as the first filter, not the last. The Indian picture is covered in more depth in [CORSIA-eligible projects in India](/insights/corsia-eligible-projects-in-india/).
+In all three cases the authorisation question sat over everything else. We treat it as the first filter, not the last. The Indian picture is covered in more depth in [CORSIA-eligible projects in India](/blog/corsia-eligible-projects-in-india/).
 
 ## A screening order for developers
 
@@ -95,7 +95,7 @@ In all three cases the authorisation question sat over everything else. We treat
 6. Is land tenure clear and consent recorded?
 7. Do the economics work at this size, or is aggregation needed?
 
-The costly and avoidable mistake is spending on questions three to seven before answering one and two. The full route to market is in [becoming a CORSIA supplier](/insights/how-to-become-corsia-carbon-credit-supplier/).
+The costly and avoidable mistake is spending on questions three to seven before answering one and two. The full route to market is in [becoming a CORSIA supplier](/blog/how-to-become-corsia-carbon-credit-supplier/).
 
 ## Short answers
 

@@ -24,7 +24,7 @@ Put plainly: an offset pays for someone else's project, while an inset fixes emi
 
 For most companies, the bulk of the footprint is in **Scope 3**, the emissions of their supply chain rather than their own sites and electricity. Offsets do not change those numbers. They compensate for them elsewhere.
 
-A well-run inset can cut Scope 3 emissions at source: a farmer using lower-emission methods, a supplier switching fuel, a transport partner burning less diesel. Because the cut happens inside the value chain, it can lower the company's reported footprint rather than simply sit beside it. Our explainer on [Scope 1, 2 and 3 accounting](/insights/ghg-accounting-scope-1-2-3-explained/) shows where those emissions are counted.
+A well-run inset can cut Scope 3 emissions at source: a farmer using lower-emission methods, a supplier switching fuel, a transport partner burning less diesel. Because the cut happens inside the value chain, it can lower the company's reported footprint rather than simply sit beside it. Our explainer on [Scope 1, 2 and 3 accounting](/blog/ghg-accounting-scope-1-2-3-explained/) shows where those emissions are counted.
 
 ## The measurement trap
 
@@ -34,7 +34,7 @@ Offsets come as discrete units, tracked in a registry with serial numbers. An in
 2. **Is it yours?** The reduction must be attributed to your company and your purchases specifically.
 3. **Is anyone else claiming it?** The supplier, or another brand buying from the same supplier, may count the same reduction.
 
-Weak insetting over-claims just as easily as weak offsetting. The failure looks different, but the discipline is the same: a credible baseline, genuine additionality and careful attribution. Our [additionality explainer](/insights/additionality-in-carbon-credits-explained/) applies here too.
+Weak insetting over-claims just as easily as weak offsetting. The failure looks different, but the discipline is the same: a credible baseline, genuine additionality and careful attribution. Our [additionality explainer](/blog/additionality-in-carbon-credits-explained/) applies here too.
 
 ## What each lets you report
 
@@ -45,7 +45,7 @@ Weak insetting over-claims just as easily as weak offsetting. The failure looks 
 | Typical example | Retiring a REDD+ credit | Paying for regenerative practices at suppliers |
 | Main risk | Credit quality and double counting | Measurement and attribution |
 
-The reporting line is where companies go wrong. An offset should be disclosed as compensation, not netted off your emissions total as though you had cut it. A genuine inset can show up as a lower footprint. Blurring the two is a common route to greenwashing, and keeping them apart is what makes a net zero claim hold up. See [carbon neutral vs net zero](/insights/carbon-neutral-vs-net-zero/) for the claims side.
+The reporting line is where companies go wrong. An offset should be disclosed as compensation, not netted off your emissions total as though you had cut it. A genuine inset can show up as a lower footprint. Blurring the two is a common route to greenwashing, and keeping them apart is what makes a net zero claim hold up. See [carbon neutral vs net zero](/blog/carbon-neutral-vs-net-zero/) for the claims side.
 
 ## Most companies end up doing both
 

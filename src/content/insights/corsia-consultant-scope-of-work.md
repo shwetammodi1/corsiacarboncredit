@@ -46,19 +46,19 @@ Insist that the applicability assessment is written and signed. It is the founda
 - which exemptions apply, such as humanitarian, medical and firefighting flights;
 - what foreseeable changes would alter any of the above.
 
-The underlying tests are explained in [CORSIA compliance for Indian airlines](/insights/corsia-compliance-for-indian-airlines/).
+The underlying tests are explained in [CORSIA compliance for Indian airlines](/blog/corsia-compliance-for-indian-airlines/).
 
 ## Stage 2: why the fee break belongs here
 
 The gap analysis is the most valuable stage and the one most often skipped in the hurry to produce a plan. For each requirement it should give the current position, the gap, the fix, an owner and a date. That table is what makes the rest of the engagement priceable, which is why phased contracts put the fee break at the end of this stage.
 
-A gap analysis that says "broadly compliant, minor gaps" without a line-by-line table has not been done. More on what it examines in [CORSIA gap analysis](/insights/corsia-gap-analysis-service/).
+A gap analysis that says "broadly compliant, minor gaps" without a line-by-line table has not been done. More on what it examines in [CORSIA gap analysis](/blog/corsia-gap-analysis-service/).
 
 ## Stage 3: the plan, and two clauses around it
 
 ![Contents an emissions monitoring plan must cover](/images/corsia-consultant/corsia-emp-contents.svg)
 
-The plan should cover operator identification, the fleet list, flight scope, the fuel monitoring method, the data flow, the data gap procedure and control procedures. When we review plans, the weak points are predictable: an unclear group structure, wet-leased aircraft left off the fleet list, State-pair logic that is not written down, a method applied differently at different stations, a data flow with no named system or owner, control procedures written after the fact, and, most costly at audit, no data gap procedure at all. See [the monitoring plan section by section](/insights/corsia-emissions-monitoring-plan-guide/).
+The plan should cover operator identification, the fleet list, flight scope, the fuel monitoring method, the data flow, the data gap procedure and control procedures. When we review plans, the weak points are predictable: an unclear group structure, wet-leased aircraft left off the fleet list, State-pair logic that is not written down, a method applied differently at different stations, a data flow with no named system or owner, control procedures written after the fact, and, most costly at audit, no data gap procedure at all. See [the monitoring plan section by section](/blog/corsia-emissions-monitoring-plan-guide/).
 
 The contract should also say two things: who updates the plan when the fleet or operation changes (a stale plan is a finding), and who answers authority queries on it, at whose cost.
 
@@ -132,7 +132,7 @@ The rule-change question is a live one. The participation list, the set of appro
 
 Around the deliverables, a workable contract carries: a staffing schedule (named people, grades, days, substitution rules); a fee schedule by deliverable, with the year-two price stated now; the findings protocol above; change control for scope changes; confidentiality, since fuel and route data are commercially sensitive; an independence declaration covering any interest in credit sales; records and handover, with everything produced belonging to the operator in editable form; and termination and continuity terms.
 
-The handover clause matters more than it looks. A plan delivered only as a locked PDF, with the working files kept by the consultant, quietly guarantees a return engagement. For the warning signs in a firm's response to these terms, see [CORSIA consultant red flags](/insights/corsia-consultant-due-diligence-red-flags/); for how the engagement is structured over time, [consultant engagement models](/insights/corsia-consultant-engagement-models/).
+The handover clause matters more than it looks. A plan delivered only as a locked PDF, with the working files kept by the consultant, quietly guarantees a return engagement. For the warning signs in a firm's response to these terms, see [CORSIA consultant red flags](/blog/corsia-consultant-due-diligence-red-flags/); for how the engagement is structured over time, [consultant engagement models](/blog/corsia-consultant-engagement-models/).
 
 If you would like us to review a draft scope before you sign it, whether ours or another firm's, [send it to the desk](/contact/). The rest of what we do is on our [services page](/services/).
 

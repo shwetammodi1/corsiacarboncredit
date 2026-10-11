@@ -39,7 +39,7 @@ This order is not the one in which ICAO publishes the criteria. It is the order 
 
 **Adjustment.** Ask for the authorisation document itself, issued by the designated national authority and naming your units or a defined volume and vintage. A broker's confirmation, a seller's statement or a project web page is not a substitute. No document, no further work.
 
-**Programme.** Look at the [ICAO emissions units page](https://www.icao.int/environmental-protection/CORSIA/Pages/CORSIA-Emissions-Units.aspx) on the day, not a list someone saved. Note whether approval is full or conditional, and if conditional, whether the condition reaches your methodology. See also [managing programme approval risk](/insights/icao-approved-corsia-crediting-programmes/).
+**Programme.** Look at the [ICAO emissions units page](https://www.icao.int/environmental-protection/CORSIA/Pages/CORSIA-Emissions-Units.aspx) on the day, not a list someone saved. Note whether approval is full or conditional, and if conditional, whether the condition reaches your methodology. See also [managing programme approval risk](/blog/icao-approved-corsia-crediting-programmes/).
 
 **Vintage.** Take it from the registry, not from the seller's summary. The date of issuance is not the vintage; a unit issued last year can carry a much older vintage. Compare it with the window for your own compliance period.
 
@@ -49,7 +49,7 @@ This order is not the one in which ICAO publishes the criteria. It is the order 
 
 **Verification.** Is the body accredited? Does the report cover the monitoring period your units come from? Are there qualifications, and what are they about? A qualified opinion may be acceptable once you understand it.
 
-**Additionality and baseline.** Ask whether the case holds for this project, in this market, today. Grid-connected renewables where they are the cheapest power deserve real scepticism. For avoided deforestation, ask how the baseline was set and when it was last revised. The reasoning is explained in our [additionality guide](/insights/additionality-in-carbon-credits-explained/).
+**Additionality and baseline.** Ask whether the case holds for this project, in this market, today. Grid-connected renewables where they are the cheapest power deserve real scepticism. For avoided deforestation, ask how the baseline was set and when it was last revised. The reasoning is explained in our [additionality guide](/blog/additionality-in-carbon-credits-explained/).
 
 **Permanence.** Relevant only to storage-based reductions: the buffer percentage, how it was sized, and when it was last reassessed.
 
@@ -70,7 +70,7 @@ Once that confirmation arrives, gate two starts. Total time spent on gate one: a
 
 Guidance usually stops at the criteria. The judgement lies in what to do when one cannot be answered cleanly.
 
-- **Authorisation pending:** price the government risk and contract for it, or decline. Our piece on [corresponding adjustment risk](/insights/corresponding-adjustments-corsia-explained/) covers the terms.
+- **Authorisation pending:** price the government risk and contract for it, or decline. Our piece on [corresponding adjustment risk](/blog/corresponding-adjustments-corsia-explained/) covers the terms.
 - **Conditional approval with an unclear condition:** get clarity before the deal, not after.
 - **Vintage close to a boundary:** take a discount and cancel early rather than holding. Windows have moved before.
 - **Qualified verification:** understand what was qualified; it may be acceptable.

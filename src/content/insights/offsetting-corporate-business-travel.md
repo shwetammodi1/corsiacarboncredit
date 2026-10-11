@@ -11,7 +11,7 @@ Client questionnaires now ask how much your people fly and what you do about it.
 
 ## Where the emissions sit
 
-Flights taken by employees on company business belong to **Scope 3**, your value-chain emissions. They are not Scope 1, because you do not operate the aircraft, and not Scope 2, which covers purchased energy. That classification matters: Scope 3 is where most corporate footprints actually lie, and customers with [science-based targets](/insights/science-based-targets-sbti-explained/) are increasingly asking suppliers to act on it.
+Flights taken by employees on company business belong to **Scope 3**, your value-chain emissions. They are not Scope 1, because you do not operate the aircraft, and not Scope 2, which covers purchased energy. That classification matters: Scope 3 is where most corporate footprints actually lie, and customers with [science-based targets](/blog/science-based-targets-sbti-explained/) are increasingly asking suppliers to act on it.
 
 ## The checklist
 
@@ -19,8 +19,8 @@ Flights taken by employees on company business belong to **Scope 3**, your value
 
 - Pull a year of booking data from your travel management company or expense system.
 - Make sure each record has origin, destination and cabin class.
-- Convert to [CO2e](/insights/what-is-co2e-carbon-dioxide-equivalent/) using one stated method, and keep it the same each year.
-- Note whether the method includes a non-CO2 uplift. The mechanics are in [how a flight's footprint is calculated](/insights/how-to-calculate-flight-carbon-footprint/).
+- Convert to [CO2e](/blog/what-is-co2e-carbon-dioxide-equivalent/) using one stated method, and keep it the same each year.
+- Note whether the method includes a non-CO2 uplift. The mechanics are in [how a flight's footprint is calculated](/blog/how-to-calculate-flight-carbon-footprint/).
 
 ### Stage 2: Reduce
 
@@ -29,13 +29,13 @@ Flights taken by employees on company business belong to **Scope 3**, your value
 - Put rail ahead of short-haul flights on routes where it is practical.
 - Book direct and economy wherever the traveller's role allows.
 
-Reductions are cheaper than credits and far easier to defend. Our separate piece on [cutting business travel emissions](/insights/reducing-business-travel-emissions/) goes into policy design.
+Reductions are cheaper than credits and far easier to defend. Our separate piece on [cutting business travel emissions](/blog/reducing-business-travel-emissions/) goes into policy design.
 
 ### Stage 3: Address the residual
 
 - Consider **SAF through book-and-claim** for some of the unavoidable flying; it reduces the aviation emission rather than compensating for it elsewhere.
 - For the rest, buy high-integrity credits and retire them in the company's name.
-- Run the [offset quality checks](/insights/evaluating-carbon-offset-quality-airlines/) before buying, not after.
+- Run the [offset quality checks](/blog/evaluating-carbon-offset-quality-airlines/) before buying, not after.
 
 ### Stage 4: Report
 
@@ -49,7 +49,7 @@ Reductions are cheaper than credits and far easier to defend. Our separate piece
 
 **Changing calculators between years.** A switch in method, especially on non-CO2 effects, can make emissions appear to rise or fall with no change in travel.
 
-**Announcing "carbon neutral travel".** Netting offsets against emissions blurs the distinction covered in [carbon neutral vs net zero](/insights/carbon-neutral-vs-net-zero/) and invites exactly the questions you want to avoid.
+**Announcing "carbon neutral travel".** Netting offsets against emissions blurs the distinction covered in [carbon neutral vs net zero](/blog/carbon-neutral-vs-net-zero/) and invites exactly the questions you want to avoid.
 
 **Leaving reduction to the sustainability team.** Travel policy is owned by finance, HR and the business heads who approve trips. Without them, stage 2 does not happen.
 

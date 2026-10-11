@@ -7,7 +7,7 @@ tags: ["carbon credit vs carbon tax","carbon pricing","carbon tax","cap and trad
 image: "/images/carbon-topics/carbon-credit-vs-carbon-tax.svg"
 ---
 
-This is the short version. If you have five minutes and need to know how a carbon tax differs from a carbon credit, read this. If you work for an Indian company that may face several of these instruments at once, our longer piece on [carbon tax, credits and emissions trading from an Indian company's point of view](/insights/carbon-tax-vs-carbon-credits/) goes much further.
+This is the short version. If you have five minutes and need to know how a carbon tax differs from a carbon credit, read this. If you work for an Indian company that may face several of these instruments at once, our longer piece on [carbon tax, credits and emissions trading from an Indian company's point of view](/blog/carbon-tax-vs-carbon-credits/) goes much further.
 
 ## Price or quantity: pick one
 
@@ -31,11 +31,11 @@ That one choice explains most of the difference between the two systems.
 
 Taxes and caps both make emitting cost money. A credit works the other way round. You pay a project somewhere to reduce or remove a tonne, and you receive a unit you can trade or retire. It is a payment for a result, not a charge on pollution.
 
-Credits turn up in two places. Some compliance schemes let covered companies use them for part of what they owe. And outside any scheme, companies buy them by choice in the [voluntary carbon market](/insights/what-is-the-voluntary-carbon-market/).
+Credits turn up in two places. Some compliance schemes let covered companies use them for part of what they owe. And outside any scheme, companies buy them by choice in the [voluntary carbon market](/blog/what-is-the-voluntary-carbon-market/).
 
 ## Where aviation fits
 
-CORSIA shows how these tools get mixed. It is not a tax and not a classic cap. It is an **offsetting obligation** on growth in international aviation emissions, met mainly with credits. It sits alongside trading schemes such as the EU ETS, which cover other flights. One airline can pay for allowances on some routes and cancel credits on others. Our piece on [carbon pricing and airlines](/insights/carbon-pricing-impact-on-airlines/) looks at what that does to costs.
+CORSIA shows how these tools get mixed. It is not a tax and not a classic cap. It is an **offsetting obligation** on growth in international aviation emissions, met mainly with credits. It sits alongside trading schemes such as the EU ETS, which cover other flights. One airline can pay for allowances on some routes and cancel credits on others. Our piece on [carbon pricing and airlines](/blog/carbon-pricing-impact-on-airlines/) looks at what that does to costs.
 
 ## Three mix-ups we correct often
 

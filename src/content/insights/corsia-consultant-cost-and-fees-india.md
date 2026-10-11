@@ -70,13 +70,13 @@ Proposals only compare if the brief is specific. Give every firm the same inform
 - whether you need knowledge transfer, and for how many people;
 - how much of the work your own team can do.
 
-Then require every quote to set out deliverables by name, who will do the work, days by grade, exclusions, how findings are handled, and what year two costs. The questions to put to the firm itself are in [questions to ask a CORSIA consultant](/insights/questions-to-ask-a-corsia-consultant/).
+Then require every quote to set out deliverables by name, who will do the work, days by grade, exclusions, how findings are handled, and what year two costs. The questions to put to the firm itself are in [questions to ask a CORSIA consultant](/blog/questions-to-ask-a-corsia-consultant/).
 
 ## The costs outside the consultant's fee
 
 The consultant is seldom the largest line in a compliance budget. Budget separately for the verification body's fee; internal staff time (compliance lead, fuel and operations data owners, finance); system changes such as reporting extracts, station data capture and retention; training so the cycle can be run in-house; emissions units where offsetting applies; registry account and transaction charges; legal review of unit purchase contracts and corresponding adjustment terms; and a contingency for findings, where 10–15% is realistic in a first cycle.
 
-Keep verification as a separate purchase. It must be independent of whoever prepares the report, so a proposal offering "verification included" needs a closer look. Either the verifier is subcontracted at arm's length and disclosed, or the independence model is broken. See [choosing a CORSIA verification body in India](/insights/corsia-verification-body-selection-india/).
+Keep verification as a separate purchase. It must be independent of whoever prepares the report, so a proposal offering "verification included" needs a closer look. Either the verifier is subcontracted at arm's length and disclosed, or the independence model is broken. See [choosing a CORSIA verification body in India](/blog/corsia-verification-body-selection-india/).
 
 ### How a first-year budget is typically split
 
@@ -90,7 +90,7 @@ Keep verification as a separate purchase. It must be independent of whoever prep
 - Systems and reporting changes: 5%
 - Contingency for findings: 5%
 
-The consultant accounts for about 60%, not 90%. Verification and internal time are substantial and often left off the first approval request, which is why CORSIA budgets are so often exceeded on paper when nothing has gone wrong. Emissions units are not in this list at all; where offsetting applies they are a separate and potentially much larger line, covered in [managing CORSIA compliance costs](/insights/corsia-compliance-cost-management/).
+The consultant accounts for about 60%, not 90%. Verification and internal time are substantial and often left off the first approval request, which is why CORSIA budgets are so often exceeded on paper when nothing has gone wrong. Emissions units are not in this list at all; where offsetting applies they are a separate and potentially much larger line, covered in [managing CORSIA compliance costs](/blog/corsia-compliance-cost-management/).
 
 ## Making year two cheaper
 
@@ -104,13 +104,13 @@ So write knowledge transfer into the contract with named items: a procedures doc
 
 For a project developer supplying CORSIA-eligible credits, the costs resemble project development rather than compliance advisory: eligibility and feasibility screening (early, and cheap relative to what it prevents); a substantial project design document; third-party validation; a programme registration fee; monitoring systems with ongoing running costs; verification for each issuance; support in seeking a corresponding adjustment; and a buyer documentation pack, which is small and tends to raise the price achieved.
 
-The corresponding adjustment is the item that breaks timelines, because it depends on a host government decision rather than anything the developer or adviser does. Budget for elapsed time as well as effort. See [corresponding adjustments for Indian CORSIA projects](/insights/corsia-corresponding-adjustment-india/).
+The corresponding adjustment is the item that breaks timelines, because it depends on a host government decision rather than anything the developer or adviser does. Budget for elapsed time as well as effort. See [corresponding adjustments for Indian CORSIA projects](/blog/corsia-corresponding-adjustment-india/).
 
 ## Why cheap can cost more
 
 The usual failure is not a badly written document. It is a document never tested against a verifier: a template monitoring plan and an unvalidated data flow that pass internal review and then produce material findings. Closing them takes consultant time, verifier rework, internal time and, close to a deadline, a good deal of stress. The cheapest real saving available is getting your fuel data in order before the engagement starts. It lowers the fee, lowers verification effort and reduces conservative adjustments where data is incomplete.
 
-For repeat cycles, running the work in-house often saves money; for a first cycle, the risk of an unaccepted plan or failed verification usually outweighs it. The trade-off is set out in [consultant, in-house or hybrid](/insights/corsia-consultant-vs-in-house-team/).
+For repeat cycles, running the work in-house often saves money; for a first cycle, the risk of an unaccepted plan or failed verification usually outweighs it. The trade-off is set out in [consultant, in-house or hybrid](/blog/corsia-consultant-vs-in-house-team/).
 
 If you would like us to scope a gap analysis before you commit to a full engagement, [write to the desk](/contact/) with a short note on your fleet and data. What we offer is set out on our [services page](/services/).
 

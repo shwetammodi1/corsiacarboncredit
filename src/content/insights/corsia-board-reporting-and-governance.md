@@ -118,6 +118,6 @@ Keep one authoritative position covering obligation, trajectory, risks and lever
 - **Leaving internal audit out** because "the verifier covers it". The verifier covers one document.
 - **Treating the 2027 change as a future-year problem** until the budget for 2027 is already set.
 
-For a practical view of how these pieces come together in year one, see [your first year of CORSIA compliance](/insights/corsia-first-year-compliance-india/). The forecasting side is covered in [budgeting and forecasting CORSIA costs](/insights/corsia-budgeting-and-forecasting-india/), and the verifier's side in [preparing for a CORSIA audit](/insights/corsia-internal-audit-preparation/).
+For a practical view of how these pieces come together in year one, see [your first year of CORSIA compliance](/blog/corsia-first-year-compliance-india/). The forecasting side is covered in [budgeting and forecasting CORSIA costs](/blog/corsia-budgeting-and-forecasting-india/), and the verifier's side in [preparing for a CORSIA audit](/blog/corsia-internal-audit-preparation/).
 
 If you want help setting up ownership, registry controls or a first board note, we work with Indian operators on exactly this. Our [services page](/services/) sets out what we cover, or [write to the desk](/contact/) with a short description of where you are.

@@ -95,7 +95,7 @@ Since blended fuel normally shares tanks and pipelines with conventional fuel, t
 
 Running even a small fuel claim through one full cycle is worth more than its size suggests. It tests whether your supply documentation holds up, finds custody gaps while the volume is small, gives the verifier a precedent, and shows what scaling would take. Operators who expect to use fuel at scale later are the ones putting small claims through verification now; waiting until the obligation bites leaves no time to build the supply and documentation.
 
-For how the reduction is calculated, see [how SAF reduces the offsetting requirement](/knowledge-base/saf-and-corsia-offsetting-reduction/). For the buying side, see [buying CORSIA units](/insights/corsia-unit-procurement-process-india/).
+For how the reduction is calculated, see [how SAF reduces the offsetting requirement](/knowledge-base/saf-and-corsia-offsetting-reduction/). For the buying side, see [buying CORSIA units](/blog/corsia-unit-procurement-process-india/).
 
 *General information, not legal, financial or regulatory advice. Rules, participating-State lists and eligibility criteria change; confirm the current position with ICAO and the DGCA.*
 

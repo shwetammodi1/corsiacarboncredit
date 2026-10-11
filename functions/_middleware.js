@@ -13,10 +13,10 @@ export async function onRequest({ request, next }) {
     url.port = "";
     moved = true;
   }
-  // The blog lives under /insights/; /blog and /blog/<slug> are common guesses and old-style links.
-  const blog = url.pathname.match(/^\/blog(?:\/([^/]+))?\/?$/);
-  if (blog) {
-    url.pathname = blog[1] ? `/insights/${blog[1]}/` : "/insights/";
+  // The blog used to live under /insights/. Old links keep working.
+  const old = url.pathname.match(/^\/insights(?:\/([^/]+))?\/?$/);
+  if (old) {
+    url.pathname = old[1] ? `/blog/${old[1]}/` : "/blog/";
     moved = true;
   }
   return moved ? Response.redirect(url.toString(), 301) : next();

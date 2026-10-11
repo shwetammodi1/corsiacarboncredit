@@ -32,7 +32,7 @@ The flight's total is shared across the people on board. Two things change your 
 
 ### 5. Decide whether to add non-CO2 effects
 
-This is the setting that separates most calculators. At altitude, contrails and nitrogen oxides add warming beyond CO2, as covered in [aviation emissions explained](/insights/aviation-emissions-explained/). Some tools apply a **radiative forcing multiplier**, often around 1.7 to 2 times, to reflect this. Others report CO2 only. The final figure is given in [CO2e](/insights/what-is-co2e-carbon-dioxide-equivalent/).
+This is the setting that separates most calculators. At altitude, contrails and nitrogen oxides add warming beyond CO2, as covered in [aviation emissions explained](/blog/aviation-emissions-explained/). Some tools apply a **radiative forcing multiplier**, often around 1.7 to 2 times, to reflect this. Others report CO2 only. The final figure is given in [CO2e](/blog/what-is-co2e-carbon-dioxide-equivalent/).
 
 ## A worked example (illustrative figures)
 
@@ -50,7 +50,7 @@ The last row is the point. The same seat is 395 kg in one tool and 790 kg in ano
 
 ## Reading a calculator's output
 
-Before you offset against a figure, or roll it into a company's [business travel footprint](/insights/offsetting-corporate-business-travel/), check three things:
+Before you offset against a figure, or roll it into a company's [business travel footprint](/blog/offsetting-corporate-business-travel/), check three things:
 
 - Does it distinguish cabin class?
 - Does it include a non-CO2 multiplier, and if so, which one?

@@ -66,7 +66,7 @@ In a market like that, five settings decide the price:
 4. **Banking and borrowing.** Whether certificates carry forward affects how stable the price is.
 5. **How much offset supply is let in.** The volume of project-based credits admitted, and the limits on it, adds to or tightens supply.
 
-The scheme's parameters have come out in stages, and sector targets and trading arrangements are still being notified. Check price expectations against current [Bureau of Energy Efficiency](https://beeindia.gov.in/) publications and [CERC](https://cercind.gov.in/) orders, not secondary summaries. For how the scheme works overall, see [the Indian carbon market and CCTS explained](/insights/indian-carbon-market-ccts-explained/). For a comparison of compliance and voluntary pricing internationally, see [CORSIA credits versus voluntary carbon credits](/insights/corsia-carbon-credit-vs-voluntary-carbon-credit/).
+The scheme's parameters have come out in stages, and sector targets and trading arrangements are still being notified. Check price expectations against current [Bureau of Energy Efficiency](https://beeindia.gov.in/) publications and [CERC](https://cercind.gov.in/) orders, not secondary summaries. For how the scheme works overall, see [the Indian carbon market and CCTS explained](/blog/indian-carbon-market-ccts-explained/). For a comparison of compliance and voluntary pricing internationally, see [CORSIA credits versus voluntary carbon credits](/blog/corsia-carbon-credit-vs-voluntary-carbon-credit/).
 
 ## From headline price to money received
 
@@ -125,7 +125,7 @@ The last test separates projects from price bets. A waste methane project with s
 
 **Is selling domestically better than exporting?** It depends on project type, export policy and which buyers value your attributes. Model both and take current regulatory advice.
 
-**Where do I find buyers?** Corporates with public commitments, brokers and exchanges, or the aggregator that took you through validation. See [how to sell carbon credits in India](/insights/how-to-sell-carbon-credits-in-india/), and for which project types earn the better prices, [carbon credit project types in India](/insights/carbon-credit-project-types-india/).
+**Where do I find buyers?** Corporates with public commitments, brokers and exchanges, or the aggregator that took you through validation. See [how to sell carbon credits in India](/blog/how-to-sell-carbon-credits-in-india/), and for which project types earn the better prices, [carbon credit project types in India](/blog/carbon-credit-project-types-india/).
 
 If you want your revenue model put through this stress test before you talk to investors, [send it to us](/contact/). We will tell you which assumption breaks first.
 

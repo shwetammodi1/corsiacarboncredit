@@ -40,7 +40,7 @@ Add durable storage in sediment and it is easy to see why buyers who report on m
 
 ### Can the below-ground carbon be measured credibly?
 
-This is the hardest part. Carbon in a tree trunk can be estimated from its size. Carbon spread through metres of tidal sediment cannot be seen at all. Quantifying the stock, and how much protection or restoration changes it, needs careful field sampling and conservative modelling. How a project handles this is often the clearest sign of its quality. The same issue of hidden, below-ground carbon comes up in our [ARR monitoring case study](/insights/afforestation-reforestation-arr-carbon-removals-case-study/).
+This is the hardest part. Carbon in a tree trunk can be estimated from its size. Carbon spread through metres of tidal sediment cannot be seen at all. Quantifying the stock, and how much protection or restoration changes it, needs careful field sampling and conservative modelling. How a project handles this is often the clearest sign of its quality. The same issue of hidden, below-ground carbon comes up in our [ARR monitoring case study](/blog/afforestation-reforestation-arr-carbon-removals-case-study/).
 
 ### How will the storage be kept?
 
@@ -52,7 +52,7 @@ Blue carbon projects sit where people earn their living. Community rights and be
 
 ## Where it fits
 
-For a buyer who wants coastal credits with strong biodiversity and community value, blue carbon is a good fit, provided the measurement and the community safeguards are done properly. As with any nature-based credit, quality varies from project to project, so the usual [quality assessment checks](/insights/carbon-credit-quality-assessment/) still apply. It also helps to understand how these credits compare with more engineered options such as [biochar](/insights/biochar-carbon-credits-explained/).
+For a buyer who wants coastal credits with strong biodiversity and community value, blue carbon is a good fit, provided the measurement and the community safeguards are done properly. As with any nature-based credit, quality varies from project to project, so the usual [quality assessment checks](/blog/carbon-credit-quality-assessment/) still apply. It also helps to understand how these credits compare with more engineered options such as [biochar](/blog/biochar-carbon-credits-explained/).
 
 ## Short answers
 

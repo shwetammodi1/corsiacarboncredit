@@ -29,7 +29,7 @@ Each has its own method and emphasis, and they do not always agree. That is usef
 
 The inputs are the integrity questions that run through the whole market:
 
-1. **Additionality.** Did the reduction need carbon money? Our [additionality explainer](/insights/additionality-in-carbon-credits-explained/) sets out the tests.
+1. **Additionality.** Did the reduction need carbon money? Our [additionality explainer](/blog/additionality-in-carbon-credits-explained/) sets out the tests.
 2. **Baseline.** Is the "without project" scenario conservative and backed by evidence?
 3. **Permanence.** Will stored carbon stay stored, and is reversal risk managed?
 4. **Over-crediting.** Is the project issuing more credits than its real effect?
@@ -44,7 +44,7 @@ Ratings work best as a **filter**. A practical approach we suggest to corporate 
 - **Screen.** Use ratings to cut a large market down to a credible shortlist quickly.
 - **Set a floor.** Some buyers write a minimum grade into their purchasing policy. This is simple for procurement to apply and easy to explain to a board.
 - **Look for agreement.** Where two respected agencies concur, give the result more weight than where they differ.
-- **Still do your own diligence** on the finalists, particularly for large purchases. Our [buyer-side due diligence case study](/insights/carbon-credit-due-diligence-buyer-case-study/) shows what that involves.
+- **Still do your own diligence** on the finalists, particularly for large purchases. Our [buyer-side due diligence case study](/blog/carbon-credit-due-diligence-buyer-case-study/) shows what that involves.
 
 For sellers, the effect runs the other way: a good rating is becoming a way into buyers' shortlists.
 
@@ -52,7 +52,7 @@ For sellers, the effect runs the other way: a good rating is becoming a way into
 
 Three limits are easy to overlook:
 
-- **Quality is not eligibility.** A highly graded credit without a corresponding adjustment still cannot be used for CORSIA. Eligibility is a separate check, covered in [CORSIA eligible emissions units](/insights/corsia-eligible-emissions-units-explained/).
+- **Quality is not eligibility.** A highly graded credit without a corresponding adjustment still cannot be used for CORSIA. Eligibility is a separate check, covered in [CORSIA eligible emissions units](/blog/corsia-eligible-emissions-units-explained/).
 - **A grade depends on its data.** If the underlying information is thin or out of date, the grade inherits that weakness.
 - **Grades are snapshots.** Projects change after they are rated.
 

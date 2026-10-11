@@ -7,7 +7,7 @@ tags: ["carbon credit price","carbon credit cost","carbon budget","CORSIA price"
 image: "/images/carbon-credits/carbon-price-drivers.svg"
 ---
 
-This article is written for the person who has to put a carbon number in a budget and defend it later: a finance lead, a procurement manager, an airline's compliance head. If you want a quick map of which credit types sit where on price, our shorter piece on [what drives the cost of a credit](/insights/carbon-credit-price-what-drives-cost/) covers that. Here we deal with turning prices into a forecast that survives a board meeting and an auditor.
+This article is written for the person who has to put a carbon number in a budget and defend it later: a finance lead, a procurement manager, an airline's compliance head. If you want a quick map of which credit types sit where on price, our shorter piece on [what drives the cost of a credit](/blog/carbon-credit-price-what-drives-cost/) covers that. Here we deal with turning prices into a forecast that survives a board meeting and an auditor.
 
 ![Diagram of the factors that move a carbon credit's price](/images/carbon-credits/carbon-price-drivers.svg)
 
@@ -27,7 +27,7 @@ So a higher price usually buys a different risk profile, not a mark-up. A much l
 
 ## The drivers, ranked by how much they move a budget
 
-**Corresponding adjustment status** matters most. Units from the same project, identical except for whether the host State has authorised transfer and adjusted its accounts, trade at clearly different prices. The tonnes are physically the same. The premium pays for a sovereign concession and for scarcity, since each authorising government forgoes those tonnes against its own target, and many choose not to. Our explainer on [Article 6](/insights/article-6-paris-agreement-explained/) walks through the mechanics.
+**Corresponding adjustment status** matters most. Units from the same project, identical except for whether the host State has authorised transfer and adjusted its accounts, trade at clearly different prices. The tonnes are physically the same. The premium pays for a sovereign concession and for scarcity, since each authorising government forgoes those tonnes against its own target, and many choose not to. Our explainer on [Article 6](/blog/article-6-paris-agreement-explained/) walks through the mechanics.
 
 **Removal versus avoidance** is now the sharpest divide in the voluntary market. Companies with net zero claims to defend pay more for removals, because avoidance credits sit awkwardly with a residual-emissions approach.
 
@@ -71,7 +71,7 @@ An operator estimates it must buy 10,000 units in a year and uses a central pric
 - If the price estimate is 15% out, the cost moves by 30,000.
 - If the volume estimate is 30% out, the cost moves by 60,000.
 
-The volume error does twice the damage. For CORSIA that means filtering properly to covered emissions before worrying about price; budgeting from total emissions is the most common way to get the volume wrong. The calculation itself is set out in [how CORSIA offsetting requirements are calculated](/insights/corsia-offsetting-requirements-calculation/).
+The volume error does twice the damage. For CORSIA that means filtering properly to covered emissions before worrying about price; budgeting from total emissions is the most common way to get the volume wrong. The calculation itself is set out in [how CORSIA offsetting requirements are calculated](/blog/corsia-offsetting-requirements-calculation/).
 
 ## Building the budget
 

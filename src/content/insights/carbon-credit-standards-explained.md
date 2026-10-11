@@ -45,7 +45,7 @@ A few notes on character:
 - **ACR and CAR** grew up in the North American regulatory setting and both have good governance reputations.
 - **Global Carbon Council** is younger, and its Gulf origin gives it regional relevance the older standards lack.
 - **ART TREES** credits a whole state or country. That structure deals with leakage, which project-level forest crediting finds hard.
-- **Article 6.4** succeeds the Clean Development Mechanism. Being new, it offers both opportunity and uncertainty. Our [Article 6 guide](/insights/article-6-paris-agreement-explained/) explains where it fits.
+- **Article 6.4** succeeds the Clean Development Mechanism. Being new, it offers both opportunity and uncertainty. Our [Article 6 guide](/blog/article-6-paris-agreement-explained/) explains where it fits.
 
 ## Methodologies decide more than standards do
 
@@ -95,13 +95,13 @@ Using whichever standard you used last time is habit, not a decision. Moving a p
 - **Registration is not verification.** A registered project has had its design validated. Credits only exist after a monitoring period has been verified. Check which stage you are looking at.
 - **Look for corrective actions.** Standards publish disputes, suspensions and corrective actions. A history does not disqualify a project, but you should understand it.
 - **Trust the registry, not the brochure.** Serial numbers, status and retirements are all in the registry. Serialisation is what stops a unit being used twice; each serial encodes programme, project, vintage and batch position. A compliance file that lists volumes without serials cannot be reconciled, and reconciliation is the first thing an auditor tries.
-- **Look before you call.** Most registry records are public, so you can check a project before speaking to the seller. Our [registry comparison](/insights/carbon-credit-registries-compared/) walks through a lookup.
+- **Look before you call.** Most registry records are public, so you can check a project before speaking to the seller. Our [registry comparison](/blog/carbon-credit-registries-compared/) walks through a lookup.
 
 ## A structural tension
 
 Standards are funded largely by fees from the projects they register. That sets rigour against volume, and it is the best argument for the outside scrutiny the market has received. The counterweights are real: reputation, more demanding buyers, rating agencies and regulatory attention, including ICAO's own assessment. Several standards have narrowed or retired methodologies under that pressure, which suggests the counterweights work.
 
-The practical lesson is not to distrust standards. It is to treat a standard's approval as a **floor**, and to do your own diligence above it, as set out in [how to assess carbon credit quality](/insights/carbon-credit-quality-assessment/).
+The practical lesson is not to distrust standards. It is to treat a standard's approval as a **floor**, and to do your own diligence above it, as set out in [how to assess carbon credit quality](/blog/carbon-credit-quality-assessment/).
 
 ## Short answers
 
@@ -111,6 +111,6 @@ The practical lesson is not to distrust standards. It is to treat a standard's a
 
 **What happens when a methodology is retired?** Registered projects usually continue under transitional rules, but new registrations stop.
 
-**Does ISCC issue carbon credits?** No. ISCC certifies fuels and materials. See [ISCC CORSIA certification](/insights/iscc-corsia-certification-guide/).
+**Does ISCC issue carbon credits?** No. ISCC certifies fuels and materials. See [ISCC CORSIA certification](/blog/iscc-corsia-certification-guide/).
 
 If you are deciding where to register an Indian project, or want a standard's approval conditions checked against the units you are buying, [talk to the desk](/contact/).

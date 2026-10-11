@@ -95,10 +95,10 @@ The practical reason for all this: an obligation understated all year removes th
 
 ## Presenting it upward
 
-Give the board or audit committee the obligation as a range with the central case marked, the trajectory with 2027 and 2030 shown as steps, the named risks, and the levers with their effect quantified. Whoever owns the obligation should own the forecast, with finance validating the assumptions. We set out the wider reporting structure in [CORSIA board reporting and governance](/insights/corsia-board-reporting-and-governance/), and the mechanics of the calculation in [how the offsetting requirement is calculated](/knowledge-base/corsia-offsetting-requirement-calculation/).
+Give the board or audit committee the obligation as a range with the central case marked, the trajectory with 2027 and 2030 shown as steps, the named risks, and the levers with their effect quantified. Whoever owns the obligation should own the forecast, with finance validating the assumptions. We set out the wider reporting structure in [CORSIA board reporting and governance](/blog/corsia-board-reporting-and-governance/), and the mechanics of the calculation in [how the offsetting requirement is calculated](/knowledge-base/corsia-offsetting-requirement-calculation/).
 
 ## India-specific points
 
-Indian carriers with large domestic operations are the most exposed to the total-versus-covered error, because the domestic share is so high. Domestic aviation emissions are a separate policy question in India, discussed in [CORSIA or CCTS](/insights/corsia-vs-ccts-for-indian-companies/). And because unit purchases are usually cross-border, foreign exchange belongs in the budget from the first transaction.
+Indian carriers with large domestic operations are the most exposed to the total-versus-covered error, because the domestic share is so high. Domestic aviation emissions are a separate policy question in India, discussed in [CORSIA or CCTS](/blog/corsia-vs-ccts-for-indian-companies/). And because unit purchases are usually cross-border, foreign exchange belongs in the budget from the first transaction.
 
 If you want a second pair of eyes on a CORSIA forecast before it goes to the board, send us your route list and fleet plan. You can [reach the desk here](/contact/), or run a first estimate yourself with our [calculator](/calculator/).

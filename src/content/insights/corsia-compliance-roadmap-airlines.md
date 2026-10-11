@@ -48,7 +48,7 @@ The fix is simple: before choosing, take one real month of data and try to produ
 
 Fuel uplift dockets, flight operations records, aircraft systems and finance records rarely agree. Reconciling them is most of the annual work, and doing it manually each year is slow and error-prone.
 
-Treat it as an engineering job. Name the authoritative source for each field, write the reconciliation logic once, document how each type of discrepancy is resolved, and automate what you can. The documentation matters because a verifier will ask why a particular mismatch was settled the way it was. [Building a CORSIA data pipeline](/insights/corsia-data-systems-and-automation/) goes into the design.
+Treat it as an engineering job. Name the authoritative source for each field, write the reconciliation logic once, document how each type of discrepancy is resolved, and automate what you can. The documentation matters because a verifier will ask why a particular mismatch was settled the way it was. [Building a CORSIA data pipeline](/blog/corsia-data-systems-and-automation/) goes into the design.
 
 ## Part two: every year
 
@@ -64,7 +64,7 @@ Verifiers sample fuel records, test reconciliation logic, look at how exceptions
 
 ### 6. Model the offsetting requirement
 
-When ICAO publishes the growth factors, apply them to verified emissions on covered routes and subtract any claim for CORSIA Eligible Fuels. Do not wait for that moment to find out the size of the bill: estimate each year from published sector data, refine when factors are confirmed, and budget against the estimate. The method is in [calculating offsetting requirements](/insights/corsia-offsetting-requirements-calculation/).
+When ICAO publishes the growth factors, apply them to verified emissions on covered routes and subtract any claim for CORSIA Eligible Fuels. Do not wait for that moment to find out the size of the bill: estimate each year from published sector data, refine when factors are confirmed, and budget against the estimate. The method is in [calculating offsetting requirements](/blog/corsia-offsetting-requirements-calculation/).
 
 ## Part three: each compliance period
 
@@ -74,7 +74,7 @@ Opening an account involves know-your-customer checks and can take weeks. Operat
 
 ### 8. Source units on evidence
 
-"CORSIA-ready" and "eligible pending authorisation" both describe units that do not qualify today. Check each unit against the [due diligence checklist](/insights/corsia-credit-due-diligence-checklist/).
+"CORSIA-ready" and "eligible pending authorisation" both describe units that do not qualify today. Check each unit against the [due diligence checklist](/blog/corsia-credit-due-diligence-checklist/).
 
 Obligations settle per three-year compliance period. Leaving all purchasing to the end means competing with the whole sector for thin supply at one time. Buying progressively through the period lowers that risk, in exchange for committing before the final figure is confirmed.
 
@@ -92,7 +92,7 @@ Keep every version of the monitoring plan, the data, reconciliation rules, repor
 
 ![Timeline of CORSIA phases](/images/corsia/corsia-phases-timeline.svg)
 
-From 2027 the second phase makes participation mandatory for States above set activity thresholds, which widens route coverage considerably. An operator with heavy traffic to States that are not currently participating can see its obligation rise sharply. Model it on your own network and a view of which States will be in scope, rather than applying a generic uplift. [CORSIA phases](/insights/corsia-phases-timeline-explained/) covers what changes at each transition.
+From 2027 the second phase makes participation mandatory for States above set activity thresholds, which widens route coverage considerably. An operator with heavy traffic to States that are not currently participating can see its obligation rise sharply. Model it on your own network and a view of which States will be in scope, rather than applying a generic uplift. [CORSIA phases](/blog/corsia-phases-timeline-explained/) covers what changes at each transition.
 
 From 2030 the individual growth factor carries more weight, so an operator growing faster than the sector bears proportionally more. Fleet and network plans therefore carry a CORSIA cost that belongs in those decisions from the start.
 

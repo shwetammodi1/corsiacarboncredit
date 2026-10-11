@@ -4,7 +4,7 @@ Site par do tarah ke articles hain:
 
 | Kya | Website par kahan | Abhi kitne |
 |---|---|---|
-| **Blog posts** (Insights) | `corsiacarboncredit.in/insights/<slug>/` | 126 |
+| **Blog posts** | `corsiacarboncredit.in/blog/<slug>/` | 126 |
 | **Knowledge base articles** | `corsiacarboncredit.in/knowledge-base/<slug>/` | 30 |
 
 Naya article jodne ke **do tareeke** hain. Dono saath-saath chal sakte hain.
@@ -12,7 +12,7 @@ Naya article jodne ke **do tareeke** hain. Dono saath-saath chal sakte hain.
 - **Tareeka A — Markdown file (abhi se kaam karta hai):** GitHub par ek file banao, site 1–2 minute mein update.
 - **Tareeka B — Sanity Studio (connect karne ke baad):** Word jaisa editor, "Publish" dabao, site 1–2 minute mein update.
 
-`corsiacarboncredit.in/blog` kholne par visitor apne aap `/insights/` par pahunch jaata hai.
+Purane `/insights/...` links apne aap `/blog/...` par pahunch jaate hain.
 
 ---
 
@@ -23,7 +23,7 @@ Naya article jodne ke **do tareeke** hain. Dono saath-saath chal sakte hain.
 3. `_template.md` kholo aur uska poora text copy karo.
 4. Folder mein wapas aao → **Add file → Create new file**.
 5. File ka naam do — yahi page ka URL banega. Chhote akshar, shabdon ke beech hyphen, aur aakhir mein `.md`:
-   `corsia-penalties-explained.md` → `corsiacarboncredit.in/insights/corsia-penalties-explained/`
+   `corsia-penalties-explained.md` → `corsiacarboncredit.in/blog/corsia-penalties-explained/`
 6. Template paste karo, upar ka hissa (front matter) bharo, neeche article likho, aur `<!-- ... -->` wala comment hata do.
 7. **Commit changes** dabao. Cloudflare 1–2 minute mein site dobara bana dega.
 
@@ -92,7 +92,7 @@ Ab Studio mein **Publish** dabane ke 1–2 minute baad article live ho jaayega.
 ### Roz ka kaam (content likhne wale ke liye)
 
 1. https://corsiacarboncredit.sanity.studio kholo.
-2. **Blog posts (Insights)** ya **Knowledge base articles** → **+ (Create)**.
+2. **Blog posts** ya **Knowledge base articles** → **+ (Create)**.
 3. Bharo:
    - **Title** (heading) aur **Slug** (URL). "Generate" dabao, slug title se apne aap ban jaayega.
    - **Excerpt**

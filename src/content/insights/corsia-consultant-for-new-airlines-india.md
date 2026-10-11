@@ -43,7 +43,7 @@ Writing these into a specification costs almost nothing. Adding them to a live s
 
 ### Before handling and fuel contracts are signed
 
-Put a clause in every handling and fuel supply agreement requiring uplift data per flight, in a defined format, on a defined schedule. It is easy to include during negotiation and hard to add afterwards. See [fuel supplier and handling agent data](/insights/corsia-fuel-supplier-data-coordination/) for what the clause should cover.
+Put a clause in every handling and fuel supply agreement requiring uplift data per flight, in a defined format, on a defined schedule. It is easy to include during negotiation and hard to add afterwards. See [fuel supplier and handling agent data](/blog/corsia-fuel-supplier-data-coordination/) for what the clause should cover.
 
 ### Before the first reporting year
 
@@ -105,7 +105,7 @@ For a growing airline, commercial decisions and CORSIA exposure are directly lin
 - **Fleet choice changes the base.** The obligation is a share of covered emissions, so anything that cuts fuel burn cuts it proportionally.
 - **SAF depends on stations.** Where eligible fuel can be uplifted with proper certification, it reduces the requirement directly, so station choice affects whether that lever exists.
 
-None of this should drive network strategy alone. It should appear in the model rather than surfacing later as an unexplained cost. A fleet plan with a CORSIA column is simply a better fleet plan. The 2027 effect is covered in [second-phase readiness for Indian operators](/insights/corsia-second-phase-readiness-india-2027/).
+None of this should drive network strategy alone. It should appear in the model rather than surfacing later as an unexplained cost. A fleet plan with a CORSIA column is simply a better fleet plan. The 2027 effect is covered in [second-phase readiness for Indian operators](/blog/corsia-second-phase-readiness-india-2027/).
 
 ## Common launch-stage mistakes
 
@@ -116,6 +116,6 @@ None of this should drive network strategy alone. It should appear in the model 
 
 ## Where outside help fits
 
-Advice pays most at four points: input to the system specification before selection (highest return, shortest window); threshold and timing modelling so the plan work lands in the right year; the first monitoring plan and DGCA engagement, where a new operator has no established relationship; and pipeline design with reconciliation rules written from the start. Keep ownership and understanding of your own data in-house. The broader trade-off is in [consultant, in-house or hybrid](/insights/corsia-consultant-vs-in-house-team/).
+Advice pays most at four points: input to the system specification before selection (highest return, shortest window); threshold and timing modelling so the plan work lands in the right year; the first monitoring plan and DGCA engagement, where a new operator has no established relationship; and pipeline design with reconciliation rules written from the start. Keep ownership and understanding of your own data in-house. The broader trade-off is in [consultant, in-house or hybrid](/blog/corsia-consultant-vs-in-house-team/).
 
 If you are launching an airline, or planning your first international routes, talk to us before the systems are chosen rather than after. [Contact the desk](/contact/) and we will start with the specification.

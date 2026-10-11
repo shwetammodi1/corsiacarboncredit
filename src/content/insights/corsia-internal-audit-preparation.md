@@ -82,7 +82,7 @@ A short checklist for the evidence pack:
 7. Your scope determination and the reasoning behind it, for the entity and for route pairs.
 8. Last year's findings and the evidence each was closed.
 
-The last item matters more than it looks. A finding that comes back after being reported as closed is treated much more severely than a first occurrence, because it suggests the fix was only on paper. We cover how to close findings properly in [resolving verification findings](/insights/corsia-verification-findings-resolution/).
+The last item matters more than it looks. A finding that comes back after being reported as closed is treated much more severely than a first occurrence, because it suggests the fix was only on paper. We cover how to close findings properly in [resolving verification findings](/blog/corsia-verification-findings-resolution/).
 
 ## Desk review and site work need different preparation
 
@@ -92,13 +92,13 @@ Most verifications combine the two.
 
 **The site or interview part** is about how records come into being. The verifier walks the process with the people who run it: where a fuel docket physically lands, who keys it, what happens when it is late. This is where differences between the written plan and daily practice show up, because it is hard to write a process down in a way that holds up when someone watches it happen.
 
-For this part, the people who do the work must be present and able to explain their own steps. Training them on your actual data flow, rather than on CORSIA in general, pays off here. See [who needs which training](/insights/corsia-training-for-airline-teams/).
+For this part, the people who do the work must be present and able to explain their own steps. Training them on your actual data flow, rather than on CORSIA in general, pays off here. See [who needs which training](/blog/corsia-training-for-airline-teams/).
 
 A small practical point that costs real time: check the leave calendar. We have seen verifications stall because the one person who understands the reconciliation logic was away that week.
 
 ## Handling the verifier
 
-- **Book early.** There are only so many accredited bodies, and everyone needs them in the same months. Book late and you get whoever is free, on their terms. Our note on [choosing a verification body](/insights/corsia-verification-body-selection-india/) covers selection.
+- **Book early.** There are only so many accredited bodies, and everyone needs them in the same months. Book late and you get whoever is free, on their terms. Our note on [choosing a verification body](/blog/corsia-verification-body-selection-india/) covers selection.
 - **Check independence.** Whoever advised on your report cannot verify it. If a consultant drafted your monitoring plan, that firm cannot verify against it. Budget for two separate suppliers from the start.
 - **Respond quickly to requests.** A scope limitation, meaning evidence the verifier needed and could not get, can stop an opinion being issued at all. That is worse than any finding.
 - **Accept valid findings.** Understand them, correct them, fix the cause. Fighting a sound finding spends credibility you will want in later years.
@@ -106,7 +106,7 @@ A small practical point that costs real time: check the leave calendar. We have 
 
 ## Leave room in the calendar
 
-Plan on the assumption that there will be findings. The schedule needs space to correct and re-verify before the national submission deadline. If verification is due to finish the week before that deadline, a material finding turns a technical problem into a compliance failure. The [compliance calendar](/insights/corsia-reporting-deadlines-and-calendar/) shows how to space the year.
+Plan on the assumption that there will be findings. The schedule needs space to correct and re-verify before the national submission deadline. If verification is due to finish the week before that deadline, a material finding turns a technical problem into a compliance failure. The [compliance calendar](/blog/corsia-reporting-deadlines-and-calendar/) shows how to space the year.
 
 From engaging a verifier to receiving a signed opinion, allow three to six months, including time to deal with findings.
 

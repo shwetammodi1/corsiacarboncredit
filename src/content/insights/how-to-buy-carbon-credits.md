@@ -7,7 +7,7 @@ tags: ["how to buy carbon credits","buy carbon offsets","carbon credit procureme
 image: "/images/carbon-guides/how-to-buy-steps.svg"
 ---
 
-This is our one-page version, for a business that wants the sequence without the detail. Each step ends with a line saying when it is finished. Do not start the next step until it is. If you want the full walkthrough, with timelines, contract terms and routes to supply, read our [detailed buyer's guide](/insights/how-to-buy-carbon-credits-guide/).
+This is our one-page version, for a business that wants the sequence without the detail. Each step ends with a line saying when it is finished. Do not start the next step until it is. If you want the full walkthrough, with timelines, contract terms and routes to supply, read our [detailed buyer's guide](/blog/how-to-buy-carbon-credits-guide/).
 
 The short version of the short version: pick, pay and forget is how companies end up holding credits that an auditor or a reporter can take apart. Five steps, in order, avoid that.
 
@@ -16,7 +16,7 @@ The short version of the short version: pick, pay and forget is how companies en
 Settle three things on paper.
 
 - **Use.** A voluntary claim such as "carbon neutral", a legal obligation such as CORSIA, or a line in an ESG report. Each needs a different level of integrity, and a compliance use also needs authorised units.
-- **Quantity and budget.** How many tonnes, and what price range is realistic for the quality you need. Our note on [what drives credit prices](/insights/carbon-credit-price-what-drives-cost/) will help you set expectations.
+- **Quantity and budget.** How many tonnes, and what price range is realistic for the quality you need. Our note on [what drives credit prices](/blog/carbon-credit-price-what-drives-cost/) will help you set expectations.
 - **Exclusions.** A short list of project types, standards or vintages you will not buy. Write it before offers arrive; it is much harder to write afterwards.
 
 **Finished when:** one page states the use, the tonnes, the budget range and the exclusions.
@@ -42,7 +42,7 @@ This is where the purchase is protected. For every candidate project:
 | Authorisation | Where your use needs it, the Letter of Authorisation and corresponding adjustment, checked against the published source rather than the seller's word |
 | Counterparty | KYC and sanctions screening on the seller |
 
-Skipping checks to save time does not save anything. It moves the cost to the audit. Our [offset quality guide](/insights/evaluating-carbon-offset-quality-airlines/) sets out the checks in full.
+Skipping checks to save time does not save anything. It moves the cost to the audit. Our [offset quality guide](/blog/evaluating-carbon-offset-quality-airlines/) sets out the checks in full.
 
 **Finished when:** every shortlisted project has a completed check, and anything that failed is off the list.
 
@@ -75,6 +75,6 @@ If the seller cannot answer all three, stop.
 
 ## For smaller companies
 
-Small businesses can buy credits and many do. The steps are the same; only the scale changes. Checks and proper retirement matter just as much for 50 tonnes as for 50,000. Buyers can reach credits through brokers, exchanges, a standard's own marketplace or directly from a developer. We look at the SME case in [carbon credits for small businesses](/insights/carbon-markets-for-small-businesses/).
+Small businesses can buy credits and many do. The steps are the same; only the scale changes. Checks and proper retirement matter just as much for 50 tonnes as for 50,000. Buyers can reach credits through brokers, exchanges, a standard's own marketplace or directly from a developer. We look at the SME case in [carbon credits for small businesses](/blog/carbon-markets-for-small-businesses/).
 
 When you have a quantity and a use in mind, you can register it through our [buyer intake form](https://carboncredit.dstechnoverse.com/buy/new), or look at current listings on the [marketplace](/marketplace/). We will come back with options that fit the use you have written down.

@@ -26,11 +26,11 @@ Passenger offsetting and CORSIA are easy to confuse because both involve airline
 | What it covers | An estimate for one seat | The operator's emissions growth on covered routes |
 | Counts toward the other? | No | No |
 
-So your purchase does nothing for the airline's compliance, and the airline's compliance purchases are not made on your behalf. The operator side is covered in [how airlines use carbon credits under CORSIA](/insights/how-airlines-use-carbon-credits-corsia/).
+So your purchase does nothing for the airline's compliance, and the airline's compliance purchases are not made on your behalf. The operator side is covered in [how airlines use carbon credits under CORSIA](/blog/how-airlines-use-carbon-credits-corsia/).
 
 ## Why two offsets at similar prices can be worth very different amounts
 
-Nobody audits a passenger's purchase, and most passengers never look. That lack of scrutiny has let some programmes, particularly older ones, rely on inexpensive credits whose reductions might have happened without carbon finance at all. That failure is known as weak [additionality](/insights/additionality-in-carbon-credits-explained/), and it is the pattern behind much of the greenwashing criticism aimed at flight offsets.
+Nobody audits a passenger's purchase, and most passengers never look. That lack of scrutiny has let some programmes, particularly older ones, rely on inexpensive credits whose reductions might have happened without carbon finance at all. That failure is known as weak [additionality](/blog/additionality-in-carbon-credits-explained/), and it is the pattern behind much of the greenwashing criticism aimed at flight offsets.
 
 A cheap credit from a doubtful project and a more expensive credit from a durable removal both get called "an offset". They are not the same product.
 
@@ -44,7 +44,7 @@ Look at the programme's own page and ask:
 4. **Does it describe itself honestly**, as compensation rather than making the flight clean?
 5. **Is the price so low that no detail is offered?** That combination rarely ends well.
 
-Two or more "no" answers and we would skip it. There is a longer list in [carbon credit greenwashing red flags](/insights/carbon-credit-greenwashing-red-flags/).
+Two or more "no" answers and we would skip it. There is a longer list in [carbon credit greenwashing red flags](/blog/carbon-credit-greenwashing-red-flags/).
 
 ## Where offsetting fits in a traveller's choices
 

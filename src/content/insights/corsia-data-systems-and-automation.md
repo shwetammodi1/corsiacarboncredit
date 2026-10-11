@@ -103,6 +103,6 @@ Exporting by hand. Correcting values at source. Reconciling by feel rather than 
 
 Ownership matters as much as design. The pipeline needs an owner who understands both the data and the operation: a purely technical owner writes rules that make no operational sense, and a purely operational one lets the audit trail lapse.
 
-Related reading: [fuel data quality management](/insights/corsia-fuel-data-quality-management/), [what verifiers actually test](/insights/corsia-internal-audit-preparation/) and [fuel monitoring methods compared](/knowledge-base/corsia-fuel-monitoring-methods/).
+Related reading: [fuel data quality management](/blog/corsia-fuel-data-quality-management/), [what verifiers actually test](/blog/corsia-internal-audit-preparation/) and [fuel monitoring methods compared](/knowledge-base/corsia-fuel-monitoring-methods/).
 
 If your fuel sources disagree and nobody has written down why, that is where we would start. Have a look at our [CORSIA services](/services/) and tell us which systems you are pulling from.

@@ -17,7 +17,7 @@ A reduction is additional when it happened *because* of carbon finance. Take the
 
 So the test is a counterfactual: without the credit revenue, what would have happened? If the project was already profitable, required by law or already under way, the honest answer is "the same thing", and the credit is not additional.
 
-This matters because of what a credit claims. It says one tonne was avoided or removed as a result of the buyer's payment. When that tonne was never going to be emitted, the payment funded a certificate and nothing more. That is why additionality sits among the [ICVCM Core Carbon Principles](/insights/icvcm-core-carbon-principles/) and every other serious integrity framework.
+This matters because of what a credit claims. It says one tonne was avoided or removed as a result of the buyer's payment. When that tonne was never going to be emitted, the payment funded a certificate and nothing more. That is why additionality sits among the [ICVCM Core Carbon Principles](/blog/icvcm-core-carbon-principles/) and every other serious integrity framework.
 
 ## The three checks standards use
 
@@ -31,9 +31,9 @@ These checks support each other. A strong financial case paired with an inflated
 
 ## Four cases, worked through
 
-**A cookstove programme in low-income households.** The families could not afford efficient stoves, and carbon finance paid for the subsidy that got stoves into kitchens. Without it, the stoves would not have been bought. *Likely additional.* Whether the stoves stay in use is a separate question; see our [cookstove project guide](/insights/cookstove-carbon-projects-guide/).
+**A cookstove programme in low-income households.** The families could not afford efficient stoves, and carbon finance paid for the subsidy that got stoves into kitchens. Without it, the stoves would not have been bought. *Likely additional.* Whether the stoves stay in use is a separate question; see our [cookstove project guide](/blog/cookstove-carbon-projects-guide/).
 
-**A grid-connected solar farm.** By the time it was planned, solar was already the cheapest new power available. The developer would have built it anyway. *Likely not additional.* This is the reason grid renewables became hard to credit, as our [renewable energy due-diligence case study](/insights/renewable-energy-carbon-credits-due-diligence-case-study/) shows.
+**A grid-connected solar farm.** By the time it was planned, solar was already the cheapest new power available. The developer would have built it anyway. *Likely not additional.* This is the reason grid renewables became hard to credit, as our [renewable energy due-diligence case study](/blog/renewable-energy-carbon-credits-due-diligence-case-study/) shows.
 
 **A forest protection project.** If there is documented, credible pressure to clear the land, protection may well depend on carbon money. If the "threat" is a modelling assumption with little evidence, it probably does not. *Possibly additional, depending entirely on the baseline.*
 
@@ -55,7 +55,7 @@ Ask the developer to set out the additionality case in their own words. Three qu
 2. At what point did carbon revenue become decisive, and is there a dated record of it?
 3. How conservative is the baseline, and who challenged it?
 
-A project that answers clearly is worth a closer look. One that cannot answer is one to pass on, whatever else it has going for it. For the wider set of checks, see [how to assess carbon credit quality](/insights/carbon-credit-quality-assessment/).
+A project that answers clearly is worth a closer look. One that cannot answer is one to pass on, whatever else it has going for it. For the wider set of checks, see [how to assess carbon credit quality](/blog/carbon-credit-quality-assessment/).
 
 ## Short answers
 

@@ -26,7 +26,7 @@ Across a cycle, the DGCA's role touches you at six points:
 
 The sixth point is widely misread. Penalties are set nationally. A general statement about "CORSIA penalties" means nothing unless it names the State, and for an Indian operator the answer lies in Indian law. Confirm the current position with the authority rather than relying on something written about another country.
 
-It also helps to be clear about what the DGCA does not do. It does not verify your report; that is an accredited independent body, which must also be separate from anyone who advised you on the report. And it does not pick or pre-approve your emissions units. Eligibility is set by the ICAO criteria and evidenced by you; the authority receives the cancellation report after the fact. On verifiers, check the recognition requirements rather than assuming any accredited body will do. Our guide to [choosing a verification body in India](/insights/corsia-verification-body-selection-india/) covers that step.
+It also helps to be clear about what the DGCA does not do. It does not verify your report; that is an accredited independent body, which must also be separate from anyone who advised you on the report. And it does not pick or pre-approve your emissions units. Eligibility is set by the ICAO criteria and evidenced by you; the authority receives the cancellation report after the fact. On verifiers, check the recognition requirements rather than assuming any accredited body will do. Our guide to [choosing a verification body in India](/blog/corsia-verification-body-selection-india/) covers that step.
 
 ## The monitoring plan: the first and biggest interaction
 
@@ -39,7 +39,7 @@ This is the submission with the most at stake, because the method it fixes is th
 - **Gap procedures.** Whether they are set out in advance or left for later.
 - **Roles.** Whether responsibilities are real functions or just an organogram.
 
-Two timing facts shape everything. The plan must be approved **before the reporting year it covers begins**, and a first submission rarely goes through without questions. That is normal and says nothing bad about the plan. It does mean that an operator filing in November for a January start has left no time for a round of revisions. Build in generous time, especially for a first plan or an unusual structure. The contents themselves are covered section by section in our [monitoring plan guide](/insights/corsia-emissions-monitoring-plan-guide/).
+Two timing facts shape everything. The plan must be approved **before the reporting year it covers begins**, and a first submission rarely goes through without questions. That is normal and says nothing bad about the plan. It does mean that an operator filing in November for a January start has left no time for a round of revisions. Build in generous time, especially for a first plan or an unusual structure. The contents themselves are covered section by section in our [monitoring plan guide](/blog/corsia-emissions-monitoring-plan-guide/).
 
 ### Getting a plan through with fewer rounds
 
@@ -64,7 +64,7 @@ Deadlines sit in national implementing law and can move. Read the DGCA's publish
 - the verified Annual Emissions Report after year end, by the national deadline
 - the Emissions Unit Cancellation Report after each compliance period closes
 
-Put slack into every one. A verification finding that needs a correction and re-verification can use up weeks, and a calendar with no margin turns a technical issue into a compliance failure. Our [compliance calendar](/insights/corsia-reporting-deadlines-and-calendar/) sets out how to plan the year.
+Put slack into every one. A verification finding that needs a correction and re-verification can use up weeks, and a calendar with no margin turns a technical issue into a compliance failure. Our [compliance calendar](/blog/corsia-reporting-deadlines-and-calendar/) sets out how to plan the year.
 
 ## How to behave between submissions
 
@@ -91,7 +91,7 @@ Several arrangements come up often enough in India to be familiar and are unusua
 | A new entrant | No history and no data against which to test a method |
 | Discovering mid-year that CORSIA applies | Being late is handled far better openly than by rebuilding data quietly |
 
-In each case, a position documented and agreed with the authority beforehand is worth much more than a reasonable position argued after the event. For the new-operator case, see [your first year of CORSIA compliance](/insights/corsia-first-year-compliance-india/).
+In each case, a position documented and agreed with the authority beforehand is worth much more than a reasonable position argued after the event. For the new-operator case, see [your first year of CORSIA compliance](/blog/corsia-first-year-compliance-india/).
 
 ## Keeping the paper trail
 

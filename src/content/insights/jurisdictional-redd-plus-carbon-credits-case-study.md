@@ -44,7 +44,7 @@ We checked status against the published source. It did not fully match the selle
 | Authorised, with corresponding adjustment | Conservative baseline, adequate buffer, LoA confirmed | Cleared for retirement in the buyer's name, with an evidence pack |
 | Pipeline, awaiting authorisation | Genuine units, no LoA yet | Kept out of the compliance claim; recorded as indicative only |
 
-That distinction between *authorised now* and *pending authorisation* was the most valuable output of the review. Buyers who contract the whole allocation as if it were all authorised end up with volume they cannot use for the purpose they bought it for. The same principle runs through [corresponding adjustment risk and how to contract for it](/insights/corresponding-adjustments-corsia-explained/).
+That distinction between *authorised now* and *pending authorisation* was the most valuable output of the review. Buyers who contract the whole allocation as if it were all authorised end up with volume they cannot use for the purpose they bought it for. The same principle runs through [corresponding adjustment risk and how to contract for it](/blog/corresponding-adjustments-corsia-explained/).
 
 ## What we would carry into the next REDD+ review
 
@@ -53,7 +53,7 @@ That distinction between *authorised now* and *pending authorisation* was the mo
 - Look for a leakage number with a deduction attached.
 - Read "authorisation in place" as a claim to verify from the source, every time.
 
-The double-counting rules that make authorisation decisive for aviation buyers are set out in [CORSIA eligible emissions units](/insights/corsia-eligible-emissions-units-explained/), and forest project risks more generally in [REDD+ and afforestation carbon projects](/insights/redd-and-afforestation-carbon-projects/).
+The double-counting rules that make authorisation decisive for aviation buyers are set out in [CORSIA eligible emissions units](/blog/corsia-eligible-emissions-units-explained/), and forest project risks more generally in [REDD+ and afforestation carbon projects](/blog/redd-and-afforestation-carbon-projects/).
 
 ## Short answers
 

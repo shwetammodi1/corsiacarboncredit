@@ -33,7 +33,7 @@ Our first question was whether the programme measured use at all. Stronger progr
 
 ### Who was in the sample?
 
-No programme can put a sensor in every kitchen, so everything rests on the monitored sample. We checked whether it was random and statistically valid, or drawn from the households easiest to reach and best supported by field staff. The second kind pushes the usage rate up. In our experience the sample design often carries more of the credit's integrity than the sensors do, a point we expand on in [digital MRV](/insights/dmrv-digital-monitoring-carbon-projects/).
+No programme can put a sensor in every kitchen, so everything rests on the monitored sample. We checked whether it was random and statistically valid, or drawn from the households easiest to reach and best supported by field staff. The second kind pushes the usage rate up. In our experience the sample design often carries more of the credit's integrity than the sensors do, a point we expand on in [digital MRV](/blog/dmrv-digital-monitoring-carbon-projects/).
 
 ### Which assumptions drive the tonnes?
 
@@ -58,7 +58,7 @@ A programme that can support its numbers with measured, properly sampled usage i
 3. Ask how stacking and silent devices are handled.
 4. Treat monitoring as ongoing. Usage can fall after the first year.
 
-For background on why the category is debated, read [cookstove carbon projects: how they work and why they are contested](/insights/cookstove-carbon-projects-guide/). Cookstove units can be CORSIA-eligible where the programme and unit meet the scheme's eligibility and authorisation rules; our piece on [which projects qualify for CORSIA](/insights/carbon-projects-qualify-for-corsia/) covers that.
+For background on why the category is debated, read [cookstove carbon projects: how they work and why they are contested](/blog/cookstove-carbon-projects-guide/). Cookstove units can be CORSIA-eligible where the programme and unit meet the scheme's eligibility and authorisation rules; our piece on [which projects qualify for CORSIA](/blog/carbon-projects-qualify-for-corsia/) covers that.
 
 ## Short answers
 

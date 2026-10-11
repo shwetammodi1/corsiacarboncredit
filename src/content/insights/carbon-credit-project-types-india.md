@@ -59,7 +59,7 @@ Before any detail, each project must get past four gates:
 
 **Problem one: additionality.** Efficiency usually pays for itself through lower energy bills. If returns look good without carbon revenue, the project is not additional. Credible cases have long paybacks, high perceived technology risk, or capital constraints that a documented barrier analysis can show.
 
-**Problem two: overlap with CCTS.** If the plant is a notified obligated entity under the Carbon Credit Trading Scheme, its efficiency gains already count toward its intensity target. Crediting them again through the offset mechanism would be double counting. These projects therefore fit best outside the obligated sectors. See [the Indian carbon market and CCTS explained](/insights/indian-carbon-market-ccts-explained/).
+**Problem two: overlap with CCTS.** If the plant is a notified obligated entity under the Carbon Credit Trading Scheme, its efficiency gains already count toward its intensity target. Crediting them again through the offset mechanism would be double counting. These projects therefore fit best outside the obligated sectors. See [the Indian carbon market and CCTS explained](/blog/indian-carbon-market-ccts-explained/).
 :::
 
 ::: accordion Improved cookstoves: moderate, under scrutiny
@@ -74,7 +74,7 @@ Before any detail, each project must get past four gates:
 | Fuel saved | Lab efficiency exceeds field efficiency | Kitchen performance tests in real homes |
 | Stove survival | Breakage over the crediting period | Field checks and a replacement programme |
 
-A programme with sensor-monitored usage and cautious parameters is a good project that prices well. One built on survey claims and optimistic defaults is exactly what buyers are screening out. Our [clean cooking case study](/insights/cookstove-clean-cooking-carbon-credits-case-study/) shows how that review is done.
+A programme with sensor-monitored usage and cautious parameters is a good project that prices well. One built on survey claims and optimistic defaults is exactly what buyers are screening out. Our [clean cooking case study](/blog/cookstove-clean-cooking-carbon-credits-case-study/) shows how that review is done.
 :::
 
 ::: accordion Afforestation and reforestation: moderate
@@ -98,7 +98,7 @@ A programme with sensor-monitored usage and cautious parameters is a good projec
 ::: accordion Grid-scale solar and wind: difficult
 **Why it no longer works here.** Renewables are now the cheapest source of new generation in India. A plant viable on its own terms cannot credibly claim carbon revenue was needed. Most programmes have restricted or excluded grid-connected renewables in countries where they are commercially established, and India is one of them. Older renewable credits still trade, cheaply, because the market discounts them for this reason.
 
-**Narrow exceptions.** Off-grid and mini-grid systems serving people with no supply, and storage or integration projects whose economics are still marginal. Both need a documented barrier analysis. Our [renewable energy due-diligence case study](/insights/renewable-energy-carbon-credits-due-diligence-case-study/) shows how buyers now screen these.
+**Narrow exceptions.** Off-grid and mini-grid systems serving people with no supply, and storage or integration projects whose economics are still marginal. Both need a documented barrier analysis. Our [renewable energy due-diligence case study](/blog/renewable-energy-carbon-credits-due-diligence-case-study/) shows how buyers now screen these.
 :::
 
 ## Choosing a first project
@@ -108,7 +108,7 @@ A programme with sensor-monitored usage and cautious parameters is a good projec
 - **Check the approved activity list** for your target market, domestic CCTS or an international programme, before spending anything.
 - **Read registered project documents** for your type on the [Verra](https://verra.org/) or [Gold Standard](https://www.goldstandard.org/) registries. They show what actually passed validation.
 - **Design monitoring before the project.** If you cannot say how each parameter will be measured, logged and audited, you are not ready.
-- **Model at cautious volume and price.** Our guide to [carbon credit prices in India](/insights/carbon-credit-price-in-india/) sets out a stress test.
+- **Model at cautious volume and price.** Our guide to [carbon credit prices in India](/blog/carbon-credit-price-in-india/) sets out a stress test.
 
 ## What sinks projects at verification
 

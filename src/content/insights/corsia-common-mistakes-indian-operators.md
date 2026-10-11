@@ -67,7 +67,7 @@ The reconciliation logic lives in someone's head; that person leaves; the organi
 
 An operator engages a firm for the monitoring plan and assumes the same firm can verify. It cannot: verification must be independent of anyone who advised. The problem is usually discovered late, when verifiers are already booked.
 
-**Prevention:** plan for two suppliers from the beginning and book the verifier early. There are only so many accredited bodies, and everyone needs them in the same window. See [choosing a CORSIA verification body in India](/insights/corsia-verification-body-selection-india/).
+**Prevention:** plan for two suppliers from the beginning and book the verifier early. There are only so many accredited bodies, and everyone needs them in the same window. See [choosing a CORSIA verification body in India](/blog/corsia-verification-body-selection-india/).
 
 ## Stage three: buying and claiming
 
@@ -99,7 +99,7 @@ States have joined, and at least one has withdrawn. A list captured once and reu
 
 From 2027 participation becomes mandatory for States above the activity thresholds, and route coverage widens. An operator with a lot of traffic to currently non-participating States can see a large rise, on a date everyone knows in advance.
 
-**Prevention:** re-run covered emissions against your **own route network** under mandatory participation. The effect depends entirely on the network, and a generic uplift will be wrong. See [CORSIA second phase readiness](/insights/corsia-second-phase-readiness-india-2027/).
+**Prevention:** re-run covered emissions against your **own route network** under mandatory participation. The effect depends entirely on the network, and a generic uplift will be wrong. See [CORSIA second phase readiness](/blog/corsia-second-phase-readiness-india-2027/).
 
 ## The same pattern, fifteen times
 
@@ -119,7 +119,7 @@ None of this is sophisticated. It is what separates compliance that holds from c
 | Internal dry run | Days | During the year |
 | The verifier | A year | After the year has closed |
 
-For the dry run, pick twenty flights, deliberately awkward ones, and trace every figure back to source and forward to the report. Give five of them to a colleague who was not involved and ask them to explain the numbers using only the files. Anything they cannot explain is a finding you found first. A [CORSIA gap analysis](/insights/corsia-gap-analysis-service/) covers the first route.
+For the dry run, pick twenty flights, deliberately awkward ones, and trace every figure back to source and forward to the report. Give five of them to a colleague who was not involved and ask them to explain the numbers using only the files. Anything they cannot explain is a finding you found first. A [CORSIA gap analysis](/blog/corsia-gap-analysis-service/) covers the first route.
 
 One free habit is worth adding: before each reporting year, read the approved monitoring plan side by side with what the team really does. The two drift apart quietly.
 

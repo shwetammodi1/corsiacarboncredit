@@ -29,7 +29,7 @@ Illustrative. A regional Indian carrier with a modest offsetting requirement is 
 
 ### 1. Forecast before anyone is confirmed
 
-The team does not wait for ICAO to publish final growth factors. It estimates the requirement from published sector data, expresses it as a low, central and high range, and updates it when factors are published. It also runs a second version with the wider route coverage expected from 2027. The [offsetting requirement calculation](/insights/corsia-offsetting-requirements-calculation/) covers the arithmetic.
+The team does not wait for ICAO to publish final growth factors. It estimates the requirement from published sector data, expresses it as a low, central and high range, and updates it when factors are published. It also runs a second version with the wider route coverage expected from 2027. The [offsetting requirement calculation](/blog/corsia-offsetting-requirements-calculation/) covers the arithmetic.
 
 ### 2. Settle four strategy questions
 
@@ -62,13 +62,13 @@ Each remaining offer goes through eight questions in order. A "no" ends the revi
 7. Does the registry show a clean chain of custody and no earlier retirement?
 8. Can all of this be packaged so it still holds up at an audit years from now?
 
-Question 4 is where most supply falls away. A seller's assurance is not evidence. The authorisation document from the designated national authority, naming the units, is. For a fuller buyer checklist see [CORSIA credit due diligence](/insights/corsia-credit-due-diligence-checklist/).
+Question 4 is where most supply falls away. A seller's assurance is not evidence. The authorisation document from the designated national authority, naming the units, is. For a fuller buyer checklist see [CORSIA credit due diligence](/blog/corsia-credit-due-diligence-checklist/).
 
 Capture evidence rather than linking to it. Approval status changes, and a web link in your file proves nothing about what the page said on the day you bought.
 
 ### 5. Contract on risk, then price
 
-The terms that matter more than price: an eligibility warranty and its remedy; who carries authorisation risk on forward deals; protection if the vintage window moves; delivery dates tied to your cancellation deadline, with a remedy for lateness; a volume tolerance band; the documentation pack as a contractual obligation; and a payment structure (escrow, staged, or on delivery). Leave any of these out and the risk is yours by default, which is the most common and most expensive omission in first purchases. We go clause by clause in [offtake agreement terms](/insights/corsia-offtake-agreement-terms/).
+The terms that matter more than price: an eligibility warranty and its remedy; who carries authorisation risk on forward deals; protection if the vintage window moves; delivery dates tied to your cancellation deadline, with a remedy for lateness; a volume tolerance band; the documentation pack as a contractual obligation; and a payment structure (escrow, staged, or on delivery). Leave any of these out and the risk is yours by default, which is the most common and most expensive omission in first purchases. We go clause by clause in [offtake agreement terms](/blog/corsia-offtake-agreement-terms/).
 
 ### 6. Pay, transfer, cancel, report
 

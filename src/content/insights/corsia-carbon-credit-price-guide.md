@@ -13,7 +13,7 @@ Of all the things that affect what an operator pays, timing is the one most full
 
 ![Illustration of the CORSIA unit market](/images/corsia/hero-corsia-market.svg)
 
-> What drives the unit price itself is covered in [CORSIA credit pricing](/knowledge-base/corsia-credit-pricing/). For turning that into a budget, see [forecasting CORSIA costs](/insights/corsia-budgeting-and-forecasting-india/). Here the question is when.
+> What drives the unit price itself is covered in [CORSIA credit pricing](/knowledge-base/corsia-credit-pricing/). For turning that into a budget, see [forecasting CORSIA costs](/blog/corsia-budgeting-and-forecasting-india/). Here the question is when.
 
 ## Everyone shares one calendar
 
@@ -115,7 +115,7 @@ The same calendar works in the other direction.
 
 **Unauthorised units meet a buyer's market.** They sell at a discount that reflects the sovereign risk the buyer is asked to carry, against supply that carries none.
 
-**2027 is the visible opening.** Demand rises on a fixed date, and a new project needs eighteen months to three years to first issuance. A developer aiming at that window has to be working on authorisation now. For Indian developers, that means engaging with the Government of India process early; see [the seller's guide](/insights/corsia-carbon-credit-seller-guide/).
+**2027 is the visible opening.** Demand rises on a fixed date, and a new project needs eighteen months to three years to first issuance. A developer aiming at that window has to be working on authorisation now. For Indian developers, that means engaging with the Government of India process early; see [the seller's guide](/blog/corsia-carbon-credit-seller-guide/).
 
 **Forwards help finance the project**, which is why sellers want them. That gives a buyer room to negotiate terms in return.
 

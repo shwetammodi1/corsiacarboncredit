@@ -23,15 +23,15 @@ So design the interview to do the judging for you. The questions below are chose
 
 ## Questions that test hands-on compliance experience
 
-**"How many monitoring plans have you had approved, and by which authorities?"** The Emissions Monitoring Plan is the foundation, and approval practice varies between national authorities. You want numbers and named authorities, ideally including yours; for an Indian operator, the DGCA. "We know the requirements well" is familiarity with a document, not experience with a regulator. See [working with the DGCA](/insights/corsia-dgca-interaction-guide/).
+**"How many monitoring plans have you had approved, and by which authorities?"** The Emissions Monitoring Plan is the foundation, and approval practice varies between national authorities. You want numbers and named authorities, ideally including yours; for an Indian operator, the DGCA. "We know the requirements well" is familiarity with a document, not experience with a regulator. See [working with the DGCA](/blog/corsia-dgca-interaction-guide/).
 
 **"What if our data can't support the monitoring method we pick?"** This is the most common expensive failure: a method chosen on paper that the operator's systems cannot feed, found out at verification a year later. A good adviser wants to look at your fuel and flight records before recommending anything. A recommendation made before anyone has seen your data is a warning.
 
-**"Model our second-phase obligation on our actual network."** From 2027, mandatory participation widens route coverage, and the effect depends on where you fly. You want willingness to run your route data and a clear line between what is assumed and what is known. A flat percentage applied to your current figure is the weak answer. [CORSIA phases](/insights/corsia-phases-timeline-explained/) explains what drives the change.
+**"Model our second-phase obligation on our actual network."** From 2027, mandatory participation widens route coverage, and the effect depends on where you fly. You want willingness to run your route data and a clear line between what is assumed and what is known. A flat percentage applied to your current figure is the weak answer. [CORSIA phases](/blog/corsia-phases-timeline-explained/) explains what drives the change.
 
 ## Questions that test knowledge of the unit market
 
-**"How do you establish that a unit carries a corresponding adjustment?"** The [corresponding adjustment](/insights/corresponding-adjustments-corsia-explained/) removes most supply, so how an adviser checks it shows how rigorous their diligence is.
+**"How do you establish that a unit carries a corresponding adjustment?"** The [corresponding adjustment](/blog/corresponding-adjustments-corsia-explained/) removes most supply, so how an adviser checks it shows how rigorous their diligence is.
 
 | Strong answer | Weak answer |
 |---|---|
@@ -71,7 +71,7 @@ The meeting tells you a lot. The document tells you the rest. Check it for these
 
 ## Once you have chosen
 
-- **Start small.** Begin with an assessment of scope, data readiness and feasibility. An adviser confident in their value will accept a modest first phase. [Engagement models](/insights/corsia-consultant-engagement-models/) compares the options.
+- **Start small.** Begin with an assessment of scope, data readiness and feasibility. An adviser confident in their value will accept a modest first phase. [Engagement models](/blog/corsia-consultant-engagement-models/) compares the options.
 - **Name the deliverables** in the contract, in the concrete terms above.
 - **Put sourcing risk in writing.** If the adviser sources units, state who bears the loss if eligibility fails. Silence leaves it with you. If one firm handles both compliance and purchasing, which can work well because the two are linked, write the sourcing risk separately from the compliance scope.
 - **Specify documentation.** Working papers, sources and reasoning delivered, and owned by you.
@@ -79,7 +79,7 @@ The meeting tells you a lot. The document tells you the rest. Check it for these
 
 ## On fees
 
-Cheap CORSIA advice tends to cost more in the end. A monitoring method your data cannot support, units that turn out ineligible, an obligation discovered late: each of these costs far more than the fee gap between a competent adviser and a cheap one. High fees do not prove competence either. Ask for pricing tied to defined deliverables, and be wary of open-ended retainers. [Consultant cost in India](/insights/corsia-consultant-cost-and-fees-india/) covers what drives the number.
+Cheap CORSIA advice tends to cost more in the end. A monitoring method your data cannot support, units that turn out ineligible, an obligation discovered late: each of these costs far more than the fee gap between a competent adviser and a cheap one. High fees do not prove competence either. Ask for pricing tied to defined deliverables, and be wary of open-ended retainers. [Consultant cost in India](/blog/corsia-consultant-cost-and-fees-india/) covers what drives the number.
 
 ::: accordion Large consultancy or specialist?
 Specialists usually know the scheme better; large firms bring process and scale. What decides it is who does the work.

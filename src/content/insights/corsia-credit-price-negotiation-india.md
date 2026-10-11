@@ -32,7 +32,7 @@ Demand in this market is set by law, not sentiment. It comes from the offsetting
 
 Supply is held back by the corresponding adjustment. India has many carbon projects; far fewer carry authorisation. That bottleneck is a policy variable, not a market one, and it is what supports the price of authorised units.
 
-So an authorised unit is a scarce product, and it should not be benchmarked against voluntary credits from the same project type. Our [comparison of CORSIA and voluntary credits](/insights/corsia-carbon-credit-vs-voluntary-carbon-credit/) and the note on [when compliance buyers tend to purchase](/insights/corsia-carbon-credit-price-guide/) give the wider market view.
+So an authorised unit is a scarce product, and it should not be benchmarked against voluntary credits from the same project type. Our [comparison of CORSIA and voluntary credits](/blog/corsia-carbon-credit-vs-voluntary-carbon-credit/) and the note on [when compliance buyers tend to purchase](/blog/corsia-carbon-credit-price-guide/) give the wider market view.
 
 ## Homework before the first call
 
@@ -56,13 +56,13 @@ Price depends heavily on structure. The common forms, with what each trades away
 - **Floor with upside share.** Your downside is protected and any upside is split.
 - **Conditional sale with authorisation pending.** A heavy discount, and the value rests entirely on how the condition is written.
 
-For a first project, a sensible default is to sell part of the expected volume forward to pay for monitoring and verification, and hold the rest for spot. You get cash flow without locking your whole crediting period at today's price. The clauses that matter in those agreements are covered in [CORSIA offtake agreement terms](/insights/corsia-offtake-agreement-terms/).
+For a first project, a sensible default is to sell part of the expected volume forward to pay for monitoring and verification, and hold the rest for spot. You get cash flow without locking your whole crediting period at today's price. The clauses that matter in those agreements are covered in [CORSIA offtake agreement terms](/blog/corsia-offtake-agreement-terms/).
 
 ## Conduct at the table
 
 **Open with the eligibility facts.** Authorisation status, programme, vintage, serial ranges. It shows you understand the buyer's problem.
 
-**Hand over the documentation pack on day one.** When the buyer has a deadline, fast diligence is itself worth money. The contents are listed in [the project documentation pack](/insights/corsia-project-documentation-pack/).
+**Hand over the documentation pack on day one.** When the buyer has a deadline, fast diligence is itself worth money. The contents are listed in [the project documentation pack](/blog/corsia-project-documentation-pack/).
 
 **Raise your weaknesses yourself.** A qualified verification opinion or a baseline assumption that can be challenged will be found anyway. Disclosed early, with the fix, it costs less.
 

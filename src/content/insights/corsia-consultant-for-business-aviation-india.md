@@ -92,7 +92,7 @@ What helps:
 
 - **A simple monitoring approach.** A less precise method that your FBO receipts can feed without manual work is cheaper every year and no less compliant. Precision your data cannot support buys nothing.
 - **Automating the part that repeats.** A one-off investment in repeatable extraction and reconciliation pays back faster at small scale, because the alternative is the same manual work each year with no economies.
-- **Buying advice in the right shape.** A bounded assessment and build, followed by running the annual cycle yourselves, costs far less than an open-ended retainer. See [consultant engagement models](/insights/corsia-consultant-engagement-models/).
+- **Buying advice in the right shape.** A bounded assessment and build, followed by running the annual cycle yourselves, costs far less than an open-ended retainer. See [consultant engagement models](/blog/corsia-consultant-engagement-models/).
 
 Deferral does not help. The fixed costs arrive whenever you start; delay only shortens the timeline and narrows your choice of method and verifier.
 
@@ -100,10 +100,10 @@ Deferral does not help. The fixed costs arrive whenever you start; delay only sh
 
 The threshold determination itself, particularly when the answer is close: a bounded job with a clear output that prevents both needless compliance spend and unnoticed non-compliance. Operator entity analysis for managed and fractional structures. Method selection tested against real FBO records. And the first monitoring plan, where errors compound and surface at verification.
 
-What does not need outsourcing: routine annual data collection once a process exists, and understanding your own flight records. For how fees are built up at this scale, see [CORSIA consultant fees in India](/insights/corsia-consultant-cost-and-fees-india/).
+What does not need outsourcing: routine annual data collection once a process exists, and understanding your own flight records. For how fees are built up at this scale, see [CORSIA consultant fees in India](/blog/corsia-consultant-cost-and-fees-india/).
 
 ## Beyond CORSIA
 
-Even operators well below the threshold are being asked the questions CORSIA raises. Aircraft financiers and lessors ask about emissions exposure in credit assessments. Corporate charter clients with their own reporting ask for per-flight figures for their scope 3 accounting, and an operator who can provide a credible number has an edge. Insurers and finance counterparties are beginning to ask for environmental disclosure. A documented scope determination and a flight-level fuel record answer all of these in a paragraph. For the client's side of that conversation, see [offsetting corporate business travel](/insights/offsetting-corporate-business-travel/).
+Even operators well below the threshold are being asked the questions CORSIA raises. Aircraft financiers and lessors ask about emissions exposure in credit assessments. Corporate charter clients with their own reporting ask for per-flight figures for their scope 3 accounting, and an operator who can provide a credible number has an edge. Insurers and finance counterparties are beginning to ask for environmental disclosure. A documented scope determination and a flight-level fuel record answer all of these in a paragraph. For the client's side of that conversation, see [offsetting corporate business travel](/blog/offsetting-corporate-business-travel/).
 
 If you would like your threshold position checked, send us a year of international flight hours by aircraft and we will work through it with you. [Contact the desk](/contact/), or try a rough figure first on our [calculator](/calculator/).

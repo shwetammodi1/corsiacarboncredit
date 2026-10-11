@@ -35,12 +35,12 @@ Current science suggests these non-CO2 effects may roughly double flying's warmi
 
 | Question | How it is usually handled |
 |---|---|
-| What unit? | CO2 from fuel burn, reported in [CO2e](/insights/what-is-co2e-carbon-dioxide-equivalent/) |
+| What unit? | CO2 from fuel burn, reported in [CO2e](/blog/what-is-co2e-carbon-dioxide-equivalent/) |
 | Domestic or international? | International flights fall under CORSIA; domestic flights are left to national policy |
 | How is one flight split among travellers? | Shared across passengers, with premium cabins given more for the space and weight they take |
 | Non-CO2 effects included? | Usually not, unless a methodology adds them explicitly |
 
-If you want to run the calculation yourself, see [how to calculate a flight's carbon footprint](/insights/how-to-calculate-flight-carbon-footprint/).
+If you want to run the calculation yourself, see [how to calculate a flight's carbon footprint](/blog/how-to-calculate-flight-carbon-footprint/).
 
 ## Why there is no quick fix
 
@@ -50,7 +50,7 @@ Road transport and power have clear electric routes. Aviation does not yet:
 2. **Jet fuel's energy density** is very hard to match.
 3. **Aircraft have long service lives**, so today's fleet will fly for decades.
 
-The response is a combination of partial measures: more efficient aircraft and operations, **sustainable aviation fuel**, new propulsion for short routes, and carbon markets as a bridge while the rest matures. None of these does the job alone. Whether markets actually shift emissions is examined in [can carbon markets cut aviation emissions](/insights/carbon-markets-reducing-aviation-emissions/).
+The response is a combination of partial measures: more efficient aircraft and operations, **sustainable aviation fuel**, new propulsion for short routes, and carbon markets as a bridge while the rest matures. None of these does the job alone. Whether markets actually shift emissions is examined in [can carbon markets cut aviation emissions](/blog/carbon-markets-reducing-aviation-emissions/).
 
 ## Short answers
 

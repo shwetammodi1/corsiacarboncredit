@@ -61,7 +61,7 @@ That is well above the 10,000 tonne threshold, so full monitoring and reporting 
 5. **By the State's deadline:** verified report submitted.
 6. **On the compliance-period schedule:** offsetting settled by cancelling eligible units.
 
-The cycle repeats every year, including years when nothing is owed. Once it is complete, the [credit side of the process](/insights/how-airlines-use-carbon-credits-corsia/) can proceed.
+The cycle repeats every year, including years when nothing is owed. Once it is complete, the [credit side of the process](/blog/how-airlines-use-carbon-credits-corsia/) can proceed.
 
 ## What verifiers find most often
 

@@ -31,7 +31,7 @@ Nearly every other difference follows from that one.
 - Credits from any credible standard are possible: Verra, Gold Standard, ACR, Climate Action Reserve, ART and others.
 - A corresponding adjustment is often not needed for the kind of claim it plans to make.
 - It will retire the credits to support a public statement.
-- Because no regulator filters its supply, checking quality is its own job. See [evaluating offset quality](/insights/evaluating-carbon-offset-quality-airlines/).
+- Because no regulator filters its supply, checking quality is its own job. See [evaluating offset quality](/blog/evaluating-carbon-offset-quality-airlines/).
 
 So "it's a Verra credit" answers the software company's first question and tells the airline almost nothing.
 
@@ -41,7 +41,7 @@ Buyers new to the market underestimate this more than anything else.
 
 Under the Paris Agreement, a country counts reductions on its territory towards its own target. If an airline also claims that reduction, the tonne is counted twice. CORSIA's first phase closes the gap by requiring a **corresponding adjustment**: the host country deducts the transferred reduction from its national total.
 
-Many voluntary credits carry no such adjustment. For some voluntary claims that is acceptable. For CORSIA it is disqualifying. The same tonne of reduction can therefore be eligible or ineligible purely because of an accounting entry made by a government. [Eligible emissions units](/insights/corsia-eligible-emissions-units-explained/) walks through the full set of tests.
+Many voluntary credits carry no such adjustment. For some voluntary claims that is acceptable. For CORSIA it is disqualifying. The same tonne of reduction can therefore be eligible or ineligible purely because of an accounting entry made by a government. [Eligible emissions units](/blog/corsia-eligible-emissions-units-explained/) walks through the full set of tests.
 
 ## Why prices move differently
 
@@ -53,7 +53,7 @@ The two markets draw on overlapping supply but respond to different forces.
 | Supply | Narrow | Broad, with many standards |
 | Typical end use | Cancelled to meet a duty | Retired to back a claim |
 
-As eligibility tightened, the qualifying pool shrank and CORSIA-eligible units traded at a premium over generic voluntary credits. The high-integrity, adjusted end of the voluntary market sits much closer to CORSIA pricing than the average does. [Carbon pricing and airlines](/insights/carbon-pricing-impact-on-airlines/) follows the cost through to airline economics.
+As eligibility tightened, the qualifying pool shrank and CORSIA-eligible units traded at a premium over generic voluntary credits. The high-integrity, adjusted end of the voluntary market sits much closer to CORSIA pricing than the average does. [Carbon pricing and airlines](/blog/carbon-pricing-impact-on-airlines/) follows the cost through to airline economics.
 
 ## One project, two products
 
@@ -70,7 +70,7 @@ Same methane captured, same verification report. What decided the product was pa
 
 They are not sealed off from each other.
 
-- **Developers** can register a project once and choose, batch by batch, where to sell: into CORSIA if they secure an adjustment, into the voluntary market if they cannot or if the price there is better. See the [seller guide](/insights/corsia-carbon-credit-seller-guide/).
+- **Developers** can register a project once and choose, batch by batch, where to sell: into CORSIA if they secure an adjustment, into the voluntary market if they cannot or if the price there is better. See the [seller guide](/blog/corsia-carbon-credit-seller-guide/).
 - **Airlines** often hold both. Eligible units settle the CORSIA duty; separately bought voluntary credits support corporate net-zero claims beyond the scheme.
 - **Serious corporate buyers** increasingly want adjusted, high-integrity units too. That puts them in competition with airlines for the same supply, which props up the price.
 

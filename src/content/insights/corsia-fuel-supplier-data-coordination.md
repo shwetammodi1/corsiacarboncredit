@@ -63,11 +63,11 @@ A change of handler at an existing station is the quieter version of the same fa
 
 ## Charters and one-off destinations
 
-Where there is no standing agreement, capture the record at the time. Build it into trip planning: get the uplift docket before departure, photograph or scan it, and file it against the flight. A record captured at the ramp beats an email sent a month later to a company with no continuing relationship with you. For cargo and charter operators this is a large share of the flying, not an edge case; see [CORSIA for cargo airlines in India](/insights/corsia-consultant-for-cargo-airlines-india/).
+Where there is no standing agreement, capture the record at the time. Build it into trip planning: get the uplift docket before departure, photograph or scan it, and file it against the flight. A record captured at the ramp beats an email sent a month later to a company with no continuing relationship with you. For cargo and charter operators this is a large share of the flying, not an edge case; see [CORSIA for cargo airlines in India](/blog/corsia-consultant-for-cargo-airlines-india/).
 
 ## Reconcile with the supplier, not just internally
 
-Your own monthly reconciliation finds your problems. A monthly exchange with each supplier finds theirs: here are the flights we operated at your station, here are the dockets we received, here is what is missing. A systematic problem surfaces in month two instead of in the reporting window. It also gives you a named person at the other end, which is what gets an urgent correction actually done. How this fits into your wider checks is covered in [fuel data quality management](/insights/corsia-fuel-data-quality-management/).
+Your own monthly reconciliation finds your problems. A monthly exchange with each supplier finds theirs: here are the flights we operated at your station, here are the dockets we received, here is what is missing. A systematic problem surfaces in month two instead of in the reporting window. It also gives you a named person at the other end, which is what gets an urgent correction actually done. How this fits into your wider checks is covered in [fuel data quality management](/blog/corsia-fuel-data-quality-management/).
 
 ## Keep the original
 
@@ -96,6 +96,6 @@ Fuel and handling contracts are negotiated by procurement or flight operations. 
 
 Ownership should sit with whoever owns fuel procurement, with the CORSIA owner specifying the requirement. Split it so that nobody owns the data outcome, and it fails. You can require the output in the agreement; how the handler changes its own internal process is up to them.
 
-The arrangement that works: the CORSIA owner writes the requirement once, procurement puts it in the template, and the monthly reconciliation shows which suppliers are meeting it. Nobody has to remember anything. The downstream design is in [CORSIA data systems](/insights/corsia-data-systems-and-automation/).
+The arrangement that works: the CORSIA owner writes the requirement once, procurement puts it in the template, and the monthly reconciliation shows which suppliers are meeting it. Nobody has to remember anything. The downstream design is in [CORSIA data systems](/blog/corsia-data-systems-and-automation/).
 
 If you are about to open a new international station or renew handling contracts, [ask us](/contact/) for a data annexe tailored to your monitoring plan. It is a small document that prevents a large gap.

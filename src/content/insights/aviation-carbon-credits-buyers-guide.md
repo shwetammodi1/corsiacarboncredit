@@ -15,7 +15,7 @@ The same tonne from a forest, a cookstove programme or a biochar plant could be 
 
 So the questions are the standard ones, asked about the project behind the serial number:
 
-- Is it **additional**, meaning the reduction would not have happened without carbon revenue? Our explainer on [additionality](/insights/additionality-in-carbon-credits-explained/) covers the tests.
+- Is it **additional**, meaning the reduction would not have happened without carbon revenue? Our explainer on [additionality](/blog/additionality-in-carbon-credits-explained/) covers the tests.
 - Is it **permanent**, or could the stored carbon be released later?
 - Is it counted **once only**, with no other party claiming the same tonne?
 
@@ -41,13 +41,13 @@ Flight offsetting has taken criticism, mostly because of cheap credits with thin
 3. For compliance use, confirm eligibility and host-country authorisation before signing.
 4. Retire the units in your own name and keep the retirement record.
 
-The fuller method is in [how to evaluate carbon offset quality](/insights/evaluating-carbon-offset-quality-airlines/).
+The fuller method is in [how to evaluate carbon offset quality](/blog/evaluating-carbon-offset-quality-airlines/).
 
 ## Price: the usual drivers, plus one aviation effect
 
-Project type, integrity, vintage and the presence of a corresponding adjustment explain most of the spread. We go through them in [what drives carbon credit prices](/insights/carbon-credit-price-what-drives-cost/).
+Project type, integrity, vintage and the presence of a corresponding adjustment explain most of the spread. We go through them in [what drives carbon credit prices](/blog/carbon-credit-price-what-drives-cost/).
 
-The aviation-specific factor is demand. CORSIA-eligible units with an adjustment attached are wanted by airlines that must buy them, and the pool is limited, so they trade at a premium. A voluntary buyer asking for "CORSIA-grade" is bidding against compliance buyers. We explain that effect in [why CORSIA-grade credits cost more](/insights/why-corsia-grade-credits-premium/).
+The aviation-specific factor is demand. CORSIA-eligible units with an adjustment attached are wanted by airlines that must buy them, and the pool is limited, so they trade at a premium. A voluntary buyer asking for "CORSIA-grade" is bidding against compliance buyers. We explain that effect in [why CORSIA-grade credits cost more](/blog/why-corsia-grade-credits-premium/).
 
 ## Questions to put to any seller
 
@@ -59,7 +59,7 @@ The aviation-specific factor is demand. CORSIA-eligible units with an adjustment
 
 ## Buying channels
 
-Brokers, exchanges, direct contracts with developers and adviser-led procurement all work. The steps do not change with the label: define what you need, do the diligence, contract, retire. Our step-by-step [guide to buying carbon credits](/insights/how-to-buy-carbon-credits/) walks through them.
+Brokers, exchanges, direct contracts with developers and adviser-led procurement all work. The steps do not change with the label: define what you need, do the diligence, contract, retire. Our step-by-step [guide to buying carbon credits](/blog/how-to-buy-carbon-credits/) walks through them.
 
 ## Short answers
 

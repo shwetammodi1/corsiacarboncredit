@@ -23,7 +23,7 @@ The SBTi framework asks for targets on two timescales.
 
 **Net-zero targets** set the end point, by around 2050. They require emissions to be cut by roughly 90% or more, with only the small remainder neutralised.
 
-Net zero in this sense is not a new name for "carbon neutral". It requires the reductions to come first. We explain the difference in [carbon neutral vs net zero](/insights/carbon-neutral-vs-net-zero/).
+Net zero in this sense is not a new name for "carbon neutral". It requires the reductions to come first. We explain the difference in [carbon neutral vs net zero](/blog/carbon-neutral-vs-net-zero/).
 
 ## What counts towards the target, and what doesn't
 
@@ -37,13 +37,13 @@ This is where most companies go wrong, so here it is as a table.
 | Using removals to neutralise the small residual at net zero | Only at the end point, for the residual | That is the role the framework gives them |
 | Funding climate action outside your value chain | No, but encouraged | Treated as extra, not as progress |
 
-Carbon credits have a role, but it is not the role many companies assume. They do not move a science-based target, because the target measures your own emissions and a credit does not reduce them. The related distinction between reducing inside your own supply chain and compensating outside it is covered in [insetting vs offsetting](/insights/carbon-insetting-vs-offsetting/).
+Carbon credits have a role, but it is not the role many companies assume. They do not move a science-based target, because the target measures your own emissions and a credit does not reduce them. The related distinction between reducing inside your own supply chain and compensating outside it is covered in [insetting vs offsetting](/blog/carbon-insetting-vs-offsetting/).
 
 ## Scope 3 is where targets get hard
 
 Science-based targets include scope 3, the emissions in a company's value chain. For most businesses these are far larger than their direct emissions. That makes the targets demanding: switching your offices to green power will not meet them. You have to influence what suppliers do and how products are made and used.
 
-It also makes measurement a precondition. A company cannot set, let alone meet, a credible target on emissions it has not counted properly. Our guide to [scope 1, 2 and 3 accounting](/insights/ghg-accounting-scope-1-2-3-explained/) is the place to start.
+It also makes measurement a precondition. A company cannot set, let alone meet, a credible target on emissions it has not counted properly. Our guide to [scope 1, 2 and 3 accounting](/blog/ghg-accounting-scope-1-2-3-explained/) is the place to start.
 
 ## The commercial side
 

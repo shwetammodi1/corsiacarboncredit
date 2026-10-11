@@ -59,7 +59,7 @@ Verifiers run this comparison themselves. If you run it monthly, you find the di
 
 Home-base data is usually clean. The trouble sits at outstations, especially those run by handling agents: different paperwork habits, late submissions, units recorded inconsistently, paper that is not kept, staff who change, and a method applied differently from the plan.
 
-Relationships with individual station staff work until the individual moves on. The durable fix is the ground handling agreement. Write into it a standard uplift form, a submission deadline, explicit unit and density requirements, and scan-on-receipt into your retention system. Keep a written instruction on the station file rather than relying on someone's memory, and audit each station against the one method your monitoring plan states. Adding these clauses at renewal costs nothing. Our guide to [fuel supplier and handling agent data](/insights/corsia-fuel-supplier-data-coordination/) goes into the contract terms.
+Relationships with individual station staff work until the individual moves on. The durable fix is the ground handling agreement. Write into it a standard uplift form, a submission deadline, explicit unit and density requirements, and scan-on-receipt into your retention system. Keep a written instruction on the station file rather than relying on someone's memory, and audit each station against the one method your monitoring plan states. Adding these clauses at renewal costs nothing. Our guide to [fuel supplier and handling agent data](/blog/corsia-fuel-supplier-data-coordination/) goes into the contract terms.
 
 ## Gaps: have a procedure, keep a log
 
@@ -101,6 +101,6 @@ If every step finishes within a day, verification will go smoothly. If step 4 me
 
 A verifier traces a sample of reported figures to source. Help them by organising the evidence pack the way they work, by sample rather than by system; including the worked example from your monitoring plan; having the reconciliations ready as a set; presenting the gap log first; and naming one person who can retrieve any document within the day. This does not make the verifier easier to satisfy. It means questions that would have become findings are answered with evidence on the spot.
 
-The commonest problems we see, in order, are missing or late outstation records, then unit and density conversion errors. Both are caught by the monthly morning. For the verification side, read [choosing a verification body](/insights/corsia-verification-body-selection-india/) and [what verifiers actually test](/insights/corsia-internal-audit-preparation/).
+The commonest problems we see, in order, are missing or late outstation records, then unit and density conversion errors. Both are caught by the monthly morning. For the verification side, read [choosing a verification body](/blog/corsia-verification-body-selection-india/) and [what verifiers actually test](/blog/corsia-internal-audit-preparation/).
 
 If your finance and operations fuel totals do not agree and nobody is sure why, [get in touch](/contact/). Setting up the monthly routine is usually a short piece of work, and it pays back at the first verification.

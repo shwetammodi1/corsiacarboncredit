@@ -16,7 +16,7 @@ export default defineConfig({
         S.list()
           .title("Content")
           .items([
-            S.documentTypeListItem("blog").title("Blog posts (Insights)"),
+            S.documentTypeListItem("blog").title("Blog posts"),
             S.documentTypeListItem("kbArticle").title("Knowledge base articles"),
           ]),
     }),

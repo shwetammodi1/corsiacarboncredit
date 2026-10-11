@@ -44,13 +44,13 @@ Same registry, same brand on the certificate, different answer. The buyer should
 
 ## What the label does not tell you
 
-The CCP label is a strong signal about the rules a credit was issued under. It is not a verdict on the specific project. A project can apply an approved methodology badly: an optimistic input, a disputed land title, poor monitoring. So project-level due diligence still applies. Our [quality assessment guide](/insights/carbon-credit-quality-assessment/) sets out the checks, and [carbon credit ratings](/insights/carbon-credit-ratings-explained/) explains how the rating agencies' project-level views differ from the CCP label.
+The CCP label is a strong signal about the rules a credit was issued under. It is not a verdict on the specific project. A project can apply an approved methodology badly: an optimistic input, a disputed land title, poor monitoring. So project-level due diligence still applies. Our [quality assessment guide](/blog/carbon-credit-quality-assessment/) sets out the checks, and [carbon credit ratings](/blog/carbon-credit-ratings-explained/) explains how the rating agencies' project-level views differ from the CCP label.
 
 ## For buyers
 
 The label shortens the integrity question. A credit that clears the CCPs has already passed the category-level tests that matter, which is why labelled credits increasingly sell at a premium and why careful buyers ask for them.
 
-It also overlaps heavily with compliance requirements. A CCP-aligned credit that carries a corresponding adjustment is close to what CORSIA's [eligible emissions units](/insights/corsia-eligible-emissions-units-explained/) must meet. Close is not the same as eligible, though. CORSIA eligibility is decided by ICAO, and the corresponding adjustment remains a separate test.
+It also overlaps heavily with compliance requirements. A CCP-aligned credit that carries a corresponding adjustment is close to what CORSIA's [eligible emissions units](/blog/corsia-eligible-emissions-units-explained/) must meet. Close is not the same as eligible, though. CORSIA eligibility is decided by ICAO, and the corresponding adjustment remains a separate test.
 
 ## For developers, including in India
 

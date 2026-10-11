@@ -28,7 +28,7 @@ Advisory and verification fees are the costs people see. Where an offsetting req
 
 This is the point that changes most budget discussions. When fuel data has gaps, they are filled with conservative substitutes, either by your own data gap procedure or, if you have none, by the verifier. Conservative substitution pushes reported emissions up. If an offsetting requirement applies, higher reported emissions mean more units to buy.
 
-So untidy fuel records are not only an audit problem. They translate directly into extra tonnes to purchase and cancel. Of all the ways to reduce CORSIA spend, cleaning up fuel capture at source is the least glamorous and among the most effective. Our note on [fuel data quality](/insights/corsia-fuel-data-quality-management/) goes into how.
+So untidy fuel records are not only an audit problem. They translate directly into extra tonnes to purchase and cancel. Of all the ways to reduce CORSIA spend, cleaning up fuel capture at source is the least glamorous and among the most effective. Our note on [fuel data quality](/blog/corsia-fuel-data-quality-management/) goes into how.
 
 ## Levers, from cheapest to hardest
 
@@ -47,7 +47,7 @@ The order is the point. The first two are administrative and can be pulled this 
 
 A cost you have not forecast cannot be controlled. The requirement depends on four things: emissions on route pairs where both States participate, growth against the applicable baseline, the growth factors in force for the year, and any reduction from CORSIA eligible fuels.
 
-None of these is known exactly in advance, but each can be estimated to a useful range. A simple model that takes the traffic plan, applies the current list of participating States, and returns a low, central and high figure for the next two or three years is enough. Rerun it whenever the participation list changes, because one large State joining can shift the result noticeably. The arithmetic is in [how to calculate CORSIA offsetting requirements](/insights/corsia-offsetting-requirements-calculation/).
+None of these is known exactly in advance, but each can be estimated to a useful range. A simple model that takes the traffic plan, applies the current list of participating States, and returns a low, central and high figure for the next two or three years is enough. Rerun it whenever the participation list changes, because one large State joining can shift the result noticeably. The arithmetic is in [how to calculate CORSIA offsetting requirements](/blog/corsia-offsetting-requirements-calculation/).
 
 The benefit is not precision. It is having a number in the budget at all, rather than finding out the requirement after the year has closed and buying under deadline pressure.
 
@@ -61,7 +61,7 @@ When offsetting applies, buying units is a commercial exercise with genuine choi
 
 **How to contract.** Forward contracts and offtakes lock in supply and price but give up flexibility. Spot purchases keep flexibility but give up price certainty. Most operators use both.
 
-**How hard to check.** Each unit must pass three tests: an approved programme, a permitted vintage and a corresponding adjustment. A cheap unit that fails costs its purchase price plus a compliant replacement, so buying on price alone is the most expensive strategy there is. See the [CORSIA credit due diligence checklist](/insights/corsia-credit-due-diligence-checklist/).
+**How hard to check.** Each unit must pass three tests: an approved programme, a permitted vintage and a corresponding adjustment. A cheap unit that fails costs its purchase price plus a compliant replacement, so buying on price alone is the most expensive strategy there is. See the [CORSIA credit due diligence checklist](/blog/corsia-credit-due-diligence-checklist/).
 
 ## Two illustrative cost profiles
 
@@ -107,9 +107,9 @@ None of these shows up in a business case for deferring, because they are conseq
 - Underinvesting in data capture, then paying for it in tonnes.
 - Paying full advisory fees year after year because knowledge transfer never happened.
 - Appointing the verifier late.
-- Using SAF without the certification and chain-of-custody records to claim it, and so paying for the fuel and the units. See [SAF or offsets](/insights/corsia-saf-vs-offsets-strategy/).
+- Using SAF without the certification and chain-of-custody records to claim it, and so paying for the fuel and the units. See [SAF or offsets](/blog/corsia-saf-vs-offsets-strategy/).
 
-For an Indian operator, the forecast-and-budget side of this is covered step by step in [budgeting and forecasting CORSIA costs](/insights/corsia-budgeting-and-forecasting-india/).
+For an Indian operator, the forecast-and-budget side of this is covered step by step in [budgeting and forecasting CORSIA costs](/blog/corsia-budgeting-and-forecasting-india/).
 
 If your CORSIA spend is heading towards units and you want an outside view on forecasting or procurement, we can help. See our [services](/services/), or [send the desk a note](/contact/) about where you are in the cycle.
 

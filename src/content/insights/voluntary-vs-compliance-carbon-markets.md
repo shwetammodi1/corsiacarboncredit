@@ -43,7 +43,7 @@ Units that satisfy a compliance scheme are a small subset of all credits. A cred
 
 Movement the other way is easy. A compliance-eligible unit will nearly always satisfy a voluntary buyer, and increasingly sells at a premium there too.
 
-**Our rule of thumb:** if there is any chance you will need compliance-grade units, buy to that standard. Finding out later that your voluntary credits cannot be used for an obligation is an expensive lesson. Our explainer on [CORSIA eligible emissions units](/insights/corsia-eligible-emissions-units-explained/) covers the aviation tests in detail.
+**Our rule of thumb:** if there is any chance you will need compliance-grade units, buy to that standard. Finding out later that your voluntary credits cannot be used for an obligation is an expensive lesson. Our explainer on [CORSIA eligible emissions units](/blog/corsia-eligible-emissions-units-explained/) covers the aviation tests in detail.
 
 ## The two markets behave differently day to day
 
@@ -61,7 +61,7 @@ The practical upshot is to resource them differently. A treasury desk can manage
 
 ## Why voluntary prices spread so widely
 
-A published "average voluntary price" mixes very different products. An old renewable credit with contested additionality and a verified engineered removal share the label "carbon credit" and little else. The main drivers are project type (removals at the top, renewables at the bottom), vintage (recent preferred), co-benefits (SDG-linked projects fetch more), the standard's reputation, a corresponding adjustment (a large premium where present) and volume (discounts, limited by thin liquidity). The detail is in [carbon credit prices explained](/insights/carbon-credit-prices-explained/).
+A published "average voluntary price" mixes very different products. An old renewable credit with contested additionality and a verified engineered removal share the label "carbon credit" and little else. The main drivers are project type (removals at the top, renewables at the bottom), vintage (recent preferred), co-benefits (SDG-linked projects fetch more), the standard's reputation, a corresponding adjustment (a large premium where present) and volume (discounts, limited by thin liquidity). The detail is in [carbon credit prices explained](/blog/carbon-credit-prices-explained/).
 
 ## The line is blurring from the voluntary side
 

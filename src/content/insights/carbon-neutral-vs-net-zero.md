@@ -28,7 +28,7 @@ Each claim answers a different question.
 
 In principle, a company can call itself carbon neutral this year by buying enough cheap credits to cover its emissions without changing anything it does. That is exactly the practice that has drawn greenwashing criticism.
 
-Net zero, as credible frameworks define it, closes that door. Deep, absolute cuts must come first. Credits are limited to a genuine residual, and that residual is increasingly expected to be dealt with through durable removals such as [biochar](/insights/biochar-carbon-credits-explained/) or engineered capture, not avoidance.
+Net zero, as credible frameworks define it, closes that door. Deep, absolute cuts must come first. Credits are limited to a genuine residual, and that residual is increasingly expected to be dealt with through durable removals such as [biochar](/blog/biochar-carbon-credits-explained/) or engineered capture, not avoidance.
 
 So the risk is not in the words. It is in claiming the substance of one while doing the other: a "net zero" label on what is really a carbon neutral purchase programme.
 
@@ -45,14 +45,14 @@ The first invites the question "how?" and gives no answer. The second tells the 
 Three rules produce the second kind of statement:
 
 1. **Cut first.** Either claim is stronger when real reductions carry most of the weight. A claim resting almost entirely on credits is fragile whatever you call it.
-2. **Use credits that can bear the weight.** Compensation needs high-integrity credits, and net zero residuals increasingly need removals. Weak, non-additional credits undermine any claim; our list of [greenwashing warning signs](/insights/carbon-credit-greenwashing-red-flags/) covers what to avoid.
+2. **Use credits that can bear the weight.** Compensation needs high-integrity credits, and net zero residuals increasingly need removals. Weak, non-additional credits undermine any claim; our list of [greenwashing warning signs](/blog/carbon-credit-greenwashing-red-flags/) covers what to avoid.
 3. **Be specific.** Say which scopes are included, what was reduced and what was offset, and name the credits.
 
 ## Which one to use
 
 If you have made real cuts and are neutralising a small residual on a science-aligned path, **net zero** is the stronger claim and the one that will age better. If you are compensating current emissions while you build a reduction plan, **carbon neutral** can be legitimate, as long as you say plainly that it is compensation and use credible credits.
 
-For a company with a formal target, the [science-based targets framework](/insights/science-based-targets-sbti-explained/) sets out what a net zero path is expected to look like.
+For a company with a formal target, the [science-based targets framework](/blog/science-based-targets-sbti-explained/) sets out what a net zero path is expected to look like.
 
 ## A note for airlines
 

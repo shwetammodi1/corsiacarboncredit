@@ -50,7 +50,7 @@ Many things happen between distribution and daily cooking:
 
 Older methodologies leaned on distribution counts and periodic surveys. Distribution says nothing about use. Surveys suffer from courtesy bias: people tell the visitor what they think the visitor wants to hear. Independent field studies have repeatedly found real usage below the levels assumed for crediting, by enough to change credited volumes materially.
 
-Credible projects now use **sensors** to measure usage, apply conservative assumptions wherever measurement is impractical, and measure and deduct stacking rather than assuming the old stove disappeared. Our piece on [digital MRV](/insights/dmrv-digital-monitoring-carbon-projects/) explains how sensor monitoring works, and our [clean cooking case study](/insights/cookstove-clean-cooking-carbon-credits-case-study/) follows a project through it.
+Credible projects now use **sensors** to measure usage, apply conservative assumptions wherever measurement is impractical, and measure and deduct stacking rather than assuming the old stove disappeared. Our piece on [digital MRV](/blog/dmrv-digital-monitoring-carbon-projects/) explains how sensor monitoring works, and our [clean cooking case study](/blog/cookstove-clean-cooking-carbon-credits-case-study/) follows a project through it.
 
 ## fNRB: the less visible multiplier
 
@@ -70,7 +70,7 @@ The cost structure explains why carbon revenue matters so much here. A programme
 - registration and per-credit programme fees
 - maintenance and replacement over a crediting period of several years
 
-Outsiders underestimate distribution. In many programmes, reaching scattered rural households costs more per unit than the stove itself, which is why a cheaply made stove still cannot be sold at a price the household can pay. Carbon finance fills that gap. Without it, many programmes would not happen, which is also the core of the [additionality](/insights/additionality-in-carbon-credits-explained/) case.
+Outsiders underestimate distribution. In many programmes, reaching scattered rural households costs more per unit than the stove itself, which is why a cheaply made stove still cannot be sold at a price the household can pay. Carbon finance fills that gap. Without it, many programmes would not happen, which is also the core of the [additionality](/blog/additionality-in-carbon-credits-explained/) case.
 
 There is a built-in tension. Money spent on monitoring is money not spent reaching households. A programme that spends heavily on sensors reaches fewer families; one that spends nothing on monitoring produces credits nobody should buy. The answer credible projects use is a **statistically valid sample**: measure enough households properly rather than every household badly.
 
@@ -80,7 +80,7 @@ India has one of the largest populations that could benefit from clean cooking, 
 
 This matters for additionality. Where a government programme is already supplying cleaner cooking fuel, a carbon project claiming to replace traditional biomass has to show its intervention adds something beyond what was already happening. In districts with high LPG uptake that is genuinely difficult. In districts with low uptake it is easier.
 
-For an Indian developer, the additionality case is now local. It has to be built for the actual project area, district by district, not argued for the country as a whole. If the project is meant for international buyers, the route to host-State authorisation also needs confirming early; our page on [CORSIA-eligible projects in India](/insights/corsia-eligible-projects-in-india/) covers that.
+For an Indian developer, the additionality case is now local. It has to be built for the actual project area, district by district, not argued for the country as a whole. If the project is meant for international buyers, the route to host-State authorisation also needs confirming early; our page on [CORSIA-eligible projects in India](/blog/corsia-eligible-projects-in-india/) covers that.
 
 ## Why the category is still worth engaging with
 

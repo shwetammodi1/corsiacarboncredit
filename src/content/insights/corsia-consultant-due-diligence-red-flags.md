@@ -43,7 +43,7 @@ Accredited CORSIA verifiers are a small, identifiable group. Anyone who has deli
 
 ### Hand-waving about corresponding adjustments
 
-In any discussion of credit supply or purchasing, the corresponding adjustment is the test that decides eligibility. A firm that calls it a paperwork step, or is unsure who grants it, has not worked on a CORSIA transaction. For Indian supply specifically, see [corresponding adjustments for Indian CORSIA projects](/insights/corsia-corresponding-adjustment-india/).
+In any discussion of credit supply or purchasing, the corresponding adjustment is the test that decides eligibility. A firm that calls it a paperwork step, or is unsure who grants it, has not worked on a CORSIA transaction. For Indian supply specifically, see [corresponding adjustments for Indian CORSIA projects](/blog/corsia-corresponding-adjustment-india/).
 
 ## In the room: softer signals
 
@@ -72,7 +72,7 @@ Diligence tells you who you are hiring. The contract decides what happens when t
 
 The fourth is quietly the most important. A monitoring plan delivered only as a locked PDF, with the working files kept by the adviser, guarantees you come back next year, whatever was promised about knowledge transfer. Ask for editable files as a contractual deliverable.
 
-Also read the exclusions before the scope. What a firm leaves out tells you more than what it lists, and "scope" written only in verbs like support and assist is not a scope. The contract as a whole is covered in [what to put in a CORSIA consultant scope of work](/insights/corsia-consultant-scope-of-work/).
+Also read the exclusions before the scope. What a firm leaves out tells you more than what it lists, and "scope" written only in verbs like support and assist is not a scope. The contract as a whole is covered in [what to put in a CORSIA consultant scope of work](/blog/corsia-consultant-scope-of-work/).
 
 **A revealing test:** send a prospective firm these six positions and ask which it objects to and why. A firm confident in its delivery accepts them all. One that pushes back on both findings at its cost and your ownership of the files is telling you how its business model works.
 
@@ -104,7 +104,7 @@ Sometimes the warning signs only appear once the work has started. These justify
 
 Changing adviser mid-cycle has a real cost, but it is usually smaller than a failed verification or a monitoring plan the DGCA will not accept. Owning the editable working files is what makes leaving practical: a new firm starts from where you are rather than from nothing. If you are unsure about a plan already written, have its monitoring method reviewed independently first, since everything else depends on it.
 
-For the full question list, see [25 questions to ask a CORSIA consultant](/insights/questions-to-ask-a-corsia-consultant/); for the wider selection process, [what a CORSIA consultant in India does](/insights/corsia-carbon-credit-consultant-in-india/).
+For the full question list, see [25 questions to ask a CORSIA consultant](/blog/questions-to-ask-a-corsia-consultant/); for the wider selection process, [what a CORSIA consultant in India does](/blog/corsia-carbon-credit-consultant-in-india/).
 
 If you are weighing up advisers, or want a second opinion on work already delivered, [talk to the desk](/contact/). We are happy to start with a small, bounded review.
 

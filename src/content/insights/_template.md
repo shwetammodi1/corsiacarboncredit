@@ -12,7 +12,7 @@ metaDescription: ""
 <!--
 HOW TO USE THIS TEMPLATE
 1. Copy this file in the same folder and rename it to the URL you want, e.g.
-   how-to-buy-corsia-credits-in-india.md  →  /insights/how-to-buy-corsia-credits-in-india/
+   how-to-buy-corsia-credits-in-india.md  →  /blog/how-to-buy-corsia-credits-in-india/
    Lowercase words joined by hyphens. Files starting with "_" (like this one) are not published.
 2. Fill in the front matter above. Keep the quotes. Leave metaTitle / metaDescription empty
    to use the title and excerpt in Google.

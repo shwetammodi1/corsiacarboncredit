@@ -34,13 +34,13 @@ Every row is a place where value can be made or lost. The table in [the CORSIA m
 
 ## Demand: the more predictable half
 
-Most carbon markets struggle to forecast demand because it depends on corporate mood. Aviation is different. CORSIA sets an obligation, and the scheme moves to mandatory participation from 2027 with a tighter baseline, so the need for eligible units has a reasonably clear upward path. The [outlook for CORSIA](/insights/future-of-corsia-aviation-decarbonization/) sets out that direction. Voluntary purchases by companies offsetting business travel sit on top of the compliance demand.
+Most carbon markets struggle to forecast demand because it depends on corporate mood. Aviation is different. CORSIA sets an obligation, and the scheme moves to mandatory participation from 2027 with a tighter baseline, so the need for eligible units has a reasonably clear upward path. The [outlook for CORSIA](/blog/future-of-corsia-aviation-decarbonization/) sets out that direction. Voluntary purchases by companies offsetting business travel sit on top of the compliance demand.
 
 ## Supply: scarce, and the scarcity is the point
 
 Only a narrow slice of the world's carbon credits can be used for CORSIA. A unit has to come from an approved programme and carry a corresponding adjustment from the host government, and many projects cannot get one. Developers who secure both hold the product airlines need.
 
-For an investor that shortage is the case for owning eligible supply. It is also where the thesis can break. Integrity challenges to a project type, a host government changing its stance, or a flood of credits that do not qualify can all distort returns. The [rules on eligible units](/insights/corsia-eligible-emissions-units-explained/) are therefore the core of any investment memo, not an appendix.
+For an investor that shortage is the case for owning eligible supply. It is also where the thesis can break. Integrity challenges to a project type, a host government changing its stance, or a flood of credits that do not qualify can all distort returns. The [rules on eligible units](/blog/corsia-eligible-emissions-units-explained/) are therefore the core of any investment memo, not an appendix.
 
 ## Policy is the biggest price driver
 
@@ -51,11 +51,11 @@ Because the market exists by regulation, rule changes move value more than ordin
 3. How smoothly the 2027 transition goes.
 4. How quickly sustainable aviation fuel scales up and eats into offsetting demand.
 
-Tighter rules can push eligible prices up sharply. Looser rules or faster SAF uptake can soften them. We suggest modelling a few policy scenarios alongside the usual market ones, and reading the price story together with [how carbon pricing hits airlines](/insights/carbon-pricing-impact-on-airlines/).
+Tighter rules can push eligible prices up sharply. Looser rules or faster SAF uptake can soften them. We suggest modelling a few policy scenarios alongside the usual market ones, and reading the price story together with [how carbon pricing hits airlines](/blog/carbon-pricing-impact-on-airlines/).
 
 ## The Scope 3 route for companies
 
-For most businesses the entry point is employee travel. Once flights are in the inventory, the company faces the same questions an airline does: which credits are credible, which claims hold up, and how to avoid being linked to a weak project. The method is also the same. Do proper [quality checks on any offset](/insights/evaluating-carbon-offset-quality-airlines/) before paying, and keep the evidence where an auditor can find it.
+For most businesses the entry point is employee travel. Once flights are in the inventory, the company faces the same questions an airline does: which credits are credible, which claims hold up, and how to avoid being linked to a weak project. The method is also the same. Do proper [quality checks on any offset](/blog/evaluating-carbon-offset-quality-airlines/) before paying, and keep the evidence where an auditor can find it.
 
 An Indian company has one extra point to watch. If it wants credits from Indian projects, it should ask early whether they are intended for the voluntary market or for CORSIA, because the second requires Government of India authorisation and is priced accordingly.
 

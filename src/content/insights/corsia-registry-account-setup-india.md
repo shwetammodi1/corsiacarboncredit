@@ -86,7 +86,7 @@ A worked example, in weeks before the cancellation deadline. The durations are t
 | 5 | Cancellation report and acknowledgement | 1–2 weeks |
 | 3 to 0 | Margin for anything that slipped | |
 
-Registries have maintenance windows and busy spells around common deadlines, which is exactly when everyone else is cancelling. A plan that leaves cancellation to the final days is assuming processing time nobody has promised you. The full procurement sequence is in [buying CORSIA units](/insights/corsia-unit-procurement-process-india/).
+Registries have maintenance windows and busy spells around common deadlines, which is exactly when everyone else is cancelling. A plan that leaves cancellation to the final days is assuming processing time nobody has promised you. The full procurement sequence is in [buying CORSIA units](/blog/corsia-unit-procurement-process-india/).
 
 ## Cancellation is where it counts
 

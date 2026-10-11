@@ -99,7 +99,7 @@ Actual submission dates are set in each State's implementing law and are not uni
 - registry accounts opened and tested;
 - a written position on buying forward versus buying spot.
 
-**Project developers** get the clearest demand signal in the market: second-phase demand arrives on a known date. Working back, a new project usually takes eighteen months to three years from concept to first issuance, and host-State authorisation is the least predictable part. Developers aiming at that demand need to be working on authorisation now. By the time demand is visible, the supply that was ready will already be under contract. The route to market is set out in [becoming a CORSIA supplier](/insights/how-to-become-corsia-carbon-credit-supplier/).
+**Project developers** get the clearest demand signal in the market: second-phase demand arrives on a known date. Working back, a new project usually takes eighteen months to three years from concept to first issuance, and host-State authorisation is the least predictable part. Developers aiming at that demand need to be working on authorisation now. By the time demand is visible, the supply that was ready will already be under contract. The route to market is set out in [becoming a CORSIA supplier](/blog/how-to-become-corsia-carbon-credit-supplier/).
 
 ## Reviews can move the goalposts
 

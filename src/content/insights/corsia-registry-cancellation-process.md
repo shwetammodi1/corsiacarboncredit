@@ -19,7 +19,7 @@ It assumes you already know what registries and serial numbers are. If not, star
 
 Put the reporting deadline on the calendar first, then count back. A schedule that works for most operators:
 
-1. **Six months out.** Registry accounts are open and tested, with two authorised representatives named. Opening an account involves know-your-customer checks, which take longer than anyone expects. See [setting up registry accounts](/insights/corsia-registry-account-setup-india/).
+1. **Six months out.** Registry accounts are open and tested, with two authorised representatives named. Opening an account involves know-your-customer checks, which take longer than anyone expects. See [setting up registry accounts](/blog/corsia-registry-account-setup-india/).
 2. **Four months out.** The obligation is confirmed against verified emissions and the published growth factors.
 3. **Three months out.** Supply is under contract and due diligence is finished.
 4. **Six weeks out.** Units have arrived in your account and their serial numbers are logged.

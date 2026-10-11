@@ -86,17 +86,17 @@ A plan describes an operating routine, not a filing. Once accepted, it commits t
 - compilation, internal review and reconciliation at year end
 - verification and submission in the first quarter
 
-If the monthly items are not really happening, the plan is a wish list and verification will show it. The [fuel data quality guide](/insights/corsia-fuel-data-quality-management/) covers how to run those monthly checks.
+If the monthly items are not really happening, the plan is a wish list and verification will show it. The [fuel data quality guide](/blog/corsia-fuel-data-quality-management/) covers how to run those monthly checks.
 
 ## Getting it accepted
 
 Writing the plan is half the work. It must then go to the authority, the DGCA for Indian operators, in the required format and be accepted. The sequence runs: submit by the applicable date; the authority checks every section is there; a technical review raises questions on method, scope, data flow or gaps; you reply in writing and amend the plan where needed; the authority confirms acceptance; and that accepted version becomes the operative document.
 
-Allow for questions. First plans rarely pass untouched, and each round uses calendar time you do not control, so filing close to a deadline leaves no space for a second round. Our [DGCA guide](/insights/corsia-dgca-interaction-guide/) covers how those exchanges tend to run.
+Allow for questions. First plans rarely pass untouched, and each round uses calendar time you do not control, so filing close to a deadline leaves no space for a second round. Our [DGCA guide](/blog/corsia-dgca-interaction-guide/) covers how those exchanges tend to run.
 
 Keep every version. Verifiers test practice against the version in force during the year, not the latest draft. An operator who cannot say which version applied when has a documentation problem before any data is opened.
 
-If an adviser is drafting the plan, write answering the authority's queries into their [scope of work](/insights/corsia-consultant-scope-of-work/) rather than leaving it as an extra.
+If an adviser is drafting the plan, write answering the authority's queries into their [scope of work](/blog/corsia-consultant-scope-of-work/) rather than leaving it as an extra.
 
 ## Keeping it alive
 

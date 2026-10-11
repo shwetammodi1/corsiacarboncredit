@@ -48,7 +48,7 @@ The host un-counts, the buyer counts, and the tonne appears once. That accountin
 
 ## What this changes for buyers
 
-**Eligibility.** A unit carrying a corresponding adjustment can be used for compliance without double counting. CORSIA's first phase requires exactly this, which is why most of the world's credits are not usable by airlines. See [what counts as a CORSIA eligible unit](/insights/corsia-eligible-emissions-units-explained/).
+**Eligibility.** A unit carrying a corresponding adjustment can be used for compliance without double counting. CORSIA's first phase requires exactly this, which is why most of the world's credits are not usable by airlines. See [what counts as a CORSIA eligible unit](/blog/corsia-eligible-emissions-units-explained/).
 
 **Scarcity.** Not every government will issue authorisations. Giving one up means handing over a tonne the country could otherwise use against its own target. Fewer authorisations means less adjusted supply.
 
@@ -58,7 +58,7 @@ The host un-counts, the buyer counts, and the tonne appears once. That accountin
 
 ## An India note
 
-For Indian developers the practical question is whether India will authorise a given project's units for transfer, and on what terms. India is building its domestic Carbon Credit Trading Scheme alongside its Article 6 arrangements, and how the two fit together is still being worked out. Confirm the route to authorisation before choosing a methodology, not after issuance. Our page on [corresponding adjustments for Indian CORSIA projects](/insights/corsia-corresponding-adjustment-india/) goes further.
+For Indian developers the practical question is whether India will authorise a given project's units for transfer, and on what terms. India is building its domestic Carbon Credit Trading Scheme alongside its Article 6 arrangements, and how the two fit together is still being worked out. Confirm the route to authorisation before choosing a methodology, not after issuance. Our page on [corresponding adjustments for Indian CORSIA projects](/blog/corsia-corresponding-adjustment-india/) goes further.
 
 ## Short answers
 

@@ -5,13 +5,15 @@ import { onRequest } from "../functions/_middleware.js";
 const run = (url) => onRequest({ request: new Request(url), next: async () => new Response("asset", { status: 200 }) });
 
 const redirects = [
-  ["https://www.corsiacarboncredit.in/insights/?topic=Case%20Studies", "https://corsiacarboncredit.in/insights/?topic=Case%20Studies"],
+  ["https://www.corsiacarboncredit.in/blog/?topic=Case%20Studies", "https://corsiacarboncredit.in/blog/?topic=Case%20Studies"],
   ["http://www.corsiacarboncredit.in/", "https://corsiacarboncredit.in/"],
   ["https://corsiacarboncredit.pages.dev/marketplace/assam-agroforestry/", "https://corsiacarboncredit.in/marketplace/assam-agroforestry/"],
-  ["https://corsiacarboncredit.in/blog", "https://corsiacarboncredit.in/insights/"],
-  ["https://corsiacarboncredit.in/blog/", "https://corsiacarboncredit.in/insights/"],
-  ["https://corsiacarboncredit.in/blog/what-is-corsia-complete-guide", "https://corsiacarboncredit.in/insights/what-is-corsia-complete-guide/"],
-  ["https://www.corsiacarboncredit.in/blog/additionality-in-carbon-credits-explained/", "https://corsiacarboncredit.in/insights/additionality-in-carbon-credits-explained/"],
+  // old blog address
+  ["https://corsiacarboncredit.in/insights", "https://corsiacarboncredit.in/blog/"],
+  ["https://corsiacarboncredit.in/insights/", "https://corsiacarboncredit.in/blog/"],
+  ["https://corsiacarboncredit.in/insights/?topic=Case%20Studies", "https://corsiacarboncredit.in/blog/?topic=Case%20Studies"],
+  ["https://corsiacarboncredit.in/insights/what-is-corsia-complete-guide", "https://corsiacarboncredit.in/blog/what-is-corsia-complete-guide/"],
+  ["https://www.corsiacarboncredit.in/insights/additionality-in-carbon-credits-explained/", "https://corsiacarboncredit.in/blog/additionality-in-carbon-credits-explained/"],
 ];
 for (const [from, to] of redirects) {
   test(`301 ${from}`, async () => {
@@ -22,8 +24,10 @@ for (const [from, to] of redirects) {
 }
 
 for (const url of [
+  "https://corsiacarboncredit.in/blog/",
+  "https://corsiacarboncredit.in/blog/additionality-in-carbon-credits-explained/",
   "https://corsiacarboncredit.in/knowledge-base/",
-  "https://corsiacarboncredit.in/insights/blog-to-know/",
+  "https://corsiacarboncredit.in/blog/insights-for-buyers/",
   "https://4f0ebebf.corsiacarboncredit.pages.dev/",
 ]) {
   test(`served as is: ${url}`, async () => {

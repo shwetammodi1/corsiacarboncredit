@@ -20,7 +20,7 @@ A compliance buyer's diligence runs in a fairly predictable order. Each question
 **"Can we use these units for CORSIA at all?"**
 Answered by the **corresponding adjustment letter** and the **programme eligibility evidence**. This is the question that decides everything else, so it comes first.
 
-The authorisation document shows that the host country has approved the transfer and will make the adjustment. Buyers want the authorisation itself, its scope (which project, which vintages, what quantity) and whether it carries conditions. A statement of government policy is not an authorisation of your particular units. For how this works in India, see [corresponding adjustments for Indian CORSIA projects](/insights/corsia-corresponding-adjustment-india/).
+The authorisation document shows that the host country has approved the transfer and will make the adjustment. Buyers want the authorisation itself, its scope (which project, which vintages, what quantity) and whether it carries conditions. A statement of government policy is not an authorisation of your particular units. For how this works in India, see [corresponding adjustments for Indian CORSIA projects](/blog/corsia-corresponding-adjustment-india/).
 
 Programme evidence shows the issuing programme is ICAO-approved for that unit type and vintage window, and that your units sit inside it. Approvals have scopes and dates. "The programme is approved" and "these units are eligible" are two different statements.
 
@@ -108,7 +108,7 @@ Three habits help:
 
 Assume every document will be read by someone looking for grounds to lower the price. That is not cynical; it is what diligence is for.
 
-The buyer's view of the same process is in [the CORSIA credit due diligence checklist](/insights/corsia-credit-due-diligence-checklist/), and the sale itself is covered in [how to sell carbon credits in India](/insights/how-to-sell-carbon-credits-in-india/).
+The buyer's view of the same process is in [the CORSIA credit due diligence checklist](/blog/corsia-credit-due-diligence-checklist/), and the sale itself is covered in [how to sell carbon credits in India](/blog/how-to-sell-carbon-credits-in-india/).
 
 ## Short answers
 

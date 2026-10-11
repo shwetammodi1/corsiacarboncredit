@@ -34,11 +34,11 @@ These are cheap to check and final. If a unit fails here, nothing later can resc
 
 For compliance, and more and more for serious voluntary claims, ask whether the host State has authorised the transfer and applied a **corresponding adjustment**.
 
-Acceptable evidence is a formal authorisation from the designated national authority that names the units or a defined volume, together with evidence that the adjustment shows up in national reporting. A seller's word, a line on the project website, a broker's confirmation or a remark that the country "supports Article 6" are not evidence. If this test fails for a compliance purchase, stop. Background is in our [Article 6 explainer](/insights/article-6-paris-agreement-explained/).
+Acceptable evidence is a formal authorisation from the designated national authority that names the units or a defined volume, together with evidence that the adjustment shows up in national reporting. A seller's word, a line on the project website, a broker's confirmation or a remark that the country "supports Article 6" are not evidence. If this test fails for a compliance purchase, stop. Background is in our [Article 6 explainer](/blog/article-6-paris-agreement-explained/).
 
 ### The registry trail
 
-Pull the registry record yourself rather than accepting a summary. Check that each unit is uniquely serialised, that the chain of custody runs unbroken from issuance, that nothing has been retired already, and that the seller really holds the units. Then save copies into your own files. Evidence that lives only with an intermediary vanishes when the relationship ends. Our comparison of [carbon credit registries](/insights/carbon-credit-registries-compared/) explains what each registry shows publicly.
+Pull the registry record yourself rather than accepting a summary. Check that each unit is uniquely serialised, that the chain of custody runs unbroken from issuance, that nothing has been retired already, and that the seller really holds the units. Then save copies into your own files. Evidence that lives only with an intermediary vanishes when the relationship ends. Our comparison of [carbon credit registries](/blog/carbon-credit-registries-compared/) explains what each registry shows publicly.
 
 ## Pass 2: the substance
 
@@ -48,7 +48,7 @@ This is where judgement comes in, and where most of the time goes.
 
 Request the baseline scenario, an investment or barrier analysis showing why carbon revenue was needed, and a common practice test. Be most sceptical of grid-connected renewables where they are now the cheapest source of power. That argument was easy a decade and more ago and is very hard to make today, which is why several standards have narrowed or retired those methodologies.
 
-One question cuts through: what was the internal rate of return with and without carbon revenue, and who signed that analysis off? Our piece on [additionality](/insights/additionality-in-carbon-credits-explained/) covers the tests in more detail.
+One question cuts through: what was the internal rate of return with and without carbon revenue, and who signed that analysis off? Our piece on [additionality](/blog/additionality-in-carbon-credits-explained/) covers the tests in more detail.
 
 ### Baseline
 
@@ -86,7 +86,7 @@ Rating agencies are good for triage. They narrow a large market quickly and can 
 2. **Agencies use different methods**, and can disagree on the same project. The disagreement usually points to a specific, real risk and is worth reading.
 3. **A rating reflects one moment.** Projects change.
 
-Use them to build a shortlist, then read the documents for the units you are buying. See [carbon credit ratings explained](/insights/carbon-credit-ratings-explained/).
+Use them to build a shortlist, then read the documents for the units you are buying. See [carbon credit ratings explained](/blog/carbon-credit-ratings-explained/).
 
 ## When to walk away
 

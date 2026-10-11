@@ -29,11 +29,11 @@ The first year also matters beyond itself. The monitoring method, the reconcilia
 
 ## Nine to six months out: write the plan
 
-Draft the monitoring plan: the method, named data sources, the data flow, roles assigned to functions rather than individuals, quality controls, gap procedures set out in advance, and version control. Our [monitoring plan drafting guide](/insights/corsia-emissions-monitoring-plan-guide/) walks through each section.
+Draft the monitoring plan: the method, named data sources, the data flow, roles assigned to functions rather than individuals, quality controls, gap procedures set out in advance, and version control. Our [monitoring plan drafting guide](/blog/corsia-emissions-monitoring-plan-guide/) walks through each section.
 
 ## Six to three months out: get it approved
 
-Submit to the DGCA and expect questions. A first submission seldom passes untouched, and the authority's review has its own emphases. Work backwards from 1 January when setting the submission date, so that at least one round of revision fits before the year starts. Our note on [working with the DGCA](/insights/corsia-dgca-interaction-guide/) covers what reviewers look for.
+Submit to the DGCA and expect questions. A first submission seldom passes untouched, and the authority's review has its own emphases. Work backwards from 1 January when setting the submission date, so that at least one round of revision fits before the year starts. Our note on [working with the DGCA](/blog/corsia-dgca-interaction-guide/) covers what reviewers look for.
 
 ## Three months out to 1 January: build and train
 
@@ -62,7 +62,7 @@ A first year needs a few people who understand their part, not a committee:
 | Flight operations contact | Owns the underlying records and answers questions like "was this a positioning leg?" | Brought in only during the reporting window |
 | Finance contact | Reconciles fuel invoices; later handles registry, treasury and cross-border payment for units | Left out until units have to be bought |
 
-At a small operator these may be four part-time responsibilities held by two people. What matters is that each is named and briefed before the year starts. And train on your own data: generic CORSIA training explains the scheme but will not prepare anyone to explain why a particular figure was settled the way it was. Once the pipeline exists, walk the team through it. More on this in [CORSIA training for airline teams](/insights/corsia-training-for-airline-teams/).
+At a small operator these may be four part-time responsibilities held by two people. What matters is that each is named and briefed before the year starts. And train on your own data: generic CORSIA training explains the scheme but will not prepare anyone to explain why a particular figure was settled the way it was. Once the pipeline exists, walk the team through it. More on this in [CORSIA training for airline teams](/blog/corsia-training-for-airline-teams/).
 
 ## January to December: monitor, and reconcile every month
 
@@ -72,7 +72,7 @@ Keep an eye on anything that changes scope during the year: new routes, new airc
 
 ## January to March after: compile
 
-If monthly reconciliation has run all year, the Annual Emissions Report is mostly assembly from a maintained dataset, not analysis from scratch. Run an [internal review](/insights/corsia-emissions-report-review-checklist/) before it leaves the building.
+If monthly reconciliation has run all year, the Annual Emissions Report is mostly assembly from a maintained dataset, not analysis from scratch. Run an [internal review](/blog/corsia-emissions-report-review-checklist/) before it leaves the building.
 
 ## February to April after: verification
 
@@ -98,6 +98,6 @@ Keep, from the start: every monitoring plan version with its approval date, sour
 - **Expecting your adviser to verify.** It bites at engagement: independence rules require a second firm.
 - **No internal owner.** It bites all year: data does not arrive and nobody escalates.
 
-The method can be changed after year one with the authority's approval, but it disrupts the data series and verification will examine the break. Choosing correctly the first time is much cheaper. For whether to use outside help, see [consultant, in-house or hybrid](/insights/corsia-consultant-vs-in-house-team/).
+The method can be changed after year one with the authority's approval, but it disrupts the data series and verification will examine the break. Choosing correctly the first time is much cheaper. For whether to use outside help, see [consultant, in-house or hybrid](/blog/corsia-consultant-vs-in-house-team/).
 
 If your first reporting year is coming up, or you are the carrier in June, [talk to us](/contact/) early. The most useful work we do for first-year operators happens well before 1 January.

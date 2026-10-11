@@ -17,7 +17,7 @@ export const blog = defineType({
       name: "topic",
       type: "string",
       group: "content",
-      description: "Which filter on the Insights page this post appears under.",
+      description: "Which filter on the blog page this post appears under.",
       options: { list: INSIGHT_TOPICS, layout: "dropdown" },
       validation: (Rule) => Rule.required(),
     }),

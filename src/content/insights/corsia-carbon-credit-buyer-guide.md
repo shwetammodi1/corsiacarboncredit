@@ -17,7 +17,7 @@ Teams that run a CORSIA purchase like a routine tender, three quotes and the low
 
 Strip away the language of the carbon market and an operator is buying one thing: a unit that, once cancelled and reported, reduces its offsetting obligation by a tonne in the eyes of its national authority. For an Indian carrier, that authority is the DGCA.
 
-Everything that sells voluntary credits, the project story, photographs, co-benefits, location, has no bearing on that. The questions that matter are whether the unit meets every element of the [ICAO eligibility criteria](/insights/corsia-eligible-emissions-units-criteria/), and whether you will still be able to prove it to a verifier some years from now.
+Everything that sells voluntary credits, the project story, photographs, co-benefits, location, has no bearing on that. The questions that matter are whether the unit meets every element of the [ICAO eligibility criteria](/blog/corsia-eligible-emissions-units-criteria/), and whether you will still be able to prove it to a verifier some years from now.
 
 ## Why supply is tighter than it looks
 
@@ -44,7 +44,7 @@ Almost every deal is bilateral, negotiated and documented one at a time.
 
 ## Planning purchases across the period
 
-**Model the requirement first.** You cannot buy well without a working estimate of what you owe. Build it each year from published sector data, tighten it when growth factors are confirmed, and re-run it for second-phase route coverage. [Calculating the offsetting requirement](/insights/corsia-offsetting-requirements-calculation/) shows the method.
+**Model the requirement first.** You cannot buy well without a working estimate of what you owe. Build it each year from published sector data, tighten it when growth factors are confirmed, and re-run it for second-phase route coverage. [Calculating the offsetting requirement](/blog/corsia-offsetting-requirements-calculation/) shows the method.
 
 **Spread the buying.** Obligations settle per three-year compliance period, but nothing forces you to wait for the final year. Buying through the period evens out price exposure and keeps you out of the last-minute scramble. Because the final figure is not confirmed until later, buy a cautious share early and reconcile once the number is firm.
 
@@ -66,7 +66,7 @@ Each unit needs evidence rather than a description. In brief:
 - the registry shows an unbroken chain of custody;
 - all of it can be assembled into a file that will stand up to audit years later.
 
-Our [pre-transaction checklist](/insights/corsia-credit-due-diligence-checklist/) expands each point.
+Our [pre-transaction checklist](/blog/corsia-credit-due-diligence-checklist/) expands each point.
 
 A word on labels. "CORSIA-ready" and "CORSIA-aligned" are not standards; each usually means a registered project without authorisation. "Eligible pending authorisation" is at least candid about the gap. Buying on any of these terms is taking on authorisation risk. That can be a sensible, priced choice in a forward, but it should be a choice.
 
@@ -74,7 +74,7 @@ A word on labels. "CORSIA-ready" and "CORSIA-aligned" are not standards; each us
 
 **Opening an account is slow.** Registry onboarding includes know-your-customer checks and can take weeks. An operator that agrees a deal and only then starts onboarding finds its own paperwork holding up the transfer.
 
-**Holding units settles nothing.** The obligation is met by **cancelling** the units in the registry and then filing the Emissions Unit Cancellation Report with your authority. Allow time for both before the deadline. The [cancellation runbook](/insights/corsia-registry-cancellation-process/) walks through the steps.
+**Holding units settles nothing.** The obligation is met by **cancelling** the units in the registry and then filing the Emissions Unit Cancellation Report with your authority. Allow time for both before the deadline. The [cancellation runbook](/blog/corsia-registry-cancellation-process/) walks through the steps.
 
 ![Flow of units from seller to buyer through the registry to cancellation](/images/corsia/corsia-buyer-seller-flow.svg)
 
@@ -112,7 +112,7 @@ Smaller operators without that role in-house have good reason to bring in outsid
 ## Short answers
 
 ::: accordion How much do CORSIA units cost?
-Considerably more than similar non-eligible credits, and the range is wide by project type, vintage and volume. Our [timing and price guide](/insights/corsia-carbon-credit-price-guide/) covers what moves it.
+Considerably more than similar non-eligible credits, and the range is wide by project type, vintage and volume. Our [timing and price guide](/blog/corsia-carbon-credit-price-guide/) covers what moves it.
 :::
 
 ::: accordion Can we carry a surplus into the next period?

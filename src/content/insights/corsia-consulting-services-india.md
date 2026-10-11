@@ -17,7 +17,7 @@ Indian developers have three routes: the domestic compliance market, internation
 
 ## The three routes in brief
 
-**Domestic, through the Carbon Credit Trading Scheme (CCTS).** Buyers are obligated Indian entities. The framework sits under the Energy Conservation Act. No authorisation for international transfer is needed and no corresponding adjustment applies. The main risk is that the scheme's design is still settling. More on the scheme in [the Indian carbon market and CCTS](/insights/indian-carbon-market-ccts-explained/).
+**Domestic, through the Carbon Credit Trading Scheme (CCTS).** Buyers are obligated Indian entities. The framework sits under the Energy Conservation Act. No authorisation for international transfer is needed and no corresponding adjustment applies. The main risk is that the scheme's design is still settling. More on the scheme in [the Indian carbon market and CCTS](/blog/indian-carbon-market-ccts-explained/).
 
 **International compliance, through CORSIA.** Buyers are aircraft operators. Eligibility follows ICAO's Emissions Unit Criteria. Authorisation from the host government **and** a corresponding adjustment are required. Prices carry a premium because supply is scarce. The main risk is that authorisation never arrives.
 
@@ -65,7 +65,7 @@ The domestic route usually pays sooner because it skips the authorisation step, 
 | Grid solar and wind | Weak | Weak | Additionality is hard where they are the cheapest option |
 | Soil carbon | Weak | Weak | Measurement methods still immature |
 
-Two things stand out. Industrial efficiency overlaps the domestic scheme's own coverage, which favours the domestic route but also raises the question of whether an existing obligation already captures the reduction. Waste methane suits the international route best, because its additionality case survives the kind of scrutiny other categories struggle with. For more on eligible Indian types, see [CORSIA-eligible projects in India](/insights/corsia-eligible-projects-in-india/).
+Two things stand out. Industrial efficiency overlaps the domestic scheme's own coverage, which favours the domestic route but also raises the question of whether an existing obligation already captures the reduction. Waste methane suits the international route best, because its additionality case survives the kind of scrutiny other categories struggle with. For more on eligible Indian types, see [CORSIA-eligible projects in India](/blog/corsia-eligible-projects-in-india/).
 
 ## The Gujarat cluster, worked through (illustrative)
 
@@ -106,4 +106,4 @@ Each can be answered in weeks. A developer with answers to all six has made a de
 
 This is a bounded question and worth buying as a separate piece of work. A useful assessment delivers a written view on authorisation prospects for your project type, the methodology options on each route, a timeline and revenue comparison, and a recommendation with its reasoning set out so it can be revisited when policy moves. It must be able to conclude that the international route is not realistic, because for a number of project types that is the correct answer today.
 
-We run these assessments for Indian developers from our desk in Indore. If you are weighing routes for a project, send us a short description through our [contact page](/contact/), or read [becoming a CORSIA supplier](/insights/how-to-become-corsia-carbon-credit-supplier/) first.
+We run these assessments for Indian developers from our desk in Indore. If you are weighing routes for a project, send us a short description through our [contact page](/contact/), or read [becoming a CORSIA supplier](/blog/how-to-become-corsia-carbon-credit-supplier/) first.

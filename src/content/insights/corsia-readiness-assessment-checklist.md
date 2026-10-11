@@ -27,7 +27,7 @@ We have ordered the six areas by **fix priority**, not by the order CORSIA is us
 
 ## Area A: Data and systems
 
-This area predicts the verification outcome better than any other. See [fuel data quality](/insights/corsia-fuel-data-quality-management/) for the detail behind it.
+This area predicts the verification outcome better than any other. See [fuel data quality](/blog/corsia-fuel-data-quality-management/) for the detail behind it.
 
 - **A1.** Is fuel captured per flight for every international sector?
 - **A2.** Can any source document be retrieved within a day?
@@ -74,7 +74,7 @@ C8 is the one teams most often over-score. If nobody can point to the lease clau
 - **D6.** Is an internal dry run scheduled before fieldwork?
 - **D7.** Are last year's findings closed with evidence, not just marked closed?
 
-Our note on [preparing for the verifier](/insights/corsia-internal-audit-preparation/) covers D5 and D6 in practice.
+Our note on [preparing for the verifier](/blog/corsia-internal-audit-preparation/) covers D5 and D6 in practice.
 
 ## Area E: Offsetting, where it applies
 
@@ -86,7 +86,7 @@ Our note on [preparing for the verifier](/insights/corsia-internal-audit-prepara
 - **E6.** Does any SAF claim have certification and chain-of-custody evidence?
 - **E7.** Is the cancellation date in the calendar, with time allowed for transfers?
 
-E3 catches someone every year. Opening a registry account takes longer than people expect and cannot be hurried at the last minute. See [registry account setup](/insights/corsia-registry-account-setup-india/).
+E3 catches someone every year. Opening a registry account takes longer than people expect and cannot be hurried at the last minute. See [registry account setup](/blog/corsia-registry-account-setup-india/).
 
 ## Area F: Governance and continuity
 
@@ -146,7 +146,7 @@ Review the action list monthly until every line is closed. Run the full checklis
 
 If you bring in outside help, a completed checklist is the most useful thing you can give them. It shortens their gap analysis and lets you compare quotes, because every firm is pricing the same stated position.
 
-Score the weak areas honestly for a practical reason: a consultant who quoted against a disclosed weakness has a hard time later claiming a variation for "unexpected data remediation". Hide the zeros and you get a lower quote and a larger final bill. After the first cycle, run the checklist again. The change in score is the plainest evidence of whether the engagement built capability or just produced a report. For more on choosing that help, see [questions to ask a CORSIA consultant](/insights/questions-to-ask-a-corsia-consultant/).
+Score the weak areas honestly for a practical reason: a consultant who quoted against a disclosed weakness has a hard time later claiming a variation for "unexpected data remediation". Hide the zeros and you get a lower quote and a larger final bill. After the first cycle, run the checklist again. The change in score is the plainest evidence of whether the engagement built capability or just produced a report. For more on choosing that help, see [questions to ask a CORSIA consultant](/blog/questions-to-ask-a-corsia-consultant/).
 
 *General information, not legal or regulatory advice. Participating-State lists and eligibility criteria change; confirm the current position with ICAO and the DGCA.*
 

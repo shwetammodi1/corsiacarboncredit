@@ -64,7 +64,7 @@ export const nav = [
   { href: "/marketplace/", label: "Marketplace" },
   { href: "/services/", label: "CORSIA Services" },
   { href: "/knowledge-base/", label: "Knowledge Base" },
-  { href: "/insights/", label: "Insights" },
+  { href: "/blog/", label: "Blog" },
   { href: "/calculator/", label: "Calculator" },
   { href: "/about/", label: "About" },
 ];

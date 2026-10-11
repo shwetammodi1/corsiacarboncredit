@@ -88,7 +88,7 @@ Where settlement comes some time after signature, the agreement should cover a c
 - **Choose the remedy.** Substitution with units from a programme still approved is usually worth more to a buyer than a refund. A refund leaves you needing units in a market you have just found to be unreliable.
 - **Warrant status at delivery**, not only at signature.
 
-On forward deals running a year or longer, this clause belongs alongside the authorisation and vintage clauses. Together they cover the three regulatory risks a well-drafted CORSIA contract should address. [Offtake agreement terms](/insights/corsia-offtake-agreement-terms/) covers the rest.
+On forward deals running a year or longer, this clause belongs alongside the authorisation and vintage clauses. Together they cover the three regulatory risks a well-drafted CORSIA contract should address. [Offtake agreement terms](/blog/corsia-offtake-agreement-terms/) covers the rest.
 
 ## If a lapse does happen
 
@@ -112,7 +112,7 @@ Approval status is one of six things to weigh:
 5. **Buyers:** will airlines already have accounts there?
 6. **Cost and queues:** registration fees, levies, realistic validation times.
 
-Choosing the standard you used last time is habit, and it is how developers find themselves mid-project under a programme whose approval was already conditional when they registered. [Becoming a CORSIA supplier](/insights/how-to-become-corsia-carbon-credit-supplier/) places this choice in the full sequence.
+Choosing the standard you used last time is habit, and it is how developers find themselves mid-project under a programme whose approval was already conditional when they registered. [Becoming a CORSIA supplier](/blog/how-to-become-corsia-carbon-credit-supplier/) places this choice in the full sequence.
 
 ## Make someone own it
 

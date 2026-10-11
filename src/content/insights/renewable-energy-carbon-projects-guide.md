@@ -50,7 +50,7 @@ Solar lamps, home solar systems and mini-grids should be judged separately from 
 | Co-benefits | Limited | Cleaner indoor air, safety, more hours for study, lower fuel spend |
 | Main measurement problem | Largely solved by metering | Handing out a device does not prove it is used |
 
-Kerosene lighting is expensive per unit of light and pollutes the home, so the case for carbon finance filling a real gap is strong. But off-grid projects share the cookstove problem: a lamp that is broken, unused or sold on reduces nothing. Credible projects measure use rather than assuming it. We cover the methods in [digital MRV](/insights/dmrv-digital-monitoring-carbon-projects/).
+Kerosene lighting is expensive per unit of light and pollutes the home, so the case for carbon finance filling a real gap is strong. But off-grid projects share the cookstove problem: a lamp that is broken, unused or sold on reduces nothing. Credible projects measure use rather than assuming it. We cover the methods in [digital MRV](/blog/dmrv-digital-monitoring-carbon-projects/).
 
 ## The grid emission factor
 
@@ -95,7 +95,7 @@ As grid renewables faded, supply moved towards categories with cleaner additiona
 | Waste and industrial gas destruction | Generally clean | Fewer methodologies after past abuses in the category |
 | Household energy (cookstoves, solar lamps, water treatment) | Depends on circumstances | Large volumes; measurement is the main problem |
 
-The categories with the cleanest additionality are generally not the cheapest. A portfolio built on lowest price will lean towards the categories under most scrutiny, which is usually the opposite of what the buyer wanted. [Direct air capture](/insights/direct-air-capture-carbon-removal/) sits at the far end of that trade-off.
+The categories with the cleanest additionality are generally not the cheapest. A portfolio built on lowest price will lean towards the categories under most scrutiny, which is usually the opposite of what the buyer wanted. [Direct air capture](/blog/direct-air-capture-carbon-removal/) sits at the far end of that trade-off.
 
 ## India as the clearest example
 
@@ -114,7 +114,7 @@ Renewables are the first category to go through this, not the last.
 - **Developers should expect rules to tighten within a long crediting period.** A financial model that assumes today's methodology survives fifteen years is optimistic.
 - **Older vintages in maturing categories deserve more caution**, because they were credited under assumptions that have since been revisited.
 
-Categories to watch: battery storage, electric vehicles, and efficiency measures in sectors riding a steep cost curve. Each is credible today in particular settings, and each will face the renewable question as costs fall. The useful test for a developer is not only "does a methodology exist now?" but "will my additionality case still stand in year eight?". For how additionality is judged more generally, see [additionality in carbon credits](/insights/additionality-in-carbon-credits-explained/).
+Categories to watch: battery storage, electric vehicles, and efficiency measures in sectors riding a steep cost curve. Each is credible today in particular settings, and each will face the renewable question as costs fall. The useful test for a developer is not only "does a methodology exist now?" but "will my additionality case still stand in year eight?". For how additionality is judged more generally, see [additionality in carbon credits](/blog/additionality-in-carbon-credits-explained/).
 
 ## Short answers
 

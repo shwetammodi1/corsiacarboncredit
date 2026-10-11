@@ -27,8 +27,8 @@ export const seo = {
     title: "CORSIA Knowledge Base",
     description: "A topic-by-topic reference on CORSIA: scope and phases, growth factors, MRV, eligible emissions units, corresponding adjustments, fuels, pricing and India.",
   },
-  "/insights/": {
-    title: "Carbon Market Insights",
+  "/blog/": {
+    title: "Carbon Credit & CORSIA Blog",
     description: "Practical guides on CORSIA compliance, buying and selling carbon credits, pricing, due diligence, case studies and India's carbon market.",
   },
   "/about/": {

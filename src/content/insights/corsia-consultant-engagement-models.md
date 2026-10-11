@@ -45,7 +45,7 @@ The taper from full to reduced to on-call was written into the original contract
 ## Each model in more detail
 
 ::: accordion Assessment
-**Covers:** scope and threshold determination, operator entity identification, data readiness testing, gap analysis, and a view on effort. **Produces:** a written position and a prioritised, sized work list. **Comes:** first, nearly always, even if you already know you are in scope, because data readiness is what decides whether the monitoring plan will work. See [CORSIA gap analysis](/insights/corsia-gap-analysis-service/).
+**Covers:** scope and threshold determination, operator entity identification, data readiness testing, gap analysis, and a view on effort. **Produces:** a written position and a prioritised, sized work list. **Comes:** first, nearly always, even if you already know you are in scope, because data readiness is what decides whether the monitoring plan will work. See [CORSIA gap analysis](/blog/corsia-gap-analysis-service/).
 :::
 
 ::: accordion Build
@@ -57,7 +57,7 @@ The taper from full to reduced to on-call was written into the original contract
 :::
 
 ::: accordion Transaction
-**Covers:** requirement calculation, supply identification, pre-purchase diligence, contract support and registry execution. **Fits:** when a purchase is genuinely close. The key term is risk allocation: if sourced units turn out to be ineligible, who absorbs the loss? Agree it in writing, separately from any compliance scope. The buying process itself is set out in [procuring CORSIA units in India](/insights/corsia-unit-procurement-process-india/).
+**Covers:** requirement calculation, supply identification, pre-purchase diligence, contract support and registry execution. **Fits:** when a purchase is genuinely close. The key term is risk allocation: if sourced units turn out to be ineligible, who absorbs the loss? Agree it in writing, separately from any compliance scope. The buying process itself is set out in [procuring CORSIA units in India](/blog/corsia-unit-procurement-process-india/).
 :::
 
 ## Retainers: one good kind, one bad
@@ -94,6 +94,6 @@ The written proposal shows what the conversation hides. Look for these gaps:
 - **Understanding of your own data.** If nobody internal can explain the fuel figures, verification will be painful whoever wrote the report.
 - **The power to decline a purchase.** Diligence that cannot stop a transaction is not diligence.
 
-One firm can cover all four advisory models. It cannot also verify, since verification must be independent of anyone who advised, so plan for two suppliers. For the fees attached to each model, see [CORSIA consultant fees in India](/insights/corsia-consultant-cost-and-fees-india/); for keeping the relationship inside a clear line of ownership, [CORSIA board reporting and governance](/insights/corsia-board-reporting-and-governance/).
+One firm can cover all four advisory models. It cannot also verify, since verification must be independent of anyone who advised, so plan for two suppliers. For the fees attached to each model, see [CORSIA consultant fees in India](/blog/corsia-consultant-cost-and-fees-india/); for keeping the relationship inside a clear line of ownership, [CORSIA board reporting and governance](/blog/corsia-board-reporting-and-governance/).
 
 If you already have an engagement that feels mis-shaped, the monitoring plan is the place to start: an independent look at it now costs far less than correcting it at verification. [Ask the desk](/contact/) for a bounded review.

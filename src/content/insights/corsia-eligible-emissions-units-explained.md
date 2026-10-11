@@ -58,7 +58,7 @@ The credits below are invented for illustration. They show how the gates interac
 
 **Credit C: a landfill gas project.** Approved programme, meets the criteria, host-country adjustment in place, vintage inside the window. It clears all four gates and is eligible.
 
-Even Credit C has not discharged anything yet. Eligibility makes a unit *usable*. The obligation is met only when the operator cancels it against the right compliance period, which is covered in [how airlines use credits under CORSIA](/insights/how-airlines-use-carbon-credits-corsia/).
+Even Credit C has not discharged anything yet. Eligibility makes a unit *usable*. The obligation is met only when the operator cancels it against the right compliance period, which is covered in [how airlines use credits under CORSIA](/blog/how-airlines-use-carbon-credits-corsia/).
 
 ## Why the gates set the price
 

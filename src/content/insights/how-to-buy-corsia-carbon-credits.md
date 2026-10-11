@@ -17,7 +17,7 @@ We split the process into three phases. Most avoidable losses happen in the firs
 
 ### Know the number
 
-The obligation comes from verified emissions on covered routes, multiplied by the applicable growth factors, less any reduction for qualifying CORSIA Eligible Fuels. Estimate it every year from published sector data and refine it when ICAO confirms the factors. Waiting for the final figure means the chance to spread purchases has gone by the time it arrives. [Calculating the requirement](/insights/corsia-offsetting-requirements-calculation/) sets out the method. Keep the workings so anyone can reproduce them.
+The obligation comes from verified emissions on covered routes, multiplied by the applicable growth factors, less any reduction for qualifying CORSIA Eligible Fuels. Estimate it every year from published sector data and refine it when ICAO confirms the factors. Waiting for the final figure means the chance to spread purchases has gone by the time it arrives. [Calculating the requirement](/blog/corsia-offsetting-requirements-calculation/) sets out the method. Keep the workings so anyone can reproduce them.
 
 ### Decide how you will buy
 
@@ -32,7 +32,7 @@ Put volume targets against each part of the period.
 
 ### Open the accounts early
 
-You need accounts in the registries of the ICAO-approved programmes whose units you expect to buy. Opening one involves know-your-customer checks, entity documents and sometimes legal review. That takes weeks. Operators who agree a deal first often find their own onboarding is what holds up delivery. Run a test transfer if the registry allows it. [Registry account setup](/insights/corsia-registry-account-setup-india/) walks through it for Indian operators.
+You need accounts in the registries of the ICAO-approved programmes whose units you expect to buy. Opening one involves know-your-customer checks, entity documents and sometimes legal review. That takes weeks. Operators who agree a deal first often find their own onboarding is what holds up delivery. Run a test transfer if the registry allows it. [Registry account setup](/blog/corsia-registry-account-setup-india/) walks through it for Indian operators.
 
 ## Phase two: the transaction
 
@@ -53,7 +53,7 @@ Descriptions are not evidence. For each tranche, check:
 5. **Registry record**: unique serial numbers, a clean chain of custody, no prior retirement.
 6. **Project integrity**: additionality, permanence arrangements, no net harm.
 
-Check the registry and the authorisation document yourself. A seller's assurance is not a substitute. If a seller will not produce the authorisation document, stop; a legitimate seller has no reason to withhold it. File the diligence per tranche. The full list is in the [due diligence checklist](/insights/corsia-credit-due-diligence-checklist/).
+Check the registry and the authorisation document yourself. A seller's assurance is not a substitute. If a seller will not produce the authorisation document, stop; a legitimate seller has no reason to withhold it. File the diligence per tranche. The full list is in the [due diligence checklist](/blog/corsia-credit-due-diligence-checklist/).
 
 ### Contract for what can go wrong
 
@@ -68,7 +68,7 @@ Price gets the attention, but these terms decide who absorbs a failure:
 | Documents | Is the seller obliged to hand over the full evidence package, not just a certificate? | You may never see it |
 | Payment | Escrow, or staged against delivery and documents? | You may have paid in full already |
 
-A purchase order with only a price and a volume puts every one of these risks on the buyer. [Offtake agreement terms](/insights/corsia-offtake-agreement-terms/) covers the drafting.
+A purchase order with only a price and a volume puts every one of these risks on the buyer. [Offtake agreement terms](/blog/corsia-offtake-agreement-terms/) covers the drafting.
 
 ### Pay and receive
 
@@ -78,7 +78,7 @@ Sort out cross-border payment and foreign exchange with treasury before the deal
 
 ### Cancel
 
-Cancel the units in the registry with CORSIA as the stated purpose. Holding units does nothing; cancellation is what discharges the obligation. Do it well before the deadline, since registry processing time is outside your control, and log serial numbers and cancellation references in your own file. The procedure is in [the cancellation runbook](/insights/corsia-registry-cancellation-process/).
+Cancel the units in the registry with CORSIA as the stated purpose. Holding units does nothing; cancellation is what discharges the obligation. Do it well before the deadline, since registry processing time is outside your control, and log serial numbers and cancellation references in your own file. The procedure is in [the cancellation runbook](/blog/corsia-registry-cancellation-process/).
 
 ### Report
 

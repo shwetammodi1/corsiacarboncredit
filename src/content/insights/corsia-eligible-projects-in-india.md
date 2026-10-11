@@ -17,7 +17,7 @@ For a developer, the practical question is which projects to build with airline 
 
 A unit can be used for CORSIA compliance only if it passes every one of these:
 
-- **Approved programme.** It must be issued by a crediting programme that ICAO has approved. The Technical Advisory Body assesses programmes against the Emissions Unit Eligibility Criteria, and the ICAO Council decides which are approved and for what scope. A unit from an unapproved programme does not count, however good the project. Our note on [programme approval risk](/insights/icao-approved-corsia-crediting-programmes/) covers this in more depth.
+- **Approved programme.** It must be issued by a crediting programme that ICAO has approved. The Technical Advisory Body assesses programmes against the Emissions Unit Eligibility Criteria, and the ICAO Council decides which are approved and for what scope. A unit from an unapproved programme does not count, however good the project. Our note on [programme approval risk](/blog/icao-approved-corsia-crediting-programmes/) covers this in more depth.
 - **Inside the window.** Approval covers particular periods and unit types, not all time. A unit from an approved programme whose vintage falls outside the applicable window still fails.
 - **Corresponding adjustment.** The host country must authorise the transfer and adjust its national accounts so the tonne is not also counted towards its NDC. That is a decision for government, not for the developer, and it is where most projects fall.
 
@@ -25,7 +25,7 @@ Two out of three is worthless to an airline with an obligation to meet.
 
 ![Diagram of the path from an Indian project, through authorisation and adjustment, to a CORSIA unit](/images/corsia-consultant/corsia-ca-flow-india.svg)
 
-The adjustment deserves one paragraph of explanation. If an airline claims a tonne reduced in India, India cannot also count it against its own target. Adjusting the national account prevents that double claim, which means every authorised export slightly raises the effort India has to make elsewhere. So authorisation is a government policy choice, granted selectively, and no consultant can simply arrange it. Anyone describing it as a documentation step has misunderstood it. The detail is in [corresponding adjustments for Indian CORSIA projects](/insights/corsia-corresponding-adjustment-india/).
+The adjustment deserves one paragraph of explanation. If an airline claims a tonne reduced in India, India cannot also count it against its own target. Adjusting the national account prevents that double claim, which means every authorised export slightly raises the effort India has to make elsewhere. So authorisation is a government policy choice, granted selectively, and no consultant can simply arrange it. Anyone describing it as a documentation step has misunderstood it. The detail is in [corresponding adjustments for Indian CORSIA projects](/blog/corsia-corresponding-adjustment-india/).
 
 ## How Indian project types fare
 
@@ -47,7 +47,7 @@ Assuming the adjustment question can be answered, here is how the common categor
 
 **Anything without an adjustment: ineligible**, whatever its type.
 
-For the economics behind these categories, see [carbon credit project types in India](/insights/carbon-credit-project-types-india/).
+For the economics behind these categories, see [carbon credit project types in India](/blog/carbon-credit-project-types-india/).
 
 ## What airline buyers weigh
 
@@ -89,7 +89,7 @@ Steps 1 and 2 cost very little. Doing them last, after the design work, is the e
 
 If the adjustment route is not realistically open, the project can still sell to voluntary buyers, where adjustments are often not required. The trade-off is plain. CORSIA buyers are airlines with a legal obligation; they pay for eligibility and scarcity, demand follows the offsetting requirement, and the paperwork is heavier. Voluntary buyers are companies with their own commitments; they pay for quality, narrative and co-benefits, demand follows sentiment and budgets, and documentation is lighter.
 
-Plenty of Indian projects are better placed voluntarily, and hearing that early is worth more than chasing a CORSIA route that policy will not support. For choosing who advises you on that call, see [choosing a CORSIA supplier consultant](/insights/corsia-credit-supplier-consultant-india/).
+Plenty of Indian projects are better placed voluntarily, and hearing that early is worth more than chasing a CORSIA route that policy will not support. For choosing who advises you on that call, see [choosing a CORSIA supplier consultant](/blog/corsia-credit-supplier-consultant-india/).
 
 ## Common mistakes by Indian developers
 

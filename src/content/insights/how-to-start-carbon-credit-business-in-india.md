@@ -66,7 +66,7 @@ Most ideas fail one of these. Run them first.
 
 **Article 6 of the Paris Agreement.** Credits can move between countries with corresponding adjustments. India has been cautious, because an exported credit carrying an adjustment cannot count towards India's own NDC.
 
-Choose early. Methodology, registry, documents and buyer all differ between these routes, and converting a project from one to another later is expensive. Because CCTS targets, procedures and trading arrangements have come out in stages, check the current position with the [Bureau of Energy Efficiency](https://beeindia.gov.in/) and [Ministry of Power](https://powermin.gov.in/) directly. The scheme itself is explained in [the Indian carbon market and CCTS explained](/insights/indian-carbon-market-ccts-explained/).
+Choose early. Methodology, registry, documents and buyer all differ between these routes, and converting a project from one to another later is expensive. Because CCTS targets, procedures and trading arrangements have come out in stages, check the current position with the [Bureau of Energy Efficiency](https://beeindia.gov.in/) and [Ministry of Power](https://powermin.gov.in/) directly. The scheme itself is explained in [the Indian carbon market and CCTS explained](/blog/indian-carbon-market-ccts-explained/).
 
 ## From idea to first sale
 
@@ -120,7 +120,7 @@ Work down from the top line before you commit:
 | Broker or aggregator margin, where one places the credits | Minus |
 | **What remains** | **Net project income** |
 
-Projects that look attractive at a headline price often fail this test once verification cycles and intermediary margins are in, especially at low prices where fixed costs absorb most of the gross. Price itself varies enormously by type and quality; see [carbon credit prices in India](/insights/carbon-credit-price-in-india/).
+Projects that look attractive at a headline price often fail this test once verification cycles and intermediary margins are in, especially at low prices where fixed costs absorb most of the gross. Price itself varies enormously by type and quality; see [carbon credit prices in India](/blog/carbon-credit-price-in-india/).
 
 ## Project types, in brief
 
@@ -130,7 +130,7 @@ Projects that look attractive at a headline price often fail this test once veri
 - **Moderate:** industrial efficiency (overlap with the compliance scheme); improved cookstoves (usage rates under scrutiny); afforestation and reforestation (permanence and land tenure).
 - **Difficult:** soil carbon (measurement is immature); grid-scale solar and wind (already least-cost, so not additional).
 
-The awkward rule is that **the cheapest technologies have the weakest additionality case**. Cheap renewables are good for India and bad for the carbon argument. Methane projects hold up because capture is rarely the operator's least-cost choice. The full comparison is in [carbon credit project types in India](/insights/carbon-credit-project-types-india/).
+The awkward rule is that **the cheapest technologies have the weakest additionality case**. Cheap renewables are good for India and bad for the carbon argument. Methane projects hold up because capture is rarely the operator's least-cost choice. The full comparison is in [carbon credit project types in India](/blog/carbon-credit-project-types-india/).
 
 ## Entering without an asset
 
@@ -153,8 +153,8 @@ In both, the lasting advantage is **data discipline**. Verification failures are
 - **Regulation.** India's framework is evolving, including on exports. A model that depends on international sales carries risk you cannot control.
 - **Price.** Voluntary prices have moved sharply both ways. Long-term offtakes pass on that risk but cap your upside.
 - **Verification.** No verification, no issuance. Data problems can cost a full cycle.
-- **Reputation.** Reporting on over-crediting has hurt whole categories, some avoided-deforestation programmes among them. Buyers now do real diligence; see our [credit due diligence checklist](/insights/corsia-credit-due-diligence-checklist/).
-- **Double counting.** A credit used towards another country's target cannot also count towards India's. This is the most consequential accounting question in the market; see [corresponding adjustment risk](/insights/corresponding-adjustments-corsia-explained/).
+- **Reputation.** Reporting on over-crediting has hurt whole categories, some avoided-deforestation programmes among them. Buyers now do real diligence; see our [credit due diligence checklist](/blog/corsia-credit-due-diligence-checklist/).
+- **Double counting.** A credit used towards another country's target cannot also count towards India's. This is the most consequential accounting question in the market; see [corresponding adjustment risk](/blog/corresponding-adjustments-corsia-explained/).
 
 ## Your first ninety days
 

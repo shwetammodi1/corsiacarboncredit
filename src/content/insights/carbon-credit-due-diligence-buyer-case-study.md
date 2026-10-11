@@ -9,7 +9,7 @@ image: "/images/carbon-case-studies/buyer-due-diligence-flow.svg"
 
 *This is an anonymised, representative case study. It illustrates our approach and does not identify any client, project, price or transaction.*
 
-Our other case studies each take one project type and the integrity questions peculiar to it: [renewables](/insights/renewable-energy-carbon-credits-due-diligence-case-study/), [jurisdictional REDD+](/insights/jurisdictional-redd-plus-carbon-credits-case-study/), [IFM](/insights/improved-forest-management-ifm-carbon-credits-case-study/), [ARR](/insights/afforestation-reforestation-arr-carbon-removals-case-study/) and [clean cooking](/insights/cookstove-clean-cooking-carbon-credits-case-study/). This one steps back. Whatever the project type, a buyer's purchase passes through the same stages, and the order matters more than most first-time buyers expect.
+Our other case studies each take one project type and the integrity questions peculiar to it: [renewables](/blog/renewable-energy-carbon-credits-due-diligence-case-study/), [jurisdictional REDD+](/blog/jurisdictional-redd-plus-carbon-credits-case-study/), [IFM](/blog/improved-forest-management-ifm-carbon-credits-case-study/), [ARR](/blog/afforestation-reforestation-arr-carbon-removals-case-study/) and [clean cooking](/blog/cookstove-clean-cooking-carbon-credits-case-study/). This one steps back. Whatever the project type, a buyer's purchase passes through the same stages, and the order matters more than most first-time buyers expect.
 
 ## The situation
 
@@ -51,7 +51,7 @@ Its real value was that it failed cheaply. Weak projects dropped out at gates 1 
 - **Stopping at transfer.** Credits sitting un-retired in an account support no claim at all.
 - **Keeping no evidence pack.** The person asked to defend the purchase in two years may not be the person who made it.
 
-Our [CORSIA credit due diligence checklist](/insights/corsia-credit-due-diligence-checklist/) turns gate 3 into a working list for compliance buyers.
+Our [CORSIA credit due diligence checklist](/blog/corsia-credit-due-diligence-checklist/) turns gate 3 into a working list for compliance buyers.
 
 ## Short answers
 

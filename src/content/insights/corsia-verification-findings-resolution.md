@@ -73,7 +73,7 @@ The last column is empty on purpose. It is the one teams leave out, and it is th
 
 About three months before the next verification, take each line and test whether the fix is still working. Fixes decay: a manual step lapses when someone changes job, a rule gets skipped under deadline pressure, a system update reverts a setting.
 
-Report progress to whoever owns the CORSIA obligation, not only to the project team. Findings that live with a data analyst, invisible to anyone senior, are the ones that come back. See [board reporting and governance](/insights/corsia-board-reporting-and-governance/).
+Report progress to whoever owns the CORSIA obligation, not only to the project team. Findings that live with a data analyst, invisible to anyone senior, are the ones that come back. See [board reporting and governance](/blog/corsia-board-reporting-and-governance/).
 
 ## Why repeats are so damaging
 
@@ -103,12 +103,12 @@ If you and the verifier still disagree on something substantive, there are escal
 
 ## Build the margin in advance
 
-Plan on findings. If verification ends the week before the national deadline, there is no room to correct and re-verify a material issue. Aim to finish four to six weeks ahead. The margin is seldom wasted, and when it is needed it is the difference between a technical problem and a compliance failure. Response timetables are set by the verifier's process and your submission date, so agree them when you appoint the verifier, not in the middle of fieldwork. Our [guide to choosing a verification body](/insights/corsia-verification-body-selection-india/) covers that appointment.
+Plan on findings. If verification ends the week before the national deadline, there is no room to correct and re-verify a material issue. Aim to finish four to six weeks ahead. The margin is seldom wasted, and when it is needed it is the difference between a technical problem and a compliance failure. Response timetables are set by the verifier's process and your submission date, so agree them when you appoint the verifier, not in the middle of fieldwork. Our [guide to choosing a verification body](/blog/corsia-verification-body-selection-india/) covers that appointment.
 
 ## Short answers
 
 **Does a finding make us non-compliant?** Not in itself. Findings corrected before the opinion is issued are part of a normal verification. Unresolved material issues are different.
 
-**How do we get fewer next year?** Fix root causes, check last year's closures held, and rehearse beforehand. See [running your own audit first](/insights/corsia-internal-audit-preparation/).
+**How do we get fewer next year?** Fix root causes, check last year's closures held, and rehearse beforehand. See [running your own audit first](/blog/corsia-internal-audit-preparation/).
 
 If you have a findings list in front of you now, [share it with the desk](/contact/). We will help you separate the corrections from the root causes and flag any finding that looks like part of a pattern.

@@ -59,7 +59,7 @@ This check removes more supply than all the others together, so take it slowly.
 3. **Has the adjustment been applied, or only promised?** Know which, and what happens if application does not follow.
 4. **Does national reporting show it?** It should eventually appear in the host country's Article 6 reporting.
 5. **Could it be withdrawn or narrowed?** Governments have changed position; judge the specific country.
-6. **If the seller says "pending", what exactly is pending, and by when?** A unit pending authorisation is not eligible. If you go ahead, price and contract for that. The commercial side is covered in [pricing corresponding adjustment risk](/insights/corresponding-adjustments-corsia-explained/).
+6. **If the seller says "pending", what exactly is pending, and by when?** A unit pending authorisation is not eligible. If you go ahead, price and contract for that. The commercial side is covered in [pricing corresponding adjustment risk](/blog/corresponding-adjustments-corsia-explained/).
 
 ## The four risk checks
 
@@ -69,7 +69,7 @@ These do not decide eligibility on their own, but they decide whether the unit i
 
 **Registry and custody.** Units must be uniquely serialised, with an unbroken record from issuance to the current holder. Confirm that no part of the parcel has been retired, cancelled or claimed already, that there are no liens, options or earlier commitments over it, and that the seller actually holds it. A broker selling units it does not hold adds a delivery risk.
 
-**Project integrity.** Ask whether additionality still stands up for this project in this market today; a case that worked ten years ago may not now, especially for grid renewables where they are the cheapest option. Look at the assumptions behind quantification, particularly usage rates for distributed technologies and baseline rates for land-based projects. For stored carbon, check buffer contributions, monitoring commitments and legal protection, bearing in mind that buffer adequacy is under review as reversal losses mount. Check for environmental and social assessment, consultation, free, prior and informed consent where relevant, and a grievance mechanism; land tenure disputes are the most frequent failure, particularly in forestry. Note any public criticism or ratings downgrades. Our [guide to assessing credit quality](/insights/carbon-credit-quality-assessment/) goes further.
+**Project integrity.** Ask whether additionality still stands up for this project in this market today; a case that worked ten years ago may not now, especially for grid renewables where they are the cheapest option. Look at the assumptions behind quantification, particularly usage rates for distributed technologies and baseline rates for land-based projects. For stored carbon, check buffer contributions, monitoring commitments and legal protection, bearing in mind that buffer adequacy is under review as reversal losses mount. Check for environmental and social assessment, consultation, free, prior and informed consent where relevant, and a grievance mechanism; land tenure disputes are the most frequent failure, particularly in forestry. Note any public criticism or ratings downgrades. Our [guide to assessing credit quality](/blog/carbon-credit-quality-assessment/) goes further.
 
 **Counterparty.** Identify the legal seller and its standing, whether it holds the units or is intermediating, and its record of delivering CORSIA units specifically. Structure payment to limit exposure: escrow, stages, or payment against delivery.
 

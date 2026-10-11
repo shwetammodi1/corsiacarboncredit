@@ -15,7 +15,7 @@ It is large, changes quickly, attracts periodic controversy and is widely misund
 
 The easiest way to understand the VCM is to set it against compliance markets. In a compliance market, a rule requires someone to surrender units: an airline under CORSIA, or an industrial plant under an emissions trading scheme. In the VCM nobody is required to buy. Companies offset business travel, brands pay for forest protection, individuals compensate for a flight, all by choice.
 
-Because the purchase is voluntary, the buyer also chooses what standard to hold itself to. Almost everything distinctive about the VCM follows from that. Our comparison of [CORSIA and the voluntary market](/insights/corsia-vs-voluntary-carbon-markets/) sets the two side by side.
+Because the purchase is voluntary, the buyer also chooses what standard to hold itself to. Almost everything distinctive about the VCM follows from that. Our comparison of [CORSIA and the voluntary market](/blog/corsia-vs-voluntary-carbon-markets/) sets the two side by side.
 
 ## Who does what
 
@@ -28,7 +28,7 @@ Because the purchase is voluntary, the buyer also chooses what standard to hold 
 | Brokers and exchanges | Connect supply with demand |
 | Rating agencies | Grade credit quality |
 
-The registries differ more than people expect; see [carbon credit registries compared](/insights/carbon-credit-registries-compared/).
+The registries differ more than people expect; see [carbon credit registries compared](/blog/carbon-credit-registries-compared/).
 
 ## A credit's journey
 
@@ -38,7 +38,7 @@ The registries differ more than people expect; see [carbon credit registries com
 4. The credits are sold, directly or through intermediaries.
 5. The final buyer retires them, cancelling them in the registry to support a claim.
 
-Nothing has been achieved until step 5. Credits sitting in an account discharge nothing. The buyer's side is described step by step in [how to buy carbon credits](/insights/how-to-buy-carbon-credits/).
+Nothing has been achieved until step 5. Credits sitting in an account discharge nothing. The buyer's side is described step by step in [how to buy carbon credits](/blog/how-to-buy-carbon-credits/).
 
 ## The quality problem
 
@@ -51,7 +51,7 @@ Quality comes down to the same few questions whatever the project type:
 - **Permanence:** could the benefit be reversed?
 - **Double counting:** is anyone else claiming the same tonnes?
 
-These questions are why independent ratings and integrity frameworks such as the [ICVCM Core Carbon Principles](/insights/icvcm-core-carbon-principles/) have appeared. They are also why buying on headline price is the classic VCM mistake. The cheapest credits are usually cheap because they fail one of the four tests.
+These questions are why independent ratings and integrity frameworks such as the [ICVCM Core Carbon Principles](/blog/icvcm-core-carbon-principles/) have appeared. They are also why buying on headline price is the classic VCM mistake. The cheapest credits are usually cheap because they fail one of the four tests.
 
 ## For Indian participants
 

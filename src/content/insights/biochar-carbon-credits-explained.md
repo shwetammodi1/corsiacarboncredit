@@ -30,7 +30,7 @@ Permanence, meaning how long the carbon stays out of the air, is the first quest
 | Relative cost | Low to mid | Mid | High |
 | Can the stored carbon be measured directly? | Harder, especially below ground | Yes, by lab analysis of each batch | Yes |
 
-A forest can burn down. Biochar in the ground does not simply revert. That difference is why biochar is treated as a serious removal and why it sells at a premium to avoidance credits. For the expensive end of the table, see our piece on [direct air capture](/insights/direct-air-capture-carbon-removal/).
+A forest can burn down. Biochar in the ground does not simply revert. That difference is why biochar is treated as a serious removal and why it sells at a premium to avoidance credits. For the expensive end of the table, see our piece on [direct air capture](/blog/direct-air-capture-carbon-removal/).
 
 ## The farm benefit
 
@@ -49,7 +49,7 @@ Strong does not mean automatic. Before buying, we look at:
 - **Quantification.** Are the calculations conservative, with the lab results to back them?
 - **Verification.** Has an independent body checked the batches the credits relate to?
 
-Our general framework for these questions is in [how to evaluate carbon offset quality](/insights/evaluating-carbon-offset-quality-airlines/).
+Our general framework for these questions is in [how to evaluate carbon offset quality](/blog/evaluating-carbon-offset-quality-airlines/).
 
 ## Where it fits in a portfolio
 

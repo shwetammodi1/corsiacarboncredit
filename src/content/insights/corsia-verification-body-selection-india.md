@@ -32,7 +32,7 @@ The engagement usually runs through eight stages:
 7. Your corrections, with evidence, and closure
 8. The verification report, followed by your submission to the authority
 
-First-time operators are often surprised by how much happens in stages 2 to 4, before any data is touched. The verifier has to understand your operation well enough to sample sensibly. A clear explanation of your data flow at that point reduces the sampling that follows. For what the testing itself looks like, see [running your own audit first](/insights/corsia-internal-audit-preparation/).
+First-time operators are often surprised by how much happens in stages 2 to 4, before any data is touched. The verifier has to understand your operation well enough to sample sensibly. A clear explanation of your data flow at that point reduces the sampling that follows. For what the testing itself looks like, see [running your own audit first](/blog/corsia-internal-audit-preparation/).
 
 ## Step 1: Draw up the shortlist
 
@@ -90,7 +90,7 @@ The verifier must be independent of whoever prepared the report. In practice:
 - the individual verifiers, not just the firm, must be free of conflicts
 - a long relationship may require the lead verifier to rotate
 
-The common trap is a bundled offer of "compliance support and verification". The same entity cannot do both on the same scope. Where a large firm offers both through different divisions, the separation has to be real, and checking that is your job, not theirs. Our note on [consultant red flags](/insights/corsia-consultant-due-diligence-red-flags/) covers how bundled offers are often presented.
+The common trap is a bundled offer of "compliance support and verification". The same entity cannot do both on the same scope. Where a large firm offers both through different divisions, the separation has to be real, and checking that is your job, not theirs. Our note on [consultant red flags](/blog/corsia-consultant-due-diligence-red-flags/) covers how bundled offers are often presented.
 
 ## Step 5: Appoint in the fourth quarter
 
@@ -100,11 +100,11 @@ Appoint before your compliance year closes. There are three advantages:
 2. **An early start on strategic analysis**, so the verifier understands your operation before the data arrives.
 3. **Early warning.** A verifier reviewing your plan against your process before year end can flag mismatches while they can still be fixed.
 
-The third point does not compromise independence. Telling you that your plan says one thing and your stations do another is stating a fact, not designing your system. See [the compliance calendar](/insights/corsia-reporting-deadlines-and-calendar/) for where appointment sits in the year.
+The third point does not compromise independence. Telling you that your plan says one thing and your stations do another is stating a fact, not designing your system. See [the compliance calendar](/blog/corsia-reporting-deadlines-and-calendar/) for where appointment sits in the year.
 
 ## After the appointment
 
-Expect findings of four kinds: material misstatements, which must be corrected; non-material misstatements, corrected where practical; non-conformities, where practice departs from the plan; and observations, which are recommendations. Answer each with evidence rather than explanation, and contest a finding only where you have the documents to back your position. [Resolving verification findings](/insights/corsia-verification-findings-resolution/) goes into this in depth.
+Expect findings of four kinds: material misstatements, which must be corrected; non-material misstatements, corrected where practical; non-conformities, where practice departs from the plan; and observations, which are recommendations. Answer each with evidence rather than explanation, and contest a finding only where you have the documents to back your position. [Resolving verification findings](/blog/corsia-verification-findings-resolution/) goes into this in depth.
 
 To make next year cheaper, keep the evidence pack structure the verifier used and fill it monthly, update the plan for anything verification exposed, close findings properly, and keep the same body where independence rules allow, so the strategic analysis is not rebuilt every year.
 

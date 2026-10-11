@@ -13,7 +13,7 @@ image: "/images/carbon-guides/carbon-registries-compared.svg"
 
 A **standard** writes the rules: which methodologies exist, what counts as additional, how baselines are set and how permanence is handled. The **registry** is the system the standard runs to issue credits, give each one a serial number, and record every transfer and retirement. Most standards run their own registry, so the names are used interchangeably in conversation.
 
-Credits from different registries are not interchangeable. Each serial number means something under its own rulebook. Compliance schemes such as CORSIA also accept only units from **approved** programmes, which narrows the field before quality even comes up. Our longer piece on [carbon credit standards](/insights/carbon-credit-standards-explained/) covers how standards work internally.
+Credits from different registries are not interchangeable. Each serial number means something under its own rulebook. Compliance schemes such as CORSIA also accept only units from **approved** programmes, which narrows the field before quality even comes up. Our longer piece on [carbon credit standards](/blog/carbon-credit-standards-explained/) covers how standards work internally.
 
 ## Five registries in brief
 
@@ -65,7 +65,7 @@ A seller who resists this is telling you something. Few buyers do this first ste
 
 ## The label is not the verdict
 
-People often say "it's a Verra credit" or "it's Gold Standard" as though that closes the quality question. It does not. Every major registry has issued both excellent and weak credits, because quality belongs to the **individual project**: its additionality, baseline and permanence. The registry sets the floor. The project determines the value. That is why the [quality checks](/insights/carbon-credit-quality-assessment/) apply whichever registry a credit sits on.
+People often say "it's a Verra credit" or "it's Gold Standard" as though that closes the quality question. It does not. Every major registry has issued both excellent and weak credits, because quality belongs to the **individual project**: its additionality, baseline and permanence. The registry sets the floor. The project determines the value. That is why the [quality checks](/blog/carbon-credit-quality-assessment/) apply whichever registry a credit sits on.
 
 ## Short answers
 

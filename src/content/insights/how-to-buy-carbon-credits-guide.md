@@ -9,7 +9,7 @@ image: "/images/carbon-credits/carbon-buying-checklist.svg"
 
 The first call a new buyer makes is usually to a seller. In our view it should be the fourth. Before that come three pieces of internal work: deciding what the credits are for, writing down what you will accept, and opening the accounts you will need to receive them. Organisations that skip ahead tend to own credits that do not fit the purpose they were bought for.
 
-This is the long version, organised by phase. If you only need the outline, our [one-page five-step summary](/insights/how-to-buy-carbon-credits/) covers it.
+This is the long version, organised by phase. If you only need the outline, our [one-page five-step summary](/blog/how-to-buy-carbon-credits/) covers it.
 
 ![Checklist for a disciplined carbon credit purchase](/images/carbon-credits/carbon-buying-checklist.svg)
 
@@ -88,7 +88,7 @@ Work through these for each tranche, and collect documents rather than assurance
 7. Does the seller actually hold the units?
 8. Is the additionality argument believable for this project, in this market, today?
 
-Save copies into your own files instead of keeping links. Approval status changes, and a link does not prove what a page showed on the day you transacted. Our [quality assessment method](/insights/carbon-credit-quality-assessment/) goes deeper on points 5 and 8.
+Save copies into your own files instead of keeping links. Approval status changes, and a link does not prove what a page showed on the day you transacted. Our [quality assessment method](/blog/carbon-credit-quality-assessment/) goes deeper on points 5 and 8.
 
 ### Contract terms that matter more than price
 
@@ -118,7 +118,7 @@ Record the serial numbers, retirement reference, date, quantity and stated purpo
 
 Store the contract, the diligence file, the authorisation, the verification report, registry records and the transfer and retirement confirmations together.
 
-In your reporting, credits sit outside scope 1, 2 and 3 and are never subtracted from them. A plain description of what you did is easier to defend than a label such as "carbon neutral", which regulators in several countries have acted against. Our guide to [ESG reporting and carbon credits](/insights/esg-reporting-and-carbon-credits/) covers the wording.
+In your reporting, credits sit outside scope 1, 2 and 3 and are never subtracted from them. A plain description of what you did is easier to defend than a label such as "carbon neutral", which regulators in several countries have acted against. Our guide to [ESG reporting and carbon credits](/blog/esg-reporting-and-carbon-credits/) covers the wording.
 
 ## Extra care for a voluntary claim
 

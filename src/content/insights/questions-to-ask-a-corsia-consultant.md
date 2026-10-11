@@ -60,7 +60,7 @@ Question 4 deserves the most weight. A verification is a live event with an inde
 | 19 | Do you sell emissions units, or hold an interest in a firm that does? | A direct yes or no, with disclosure | A change of subject |
 | 20 | If we asked you to buy units for us, how would you be paid? | Fee, margin or both, stated up front | Vague |
 
-A firm can legitimately sell units and advise, provided it discloses and you know which role it is playing. What you cannot accept is not being told. See [consultant red flags](/insights/corsia-consultant-due-diligence-red-flags/).
+A firm can legitimately sell units and advise, provided it discloses and you know which role it is playing. What you cannot accept is not being told. See [consultant red flags](/blog/corsia-consultant-due-diligence-red-flags/).
 
 ## What will we actually get?
 
@@ -72,7 +72,7 @@ A firm can legitimately sell units and advise, provided it discloses and you kno
 | 24 | What will year two cost, and why less? | Lower, because capability transfers to you | Same or higher, with no reason given |
 | 25 | What will you leave behind so we can run this ourselves? | Named items: procedures, data flow diagram, evidence template, worked example, training | "Ongoing support" |
 
-Question 24 is revealing. A firm building your capability can explain why the second year costs less. A firm building an annuity cannot. More on fee structures in [consultant cost and fees](/insights/corsia-consultant-cost-and-fees-india/).
+Question 24 is revealing. A firm building your capability can explain why the second year costs less. A firm building an annuity cannot. More on fee structures in [consultant cost and fees](/blog/corsia-consultant-cost-and-fees-india/).
 
 ## What to notice across the whole conversation
 

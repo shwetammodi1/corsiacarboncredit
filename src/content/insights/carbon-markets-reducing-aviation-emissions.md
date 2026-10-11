@@ -35,7 +35,7 @@ Meanwhile the emissions keep happening. Pricing and partly compensating them is 
 | Putting a price on residual emissions, which makes efficient aircraft and better operations pay back sooner | Cheap offsets can dull the incentive to spend on harder in-sector cuts, turning a bridge into a resting place |
 | Creating demand that can help finance early SAF and carbon removals | Accounting is CO2-only, so contrails and nitrogen oxides released at altitude are ignored |
 
-The middle row is the one to watch. A carbon price that is too low sends a weak signal; one that rises makes efficiency and fuel investment look better. The right-hand column is why [checking offset quality](/insights/evaluating-carbon-offset-quality-airlines/) is part of the job, not a nicety.
+The middle row is the one to watch. A carbon price that is too low sends a weak signal; one that rises makes efficiency and fuel investment look better. The right-hand column is why [checking offset quality](/blog/evaluating-carbon-offset-quality-airlines/) is part of the job, not a nicety.
 
 ## Ranking the options by how directly they cut aviation's own emissions
 
@@ -54,7 +54,7 @@ Offsetting is the only item on the list that leaves aviation's own emissions unt
 - price and compensate the remainder with high-integrity credits in the meantime;
 - plan for the offsetting share to shrink year by year as fuels and technology scale.
 
-The scheme's direction, with mandatory participation arriving and a long-term [net-zero goal for 2050](/insights/future-of-corsia-aviation-decarbonization/), only makes sense if the direct levers carry more of the load over time.
+The scheme's direction, with mandatory participation arriving and a long-term [net-zero goal for 2050](/blog/future-of-corsia-aviation-decarbonization/), only makes sense if the direct levers carry more of the load over time.
 
 ## Testing a claim before you repeat it
 

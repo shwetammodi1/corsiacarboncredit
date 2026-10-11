@@ -11,7 +11,7 @@ Take a typical Indian IT services firm working on its net-zero plan. Most line i
 
 ## What "hard to abate" means for travel
 
-Net-zero frameworks separate emissions that can be eliminated with today's tools from those that cannot yet. Flying falls in the second group because long-haul aviation has no clean electric replacement; the reasons are set out in [aviation emissions explained](/insights/aviation-emissions-explained/).
+Net-zero frameworks separate emissions that can be eliminated with today's tools from those that cannot yet. Flying falls in the second group because long-haul aviation has no clean electric replacement; the reasons are set out in [aviation emissions explained](/blog/aviation-emissions-explained/).
 
 Being hard to abate does not make travel exempt. It fixes the order in which you act.
 
@@ -29,7 +29,7 @@ The figures are invented to show the order, not to suggest what any company will
 
 ### Layer 1: fewer and better flights
 
-This is the cheapest and most certain cut. Question whether each trip is needed, default internal meetings to video, send people by train where the route allows, and book direct economy flights. We go into policy detail in [reducing business travel emissions](/insights/reducing-business-travel-emissions/).
+This is the cheapest and most certain cut. Question whether each trip is needed, default internal meetings to video, send people by train where the route allows, and book direct economy flights. We go into policy detail in [reducing business travel emissions](/blog/reducing-business-travel-emissions/).
 
 ### Layer 2: sustainable aviation fuel
 
@@ -37,7 +37,7 @@ For trips that must happen, SAF bought through book-and-claim reduces the emissi
 
 ### Layer 3: durable removals for the residual
 
-What remains after the first two layers is the residual. Credible net-zero thinking increasingly expects it to be neutralised with **durable removals**, such as biochar or engineered removals, rather than low-cost avoidance credits. That is the practical difference between the two claims discussed in [carbon neutral vs net zero](/insights/carbon-neutral-vs-net-zero/).
+What remains after the first two layers is the residual. Credible net-zero thinking increasingly expects it to be neutralised with **durable removals**, such as biochar or engineered removals, rather than low-cost avoidance credits. That is the practical difference between the two claims discussed in [carbon neutral vs net zero](/blog/carbon-neutral-vs-net-zero/).
 
 ## Common mistakes
 
@@ -48,7 +48,7 @@ What remains after the first two layers is the residual. Credible net-zero think
 
 ## Writing the claim
 
-Report in the same order you acted: travel reduced, flying covered by SAF, residual neutralised and with which removals. A narrow claim you can back up is worth more than a broad one you cannot, particularly as [science-based targets](/insights/science-based-targets-sbti-explained/) steer companies towards actual reductions over compensation.
+Report in the same order you acted: travel reduced, flying covered by SAF, residual neutralised and with which removals. A narrow claim you can back up is worth more than a broad one you cannot, particularly as [science-based targets](/blog/science-based-targets-sbti-explained/) steer companies towards actual reductions over compensation.
 
 ## Short answers
 

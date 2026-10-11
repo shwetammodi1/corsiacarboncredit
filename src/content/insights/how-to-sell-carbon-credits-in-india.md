@@ -30,7 +30,7 @@ Two consequences follow.
 
 **Compliance buyers want the cheapest valid unit; voluntary buyers want the most defensible one.** If you invested in a cookstove project rich in health and gender co-benefits, selling it into a compliance market throws away the premium you built into it. A multinational that has to defend its sustainability report will value those co-benefits; an obligated entity will not.
 
-**Airlines have rules of their own.** CORSIA accepts only credits from ICAO-approved programmes that meet specific vintage and corresponding-adjustment criteria. If aviation is your target, design for it at the start. Read [managing programme approval risk](/insights/icao-approved-corsia-crediting-programmes/) and [how to become a CORSIA carbon credit supplier](/insights/how-to-become-corsia-carbon-credit-supplier/).
+**Airlines have rules of their own.** CORSIA accepts only credits from ICAO-approved programmes that meet specific vintage and corresponding-adjustment criteria. If aviation is your target, design for it at the start. Read [managing programme approval risk](/blog/icao-approved-corsia-crediting-programmes/) and [how to become a CORSIA carbon credit supplier](/blog/how-to-become-corsia-carbon-credit-supplier/).
 
 ## Question 2: Which route to market?
 
@@ -60,7 +60,7 @@ After several years of critical reporting on credit quality, serious buyers inve
 
 Buyers will check the registry themselves and will find any adverse verification finding. The corresponding adjustment question decides what claim the buyer can make, which makes it the most consequential accounting point in the deal.
 
-A seller who takes a fortnight to produce serial numbers and verification reports signals trouble. One who answers in a day shortens the sale. Our [CORSIA credit due diligence checklist](/insights/corsia-credit-due-diligence-checklist/) is written from the buyer's side and shows what you will be asked.
+A seller who takes a fortnight to produce serial numbers and verification reports signals trouble. One who answers in a day shortens the sale. Our [CORSIA credit due diligence checklist](/blog/corsia-credit-due-diligence-checklist/) is written from the buyer's side and shows what you will be asked.
 
 ## Question 4: What must the contract say?
 
@@ -125,7 +125,7 @@ That last item is underrated. Corporate buyers with multi-year commitments prefe
 
 **Can Indian credits be sold abroad?** That depends on the programme, credit type and current export and adjustment policy. Take current regulatory advice.
 
-**What price will I get?** See [carbon credit prices in India](/insights/carbon-credit-price-in-india/).
+**What price will I get?** See [carbon credit prices in India](/blog/carbon-credit-price-in-india/).
 
 **What is double counting?** One reduction claimed by more than one party or towards more than one target. Registries and corresponding adjustments exist to prevent it.
 

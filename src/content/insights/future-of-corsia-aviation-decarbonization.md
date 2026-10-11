@@ -17,7 +17,7 @@ So far CORSIA has been gradual. The pilot ran from 2021 to 2023 and the first ph
 
 From 2027 the second phase begins and participation turns **mandatory** for most states. Four groups remain exempt unless they choose to join: least developed countries, small island developing states, landlocked developing countries, and states with a very small share of international aviation.
 
-Because an offsetting obligation arises only where both ends of a route participate, adding states adds routes. Total demand for units rises accordingly. Airlines that treated the voluntary years as a light touch will notice the difference. [How the aviation carbon market works](/insights/corsia-explained-how-aviation-carbon-market-works/) explains the two-ends rule.
+Because an offsetting obligation arises only where both ends of a route participate, adding states adds routes. Total demand for units rises accordingly. Airlines that treated the voluntary years as a light touch will notice the difference. [How the aviation carbon market works](/blog/corsia-explained-how-aviation-carbon-market-works/) explains the two-ends rule.
 
 ## The goal CORSIA serves
 
@@ -35,7 +35,7 @@ For Indian developers this is the opportunity, provided the authorisation route 
 
 ## Fuel slowly takes over from credits
 
-Eligible fuels reduce the offsetting requirement directly, so each tonne of CO2 avoided through sustainable aviation fuel is a tonne that does not need a unit. As SAF production grows and its price premium narrows, helped by blending mandates and incentives in several regions, compliance should shift from buying units towards burning cleaner fuel. That is the intended direction: a market covering a shrinking residual while in-sector emissions come down. [SAF and CORSIA](/insights/sustainable-aviation-fuel-corsia/) covers how the fuel claim works.
+Eligible fuels reduce the offsetting requirement directly, so each tonne of CO2 avoided through sustainable aviation fuel is a tonne that does not need a unit. As SAF production grows and its price premium narrows, helped by blending mandates and incentives in several regions, compliance should shift from buying units towards burning cleaner fuel. That is the intended direction: a market covering a shrinking residual while in-sector emissions come down. [SAF and CORSIA](/blog/sustainable-aviation-fuel-corsia/) covers how the fuel claim works.
 
 ## What could change the picture
 
@@ -53,7 +53,7 @@ None of these breaks the scheme. Each changes how expensive and how effective it
 
 From 2027 CORSIA becomes a wider, firmer and more expensive obligation than the voluntary years suggested. For airlines it is a real cost line. For developers of high-integrity credits and for SAF producers it is a real demand signal.
 
-It is not the thing that will decarbonise flying, and it was never designed to be. Its role is to price and compensate emissions while [in-sector measures](/insights/carbon-markets-reducing-aviation-emissions/) do the structural work towards 2050. Judged as a bridge, it matters a great deal. Judged as a destination, it was always going to disappoint.
+It is not the thing that will decarbonise flying, and it was never designed to be. Its role is to price and compensate emissions while [in-sector measures](/blog/carbon-markets-reducing-aviation-emissions/) do the structural work towards 2050. Judged as a bridge, it matters a great deal. Judged as a destination, it was always going to disappoint.
 
 ::: accordion Will CORSIA units become more expensive?
 Probably, if adjusted eligible supply grows more slowly than mandatory demand from 2027.

@@ -13,7 +13,7 @@ A few years ago, an auto-parts maker in Pune or a packaging firm in Indore rarel
 
 Three sources of pressure, in roughly the order SMEs feel them:
 
-1. **Large customers' targets.** Companies with [science-based targets](/insights/science-based-targets-sbti-explained/) have to cut their Scope 3 emissions, and Scope 3 is largely their suppliers. If you supply them, your emissions are part of their number.
+1. **Large customers' targets.** Companies with [science-based targets](/blog/science-based-targets-sbti-explained/) have to cut their Scope 3 emissions, and Scope 3 is largely their suppliers. If you supply them, your emissions are part of their number.
 2. **Tenders.** Public and corporate procurement increasingly scores sustainability.
 3. **Customers and staff.** People notice, and a credible answer helps with both.
 
@@ -31,7 +31,7 @@ None of this asks a small firm to lead the world on climate. It rewards firms th
 
 ## 1. Estimate the footprint roughly
 
-You cannot manage what you have not measured, but the first measurement does not need to be perfect. Gather your electricity bills, fuel and vehicle use, business travel, and the one or two largest purchases in your supply chain. Express the total in [CO2e](/insights/what-is-co2e-carbon-dioxide-equivalent/). A rough, honest figure you improve each year beats a precise one you never finish.
+You cannot manage what you have not measured, but the first measurement does not need to be perfect. Gather your electricity bills, fuel and vehicle use, business travel, and the one or two largest purchases in your supply chain. Express the total in [CO2e](/blog/what-is-co2e-carbon-dioxide-equivalent/). A rough, honest figure you improve each year beats a precise one you never finish.
 
 ## 2. Cut the cheap tonnes first
 
@@ -39,7 +39,7 @@ Reducing emissions is nearly always cheaper than offsetting them, and any credib
 
 ## 3. Buy a small volume of good credits
 
-For emissions you cannot yet remove, credits are the tool. The temptation for a cost-conscious firm is to buy the cheapest on offer. That is how businesses end up with credits that embarrass them later; our list of [greenwashing warning signs](/insights/carbon-credit-greenwashing-red-flags/) shows why. Buy fewer and better. A small volume of well-rated, credible credits is worth far more than a large pile of doubtful ones.
+For emissions you cannot yet remove, credits are the tool. The temptation for a cost-conscious firm is to buy the cheapest on offer. That is how businesses end up with credits that embarrass them later; our list of [greenwashing warning signs](/blog/carbon-credit-greenwashing-red-flags/) shows why. Buy fewer and better. A small volume of well-rated, credible credits is worth far more than a large pile of doubtful ones.
 
 ## 4. Treat the spend like any other investment
 
@@ -47,7 +47,7 @@ The budget is finite, so start with your most material emissions, cover those pr
 
 ## 5. Say exactly what you did
 
-State what you reduced, what you offset and which credits you used. Skip the vague "carbon neutral" badge with nothing behind it; the difference between [carbon neutral and net zero](/insights/carbon-neutral-vs-net-zero/) matters for a ten-person firm as much as a multinational. A modest claim you can back up is an asset. An inflated one is a liability waiting for a customer to ask about it.
+State what you reduced, what you offset and which credits you used. Skip the vague "carbon neutral" badge with nothing behind it; the difference between [carbon neutral and net zero](/blog/carbon-neutral-vs-net-zero/) matters for a ten-person firm as much as a multinational. A modest claim you can back up is an asset. An inflated one is a liability waiting for a customer to ask about it.
 
 ## Mistakes we see small firms make
 

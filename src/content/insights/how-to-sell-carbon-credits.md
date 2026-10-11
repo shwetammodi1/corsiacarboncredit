@@ -31,7 +31,7 @@ Effort spent on the baseline and additionality case at this stage pays back late
 
 ## Counting and checking the results
 
-Once the project runs, it monitors its outcomes under the methodology's MRV rules. An accredited, independent verification body then audits that data. Without this, a developer's figures are just a developer's figures, and no serious buyer will pay for them. Our note on [digital MRV](/insights/dmrv-digital-monitoring-carbon-projects/) covers how sensor data is changing what verifiers can check.
+Once the project runs, it monitors its outcomes under the methodology's MRV rules. An accredited, independent verification body then audits that data. Without this, a developer's figures are just a developer's figures, and no serious buyer will pay for them. Our note on [digital MRV](/blog/dmrv-digital-monitoring-carbon-projects/) covers how sensor data is changing what verifiers can check.
 
 After a successful verification the standard issues credits into the developer's registry account. Each has a unique serial number and a **vintage**, the year in which the reduction happened. The credits now exist and can be traded. That does not make them usable by every buyer.
 
@@ -39,7 +39,7 @@ After a successful verification the standard issues credits into the developer's
 
 Compliance schemes such as CORSIA, and corporates who want to avoid any double counting, need units that carry a host-country **Letter of Authorisation** and a **corresponding adjustment** under Article 6. This is often the hardest part, because it depends on the host government, which may prefer to keep the reduction for its own national target.
 
-For an Indian developer that means the Government of India's position decides whether the units can reach aviation buyers at all. An authorised unit is worth clearly more than an unauthorised one from the same project, so where the government is willing it is usually worth pursuing. We look at the Indian case in [corresponding adjustments for Indian CORSIA projects](/insights/corsia-corresponding-adjustment-india/).
+For an Indian developer that means the Government of India's position decides whether the units can reach aviation buyers at all. An authorised unit is worth clearly more than an unauthorised one from the same project, so where the government is willing it is usually worth pursuing. We look at the Indian case in [corresponding adjustments for Indian CORSIA projects](/blog/corsia-corresponding-adjustment-india/).
 
 ## Finding a buyer and settling
 
@@ -68,4 +68,4 @@ Terms go into a sale agreement or an **ERPA**. On settlement the credits move by
 
 Timelines vary widely by project type and methodology, from months to years, because every stage above takes time.
 
-The buyer's side of the same transaction is set out in [how to buy carbon credits](/insights/how-to-buy-carbon-credits/). If you have issued or soon-to-be-issued units, you can list them through our [seller intake](https://carboncredit.dstechnoverse.com/sell), and we will tell you which buyers they are likely to suit.
+The buyer's side of the same transaction is set out in [how to buy carbon credits](/blog/how-to-buy-carbon-credits/). If you have issued or soon-to-be-issued units, you can list them through our [seller intake](https://carboncredit.dstechnoverse.com/sell), and we will tell you which buyers they are likely to suit.

@@ -28,7 +28,7 @@ Removals differ mainly in how long the carbon remains stored and how easily it c
 | Can it reverse? | Yes: fire, clearance, drought | Much less exposed | Very unlikely once stored |
 | Relative cost | Low | Middle | High |
 
-For a buyer whose claim must survive scrutiny for a long time, that last column explains the choice. There is no forest to burn and no landowner who might change their mind. The price reflects exactly that. Our note on [biochar credits](/insights/biochar-carbon-credits-explained/) covers the middle option.
+For a buyer whose claim must survive scrutiny for a long time, that last column explains the choice. There is no forest to burn and no landowner who might change their mind. The price reflects exactly that. Our note on [biochar credits](/blog/biochar-carbon-credits-explained/) covers the middle option.
 
 ## Where the cost comes from
 
@@ -85,4 +85,4 @@ Because CO2 in open air is very dilute, capture uses a lot of energy, and the in
 Most analysts expect costs to fall substantially as capacity grows and clean energy gets cheaper.
 :::
 
-If you are building a removal portfolio and want to know where DAC earns its place, and where cheaper removals will do, [write to us](/contact/). For the wider picture of credit types and quality, start with our [carbon credits reference](/insights/corsia-carbon-credits-complete-guide/).
+If you are building a removal portfolio and want to know where DAC earns its place, and where cheaper removals will do, [write to us](/contact/). For the wider picture of credit types and quality, start with our [carbon credits reference](/blog/corsia-carbon-credits-complete-guide/).

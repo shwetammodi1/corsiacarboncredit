@@ -54,7 +54,7 @@ The instruments behave nothing alike as financial exposures.
 
 **CORSIA units** trade bilaterally, without a dependable public reference price, and supply depends on governments deciding to authorise transfers. **You cannot hedge them the same way.**
 
-A board that sees one "carbon cost" figure is being shown a blend of a manageable risk and an unmanageable one. Report them separately. [Carbon pricing and airlines](/insights/carbon-pricing-impact-on-airlines/) looks at how this reaches the income statement.
+A board that sees one "carbon cost" figure is being shown a blend of a manageable risk and an unmanageable one. Report them separately. [Carbon pricing and airlines](/blog/carbon-pricing-impact-on-airlines/) looks at how this reaches the income statement.
 
 ## One instrument, one claim
 

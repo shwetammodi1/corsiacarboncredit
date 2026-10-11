@@ -20,7 +20,7 @@ What such a buyer gets is not a different kind of project. It is a unit that has
 For a unit to count as CORSIA-eligible:
 
 1. It must be issued by a crediting programme **approved by ICAO**. See [ICAO-approved crediting programmes](/knowledge-base/corsia-approved-crediting-programmes/) for what that approval means.
-2. It must satisfy the scheme's **eligibility criteria**, set out in our piece on [what actually qualifies](/insights/corsia-eligible-emissions-units-explained/).
+2. It must satisfy the scheme's **eligibility criteria**, set out in our piece on [what actually qualifies](/blog/corsia-eligible-emissions-units-explained/).
 3. Its vintage must fall inside the permitted **window**.
 4. For the first phase, it must carry a **corresponding adjustment**, meaning the host country has removed that reduction from its own tally so it is not counted twice.
 
@@ -36,11 +36,11 @@ In the voluntary market, most of those checks are left to the buyer. Here severa
 | Supply | Broad | Narrow |
 | Price | Wide range | At a premium |
 
-The overlap with the [ICVCM Core Carbon Principles](/insights/icvcm-core-carbon-principles/) is large, which is part of why companies facing scrutiny from investors, customers or regulators find these units attractive as a reputational hedge.
+The overlap with the [ICVCM Core Carbon Principles](/blog/icvcm-core-carbon-principles/) is large, which is part of why companies facing scrutiny from investors, customers or regulators find these units attractive as a reputational hedge.
 
 ## Is the premium worth paying?
 
-The filters remove most supply, so eligible units with an adjustment cost more. We explain the mechanics in [why CORSIA-grade credits command a premium](/insights/why-corsia-grade-credits-premium/).
+The filters remove most supply, so eligible units with an adjustment cost more. We explain the mechanics in [why CORSIA-grade credits command a premium](/blog/why-corsia-grade-credits-premium/).
 
 A rough rule we use with clients:
 
@@ -51,7 +51,7 @@ There is also a practical point. A corporate buyer bidding for these units is co
 
 ## Buying them without being misled
 
-The purchase itself follows the normal route: brokers, exchanges or developers, then retirement in your organisation's name with an evidence pack. Our general [guide to buying carbon credits](/insights/how-to-buy-carbon-credits/) covers the steps.
+The purchase itself follows the normal route: brokers, exchanges or developers, then retirement in your organisation's name with an evidence pack. Our general [guide to buying carbon credits](/blog/how-to-buy-carbon-credits/) covers the steps.
 
 The step that must not be skipped is confirming eligibility yourself. Check the programme's approval and the unit's adjustment status against the published source before you contract. Sellers sometimes describe units as "CORSIA-eligible" when only the project type would qualify, not the specific vintage or batch.
 

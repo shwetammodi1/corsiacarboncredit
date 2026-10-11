@@ -9,7 +9,7 @@ image: "/images/carbon-credits/carbon-tax-vs-credits.svg"
 
 For a large Indian company, carbon pricing is no longer one question. A plant may have intensity targets at home, an export line may meet a border charge in Europe, an aviation arm may owe CORSIA credits, and the board may have signed a voluntary net zero pledge on top. Each of these runs on a different instrument, and treating them as one "carbon cost" is how organisations end up buying the wrong thing.
 
-This is the long version, written from an Indian company's side of the table. For a five-minute overview of the concepts, see our [quick comparison of carbon credits and carbon taxes](/insights/carbon-credit-vs-carbon-tax/).
+This is the long version, written from an Indian company's side of the table. For a five-minute overview of the concepts, see our [quick comparison of carbon credits and carbon taxes](/blog/carbon-credit-vs-carbon-tax/).
 
 ![Diagram contrasting carbon taxes, emissions trading and carbon credits](/images/carbon-credits/carbon-tax-vs-credits.svg)
 
@@ -46,7 +46,7 @@ An allowance is permission to emit a tonne. It says nothing about a reduction an
 
 A project reduces or removes emissions and is issued units. A buyer purchases and retires them to claim the reduction.
 
-Neither price nor emissions certainty comes built in. The price is whatever the market will bear, and the climate benefit depends on whether the credit is real, additional, permanent and not counted by anyone else. That is why [quality assessment](/insights/carbon-credit-quality-assessment/) matters so much.
+Neither price nor emissions certainty comes built in. The price is whatever the market will bear, and the climate benefit depends on whether the credit is real, additional, permanent and not counted by anyone else. That is why [quality assessment](/blog/carbon-credit-quality-assessment/) matters so much.
 
 The money goes to the **project developer**, not a government. That is the structural difference from the other two, and it is why credits can move private money into mitigation, including in countries with no domestic carbon price.
 
@@ -64,7 +64,7 @@ The money goes to the **project developer**, not a government. That is the struc
 
 ## India's own scheme is none of the above
 
-India does not run a broad economy-wide carbon tax or a cap-and-trade system. Its compliance mechanism, the **Carbon Credit Trading Scheme** under the Energy Conservation Act framework, is **baseline-and-credit**. Notified entities get emission intensity targets and trade certificates to meet them. There are also various energy and fuel levies, but those are not a carbon tax in the usual sense. Our explainer on [the Indian carbon market and CCTS](/insights/indian-carbon-market-ccts-explained/) covers the scheme itself.
+India does not run a broad economy-wide carbon tax or a cap-and-trade system. Its compliance mechanism, the **Carbon Credit Trading Scheme** under the Energy Conservation Act framework, is **baseline-and-credit**. Notified entities get emission intensity targets and trade certificates to meet them. There are also various energy and fuel levies, but those are not a carbon tax in the usual sense. Our explainer on [the Indian carbon market and CCTS](/blog/indian-carbon-market-ccts-explained/) covers the scheme itself.
 
 In our illustrative group, the **cement plant** sits here. Its question is how its intensity compares with its target, and whether it needs to buy certificates or has some to sell.
 
@@ -81,7 +81,7 @@ In the illustrative group, the **steel unit** sits here. Its domestic compliance
 
 ## Aviation: an offsetting obligation
 
-CORSIA is not a tax and not a cap. It does not limit aviation emissions, since the sector may grow, and no payment goes to a government. It requires operators to buy and cancel credits covering emissions growth above a baseline based on 2019 emissions, in line with the [offsetting calculation](/insights/corsia-offsetting-requirements-calculation/).
+CORSIA is not a tax and not a cap. It does not limit aviation emissions, since the sector may grow, and no payment goes to a government. It requires operators to buy and cancel credits covering emissions growth above a baseline based on 2019 emissions, in line with the [offsetting calculation](/blog/corsia-offsetting-requirements-calculation/).
 
 That gives a particular mix: no emissions certainty for aviation itself, no price certainty for operators, and a flow of money to projects outside the sector. Whether that is sufficient policy is open to debate. That it is a legal obligation for operators in participating States is not. For Indian carriers it is administered by the [DGCA](https://www.dgca.gov.in/).
 
@@ -89,7 +89,7 @@ The **cargo airline** sits here, and its units must be CORSIA-eligible, which ru
 
 ## The voluntary pledge
 
-Finally the **group pledge**. Nothing here is compulsory, but claims are increasingly scrutinised. Credits already cancelled for CORSIA, or certificates used under CCTS, have discharged legal obligations and cannot also back the voluntary claim. The sustainability team needs its own credits, bought for that purpose. Our piece on [carbon neutral and net zero](/insights/carbon-neutral-vs-net-zero/) explains which claim fits.
+Finally the **group pledge**. Nothing here is compulsory, but claims are increasingly scrutinised. Credits already cancelled for CORSIA, or certificates used under CCTS, have discharged legal obligations and cannot also back the voluntary claim. The sustainability team needs its own credits, bought for that purpose. Our piece on [carbon neutral and net zero](/blog/carbon-neutral-vs-net-zero/) explains which claim fits.
 
 ## If you develop projects in India
 

@@ -92,7 +92,7 @@ None of the dates hold unless a short monthly routine runs all year:
 | Gap log | Every substitution recorded, with approval |
 | Plan-relevant changes | Anything to carry into the quarterly review |
 
-Roughly a morning a month, with evidence kept. Skipping it saves nothing. The same work comes back in a month with no spare time, bringing findings with it. See [fuel data quality management](/insights/corsia-fuel-data-quality-management/) for how to run each check.
+Roughly a morning a month, with evidence kept. Skipping it saves nothing. The same work comes back in a month with no spare time, bringing findings with it. See [fuel data quality management](/blog/corsia-fuel-data-quality-management/) for how to run each check.
 
 ## The offsetting track
 
@@ -105,7 +105,7 @@ Where an offsetting requirement applies, a second line runs beside the reporting
 5. Have the registry account ready before any transfer is due.
 6. Cancel and file the evidence by the applicable deadline.
 
-The registry account is the item that most often trips operators. Opening and activating one involves papers and approvals and cannot be rushed at the end. Due diligence also takes real time, since eligibility, vintage, corresponding adjustment and registry status all need checking. The [procurement process for Indian operators](/insights/corsia-unit-procurement-process-india/) sets out the steps.
+The registry account is the item that most often trips operators. Opening and activating one involves papers and approvals and cannot be rushed at the end. Due diligence also takes real time, since eligibility, vintage, corresponding adjustment and registry status all need checking. The [procurement process for Indian operators](/blog/corsia-unit-procurement-process-india/) sets out the steps.
 
 ## Changes to log when they happen
 

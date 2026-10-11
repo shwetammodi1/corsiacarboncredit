@@ -24,7 +24,7 @@ Under Article 6 of the Paris Agreement, a country that authorises credits for in
 - Some have no designated authority, no process and no precedent, which in practice amounts to a refusal.
 - Some have signalled that they prefer to keep mitigation outcomes at home.
 
-The result can be harsh: a project that is registered, independently verified and well run may still be unable to sell a single unit into CORSIA. That is not a judgement on the project; it is a question of national accounting that sits above it. For an Indian developer, the decision rests with the Government of India. [Corresponding adjustments for Indian CORSIA projects](/insights/corsia-corresponding-adjustment-india/) covers that process.
+The result can be harsh: a project that is registered, independently verified and well run may still be unable to sell a single unit into CORSIA. That is not a judgement on the project; it is a question of national accounting that sits above it. For an Indian developer, the decision rests with the Government of India. [Corresponding adjustments for Indian CORSIA projects](/blog/corsia-corresponding-adjustment-india/) covers that process.
 
 Finding this out after paying for validation is an expensive and entirely avoidable mistake.
 
@@ -53,7 +53,7 @@ Co-benefits still have value. They matter to voluntary buyers competing for the 
 |---|---|---|
 | 1. Authorisation feasibility | Approach the designated national authority, or establish that none exists; learn the policy on your type, any fees, and the likely timeline | Skipped, or left until the end |
 | 2. Programme choice | Pick an ICAO-approved programme with a methodology that fits; check whether approval is full or conditional and when it is reviewed | Approval lapses mid-project |
-| 3. Design | Baseline, additionality and monitoring plan, built against the [eligibility criteria](/insights/corsia-eligible-emissions-units-criteria/) on purpose | Criteria met by accident or not at all |
+| 3. Design | Baseline, additionality and monitoring plan, built against the [eligibility criteria](/blog/corsia-eligible-emissions-units-criteria/) on purpose | Criteria met by accident or not at all |
 | 4. Validation | An accredited body checks the design | Queues at validators |
 | 5. Registration | The programme registers the project | |
 | 6. Operation and monitoring | The activity runs; data is collected per the plan | Gaps in monitoring data |
@@ -62,7 +62,7 @@ Co-benefits still have value. They matter to voluntary buyers competing for the 
 | 9. Authorisation and adjustment | The government authorises the specific units; the adjustment is applied | Delay with no timetable |
 | 10. Sale and transfer | Units go to a buyer, who cancels them | Documentation incomplete |
 
-For a new project, eighteen months to three years to first issuance is realistic, and stage one is the least predictable part of the whole sequence. [Becoming a CORSIA supplier](/insights/how-to-become-corsia-carbon-credit-supplier/) takes each stage in more detail.
+For a new project, eighteen months to three years to first issuance is realistic, and stage one is the least predictable part of the whole sequence. [Becoming a CORSIA supplier](/blog/how-to-become-corsia-carbon-credit-supplier/) takes each stage in more detail.
 
 ## What moves your price
 
@@ -77,7 +77,7 @@ Eligible units sell at a substantial premium over comparable non-eligible credit
 | A project type with clean additionality and low reversal risk | A type under methodological scrutiny |
 | A contractual warranty of eligibility | No warranty, or one without a real remedy |
 
-The buyer's side of the same drivers is in [our timing and price guide](/insights/corsia-carbon-credit-price-guide/).
+The buyer's side of the same drivers is in [our timing and price guide](/blog/corsia-carbon-credit-price-guide/).
 
 ## Offtake terms from the seller's chair
 
@@ -95,7 +95,7 @@ A good forward gives a developer an anchor buyer and makes the project easier to
 
 A financial model that only works if CORSIA buys, in a country where authorisation is uncertain, is a concentrated bet on one government decision.
 
-The better approach is to design for CORSIA eligibility while keeping the option of selling to the voluntary market without an adjustment. If authorisation comes, you earn the premium. If it does not, the project still sells. This costs little at design stage and is very hard to add afterwards. Indian developers also have a domestic option to weigh; see [domestic scheme or international sale](/insights/corsia-consulting-services-india/).
+The better approach is to design for CORSIA eligibility while keeping the option of selling to the voluntary market without an adjustment. If authorisation comes, you earn the premium. If it does not, the project still sells. This costs little at design stage and is very hard to add afterwards. Indian developers also have a domestic option to weigh; see [domestic scheme or international sale](/blog/corsia-consulting-services-india/).
 
 There is growing voluntary demand for adjusted units too. Some corporate buyers want the strongest protection against double-counting criticism and will pay for the adjustment with no CORSIA obligation at all. That competition supports your price either way.
 

@@ -66,7 +66,7 @@ Expect a buyer to work down this list, and have the evidence ready:
 - **Accounting.** Evidence the adjustment has been applied, or is committed.
 - **Registry.** The unit's label in the programme registry.
 
-A letter saying authorisation is expected will not satisfy anyone with a compliance date. Units in that state sell, if they sell, at a deep discount to authorised units. The full buyer-side routine is in the [CORSIA credit due diligence checklist](/insights/corsia-credit-due-diligence-checklist/).
+A letter saying authorisation is expected will not satisfy anyone with a compliance date. Units in that state sell, if they sell, at a deep discount to authorised units. The full buyer-side routine is in the [CORSIA credit due diligence checklist](/blog/corsia-credit-due-diligence-checklist/).
 
 ## Selling while authorisation is pending
 
@@ -80,7 +80,7 @@ If you do sell before authorisation arrives, the contract must say who carries t
 | Termination right | Either side may exit if authorisation has not arrived by a date | Most deals, as a backstop |
 | Revocation clause | Sets out what happens if a granted authorisation is later withdrawn | Every long-dated contract; templates often miss it |
 
-Whichever you use, both parties should be able to say plainly, on the day of signing, what claim the buyer will be entitled to make. If they cannot, there is no defined product being sold. Our note on [offtake agreement terms](/insights/corsia-offtake-agreement-terms/) goes further into drafting.
+Whichever you use, both parties should be able to say plainly, on the day of signing, what claim the buyer will be entitled to make. If they cannot, there is no defined product being sold. Our note on [offtake agreement terms](/blog/corsia-offtake-agreement-terms/) goes further into drafting.
 
 ## Common mistakes
 

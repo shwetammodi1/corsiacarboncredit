@@ -13,7 +13,7 @@ When a company's travel footprint first lands on a management agenda, the first 
 
 A tonne not emitted costs nothing to verify. A tonne offset needs a credit whose integrity you must investigate and a claim you must defend.
 
-There is also the question of what counts. Frameworks such as [science-based targets](/insights/science-based-targets-sbti-explained/) measure progress by reductions, not by credits retired. A company that only offsets can end the year with the same emissions it started with.
+There is also the question of what counts. Frameworks such as [science-based targets](/blog/science-based-targets-sbti-explained/) measure progress by reductions, not by credits retired. A company that only offsets can end the year with the same emissions it started with.
 
 ## The levers, ranked by what they usually deliver
 
@@ -41,7 +41,7 @@ Where rail is competitive, it produces far less carbon than flying and is often 
 
 ### Better flying
 
-When the trip is needed, book **direct**, since each connection adds another take-off, the most fuel-hungry part of a flight. Book **economy** where the role permits, because a premium seat can be allocated several times the emissions. The [flight footprint calculation](/insights/how-to-calculate-flight-carbon-footprint/) shows why both choices matter.
+When the trip is needed, book **direct**, since each connection adds another take-off, the most fuel-hungry part of a flight. Book **economy** where the role permits, because a premium seat can be allocated several times the emissions. The [flight footprint calculation](/blog/how-to-calculate-flight-carbon-footprint/) shows why both choices matter.
 
 ### Cleaner fuel
 
@@ -55,7 +55,7 @@ For the flying that survives all of the above, **sustainable aviation fuel** bou
 
 ## The credit budget comes last
 
-What remains after these levers is the residual. That is what credits are for: high-integrity units, retired properly and reported apart from the cuts. The aim is not to avoid offsetting but to make sure credits cover a genuine residual rather than travel that could have been dropped. The next stage is covered in [offsetting corporate business travel](/insights/offsetting-corporate-business-travel/).
+What remains after these levers is the residual. That is what credits are for: high-integrity units, retired properly and reported apart from the cuts. The aim is not to avoid offsetting but to make sure credits cover a genuine residual rather than travel that could have been dropped. The next stage is covered in [offsetting corporate business travel](/blog/offsetting-corporate-business-travel/).
 
 ## Short answers
 

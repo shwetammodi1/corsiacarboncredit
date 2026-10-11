@@ -41,7 +41,7 @@ Under Article 6 of the Paris Agreement, when a host country authorises a credit 
 
 Most voluntary credits have no such adjustment. The buyer claims the tonne and the host country counts it too. The voluntary market has mostly dealt with this by changing how buyers word their claims, not by requiring adjustments. CORSIA does not accept it: no adjustment, no eligibility.
 
-Many host governments are reluctant. Authorising makes their own target harder in exchange for foreign currency and investment, and some have decided that is a poor trade for certain project types. Others have not built the administrative process. Either way the project cannot supply CORSIA. This one requirement removes a very large share of the world's credits from eligibility and is the main reason for the price gap. [Our corresponding adjustment guide](/insights/corresponding-adjustments-corsia-explained/) deals with the commercial side.
+Many host governments are reluctant. Authorising makes their own target harder in exchange for foreign currency and investment, and some have decided that is a poor trade for certain project types. Others have not built the administrative process. Either way the project cannot supply CORSIA. This one requirement removes a very large share of the world's credits from eligibility and is the main reason for the price gap. [Our corresponding adjustment guide](/blog/corresponding-adjustments-corsia-explained/) deals with the commercial side.
 
 ## Who writes the rules (difference 1)
 

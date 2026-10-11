@@ -46,7 +46,7 @@ The same arithmetic explains why methane-capture projects, such as landfill gas 
 
 A standard carbon credit stands for one tonne of CO2e avoided or removed, not one tonne of whatever gas the project dealt with. That common unit is what allows a forestry credit, a methane credit and an engineered removal to be priced and traded against each other. Retiring a credit cancels one tonne of CO2e.
 
-For the same reason, footprints and [science-based targets](/insights/science-based-targets-sbti-explained/) are stated in CO2e rather than in tonnes of individual gases. How those footprints are organised is covered in our guide to [scope 1, 2 and 3 emissions](/insights/ghg-accounting-scope-1-2-3-explained/).
+For the same reason, footprints and [science-based targets](/blog/science-based-targets-sbti-explained/) are stated in CO2e rather than in tonnes of individual gases. How those footprints are organised is covered in our guide to [scope 1, 2 and 3 emissions](/blog/ghg-accounting-scope-1-2-3-explained/).
 
 ## A note for aviation
 

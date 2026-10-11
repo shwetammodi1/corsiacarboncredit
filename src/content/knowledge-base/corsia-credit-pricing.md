@@ -42,7 +42,7 @@ Adjusted supply depends on government decisions. Demand depends on the phase des
 
 Roughly, from dearest to cheapest among eligible supply: engineered removals (costly to produce, strong permanence); nature-based removals (priced partly on permanence and buffer arrangements); methane avoidance (clean additionality, no permanence issue); cookstoves and household energy (cheap to produce, under methodological scrutiny); and renewable energy (additionality contested where power markets are competitive).
 
-An airline needs discharge rather than a narrative, so these gaps are narrower in CORSIA than in voluntary pricing. They have not closed, partly because voluntary buyers chasing the same adjusted supply do care about type. Which types tend to qualify is discussed in [which carbon projects qualify for CORSIA](/insights/carbon-projects-qualify-for-corsia/).
+An airline needs discharge rather than a narrative, so these gaps are narrower in CORSIA than in voluntary pricing. They have not closed, partly because voluntary buyers chasing the same adjusted supply do care about type. Which types tend to qualify is discussed in [which carbon projects qualify for CORSIA](/blog/carbon-projects-qualify-for-corsia/).
 
 ### Vintage position
 

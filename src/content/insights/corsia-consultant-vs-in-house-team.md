@@ -147,6 +147,6 @@ A monitoring plan the authority does not accept, or material findings in the fir
 Advice on buying emissions units, corresponding adjustment engagement, and an independent review before verification.
 :::
 
-For the wider context, see [how to engage a CORSIA consultant](/insights/corsia-consultant-engagement-models/), [what to put in the scope of work](/insights/corsia-consultant-scope-of-work/) and [which roles need CORSIA training](/insights/corsia-training-for-airline-teams/).
+For the wider context, see [how to engage a CORSIA consultant](/blog/corsia-consultant-engagement-models/), [what to put in the scope of work](/blog/corsia-consultant-scope-of-work/) and [which roles need CORSIA training](/blog/corsia-training-for-airline-teams/).
 
 If you would like a second opinion on how your cycle is split between staff and advisers, [send us a note](/contact/) with your AOC count and roughly how many international sectors you fly. We will tell you plainly which model fits.

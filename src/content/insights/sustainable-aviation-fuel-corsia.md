@@ -18,13 +18,13 @@ An operator with an offsetting requirement can:
 1. **Buy and cancel eligible credits**, which compensate for emissions by paying for reductions elsewhere; or
 2. **Use CORSIA Eligible Fuels (CEF)**, mainly SAF along with some lower carbon aviation fuels, whose emissions reduction is subtracted from the requirement.
 
-Each tonne of CO2 that eligible fuel avoids is a tonne the airline does not have to cover with a credit. How the credit side works is set out in [how airlines use carbon credits under CORSIA](/insights/how-airlines-use-carbon-credits-corsia/).
+Each tonne of CO2 that eligible fuel avoids is a tonne the airline does not have to cover with a credit. How the credit side works is set out in [how airlines use carbon credits under CORSIA](/blog/how-airlines-use-carbon-credits-corsia/).
 
 ## Not every biofuel qualifies
 
 A fuel counts only if it meets CORSIA's **sustainability criteria**. These cover, among other things, lifecycle greenhouse gas savings and safeguards on feedstock, so that a fuel is not clean at the wing while driving deforestation or pressure on food supply further back.
 
-The reduction credited depends on the fuel's **lifecycle emissions** compared with conventional jet fuel, not on the fact that it came from plants or waste. The fuel also has to carry certification from an approved scheme and a documented chain of custody; we cover that in [ISCC CORSIA certification](/insights/iscc-corsia-certification-guide/).
+The reduction credited depends on the fuel's **lifecycle emissions** compared with conventional jet fuel, not on the fact that it came from plants or waste. The fuel also has to carry certification from an approved scheme and a documented chain of custody; we cover that in [ISCC CORSIA certification](/blog/iscc-corsia-certification-guide/).
 
 ## Choosing between fuel and credits
 
@@ -36,7 +36,7 @@ SAF currently costs several times as much as conventional jet fuel. Using it mea
 | What it does | Compensates with reductions made elsewhere | Cuts the airline's own emissions |
 | What tilts the balance | Rising prices for eligible credits favour SAF | Mandates, incentives and growing supply narrow its premium |
 
-Most carriers end up with a mix: SAF where it can be obtained at a sensible cost, and credits for the rest. The wider cost picture is in [carbon pricing and airlines](/insights/carbon-pricing-impact-on-airlines/).
+Most carriers end up with a mix: SAF where it can be obtained at a sensible cost, and credits for the rest. The wider cost picture is in [carbon pricing and airlines](/blog/carbon-pricing-impact-on-airlines/).
 
 ## Mistakes we see
 
@@ -46,7 +46,7 @@ Most carriers end up with a mix: SAF where it can be obtained at a sensible cost
 
 ## Why fuel is the long game
 
-CORSIA's offsetting is meant as a bridge. Fuel is part of where the sector is going. The scheme is expected to shrink in importance as in-sector measures grow, and SAF is the largest of those measures between now and 2050. Every tonne of SAF used today lowers this year's offsetting and moves the industry towards a future where credits cover a smaller and smaller remainder. For more on that direction, see [the future of CORSIA](/insights/future-of-corsia-aviation-decarbonization/).
+CORSIA's offsetting is meant as a bridge. Fuel is part of where the sector is going. The scheme is expected to shrink in importance as in-sector measures grow, and SAF is the largest of those measures between now and 2050. Every tonne of SAF used today lowers this year's offsetting and moves the industry towards a future where credits cover a smaller and smaller remainder. For more on that direction, see [the future of CORSIA](/blog/future-of-corsia-aviation-decarbonization/).
 
 ::: accordion Will SAF replace offsetting altogether?
 Over time it should cut the share covered by offsetting substantially, but offsetting is expected to cover a shrinking residual for years yet.

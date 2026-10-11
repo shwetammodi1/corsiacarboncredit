@@ -43,7 +43,7 @@ A few notes on each.
 3. A price adjustment to reflect delay.
 4. Buyer accepts non-eligible units at a lower price.
 
-Whichever you land on, write down a date. "Reasonably practicable" is a hope, not a mechanism. Our piece on [corresponding adjustment risk](/insights/corresponding-adjustments-corsia-explained/) goes into how to price it.
+Whichever you land on, write down a date. "Reasonably practicable" is a hope, not a mechanism. Our piece on [corresponding adjustment risk](/blog/corresponding-adjustments-corsia-explained/) goes into how to price it.
 
 **Vintage.** Eligibility windows are fixed by ICAO Council decision and have been changed before. On deals settling more than a few months out, say what happens if the window moves. Silence leaves it with you.
 
@@ -51,7 +51,7 @@ Whichever you land on, write down a date. "Reasonably practicable" is a hope, no
 
 **Volume.** Projects routinely deliver less than forecast: monitoring comes in lower, verification trims issuance, or a period is disallowed. A band avoids a dispute every time that happens.
 
-**Documentation.** List the pack: the host-State authorisation document, evidence of programme approval, the verification report, registry records showing chain of custody, and the project design documentation. Without these you cannot satisfy your own verifier. What a complete pack looks like from the seller's side is set out in [the project documentation pack](/insights/corsia-project-documentation-pack/).
+**Documentation.** List the pack: the host-State authorisation document, evidence of programme approval, the verification report, registry records showing chain of custody, and the project design documentation. Without these you cannot satisfy your own verifier. What a complete pack looks like from the seller's side is set out in [the project documentation pack](/blog/corsia-project-documentation-pack/).
 
 ## Commercial terms
 
@@ -112,6 +112,6 @@ Offtake agreements sit between carbon market knowledge and contract law. We rare
 
 **Can we contract for units not yet issued?** Yes. That is what a forward agreement is. Price delivery and authorisation risk explicitly.
 
-**What is most often missing from a first agreement?** A named long-stop date for authorisation, and documentation as a binding obligation. For the steps around the contract, see [the procurement process for Indian operators](/insights/corsia-unit-procurement-process-india/).
+**What is most often missing from a first agreement?** A named long-stop date for authorisation, and documentation as a binding obligation. For the steps around the contract, see [the procurement process for Indian operators](/blog/corsia-unit-procurement-process-india/).
 
 If you have a seller's draft on your desk now, [send it to us](/contact/) before you sign. We will mark up the risk clauses and tell you which ones are worth a fight.

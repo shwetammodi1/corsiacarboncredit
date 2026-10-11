@@ -56,7 +56,7 @@ The buyer's summary of the exercise is one we repeat to others: with renewable e
 - **Assuming a big standard means additional.** Standards have themselves tightened the rules on renewables.
 - **Ignoring vintage.** An old unit at a discount may be cheap for a reason.
 
-For why additionality has become so hard for this project type, see [renewable energy carbon projects](/insights/renewable-energy-carbon-projects-guide/). The general framework is in [how to evaluate carbon offset quality](/insights/evaluating-carbon-offset-quality-airlines/), and the full procurement sequence in our [buyer-side due diligence case study](/insights/carbon-credit-due-diligence-buyer-case-study/).
+For why additionality has become so hard for this project type, see [renewable energy carbon projects](/blog/renewable-energy-carbon-projects-guide/). The general framework is in [how to evaluate carbon offset quality](/blog/evaluating-carbon-offset-quality-airlines/), and the full procurement sequence in our [buyer-side due diligence case study](/blog/carbon-credit-due-diligence-buyer-case-study/).
 
 ## Short answers
 

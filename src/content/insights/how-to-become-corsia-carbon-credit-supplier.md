@@ -27,7 +27,7 @@ A clear yes with a written process is the best outcome. A clear no is the second
 
 Write the assessment down with the risk stated. If the answer is no or deeply uncertain, the voluntary market is a legitimate destination with real demand.
 
-**An India note.** For Indian developers, the corresponding adjustment question interacts with the development of India's own domestic carbon market, and that is still being worked out. Check the current position for your project type before anything else. [CORSIA or CCTS](/insights/corsia-vs-ccts-for-indian-companies/) and [Indian projects: domestic or international](/insights/corsia-consulting-services-india/) cover the choice.
+**An India note.** For Indian developers, the corresponding adjustment question interacts with the development of India's own domestic carbon market, and that is still being worked out. Check the current position for your project type before anything else. [CORSIA or CCTS](/blog/corsia-vs-ccts-for-indian-companies/) and [Indian projects: domestic or international](/blog/corsia-consulting-services-india/) cover the choice.
 
 ## The technical track, stage by stage
 
@@ -45,7 +45,7 @@ Write the assessment down with the risk stated. If the answer is no or deeply un
 
 Check approval status on the [ICAO emissions units page](https://www.icao.int/environmental-protection/CORSIA/Pages/CORSIA-Emissions-Units.aspx), and whether it is full or conditional. Look for conditions that touch your project type or methodology, when the approval is next reviewed, and whether the methodology itself is under review; several have been narrowed or withdrawn. Compare fees, timelines and registry mechanics, and confirm the programme's handling of corresponding adjustments works with your host State's process.
 
-The usual error is picking the standard you used last time. That is habit. Approval status is a moving variable. [Managing programme approval risk](/insights/icao-approved-corsia-crediting-programmes/) goes deeper.
+The usual error is picking the standard you used last time. That is habit. Approval status is a moving variable. [Managing programme approval risk](/blog/icao-approved-corsia-crediting-programmes/) goes deeper.
 
 ### Designing the project
 
@@ -71,7 +71,7 @@ What you need at the end is an authorisation document that names the specific un
 
 ## Selling and transfer
 
-Finding a buyer, negotiating, transferring the units and the buyer's cancellation can take weeks or months. Expect buyers to ask for the authorisation document, evidence of programme approval, vintage confirmation, the verification report, registry records and the project documentation. The [buyer due diligence checklist](/insights/corsia-credit-due-diligence-checklist/) shows what you will be tested on, and the [seller guide](/insights/corsia-carbon-credit-seller-guide/) covers the commercial side.
+Finding a buyer, negotiating, transferring the units and the buyer's cancellation can take weeks or months. Expect buyers to ask for the authorisation document, evidence of programme approval, vintage confirmation, the verification report, registry records and the project documentation. The [buyer due diligence checklist](/blog/corsia-credit-due-diligence-checklist/) shows what you will be tested on, and the [seller guide](/blog/corsia-carbon-credit-seller-guide/) covers the commercial side.
 
 ## How long, end to end
 

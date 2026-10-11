@@ -20,7 +20,7 @@ In practice this catches more companies than expect it:
 - e-commerce sellers whose delivery promise depends on air legs
 - exporters of perishables, electronics and medicines
 
-Customers asking for supplier footprints, and regulators asking for value-chain disclosure, both reach this line. For how Scope 3 sits against Scopes 1 and 2, see our note on [GHG accounting scopes](/insights/ghg-accounting-scope-1-2-3-explained/).
+Customers asking for supplier footprints, and regulators asking for value-chain disclosure, both reach this line. For how Scope 3 sits against Scopes 1 and 2, see our note on [GHG accounting scopes](/blog/ghg-accounting-scope-1-2-3-explained/).
 
 ## Why a small air share dominates the total
 
@@ -37,11 +37,11 @@ The consequence is lopsided. A company that moves only a sliver of its volume by
 
 ## A four-part plan, in order
 
-**1. Count it.** Emissions follow weight multiplied by distance, converted using an emission factor for air transport. Pull shipment weights and origin–destination pairs from your freight forwarder or booking system. Without this, every later step is a guess. The logic mirrors [working out a single flight's footprint](/insights/how-to-calculate-flight-carbon-footprint/), with tonnes of cargo in place of passengers.
+**1. Count it.** Emissions follow weight multiplied by distance, converted using an emission factor for air transport. Pull shipment weights and origin–destination pairs from your freight forwarder or booking system. Without this, every later step is a guess. The logic mirrors [working out a single flight's footprint](/blog/how-to-calculate-flight-carbon-footprint/), with tonnes of cargo in place of passengers.
 
 **2. Stop flying what does not need to fly.** This is usually the largest cut available, and it often lowers the freight bill too. Go through air shipments lane by lane and ask which ones actually needed air speed. Planned replenishment that was flown because someone ordered late is a process problem, not a logistics requirement.
 
-**3. Pay for cleaner fuel where air is unavoidable.** Under SAF book-and-claim, a shipper funds sustainable aviation fuel used somewhere in the carrier's network and is allocated the emissions reduction, even though that fuel never enters the aircraft carrying its boxes. This reduces aviation emissions rather than compensating for them elsewhere. Background is in [SAF and CORSIA](/insights/sustainable-aviation-fuel-corsia/).
+**3. Pay for cleaner fuel where air is unavoidable.** Under SAF book-and-claim, a shipper funds sustainable aviation fuel used somewhere in the carrier's network and is allocated the emissions reduction, even though that fuel never enters the aircraft carrying its boxes. This reduces aviation emissions rather than compensating for them elsewhere. Background is in [SAF and CORSIA](/blog/sustainable-aviation-fuel-corsia/).
 
 **4. Retire credits for what remains.** The residual can be covered with high-integrity carbon credits retired in your company's name, after the same checks you would apply to any purchase.
 
@@ -50,7 +50,7 @@ The consequence is lopsided. A company that moves only a sliver of its volume by
 - **Offsetting before measuring.** Buying a round number of credits for "our air freight" gives you nothing to defend when someone asks how the figure was reached.
 - **Treating the forwarder's annual summary as final.** Check that it covers all lanes and uses a stated emission factor.
 - **Skipping mode shift because it involves other departments.** Procurement and planning control most of the air volume, not the sustainability team.
-- **Buying the cheapest credits to cover a large volume.** A smaller quantity of credits you can explain beats a large pile you cannot. Our [offset quality guide](/insights/evaluating-carbon-offset-quality-airlines/) sets out what to check.
+- **Buying the cheapest credits to cover a large volume.** A smaller quantity of credits you can explain beats a large pile you cannot. Our [offset quality guide](/blog/evaluating-carbon-offset-quality-airlines/) sets out what to check.
 
 ## Short answers
 

@@ -100,7 +100,7 @@ In both cases the obligation remains. Getting money back does not cancel a singl
 
 For developers, especially Indian ones seeking authorisation from the Government of India, the same logic runs in reverse.
 
-- **Get authorised before marketing if you can.** Authorised units sell faster, at a better price, with shorter negotiation, because most of the protective clauses fall away. [Corresponding adjustments for Indian CORSIA projects](/insights/corsia-corresponding-adjustment-india/) sets out the domestic side.
+- **Get authorised before marketing if you can.** Authorised units sell faster, at a better price, with shorter negotiation, because most of the protective clauses fall away. [Corresponding adjustments for Indian CORSIA projects](/blog/corsia-corresponding-adjustment-india/) sets out the domestic side.
 - **If you sell ahead of authorisation, say so plainly.** Serious buyers will find out, and finding out after a misleading description costs the deal and the relationship.
 - **Be precise about your stage.** "Application filed on this date, the authority has asked for this information, decision expected this quarter" supports a smaller discount than a general assurance does.
 - **Accept a long-stop date.** Refusing one tells the buyer you do not expect to meet it.

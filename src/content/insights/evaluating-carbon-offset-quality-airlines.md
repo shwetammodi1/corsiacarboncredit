@@ -29,13 +29,13 @@ Projects answer those questions with varying rigour. That is why two credits wit
 
 A few notes on each.
 
-**Additionality** is the test that matters most and is abused most. A wind farm that was already the cheapest way to add power, or a forest nobody planned to cut, yields credits that stand for no extra reduction. [Additionality explained](/insights/additionality-in-carbon-credits-explained/) goes further.
+**Additionality** is the test that matters most and is abused most. A wind farm that was already the cheapest way to add power, or a forest nobody planned to cut, yields credits that stand for no extra reduction. [Additionality explained](/blog/additionality-in-carbon-credits-explained/) goes further.
 
 **Baselines** are where phantom tonnes get made. Push the "what would have happened" line upwards and the project appears to save more than it does. Avoided-deforestation projects have been at the centre of this argument.
 
 **Permanence** matters because a tonne held in a forest that later burns has not really been removed. Engineered removals usually do better on this test, and cost more.
 
-**Double counting** is what corresponding adjustments exist to prevent, and why CORSIA requires them for its first phase. For voluntary buyers the adjustment is often optional, which leaves the risk with you. [Eligible emissions units](/insights/corsia-eligible-emissions-units-explained/) covers the CORSIA side.
+**Double counting** is what corresponding adjustments exist to prevent, and why CORSIA requires them for its first phase. For voluntary buyers the adjustment is often optional, which leaves the risk with you. [Eligible emissions units](/blog/corsia-eligible-emissions-units-explained/) covers the CORSIA side.
 
 **Leakage** is the forest that is protected while the logging moves to the next valley.
 
@@ -53,7 +53,7 @@ Price does not separate these two. The tests do. Project 1 fails the most import
 
 You do not have to invent a standard.
 
-- **The ICVCM Core Carbon Principles** set out what a high-integrity credit should look like, and are used to label qualifying programmes and methodologies. See [ICVCM Core Carbon Principles](/insights/icvcm-core-carbon-principles/).
+- **The ICVCM Core Carbon Principles** set out what a high-integrity credit should look like, and are used to label qualifying programmes and methodologies. See [ICVCM Core Carbon Principles](/blog/icvcm-core-carbon-principles/).
 - **CORSIA's eligibility criteria** set a similar bar for compliance use, plus the corresponding adjustment. A unit eligible for the first phase has already cleared several of the five tests, which is part of why that segment is treated as higher integrity.
 
 ## Warning signs
@@ -78,7 +78,7 @@ For each real purchase, work through the same order:
 5. Check the registry entry and the vintage.
 6. File the evidence.
 
-It is the same discipline a verifier applies, and it is what separates airlines that hold defensible units from those holding problems. Retiring the units then follows the [airline compliance workflow](/insights/how-airlines-use-carbon-credits-corsia/).
+It is the same discipline a verifier applies, and it is what separates airlines that hold defensible units from those holding problems. Retiring the units then follows the [airline compliance workflow](/blog/how-airlines-use-carbon-credits-corsia/).
 
 ::: accordion Are nature-based credits lower quality?
 Not by nature. They carry permanence and baseline risks that need buffers and conservative assumptions.

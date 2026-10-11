@@ -58,7 +58,7 @@ Put together, **the CORSIA cost curve of a growing Indian carrier rises faster t
 6. **Add individual growth** from 2030 using the weighting schedule above.
 7. **Stress the supply side.** Assume eligible units are scarce or much dearer when the whole sector's obligation rises at once, and see what that does to the budget.
 
-Step 4 gates everything else. Without it, procurement, budget and board reporting are guesses. [Budgeting and forecasting CORSIA costs](/insights/corsia-budgeting-and-forecasting-india/) covers how to carry the number into the financial plan.
+Step 4 gates everything else. Without it, procurement, budget and board reporting are guesses. [Budgeting and forecasting CORSIA costs](/blog/corsia-budgeting-and-forecasting-india/) covers how to carry the number into the financial plan.
 
 ## Order of work before 2027
 

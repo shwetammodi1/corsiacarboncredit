@@ -81,7 +81,7 @@ Three responses:
 
 Most programmes measure attendance, which tells you nothing about capability. Three cheap tests, run a few weeks after training, do:
 
-**Reconstruction.** Hand someone a reported figure they did not produce and ask them to explain it from the files. This is exactly what a verifier does. See [what verifiers test](/insights/corsia-internal-audit-preparation/).
+**Reconstruction.** Hand someone a reported figure they did not produce and ask them to explain it from the files. This is exactly what a verifier does. See [what verifiers test](/blog/corsia-internal-audit-preparation/).
 
 **Escalation.** Give a realistic edge case, such as a discrepancy over the threshold, a flight that might be exempt, or a gap in an outstation feed, and ask what they would do and whom they would tell. Wrong answers are cheap to fix now.
 
@@ -91,7 +91,7 @@ When results are poor, the fix is usually more documentation, not more training.
 
 ## What training will not fix
 
-Training does not rescue a monitoring method your data cannot support. It does not substitute for writing down reconciliation rules; writing them down is the fix, and training follows. It does not create ownership where nobody owns the obligation. And a well-trained team running a manual process is still running a manual process. Build the process first, then train on the process that exists. Ownership questions are covered in [board reporting and governance](/insights/corsia-board-reporting-and-governance/).
+Training does not rescue a monitoring method your data cannot support. It does not substitute for writing down reconciliation rules; writing them down is the fix, and training follows. It does not create ownership where nobody owns the obligation. And a well-trained team running a manual process is still running a manual process. Build the process first, then train on the process that exists. Ownership questions are covered in [board reporting and governance](/blog/corsia-board-reporting-and-governance/).
 
 ## People outside the airline
 
@@ -101,7 +101,7 @@ Some of those whose actions shape your data do not work for you, and nobody trai
 - **Outstation fuel suppliers** may report by volume, by day, or in formats that differ by country. Agree the requirement in writing before the first uplift.
 - **Charter brokers and lessors** can affect which certificate a flight operates under, which has compliance consequences they may not appreciate.
 
-The usual failure is a **new station**. A route opens, say a new Gulf or Central Asian destination, nobody tells the local handler what data is needed, and three months of dockets are missing before anyone notices. Put the CORSIA data requirement on the station-opening checklist beside the operational items, name a contact, and check monthly that records are arriving. The [fuel supplier and handling agent guide](/insights/corsia-fuel-supplier-data-coordination/) has more detail.
+The usual failure is a **new station**. A route opens, say a new Gulf or Central Asian destination, nobody tells the local handler what data is needed, and three months of dockets are missing before anyone notices. Put the CORSIA data requirement on the station-opening checklist beside the operational items, name a contact, and check monthly that records are arriving. The [fuel supplier and handling agent guide](/blog/corsia-fuel-supplier-data-coordination/) has more detail.
 
 ## Short answers
 

@@ -133,4 +133,4 @@ By the lifecycle saving against the conventional baseline, applied to the fuel m
 No. Decide which scheme a batch will be claimed under before you buy it.
 :::
 
-For how this scheme differs from its similarly named sibling, see [ISCC CORSIA vs ISCC PLUS](/insights/iscc-corsia-vs-iscc-plus/), and for the wider question of fuel against credits, [SAF and CORSIA](/insights/sustainable-aviation-fuel-corsia/). If you are about to sign a SAF contract and want the evidence path checked first, [contact us](/contact/) and we will list what the verifier will expect to see.
+For how this scheme differs from its similarly named sibling, see [ISCC CORSIA vs ISCC PLUS](/blog/iscc-corsia-vs-iscc-plus/), and for the wider question of fuel against credits, [SAF and CORSIA](/blog/sustainable-aviation-fuel-corsia/). If you are about to sign a SAF contract and want the evidence path checked first, [contact us](/contact/) and we will list what the verifier will expect to see.

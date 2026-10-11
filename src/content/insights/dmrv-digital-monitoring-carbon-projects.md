@@ -127,4 +127,4 @@ Usually it supplements other evidence rather than replacing it, and calibration 
 Some platforms use a distributed ledger for the audit trail. What matters is an unalterable record that can be inspected; the technology used to achieve it matters less.
 :::
 
-For how monitoring evidence feeds into a buyer's view of a credit, see our [quality assessment guide](/insights/carbon-credit-quality-assessment/), and for a worked example from the field, the [clean cooking case study](/insights/cookstove-clean-cooking-carbon-credits-case-study/). If you are designing monitoring for a project or checking someone else's, [tell us about it](/contact/) and we will say where the evidence is likely to be tested.
+For how monitoring evidence feeds into a buyer's view of a credit, see our [quality assessment guide](/blog/carbon-credit-quality-assessment/), and for a worked example from the field, the [clean cooking case study](/blog/cookstove-clean-cooking-carbon-credits-case-study/). If you are designing monitoring for a project or checking someone else's, [tell us about it](/contact/) and we will say where the evidence is likely to be tested.

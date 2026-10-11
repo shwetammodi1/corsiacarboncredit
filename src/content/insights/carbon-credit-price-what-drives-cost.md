@@ -9,7 +9,7 @@ image: "/images/carbon-guides/carbon-credit-price-drivers.svg"
 
 A tonne of CO2 represented by a carbon credit can cost a couple of dollars, or well over a hundred. First-time buyers tend to read the low end as a bargain. It is better read as a description: the price is telling you what kind of credit it is.
 
-This is the short version, for a buyer who wants to know what they are looking at. If you need to turn prices into a multi-year budget, our longer guide on [carbon credit prices and budgeting](/insights/carbon-credit-prices-explained/) takes that on.
+This is the short version, for a buyer who wants to know what they are looking at. If you need to turn prices into a multi-year budget, our longer guide on [carbon credit prices and budgeting](/blog/carbon-credit-prices-explained/) takes that on.
 
 ## Credits are not like gold
 
@@ -27,11 +27,11 @@ A gram of gold is a gram of gold. A carbon credit is a claim about one reduction
 
 Put simply, avoidance is cheap and durable removal is expensive.
 
-**2. How well it stands up.** Two credits of the same type can price very differently depending on additionality, how conservative the baseline is, permanence and independent verification. Rating agencies exist because buyers will pay for credits that survive scrutiny; our piece on [carbon credit ratings](/insights/carbon-credit-ratings-explained/) explains how they grade.
+**2. How well it stands up.** Two credits of the same type can price very differently depending on additionality, how conservative the baseline is, permanence and independent verification. Rating agencies exist because buyers will pay for credits that survive scrutiny; our piece on [carbon credit ratings](/blog/carbon-credit-ratings-explained/) explains how they grade.
 
 **3. When the reduction happened.** That year is the **vintage**. Older vintages usually trade lower, because buyers and schemes prefer recent reductions and some uses cap how old a vintage can be.
 
-**4. Whether the host country has signed it off.** A unit with a host-country Letter of Authorisation and a corresponding adjustment under Article 6 sells at a clear premium. It can be used for compliance, including CORSIA, without being counted twice. The same unit without that sign-off is cheaper and cannot be used for those purposes. See [CORSIA eligible emissions units](/insights/corsia-eligible-emissions-units-explained/).
+**4. Whether the host country has signed it off.** A unit with a host-country Letter of Authorisation and a corresponding adjustment under Article 6 sells at a clear premium. It can be used for compliance, including CORSIA, without being counted twice. The same unit without that sign-off is cheaper and cannot be used for those purposes. See [CORSIA eligible emissions units](/blog/corsia-eligible-emissions-units-explained/).
 
 **5. Scarcity of the good end.** Within each segment ordinary supply and demand apply. When eligibility rules narrowed the pool of qualifying units, adjusted, high-integrity credits moved up against general voluntary supply. What moves serious prices is how little good supply there is, not how much supply overall.
 
@@ -52,7 +52,7 @@ Offer A is cheapest for three separate reasons: weak additionality, an old vinta
 
 ## Fair price or warning sign
 
-When a credit looks cheap for its type, ask why. Most of the time the answer is on the list above: an old vintage, no corresponding adjustment, a renewable project with weak additionality, or thin verification. A fair price is one that matches the credit's type, vintage, integrity and authorisation. A suspiciously low one is usually a credit you would not want your name next to. Our list of [greenwashing warning signs](/insights/carbon-credit-greenwashing-red-flags/) goes through the common ones.
+When a credit looks cheap for its type, ask why. Most of the time the answer is on the list above: an old vintage, no corresponding adjustment, a renewable project with weak additionality, or thin verification. A fair price is one that matches the credit's type, vintage, integrity and authorisation. A suspiciously low one is usually a credit you would not want your name next to. Our list of [greenwashing warning signs](/blog/carbon-credit-greenwashing-red-flags/) goes through the common ones.
 
 ## Where to start
 

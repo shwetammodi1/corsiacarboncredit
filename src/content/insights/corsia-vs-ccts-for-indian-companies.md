@@ -18,10 +18,10 @@ Sorting out which one touches you is quick. Getting it wrong can waste a year.
 Work through these in order. Most companies have their answer by question 2.
 
 **1. Do you operate aircraft on international flights?**
-If yes, CORSIA applies to those flights, administered in India by the DGCA. Your domestic flying is outside CORSIA, however large it is. Whether you must monitor and report depends on the scheme's scope tests, and whether you must offset depends on the route pairs. See [CORSIA compliance for Indian airlines](/insights/corsia-compliance-for-indian-airlines/).
+If yes, CORSIA applies to those flights, administered in India by the DGCA. Your domestic flying is outside CORSIA, however large it is. Whether you must monitor and report depends on the scheme's scope tests, and whether you must offset depends on the route pairs. See [CORSIA compliance for Indian airlines](/blog/corsia-compliance-for-indian-airlines/).
 
 **2. Are you an energy-intensive manufacturer whose sector and entity have been notified?**
-If yes, the Carbon Credit Trading Scheme applies, run by the Bureau of Energy Efficiency under the Ministry of Power. Sectors that have featured in notifications include aluminium, cement, iron and steel, pulp and paper, chlor-alkali, fertiliser, petrochemicals, refineries and textiles. Your obligation is a greenhouse gas emission intensity target. More in [the Indian carbon market and CCTS explained](/insights/indian-carbon-market-ccts-explained/).
+If yes, the Carbon Credit Trading Scheme applies, run by the Bureau of Energy Efficiency under the Ministry of Power. Sectors that have featured in notifications include aluminium, cement, iron and steel, pulp and paper, chlor-alkali, fertiliser, petrochemicals, refineries and textiles. Your obligation is a greenhouse gas emission intensity target. More in [the Indian carbon market and CCTS explained](/blog/indian-carbon-market-ccts-explained/).
 
 **3. Do you develop projects that reduce or remove emissions?**
 Then you are a potential **supplier** under either scheme, not an obligated party, and you face a choice about which market to serve. That choice is the subject of most of this article.
@@ -54,7 +54,7 @@ A single tonne of reduction can only be counted once. If it is credited under th
 So a developer picks a route, and the routes differ in almost everything:
 
 - **Domestic CCTS offsets** need an approved domestic methodology and registration. Buyers are obligated entities and voluntary buyers. There is no exposure to export policy, and prices follow the domestic scheme.
-- **CORSIA supply** needs an ICAO-approved programme, an eligible vintage and a **corresponding adjustment** authorised by the government. Buyers are airlines with obligations. The price can carry a scarcity premium, but authorisation is a government decision outside the developer's control. See [corresponding adjustments for Indian CORSIA projects](/insights/corsia-corresponding-adjustment-india/).
+- **CORSIA supply** needs an ICAO-approved programme, an eligible vintage and a **corresponding adjustment** authorised by the government. Buyers are airlines with obligations. The price can carry a scarcity premium, but authorisation is a government decision outside the developer's control. See [corresponding adjustments for Indian CORSIA projects](/blog/corsia-corresponding-adjustment-india/).
 - **The voluntary market** needs a recognised standard. Buyers are companies with climate commitments. Access is broadest, and price depends on quality and the project's story.
 
 **Choose before you design the project, not after issuance.** Methodology, registry, documents and buyers all differ. Converting a project from one route to another later is costly and sometimes impossible, especially once vintages have aged out of an eligibility window.

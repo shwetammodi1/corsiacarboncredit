@@ -48,8 +48,8 @@ Because ICAO republishes the participation list, this is ongoing tracking rather
 
 - **The DGCA is your authority.** Reports go to the [DGCA](https://www.dgca.gov.in/), which passes them to ICAO. The Civil Aviation Requirements set out the Indian implementation, formats and timelines, and those dates govern your calendar, not the ICAO documents.
 - **MRV comes first.** Indian operators above the threshold have monitoring and reporting duties whether or not any offsetting applies yet. Building the data capability now is what makes offsetting manageable when it arrives.
-- **The phase determines when costs start.** CORSIA runs from a pilot (2021–2023) and a first phase (2024–2026), both voluntary for States, to a second phase (2027–2035) that is mandatory for most. Where your network sits against that timeline decides when offsetting costs begin. See [what changes for operators at each phase](/insights/corsia-phases-timeline-explained/).
-- **Domestic flying is a separate question.** It sits under national policy, discussed in [CORSIA or CCTS](/insights/corsia-vs-ccts-for-indian-companies/).
+- **The phase determines when costs start.** CORSIA runs from a pilot (2021–2023) and a first phase (2024–2026), both voluntary for States, to a second phase (2027–2035) that is mandatory for most. Where your network sits against that timeline decides when offsetting costs begin. See [what changes for operators at each phase](/blog/corsia-phases-timeline-explained/).
+- **Domestic flying is a separate question.** It sits under national policy, discussed in [CORSIA or CCTS](/blog/corsia-vs-ccts-for-indian-companies/).
 
 ## The MRV year
 
@@ -84,7 +84,7 @@ Wet leasing deserves its own attention because it is both common and commonly mi
 
 ## Offsetting, when it applies
 
-The requirement is calculated from emissions growth against the baseline, adjusted by growth factors and reduced where CORSIA eligible fuels are used. The result is a quantity of CO2 to be matched by cancelling eligible units. What you pay depends on three things: how much traffic falls on participating route pairs, the requirement calculated for that traffic (see [the calculation explained](/insights/corsia-offsetting-requirements-calculation/)), and the price of eligible units when you buy.
+The requirement is calculated from emissions growth against the baseline, adjusted by growth factors and reduced where CORSIA eligible fuels are used. The result is a quantity of CO2 to be matched by cancelling eligible units. What you pay depends on three things: how much traffic falls on participating route pairs, the requirement calculated for that traffic (see [the calculation explained](/blog/corsia-offsetting-requirements-calculation/)), and the price of eligible units when you buy.
 
 Only eligible units count: an approved programme, a permitted vintage, and a corresponding adjustment by the host country. Cancelling an ineligible unit discharges nothing, so checking units before purchase matters as much as price.
 
@@ -103,7 +103,7 @@ Only eligible units count: an approved programme, a permitted vintage, and a cor
 | Verification body identified early | Capacity is limited near deadlines |
 | Compliance calendar with internal milestones | Internal dates ahead of external ones |
 
-The data gap procedure and the monthly check are the two most often missing, and the two most likely to produce findings. The monitoring plan itself is covered section by section in [our monitoring plan guide](/insights/corsia-emissions-monitoring-plan-guide/).
+The data gap procedure and the monthly check are the two most often missing, and the two most likely to produce findings. The monitoring plan itself is covered section by section in [our monitoring plan guide](/blog/corsia-emissions-monitoring-plan-guide/).
 
 ## Where first cycles slip
 

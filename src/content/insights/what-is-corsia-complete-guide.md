@@ -52,7 +52,7 @@ The requirement starts from reported emissions on covered routes, multiplied by 
 
 **The fuels deduction.** Qualifying sustainable aviation fuel or lower-carbon aviation fuel reduces the requirement, provided it meets the sustainability criteria and the chain of custody is documented.
 
-A worked example of the calculation is in [calculating a CORSIA offsetting requirement](/insights/corsia-offsetting-requirements-calculation/).
+A worked example of the calculation is in [calculating a CORSIA offsetting requirement](/blog/corsia-offsetting-requirements-calculation/).
 
 ## The yearly routine
 
@@ -83,7 +83,7 @@ This is the point most newcomers get wrong. A carbon credit and a CORSIA unit ar
 
 **The corresponding adjustment is the constraint that binds.** A project can be well designed, fully verified, issuing and selling freely into the voluntary market, and still be unable to supply CORSIA because its government will not authorise. Governments often hesitate, because each authorisation makes their own Nationally Determined Contribution harder to meet.
 
-The result is a two-tier market. Eligible supply is far scarcer than general voluntary supply and trades at a substantial premium. Benchmarking CORSIA prices against published voluntary averages means reading the wrong number. See [eligible emissions units](/insights/corsia-eligible-emissions-units-explained/) for the full set of tests.
+The result is a two-tier market. Eligible supply is far scarcer than general voluntary supply and trades at a substantial premium. Benchmarking CORSIA prices against published voluntary averages means reading the wrong number. See [eligible emissions units](/blog/corsia-eligible-emissions-units-explained/) for the full set of tests.
 
 ## Programmes: approval is necessary, not sufficient
 

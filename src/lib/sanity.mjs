@@ -1,4 +1,4 @@
-// Pulls blog posts (Insights) and knowledge base articles from Sanity at build time.
+// Pulls blog posts and knowledge base articles from Sanity at build time.
 //
 // Configure with environment variables (Cloudflare Pages → Settings → Variables and Secrets):
 //   SANITY_PROJECT_ID   required to switch Sanity on, e.g. gai5n7ff

@@ -80,7 +80,7 @@ Much of a cargo operator's fuel record starts outside the company, with handlers
 | Monthly reconciliation with each handler | A pattern of gaps is fixable early and permanent late |
 | Keeping the handler's original docket | When a figure is questioned, the source document is the answer |
 
-For ad hoc charter destinations with no standing agreement, put the data requirement on the trip planning checklist so it is captured at the time. More on this in [fuel supplier and handling agent data](/insights/corsia-fuel-supplier-data-coordination/).
+For ad hoc charter destinations with no standing agreement, put the data requirement on the trip planning checklist so it is captured at the time. More on this in [fuel supplier and handling agent data](/blog/corsia-fuel-supplier-data-coordination/).
 
 ## The 2027 question for freight networks
 
@@ -92,7 +92,7 @@ Model it against your actual network. The effect is entirely network-specific, a
 
 ## Other questions cargo operators ask
 
-**EU ETS.** Freight operators serving Europe may face both schemes. They use different instruments, credits under CORSIA and allowances under the EU ETS, and scopes are arranged to limit double obligation on the same emissions. Map your network against both explicitly. See [operating under CORSIA and the EU ETS](/insights/corsia-vs-eu-ets-voluntary-market/).
+**EU ETS.** Freight operators serving Europe may face both schemes. They use different instruments, credits under CORSIA and allowances under the EU ETS, and scopes are arranged to limit double obligation on the same emissions. Map your network against both explicitly. See [operating under CORSIA and the EU ETS](/blog/corsia-vs-eu-ets-voluntary-market/).
 
 **SAF.** It can reduce the obligation where qualifying CORSIA Eligible Fuel is available at your stations, certified under an approved scheme, with documented chain of custody. Availability at cargo hubs varies widely.
 
@@ -102,4 +102,4 @@ Advice earns its fee in five places: operator entity determination for complex g
 
 Keep the understanding of your own flight and fuel data in-house. If nobody on the payroll can explain where a figure came from, verification will be hard whoever wrote the report.
 
-A sensible first step is a scope and entity determination, then a data readiness test before any monitoring plan is written; the [readiness assessment checklist](/insights/corsia-readiness-assessment-checklist/) covers it. If you run freighters or ACMI capacity and want that done properly, [get in touch with the desk](/contact/).
+A sensible first step is a scope and entity determination, then a data readiness test before any monitoring plan is written; the [readiness assessment checklist](/blog/corsia-readiness-assessment-checklist/) covers it. If you run freighters or ACMI capacity and want that done properly, [get in touch with the desk](/contact/).

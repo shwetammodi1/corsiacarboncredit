@@ -96,7 +96,7 @@ function footer() {
     </ul></div>
     <div><h2 class="footer__h">Learn</h2><ul>
       <li><a href="/knowledge-base/">Knowledge base</a></li>
-      <li><a href="/insights/">Insights</a></li>
+      <li><a href="/blog/">Blog</a></li>
       <li><a href="/knowledge-base/corsia-glossary/">Glossary</a></li>
       <li><a href="/knowledge-base/corsia-faq/">FAQ</a></li>
     </ul></div>

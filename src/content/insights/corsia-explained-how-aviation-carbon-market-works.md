@@ -53,14 +53,14 @@ ICAO publishes the actual factors. The sequence is what to take away.
 
 Most operators use both.
 
-- **CORSIA Eligible Emissions Units.** Carbon credits from programmes ICAO has approved, cancelled so no one else can use them. See [what qualifies as an eligible unit](/insights/corsia-eligible-emissions-units-explained/).
+- **CORSIA Eligible Emissions Units.** Carbon credits from programmes ICAO has approved, cancelled so no one else can use them. See [what qualifies as an eligible unit](/blog/corsia-eligible-emissions-units-explained/).
 - **CORSIA Eligible Fuels.** Mainly sustainable aviation fuel, which reduces the requirement directly because it has lower lifecycle emissions when used.
 
 ## Strengths and limits
 
 CORSIA's main achievement is reach. It is the only global instrument putting any price on international aviation carbon, and it does so under one set of rules for almost every airline in the world. Getting that agreed was hard.
 
-The limits are equally clear. A credit pays for a reduction somewhere else; it does not cut what comes out of the engine. So the scheme's environmental value depends on the quality of the units bought. And because it manages growth rather than total emissions, it is a bridge towards decarbonisation, not the end point. Fuel efficiency, sustainable fuel and new propulsion have to do the work inside the sector. [Can carbon markets really cut aviation emissions?](/insights/carbon-markets-reducing-aviation-emissions/) looks at that question directly.
+The limits are equally clear. A credit pays for a reduction somewhere else; it does not cut what comes out of the engine. So the scheme's environmental value depends on the quality of the units bought. And because it manages growth rather than total emissions, it is a bridge towards decarbonisation, not the end point. Fuel efficiency, sustainable fuel and new propulsion have to do the work inside the sector. [Can carbon markets really cut aviation emissions?](/blog/carbon-markets-reducing-aviation-emissions/) looks at that question directly.
 
 ## Short answers
 

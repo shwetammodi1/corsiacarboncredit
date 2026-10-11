@@ -30,7 +30,7 @@ A credit measures the difference between what happened and what would have happe
 
 ### A project that did not need the money
 
-A credit is only meaningful if carbon finance made the reduction happen. A solar plant that was already the cheapest power option, or a forest that nobody intended to cut, produces credits for nothing extra. Our explainer on [additionality](/insights/additionality-in-carbon-credits-explained/) sets out the tests.
+A credit is only meaningful if carbon finance made the reduction happen. A solar plant that was already the cheapest power option, or a forest that nobody intended to cut, produces credits for nothing extra. Our explainer on [additionality](/blog/additionality-in-carbon-credits-explained/) sets out the tests.
 
 ### A bargain that is really an old vintage
 
@@ -38,11 +38,11 @@ Very cheap credits are often simply very old ones, with little recent monitoring
 
 ### A missing corresponding adjustment
 
-If the host country and the buyer both count the same tonne, it has been counted twice. For compliance uses, a corresponding adjustment prevents that, and many voluntary credits do not carry one. A buyer making a compliance-style claim on unadjusted credits is exposed. See [Article 6 in plain English](/insights/article-6-paris-agreement-explained/).
+If the host country and the buyer both count the same tonne, it has been counted twice. For compliance uses, a corresponding adjustment prevents that, and many voluntary credits do not carry one. A buyer making a compliance-style claim on unadjusted credits is exposed. See [Article 6 in plain English](/blog/article-6-paris-agreement-explained/).
 
 ### A headline claim with nothing behind it
 
-"Carbon neutral" printed on a product, with no account of what was reduced, what was offset or which credits were used, is a claim designed not to be checked. The muddle between terms is often deliberate; our piece on [carbon neutral and net zero](/insights/carbon-neutral-vs-net-zero/) untangles them.
+"Carbon neutral" printed on a product, with no account of what was reduced, what was offset or which credits were used, is a claim designed not to be checked. The muddle between terms is often deliberate; our piece on [carbon neutral and net zero](/blog/carbon-neutral-vs-net-zero/) untangles them.
 
 ### No registry trail
 
@@ -58,6 +58,6 @@ Take an illustrative case: a mid-sized Indian manufacturer wants to call a produ
 
 ## Before you sign
 
-Decide what the credits are for, buy within the quality band that purpose needs, and check additionality, baseline, permanence, authorisation and the registry record before the contract, not after. A fuller method is in [how to assess carbon credit quality](/insights/carbon-credit-quality-assessment/).
+Decide what the credits are for, buy within the quality band that purpose needs, and check additionality, baseline, permanence, authorisation and the registry record before the contract, not after. A fuller method is in [how to assess carbon credit quality](/blog/carbon-credit-quality-assessment/).
 
 If you have an offer in front of you and something feels off, [send it to us](/contact/). We can usually tell you within a day which of these signs apply.

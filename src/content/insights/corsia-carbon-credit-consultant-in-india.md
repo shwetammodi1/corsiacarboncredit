@@ -20,7 +20,7 @@ CORSIA, the Carbon Offsetting and Reduction Scheme for International Aviation, i
 - **Monitoring, reporting and verification (MRV).** An aeroplane operator above the emissions threshold monitors CO2 from international flights, reports it every year and has the report checked independently. This applies whether or not anything is owed.
 - **Offsetting.** On route pairs where both States participate, the operator cancels eligible emissions units against growth above the baseline for that traffic.
 
-An Indian operator can have a full MRV duty and no offsetting duty on a given route pair, and each position changes on its own as States join. Our [complete guide to CORSIA](/insights/what-is-corsia-complete-guide/) covers the wider scheme.
+An Indian operator can have a full MRV duty and no offsetting duty on a given route pair, and each position changes on its own as States join. Our [complete guide to CORSIA](/blog/what-is-corsia-complete-guide/) covers the wider scheme.
 
 ## Operator-side work versus supplier-side work
 
@@ -64,7 +64,7 @@ The last item is the one that distinguishes an engagement from an annuity. MRV r
 
 The condition of your fuel data drives the fee far more than anything the consultant brings. An operator whose uplift records are already reconciled per flight and per aircraft, with source documents kept, is a simple engagement. One rebuilding the year from station reports and spreadsheets is buying a data project with a compliance report at the end.
 
-After data quality, in rough order: fleet size and the number of State pairs; the number of legal entities or Air Operator Certificates, since each may need its own plan and report; whether it is a first or a repeat cycle; and any verification findings left to close, which are unbudgeted and avoidable. The firm's brand and location matter least. We go through this in detail in [what drives CORSIA consultant fees in India](/insights/corsia-consultant-cost-and-fees-india/).
+After data quality, in rough order: fleet size and the number of State pairs; the number of legal entities or Air Operator Certificates, since each may need its own plan and report; whether it is a first or a repeat cycle; and any verification findings left to close, which are unbudgeted and avoidable. The firm's brand and location matter least. We go through this in detail in [what drives CORSIA consultant fees in India](/blog/corsia-consultant-cost-and-fees-india/).
 
 ## Testing a firm before you appoint it
 
@@ -83,13 +83,13 @@ Two more questions sort firms quickly. Who will actually do the work, since the 
 
 On independence: a firm that advises you how many units to buy and then sells them to you has an interest in the answer. That can still work if the margin is disclosed and the advice can be separated from the sale. The test applies to any firm that also trades, ourselves included. If neither condition holds, split the roles.
 
-There is no single licence for this work. Look for delivered MRV engagements, familiarity with verification and ISO 14064-3 assurance practice, and a working knowledge of the ICAO documents and DGCA requirements. The longer version of this list is in [questions to ask a CORSIA consultant](/insights/questions-to-ask-a-corsia-consultant/), and the warning signs in [consultant red flags](/insights/corsia-consultant-due-diligence-red-flags/).
+There is no single licence for this work. Look for delivered MRV engagements, familiarity with verification and ISO 14064-3 assurance practice, and a working knowledge of the ICAO documents and DGCA requirements. The longer version of this list is in [questions to ask a CORSIA consultant](/blog/questions-to-ask-a-corsia-consultant/), and the warning signs in [consultant red flags](/blog/corsia-consultant-due-diligence-red-flags/).
 
 ## What is particular about India
 
 **The DGCA is the authority.** Verified reports go to the DGCA, which reports on to ICAO. The DGCA's Civil Aviation Requirements set out CORSIA duties for Indian operators, including the practical deadlines and formats. Check the current CAR on the [DGCA website](https://www.dgca.gov.in/) rather than relying on anyone's summary.
 
-**MRV comes before offsetting.** Indian operators above the threshold have monitoring and reporting duties now. Offsetting depends on the route-pair participation test and on the phase in force; see [what changes at each CORSIA phase](/insights/corsia-phases-timeline-explained/).
+**MRV comes before offsetting.** Indian operators above the threshold have monitoring and reporting duties now. Offsetting depends on the route-pair participation test and on the phase in force; see [what changes at each CORSIA phase](/blog/corsia-phases-timeline-explained/).
 
 **India is a large potential supplier.** Indian projects have historically been among the world's largest sources of carbon credits, and CORSIA is one of the few compliance-grade buyers open to them. The obstacle is the corresponding adjustment, which is a decision for the Government of India, not the developer.
 
@@ -97,7 +97,7 @@ There is no single licence for this work. Look for delivered MRV engagements, fa
 
 ## Do you need a consultant at all
 
-Not necessarily. Most operators take outside help for the first cycle, because the monitoring plan and data flow must be right before any reporting starts, and retrofitting a plan onto a year of data already collected is the most expensive route. After that, the usual pattern is hybrid: internal staff run the annual data work, and an outside reviewer checks it before verification. Fully consultant-led work stays reliable but costly year after year and keeps little knowledge in-house; fully in-house is cheapest once built but risky in year one. The trade-offs are set out in [consultant, in-house team or hybrid](/insights/corsia-consultant-vs-in-house-team/).
+Not necessarily. Most operators take outside help for the first cycle, because the monitoring plan and data flow must be right before any reporting starts, and retrofitting a plan onto a year of data already collected is the most expensive route. After that, the usual pattern is hybrid: internal staff run the annual data work, and an outside reviewer checks it before verification. Fully consultant-led work stays reliable but costly year after year and keeps little knowledge in-house; fully in-house is cheapest once built but risky in year one. The trade-offs are set out in [consultant, in-house team or hybrid](/blog/corsia-consultant-vs-in-house-team/).
 
 The best time to appoint is before the compliance year begins.
 

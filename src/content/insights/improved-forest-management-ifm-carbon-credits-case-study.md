@@ -30,7 +30,7 @@ If the hypothetical harvest is exaggerated, the improvement is exaggerated, and 
 - **the harvest legally permitted** on the land
 - **normal practice in the region**
 
-A baseline justified by those is defensible. One chosen because it produces the largest volume is not. This is the IFM counterpart of the deforestation-rate argument in [jurisdictional REDD+](/insights/jurisdictional-redd-plus-carbon-credits-case-study/).
+A baseline justified by those is defensible. One chosen because it produces the largest volume is not. This is the IFM counterpart of the deforestation-rate argument in [jurisdictional REDD+](/blog/jurisdictional-redd-plus-carbon-credits-case-study/).
 
 ## Test 2: Do the plots support the stock?
 
@@ -54,7 +54,7 @@ The standard and methodology were checked for continued eligibility. Where the b
 
 ## How it compared with other reviews
 
-This portfolio held up better than a renewable energy pool we reviewed in a separate engagement, described in our [renewable energy due-diligence case study](/insights/renewable-energy-carbon-credits-due-diligence-case-study/). The reason is structural: IFM integrity rests on inventory data that can be measured and re-measured, while grid-connected renewables rest on an additionality argument that has become hard to win. The real effort here went into the baseline and the growth models. Once the buyer relied on the more conservative of the available estimates, the units were cleared with a defensible evidence pack.
+This portfolio held up better than a renewable energy pool we reviewed in a separate engagement, described in our [renewable energy due-diligence case study](/blog/renewable-energy-carbon-credits-due-diligence-case-study/). The reason is structural: IFM integrity rests on inventory data that can be measured and re-measured, while grid-connected renewables rest on an additionality argument that has become hard to win. The real effort here went into the baseline and the growth models. Once the buyer relied on the more conservative of the available estimates, the units were cleared with a defensible evidence pack.
 
 ## Points for IFM buyers
 
@@ -63,7 +63,7 @@ This portfolio held up better than a renewable energy pool we reviewed in a sepa
 - Read the reversal and buffer rules for the case where management changes.
 - Where the data gives a range, contract on the lower end.
 
-For a broader comparison of forest project risks, see [REDD+ and afforestation carbon projects](/insights/redd-and-afforestation-carbon-projects/).
+For a broader comparison of forest project risks, see [REDD+ and afforestation carbon projects](/blog/redd-and-afforestation-carbon-projects/).
 
 ## Short answers
 

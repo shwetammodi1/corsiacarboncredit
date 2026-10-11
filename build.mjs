@@ -112,7 +112,7 @@ function articleLd(a, path, type, section) {
   };
 }
 
-// "On this page" for Insights: section headings (h2), plus sub-headings when a post has
+// "On this page" for blog posts: section headings (h2), plus sub-headings when a post has
 // fewer than three h2s (posts written in Sanity often use one h2 and several h3s).
 function tocLinks(toc) {
   const h2 = toc.filter((t) => t.depth === 2);
@@ -288,7 +288,7 @@ function home() {
 <div class="wrap figures-wrap"><div class="figures">
   <div class="figure"><div class="figure__n"><span data-count="${projects.length}">${projects.length}</span></div><div class="figure__l">Projects listed across ${Object.keys(categories).length} categories</div></div>
   <div class="figure"><div class="figure__n"><span data-count="${Math.round(totalVolume / 1000)}">${fmt(Math.round(totalVolume / 1000))}</span>k<small>tCO₂e</small></div><div class="figure__l">Volume available to buyers</div></div>
-  <div class="figure"><div class="figure__n"><span data-count="${kb.length + insights.length}">${kb.length + insights.length}</span></div><div class="figure__l">Guides in the knowledge base and insights library</div></div>
+  <div class="figure"><div class="figure__n"><span data-count="${kb.length + insights.length}">${kb.length + insights.length}</span></div><div class="figure__l">Guides in the knowledge base and blog</div></div>
   <div class="figure"><div class="figure__n"><span data-count="${new Date().getFullYear() - site.parent.founded}">${new Date().getFullYear() - site.parent.founded}</span>+<small>yrs</small></div><div class="figure__l">DSTechnoverse, environmental data &amp; analytics since ${site.parent.founded}</div></div>
 </div></div>
 ${programmeStrip()}
@@ -405,10 +405,10 @@ ${programmeStrip()}
 
 <section class="section section--rule"><div class="wrap">
   <div class="sec-head">
-    <div><p class="eyebrow"><span class="n">07</span> Insights</p><h2 class="h2">Latest from the desk</h2></div>
-    <a class="btn btn--ghost" href="/insights/">All insights ${arrow}</a>
+    <div><p class="eyebrow"><span class="n">07</span> Blog</p><h2 class="h2">Latest from the blog</h2></div>
+    <a class="btn btn--ghost" href="/blog/">All blog posts ${arrow}</a>
   </div>
-  <div class="acards">${latest.map((a) => articleCard(a, "insights")).join("")}</div>
+  <div class="acards">${latest.map((a) => articleCard(a, "blog")).join("")}</div>
 </div></section>
 ${ctaBand()}`;
 
@@ -818,8 +818,8 @@ ${phead({
   <ol class="kb-path">${["what-is-corsia", "how-corsia-works", "corsia-eligible-emissions-units"].map((s, i) => { const a = kb.find((x) => x.slug === s); return a ? `<li><a href="/knowledge-base/${a.slug}/"><span class="kb-path__n">Step ${i + 1}</span><b>${esc(a.title.split(":")[0])}</b><span class="kb-path__x">${esc(a.excerpt)}</span><span class="kb-path__m">${readMins(a.body)} min read →</span></a></li>` : ""; }).join("")}</ol>
 </div></section>
 <section class="section section--rule section--paper2"><div class="wrap">
-  <div class="sec-head"><div><p class="eyebrow">Go further</p><h2 class="h2">Practical guides in Insights</h2><p class="lede">${insights.length} longer pieces on buying, selling, compliance practice and the Indian carbon market.</p></div><a class="btn btn--ghost" href="/insights/">Browse insights ${arrow}</a></div>
-  <div class="acards">${insights.filter((a) => a.topic === "Airline Compliance").slice(0, 3).map((a) => articleCard(a, "insights")).join("")}</div>
+  <div class="sec-head"><div><p class="eyebrow">Go further</p><h2 class="h2">Practical guides on the blog</h2><p class="lede">${insights.length} longer pieces on buying, selling, compliance practice and the Indian carbon market.</p></div><a class="btn btn--ghost" href="/blog/">Read the blog ${arrow}</a></div>
+  <div class="acards">${insights.filter((a) => a.topic === "Airline Compliance").slice(0, 3).map((a) => articleCard(a, "blog")).join("")}</div>
 </div></section>
 ${ctaBand()}`;
   emit("/knowledge-base/", page({ path: "/knowledge-base/", breadcrumbs: [{ name: "Knowledge Base", url: "/knowledge-base/" }], title: "CORSIA Knowledge Base", description: `A ${kb.length}-article reference on CORSIA: scope, phases, growth factors, MRV, eligible emissions units, corresponding adjustments, registries, eligible fuels, pricing and India.`, body }));
@@ -853,7 +853,7 @@ ${ctaBand()}`;
       <span class="kbt-list__body"><b>${esc(a.title)}</b><span>${esc(a.excerpt)}</span><small>${readMins(a.body)} min read</small></span>
       <span class="kbt-list__go" aria-hidden="true">→</span>
     </a></li>`).join("")}</ol>
-    ${related.length ? `<div class="kbt-related"><h2 class="h3">Related guides from Insights</h2><div class="kbt-related__grid">${related.map((a) => `<a href="/insights/${a.slug}/"><small>${esc(a.topic)}</small><b>${esc(a.title)}</b></a>`).join("")}</div></div>` : ""}
+    ${related.length ? `<div class="kbt-related"><h2 class="h3">Related posts from the blog</h2><div class="kbt-related__grid">${related.map((a) => `<a href="/blog/${a.slug}/"><small>${esc(a.topic)}</small><b>${esc(a.title)}</b></a>`).join("")}</div></div>` : ""}
     <div class="pager">
       ${prevT ? `<a href="/knowledge-base/topic/${prevT.slug}/"><span>← Previous topic</span><b>${esc(prevT.section)}</b></a>` : "<div></div>"}
       ${nextT ? `<a class="next" href="/knowledge-base/topic/${nextT.slug}/"><span>Next topic →</span><b>${esc(nextT.section)}</b></a>` : ""}
@@ -909,10 +909,10 @@ function insightsPages() {
   const tc = (t) => insights.filter((a) => a.topic === t).length;
   const body = `
 ${phead({
-  crumbs: [{ label: "Insights" }],
+  crumbs: [{ label: "Blog" }],
   img: PHOTOS.insights,
   eyebrow: `<span class="n">${insights.length}</span> articles`,
-  title: "Insights from the <em class=\"it\">carbon desk</em>",
+  title: "The carbon desk <em class=\"it\">blog</em>",
   lede: "Practical guides on CORSIA compliance, buying and selling credits, pricing, due diligence and India’s carbon market.",
 })}
 <section class="section section--tight" id="insights"><div class="wrap">
@@ -921,11 +921,11 @@ ${phead({
     ${topics.map((t) => `<button class="chip" data-topic="${esc(t)}" aria-pressed="false">${esc(t)} <span>${tc(t)}</span></button>`).join("")}
   </div>
   <h2 class="sr-only">All articles</h2>
-  <div class="acards">${insights.map((a) => articleCard(a, "insights")).join("")}</div>
+  <div class="acards">${insights.map((a) => articleCard(a, "blog")).join("")}</div>
   <div class="more"><button id="ins-more" class="btn btn--ghost">Load more</button></div>
 </div></section>
 ${ctaBand()}`;
-  emit("/insights/", page({ path: "/insights/", breadcrumbs: [{ name: "Insights", url: "/insights/" }], title: "Insights", description: "Guides and analysis on CORSIA compliance, carbon credit buying and selling, pricing, due diligence and the Indian carbon market.", body }));
+  emit("/blog/", page({ path: "/blog/", breadcrumbs: [{ name: "Blog", url: "/blog/" }], title: "Blog", description: "Guides and analysis on CORSIA compliance, carbon credit buying and selling, pricing, due diligence and the Indian carbon market.", body }));
 
   insights.forEach((a) => {
     const r = renderMarkdown(a.body);
@@ -933,7 +933,7 @@ ${ctaBand()}`;
     const body = `
 <div class="wrap">
   <header class="art-head" style="max-width:1040px">
-    <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span>/</span><a href="/insights/">Insights</a><span>/</span><a href="/insights/?topic=${encodeURIComponent(a.topic)}">${esc(a.topic)}</a></nav>
+    <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span>/</span><a href="/blog/">Blog</a><span>/</span><a href="/blog/?topic=${encodeURIComponent(a.topic)}">${esc(a.topic)}</a></nav>
     <h1 class="h1">${esc(a.title)}</h1>
     <p class="lede">${esc(a.excerpt)}</p>
     <div class="art-meta"><span>${dateLong(a.date)}</span><span>${r.minutes} min read</span><span>By the CORSIA Carbon Credit desk</span></div>
@@ -948,14 +948,14 @@ ${ctaBand()}`;
   </div>
 </div>
 ${related.length ? `<section class="section section--rule section--paper2" style="margin-top:80px"><div class="wrap">
-  <div class="sec-head"><div><p class="eyebrow">Keep reading</p><h2 class="h2">More on ${esc(a.topic)}</h2></div><a class="btn btn--ghost" href="/insights/?topic=${encodeURIComponent(a.topic)}">All ${esc(a.topic)} ${arrow}</a></div>
-  <div class="acards">${related.map((x) => articleCard(x, "insights")).join("")}</div>
+  <div class="sec-head"><div><p class="eyebrow">Keep reading</p><h2 class="h2">More on ${esc(a.topic)}</h2></div><a class="btn btn--ghost" href="/blog/?topic=${encodeURIComponent(a.topic)}">All ${esc(a.topic)} ${arrow}</a></div>
+  <div class="acards">${related.map((x) => articleCard(x, "blog")).join("")}</div>
 </div></section>` : ""}
 ${ctaBand()}`;
-    emit(`/insights/${a.slug}/`, page({
-      path: `/insights/${a.slug}/`, title: a.metaTitle || a.title, description: a.metaDescription || a.excerpt, body, ogType: "article", ogImage: a.ogImage,
-      breadcrumbs: [{ name: "Insights", url: "/insights/" }, { name: a.title, url: `/insights/${a.slug}/` }],
-      jsonld: articleLd(a, `/insights/${a.slug}/`, "Article", a.topic),
+    emit(`/blog/${a.slug}/`, page({
+      path: `/blog/${a.slug}/`, title: a.metaTitle || a.title, description: a.metaDescription || a.excerpt, body, ogType: "article", ogImage: a.ogImage,
+      breadcrumbs: [{ name: "Blog", url: "/blog/" }, { name: a.title, url: `/blog/${a.slug}/` }],
+      jsonld: articleLd(a, `/blog/${a.slug}/`, "BlogPosting", a.topic),
     }));
   });
 }
@@ -1088,7 +1088,7 @@ ${phead({ crumbs: [{ label: "Terms" }], title: "Terms of use" })}
 <section class="section section--tight"><div class="wrap"><div class="prose legal">
 <h2 id="listings">Listings are indicative</h2><p>Prices, volumes, vintages and delivery terms shown on the marketplace are indicative. No listing is an offer capable of acceptance. Availability, registry status and — for CORSIA use — programme approval, vintage eligibility and host-State authorisation are confirmed in writing before any contract.</p>
 <h2 id="no-payment">No payments on this site</h2><p>This website does not take payments. Transactions are documented and executed separately, with transfer and retirement recorded on the relevant registry.</p>
-<h2 id="information">Information, not advice</h2><p>The knowledge base, insights and calculator are general information. CORSIA rules are set by ICAO and implemented by national authorities, and they change. Check the official documents and take advice on your specific position before relying on anything here.</p>
+<h2 id="information">Information, not advice</h2><p>The knowledge base, blog and calculator are general information. CORSIA rules are set by ICAO and implemented by national authorities, and they change. Check the official documents and take advice on your specific position before relying on anything here.</p>
 <h2 id="icao">No affiliation</h2><p>CORSIA is a scheme of the International Civil Aviation Organization. This website is independent and is not affiliated with or endorsed by ICAO, any registry or any crediting programme named on it.</p>
 <h2 id="law">Governing law</h2><p>These terms are governed by the laws of India, with courts at Indore, Madhya Pradesh having jurisdiction.</p>
 </div></div></section>`;
@@ -1122,15 +1122,15 @@ function assets() {
   const strip = (md) => md.replace(/!\[[^\]]*\]\([^)]*\)/g, "").replace(/\[([^\]]+)\]\([^)]*\)/g, "$1").replace(/[#*_>|:`-]+/g, " ");
   const idx = [
     ...kb.map((a) => ({ title: a.title, url: `/knowledge-base/${a.slug}/`, group: `Knowledge base · ${a.section}`, text: (a.excerpt + " " + strip((a.body.match(/^#{2,3} .+$/gm) || []).join(" "))).toLowerCase() })),
-    ...insights.map((a) => ({ title: a.title, url: `/insights/${a.slug}/`, group: `Insights · ${a.topic}`, text: (a.excerpt + " " + (a.tags || []).join(" ") + " " + strip((a.body.match(/^#{2,3} .+$/gm) || []).join(" "))).toLowerCase() })),
+    ...insights.map((a) => ({ title: a.title, url: `/blog/${a.slug}/`, group: `Blog · ${a.topic}`, text: (a.excerpt + " " + (a.tags || []).join(" ") + " " + strip((a.body.match(/^#{2,3} .+$/gm) || []).join(" "))).toLowerCase() })),
     ...projects.map((p) => ({ title: p.name, url: `/marketplace/${p.slug}/`, group: `Marketplace · ${p.category}`, text: [p.summary, p.country, p.registry, p.methodology].join(" ").toLowerCase() })),
   ];
   fs.writeFileSync(path.join(OUT, "search-index.json"), JSON.stringify(idx));
 
   // Articles report the date their file last changed; every other page the build date.
   const lastmodOf = (p) => {
-    const m = p.match(/^\/(knowledge-base|insights)\/([^/]+)\/$/);
-    const a = m && (m[1] === "insights" ? insights : kb).find((x) => x.slug === m[2]);
+    const m = p.match(/^\/(knowledge-base|blog)\/([^/]+)\/$/);
+    const a = m && (m[1] === "blog" ? insights : kb).find((x) => x.slug === m[2]);
     if (!a) return today;
     return [a.date, datesOf(a).last].filter(Boolean).sort().pop();
   };

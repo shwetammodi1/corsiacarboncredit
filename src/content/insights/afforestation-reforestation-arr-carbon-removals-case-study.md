@@ -56,9 +56,9 @@ The portfolio's strength was measurability. Its weakness was the one every young
 - **Pay for tonnes that exist.** Projected growth belongs in the "maybe" column.
 - **Ask for plot data, not just maps.** A satellite image is not a carbon measurement.
 - **Read the buffer rules.** How the reserve is sized tells you how seriously reversal risk was taken.
-- **Plan for continued monitoring.** Removals are claimed over years, so the evidence has to keep coming. Sensor-based approaches are covered in [digital MRV](/insights/dmrv-digital-monitoring-carbon-projects/).
+- **Plan for continued monitoring.** Removals are claimed over years, so the evidence has to keep coming. Sensor-based approaches are covered in [digital MRV](/blog/dmrv-digital-monitoring-carbon-projects/).
 
-For a wider view of how forest projects handle baselines and reversals, see [REDD+ and afforestation carbon projects](/insights/redd-and-afforestation-carbon-projects/), and for how the same diligence fits a full purchase, our [buyer-side due diligence case study](/insights/carbon-credit-due-diligence-buyer-case-study/).
+For a wider view of how forest projects handle baselines and reversals, see [REDD+ and afforestation carbon projects](/blog/redd-and-afforestation-carbon-projects/), and for how the same diligence fits a full purchase, our [buyer-side due diligence case study](/blog/carbon-credit-due-diligence-buyer-case-study/).
 
 ## Short answers
 

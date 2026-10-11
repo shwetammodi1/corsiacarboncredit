@@ -74,13 +74,13 @@ Verification examines the evidence, not just the report. Review these as though 
 - **The decision log**, complete for the whole year. The usual pattern is a log that thins out after March.
 - **The gap register**, with its total estimated share matching what the report says.
 - **Captured evidence rather than links**: the participation list at the relevant date, programme approval status, fuel certificates. This is the most common evidence weakness of all.
-- **Third-party records** such as handling agent dockets and supplier statements, the items most likely to be missing because someone else holds them. Our note on [fuel supplier data coordination](/insights/corsia-fuel-supplier-data-coordination/) covers getting them in on time.
+- **Third-party records** such as handling agent dockets and supplier statements, the items most likely to be missing because someone else holds them. Our note on [fuel supplier data coordination](/blog/corsia-fuel-supplier-data-coordination/) covers getting them in on time.
 - **Earlier findings and proof of closure**: what actually changed, not just a statement that it was closed. A repeat finding is taken much more seriously than a first one.
 
 ## If you find an error after submission
 
 Tell the authority and the verifier promptly. An error you find and correct yourself is treated far better than one the verifier uncovers.
 
-After submission comes verification, and then the offsetting requirement once ICAO publishes the growth factors. For what the verifier will do next, read [preparing for a CORSIA audit](/insights/corsia-internal-audit-preparation/) and, if findings arise, [resolving verification findings](/insights/corsia-verification-findings-resolution/).
+After submission comes verification, and then the offsetting requirement once ICAO publishes the growth factors. For what the verifier will do next, read [preparing for a CORSIA audit](/blog/corsia-internal-audit-preparation/) and, if findings arise, [resolving verification findings](/blog/corsia-verification-findings-resolution/).
 
 If you would like an independent pair of eyes on your draft report before the verifier sees it, [contact us](/contact/). A short review before fieldwork is one of the cheaper things you can buy in a compliance year.

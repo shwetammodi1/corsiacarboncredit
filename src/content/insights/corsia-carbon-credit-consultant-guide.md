@@ -42,7 +42,7 @@ The table below is how we would divide the work for most clients. The right spli
 | Validation and verification coordination | Developer | Helpful | Accredited bodies have limited capacity |
 | Buyer matching and offtake terms | Developer | Yes | Authorisation and vintage risk must be allocated in writing |
 
-For the arithmetic behind the requirement, see [calculating offsetting requirements](/insights/corsia-offsetting-requirements-calculation/). For what makes a unit usable, see the [eligibility criteria](/insights/corsia-eligible-emissions-units-criteria/).
+For the arithmetic behind the requirement, see [calculating offsetting requirements](/blog/corsia-offsetting-requirements-calculation/). For what makes a unit usable, see the [eligibility criteria](/blog/corsia-eligible-emissions-units-criteria/).
 
 ## Two things that stay with you
 
@@ -62,7 +62,7 @@ What does exist is different:
 - ICAO approves crediting programmes, which are standards bodies, not advisers;
 - national authorities approve monitoring plans, which belong to the operator, not to whoever drafted them.
 
-A consultant who claims to be "ICAO certified" or "CORSIA certified" is describing something that does not exist, and that alone is a useful filter. Ask instead for evidence: plans that were approved, verifications that were passed, units that were sourced and cancelled, authorisations that were obtained. Our [questions for choosing a consultant](/insights/how-to-choose-corsia-consultant/) turn this into an interview list.
+A consultant who claims to be "ICAO certified" or "CORSIA certified" is describing something that does not exist, and that alone is a useful filter. Ask instead for evidence: plans that were approved, verifications that were passed, units that were sourced and cancelled, authorisations that were obtained. Our [questions for choosing a consultant](/blog/how-to-choose-corsia-consultant/) turn this into an interview list.
 
 ## Four ways to engage, and the order that works
 
@@ -99,7 +99,7 @@ For a developer the timelines are different. Whether authorisation is feasible c
 
 At DSTechnoverse we came to CORSIA from environmental data and analytics rather than from carbon trading, and it shows in how we work. Emissions accounting, growth-factor arithmetic, unit diligence and registry reconciliation are data problems, and data problems are where expensive errors hide. We act for both operators and developers, so our advice on one side is informed by what we see on the other. We also say when something is uncertain, which in this scheme is often.
 
-For India-specific context, see [Indian carbon projects: domestic scheme or international sale](/insights/corsia-consulting-services-india/).
+For India-specific context, see [Indian carbon projects: domestic scheme or international sale](/blog/corsia-consulting-services-india/).
 
 ## Short answers
 

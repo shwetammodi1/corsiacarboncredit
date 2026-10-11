@@ -55,7 +55,7 @@ Businesses in the aviation fuel chain whose product is meant to support a CORSIA
 - Traders and blenders handling certified volumes
 - Fuel suppliers delivering into airports
 
-Airlines do not hold it, but they must understand it, because they have to obtain and keep the resulting documents to get a fuel claim through verification. Our [ISCC CORSIA certification guide](/insights/iscc-corsia-certification-guide/) follows a batch through that chain.
+Airlines do not hold it, but they must understand it, because they have to obtain and keep the resulting documents to get a fuel claim through verification. Our [ISCC CORSIA certification guide](/blog/iscc-corsia-certification-guide/) follows a batch through that chain.
 
 ## Who holds ISCC PLUS
 
@@ -89,7 +89,7 @@ People often confuse ISCC certificates with other environmental instruments. Pla
 
 Fuel certification and credit issuance are run by different institutions for different ends. No certificate from one turns into an instrument of the other.
 
-There is one link worth knowing. For an airline, both routes act on the same obligation. Certified fuel lowers the offsetting requirement, and eligible credits then cover what is left. They work together, and the useful comparison is the cost of each tonne of obligation removed by one route or the other. We compare the two in [SAF and CORSIA](/insights/sustainable-aviation-fuel-corsia/).
+There is one link worth knowing. For an airline, both routes act on the same obligation. Certified fuel lowers the offsetting requirement, and eligible credits then cover what is left. They work together, and the useful comparison is the cost of each tonne of obligation removed by one route or the other. We compare the two in [SAF and CORSIA](/blog/sustainable-aviation-fuel-corsia/).
 
 ## Phrases that should make you pause
 
@@ -134,7 +134,7 @@ It runs for a fixed term, with surveillance audits in between, and must then be 
 :::
 
 ::: accordion Where does fuel certification fit in CORSIA overall?
-It reduces the offsetting requirement. Eligible credits discharge the rest. Our [carbon credits reference](/insights/corsia-carbon-credits-complete-guide/) covers the credit side.
+It reduces the offsetting requirement. Eligible credits discharge the rest. Our [carbon credits reference](/blog/corsia-carbon-credits-complete-guide/) covers the credit side.
 :::
 
 If a customer has asked you for "ISCC" and you are not sure which scheme they mean, or you are an operator reviewing a fuel supplier's documents, [send us what you have](/contact/). We will tell you which certificate applies and what is missing.

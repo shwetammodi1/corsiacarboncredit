@@ -23,13 +23,13 @@ Here is the chain as a covered operator runs it each year.
 
 A few points on the links that cause the most trouble.
 
-**Monitoring.** Every figure further down is derived from this one, so the method is fixed in advance in the monitoring plan and applied consistently all year. The detail is in [CORSIA monitoring, reporting and verification](/insights/corsia-compliance-monitoring-requirements/).
+**Monitoring.** Every figure further down is derived from this one, so the method is fixed in advance in the monitoring plan and applied consistently all year. The detail is in [CORSIA monitoring, reporting and verification](/blog/corsia-compliance-monitoring-requirements/).
 
 **Verification.** Only verified emissions count in the offsetting calculation. An unverified report stalls everything after it.
 
-**The requirement.** The airline does not set its own number. ICAO's methodology turns sector growth, and increasingly the operator's own growth, into a requirement. [How the calculation works](/insights/corsia-offsetting-requirements-calculation/) shows how to estimate it early.
+**The requirement.** The airline does not set its own number. ICAO's methodology turns sector growth, and increasingly the operator's own growth, into a requirement. [How the calculation works](/blog/corsia-offsetting-requirements-calculation/) shows how to estimate it early.
 
-**Buying.** Units must be eligible for the phase you are settling. From 2024 that means carrying a corresponding adjustment. [What qualifies as an eligible unit](/insights/corsia-eligible-emissions-units-explained/) lists the tests.
+**Buying.** Units must be eligible for the phase you are settling. From 2024 that means carrying a corresponding adjustment. [What qualifies as an eligible unit](/blog/corsia-eligible-emissions-units-explained/) lists the tests.
 
 **Cancelling.** A unit sitting in your account has discharged nothing. It has to be cancelled, permanently retired in the registry so it can never be sold or used again, and the records kept.
 
@@ -37,7 +37,7 @@ A few points on the links that cause the most trouble.
 
 Credits are one way to settle. Fuel is the other. When an airline uses **CORSIA Eligible Fuels**, mainly sustainable aviation fuel that meets the scheme's sustainability criteria, the associated emissions reduction comes straight off the offsetting requirement.
 
-Most larger carriers use both: SAF where it can be obtained at a bearable price, units for the rest. As SAF supply grows, the share settled with credits is expected to fall. Eligible fuels could in principle cut the requirement a long way, but supply and cost mean most operators will still need units for the balance for some time. See [SAF or offsets](/insights/corsia-saf-vs-offsets-strategy/) for the trade-off.
+Most larger carriers use both: SAF where it can be obtained at a bearable price, units for the rest. As SAF supply grows, the share settled with credits is expected to fall. Eligible fuels could in principle cut the requirement a long way, but supply and cost mean most operators will still need units for the balance for some time. See [SAF or offsets](/blog/corsia-saf-vs-offsets-strategy/) for the trade-off.
 
 ## Worked example
 

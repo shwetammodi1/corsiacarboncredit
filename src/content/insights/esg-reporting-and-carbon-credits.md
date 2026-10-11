@@ -93,7 +93,7 @@ On credits, an assurer will normally ask for the registry retirement records, th
 
 BRSR, the Business Responsibility and Sustainability Report, applies to listed companies above defined thresholds, and BRSR Core requires assurance over specified attributes. Credits appear in the environmental section, and the same principles apply: gross emissions, credits separately, type and standard named.
 
-Companies that also carry a CORSIA obligation, such as Indian airlines, need to keep the two apart. A CORSIA cancellation discharges a legal duty and should be reported as compliance. Presenting the same units in the sustainability section as a voluntary achievement is a double claim on the same tonnes. The difference between the two markets is set out in [voluntary vs compliance carbon markets](/insights/voluntary-vs-compliance-carbon-markets/).
+Companies that also carry a CORSIA obligation, such as Indian airlines, need to keep the two apart. A CORSIA cancellation discharges a legal duty and should be reported as compliance. Presenting the same units in the sustainability section as a voluntary achievement is a double claim on the same tonnes. The difference between the two markets is set out in [voluntary vs compliance carbon markets](/blog/voluntary-vs-compliance-carbon-markets/).
 
 ## Getting the order right
 
@@ -109,7 +109,7 @@ Companies that end up with disclosures they can defend tend to follow the same s
 | 6. Disclose | Reduction and compensation shown separately, with credit details | Needs everything above |
 | 7. Keep evidence | Retirement records, due diligence, boundary notes | Assurance will ask |
 
-The usual failure is to start at step 5, because it is the only step a purchase order can finish. A company that buys credits before it has measured properly has bought something it cannot describe accurately. Our [guide to scope 1, 2 and 3](/insights/ghg-accounting-scope-1-2-3-explained/) covers step 1.
+The usual failure is to start at step 5, because it is the only step a purchase order can finish. A company that buys credits before it has measured properly has bought something it cannot describe accurately. Our [guide to scope 1, 2 and 3](/blog/ghg-accounting-scope-1-2-3-explained/) covers step 1.
 
 ## Common disclosure errors
 
@@ -141,6 +141,6 @@ Which projects? Have they been criticised? Removals or avoidance? Did anyone che
 What exactly does the claim mean, and what supports it? Would an ordinary consumer read it the way you intend?
 :::
 
-All of these can be answered if the work was done and the evidence kept. None can be answered after the fact from a single summary number. In our experience, the companies that handle scrutiny best are not those with the best figures but those that can explain their figures, including the estimated, uncertain or unflattering parts. A weakness you disclose does far less damage than one somebody else finds. Before you disclose anything, it is worth running the credits through a [quality assessment](/insights/carbon-credit-quality-assessment/).
+All of these can be answered if the work was done and the evidence kept. None can be answered after the fact from a single summary number. In our experience, the companies that handle scrutiny best are not those with the best figures but those that can explain their figures, including the estimated, uncertain or unflattering parts. A weakness you disclose does far less damage than one somebody else finds. Before you disclose anything, it is worth running the credits through a [quality assessment](/blog/carbon-credit-quality-assessment/).
 
 If your next report will mention credits and you want the wording and the evidence checked before it goes to the assurer, [send us the draft](/contact/). We will tell you which sentences are likely to be questioned.

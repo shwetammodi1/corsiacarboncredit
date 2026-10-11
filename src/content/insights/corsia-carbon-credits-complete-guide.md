@@ -80,7 +80,7 @@ A single project can sell into both markets, and its units can be worth quite di
 - **Voluntary market.** Companies buy because they choose to, usually to support a climate claim. They decide what quality to accept. If they buy badly, the cost is to their reputation.
 - **Compliance markets.** Regulated entities buy because the law requires it. The regulator decides what counts. If they fail to comply, the consequence is a legal penalty. The EU ETS, CORSIA and India's CCTS are all compliance systems, though they work in different ways: some trade allowances from a capped pool, CORSIA uses project credits.
 
-The asymmetry matters. A credit acceptable to the strictest compliance scheme will almost always be acceptable to a voluntary buyer. The opposite is seldom true. Compliance eligibility is a small subset of voluntary acceptability, and that is why the same project's output can split into a cheaper voluntary tier and a dearer compliance tier. Our [comparison of voluntary and compliance markets](/insights/voluntary-vs-compliance-carbon-markets/) goes further into the mechanics.
+The asymmetry matters. A credit acceptable to the strictest compliance scheme will almost always be acceptable to a voluntary buyer. The opposite is seldom true. Compliance eligibility is a small subset of voluntary acceptability, and that is why the same project's output can split into a cheaper voluntary tier and a dearer compliance tier. Our [comparison of voluntary and compliance markets](/blog/voluntary-vs-compliance-carbon-markets/) goes further into the mechanics.
 
 ## Where CORSIA sits
 
@@ -170,7 +170,7 @@ Quality is not a number you can look up. It is the sum of answers to specific qu
 
 The verdict could be "acceptable for a carefully worded voluntary claim, unusable for CORSIA". That is a common outcome.
 
-Ratings agencies help with triage, and we use them. They do not replace reading the documents. And a high rating says nothing about CORSIA eligibility: a top-rated project with no corresponding adjustment is still out. Our [quality assessment method](/insights/carbon-credit-quality-assessment/) sets out the full sequence.
+Ratings agencies help with triage, and we use them. They do not replace reading the documents. And a high rating says nothing about CORSIA eligibility: a top-rated project with no corresponding adjustment is still out. Our [quality assessment method](/blog/carbon-credit-quality-assessment/) sets out the full sequence.
 
 ## Standards, and a fuel scheme that is not one
 
@@ -186,9 +186,9 @@ Ratings agencies help with triage, and we use them. They do not replace reading 
 | ART TREES | Jurisdiction-wide forest carbon | TREES credit |
 | Article 6.4 mechanism | The UN mechanism, still being built out | A6.4ER |
 
-Which programmes ICAO accepts is a Council decision and changes over time. Any list in an article, ours included, is a snapshot. Check the [ICAO emissions units page](https://www.icao.int/environmental-protection/CORSIA/Pages/CORSIA-Emissions-Units.aspx) when you transact, and save a dated copy of what it showed, because a link proves nothing about what a page said on the day you relied on it. For a longer comparison, see [carbon credit standards explained](/insights/carbon-credit-standards-explained/).
+Which programmes ICAO accepts is a Council decision and changes over time. Any list in an article, ours included, is a snapshot. Check the [ICAO emissions units page](https://www.icao.int/environmental-protection/CORSIA/Pages/CORSIA-Emissions-Units.aspx) when you transact, and save a dated copy of what it showed, because a link proves nothing about what a page said on the day you relied on it. For a longer comparison, see [carbon credit standards explained](/blog/carbon-credit-standards-explained/).
 
-One recurring confusion: ISCC is not a carbon credit programme. ISCC CORSIA certifies fuel, specifically sustainable aviation fuel that qualifies as a CORSIA Eligible Fuel and so reduces an operator's offsetting requirement. It never issues credits. We explain the scheme in [ISCC CORSIA certification](/insights/iscc-corsia-certification-guide/).
+One recurring confusion: ISCC is not a carbon credit programme. ISCC CORSIA certifies fuel, specifically sustainable aviation fuel that qualifies as a CORSIA Eligible Fuel and so reduces an operator's offsetting requirement. It never issues credits. We explain the scheme in [ISCC CORSIA certification](/blog/iscc-corsia-certification-guide/).
 
 ## Price: what actually moves it
 
@@ -219,7 +219,7 @@ For budgeting, collect real quotes for the vintage, type and volume you would ac
 6. **Take delivery and cancel.** For CORSIA the cancellation must be marked for CORSIA. It cannot be undone.
 7. **Keep the record.** Serial numbers, evidence files, and the exact claim you then make.
 
-The detailed buyer's walkthrough is in [how to buy carbon credits](/insights/how-to-buy-carbon-credits-guide/). Indian operators buying for compliance should also read [the CORSIA unit procurement process](/insights/corsia-unit-procurement-process-india/).
+The detailed buyer's walkthrough is in [how to buy carbon credits](/blog/how-to-buy-carbon-credits-guide/). Indian operators buying for compliance should also read [the CORSIA unit procurement process](/blog/corsia-unit-procurement-process-india/).
 
 ## Claims and disclosure
 
@@ -227,7 +227,7 @@ The detailed buyer's walkthrough is in [how to buy carbon credits](/insights/how
 
 Most self-inflicted damage happens here, after the purchase.
 
-The rule under the GHG Protocol is simple: report scope 1, 2 and 3 emissions as they are, and show credits bought and retired as a separate line. Never deduct them from a scope. A company that publishes "net scope 1 after offsets" has misstated its inventory. The scopes themselves are explained in [GHG accounting: scope 1, 2 and 3](/insights/ghg-accounting-scope-1-2-3-explained/).
+The rule under the GHG Protocol is simple: report scope 1, 2 and 3 emissions as they are, and show credits bought and retired as a separate line. Never deduct them from a scope. A company that publishes "net scope 1 after offsets" has misstated its inventory. The scopes themselves are explained in [GHG accounting: scope 1, 2 and 3](/blog/ghg-accounting-scope-1-2-3-explained/).
 
 How the main frameworks treat credits:
 
@@ -242,14 +242,14 @@ How the main frameworks treat credits:
 
 Units cancelled for CORSIA have already discharged a legal duty. Presenting the same units as a voluntary carbon-neutral achievement is a second claim on the same tonnes, and disclosure regulators are starting to look for it.
 
-Wording has tightened too. "Carbon neutral" claims resting on avoidance credits have drawn regulatory action in several countries. A plain statement of what you did, such as "we retired a stated number of credits of a named type from a named project", holds up better than a label. Our [ESG reporting guide](/insights/esg-reporting-and-carbon-credits/) covers disclosure in more depth.
+Wording has tightened too. "Carbon neutral" claims resting on avoidance credits have drawn regulatory action in several countries. A plain statement of what you did, such as "we retired a stated number of credits of a named type from a named project", holds up better than a label. Our [ESG reporting guide](/blog/esg-reporting-and-carbon-credits/) covers disclosure in more depth.
 
 ## The objections, taken seriously
 
 Carbon markets have real critics with real evidence, and their arguments are shaping the rules. A buyer should know them.
 
 - **Additionality is hard to show.** It asks you to prove what would have happened in a world that did not occur. Journalists and academics have found many projects, especially grid-connected renewables in markets where they had become the cheapest option, where the reduction would probably have happened regardless. Some standards have narrowed or withdrawn methodologies in response.
-- **Some baselines were inflated.** Avoided-deforestation projects have drawn sustained criticism for forecasting more forest loss than then occurred, and so issuing more credits than the work justified. Jurisdiction-wide baselines are one structural answer. We discuss forest projects in [REDD+ and afforestation](/insights/redd-and-afforestation-carbon-projects/).
+- **Some baselines were inflated.** Avoided-deforestation projects have drawn sustained criticism for forecasting more forest loss than then occurred, and so issuing more credits than the work justified. Jurisdiction-wide baselines are one structural answer. We discuss forest projects in [REDD+ and afforestation](/blog/redd-and-afforestation-carbon-projects/).
 - **Stored carbon can be lost.** Fire, drought, disease or a new landowner can release carbon held in trees. Buffer pools exist for this, but they were sized on historic risk and climate-driven losses are rising.
 - **Cookstove numbers have been challenged**, on both usage rates and the share of non-renewable biomass. Independent studies have found real reductions below the credited figures for some methodologies.
 - **Offsetting can delay real cuts.** If compensating is cheaper than changing, some organisations will keep compensating. This is the reason SBTi and most credible frameworks will not accept credits in place of required reductions.

@@ -27,7 +27,7 @@ Fleet age matters too. Newer aircraft burn less fuel per seat, which trims both 
 
 ### Input 2: the price per unit
 
-Demand is the combined offsetting requirement of every participating airline. Supply is the stock of CORSIA-eligible units carrying a corresponding adjustment, which is a small fraction of all carbon credits in existence (see [eligible emissions units](/insights/corsia-eligible-emissions-units-explained/)). When eligibility rules were tightened, usable supply shrank and eligible units moved to a premium over ordinary voluntary credits. The unit price is as much a product of policy as of trading.
+Demand is the combined offsetting requirement of every participating airline. Supply is the stock of CORSIA-eligible units carrying a corresponding adjustment, which is a small fraction of all carbon credits in existence (see [eligible emissions units](/blog/corsia-eligible-emissions-units-explained/)). When eligibility rules were tightened, usable supply shrank and eligible units moved to a premium over ordinary voluntary credits. The unit price is as much a product of policy as of trading.
 
 ### Input 3: the fuel offset
 
@@ -35,7 +35,7 @@ Eligible fuels reduce the offsetting requirement. The catch is that SAF currentl
 
 ### Input 4: the EU ETS, if you fly in Europe
 
-The EU ETS is a cap-and-trade system for flights within the European Economic Area, and its allowances have usually cost considerably more than CORSIA units. The two schemes are arranged so the same flight is not charged twice: broadly, the ETS covers intra-European flying and CORSIA covers departures out of the region. An airline with a big intra-EU network can therefore face an ETS bill larger than its CORSIA bill. Where you fly shapes the exposure as much as how much you fly. For operators caught by both, see [running CORSIA and the EU ETS together](/insights/corsia-vs-eu-ets-voluntary-market/).
+The EU ETS is a cap-and-trade system for flights within the European Economic Area, and its allowances have usually cost considerably more than CORSIA units. The two schemes are arranged so the same flight is not charged twice: broadly, the ETS covers intra-European flying and CORSIA covers departures out of the region. An airline with a big intra-EU network can therefore face an ETS bill larger than its CORSIA bill. Where you fly shapes the exposure as much as how much you fly. For operators caught by both, see [running CORSIA and the EU ETS together](/blog/corsia-vs-eu-ets-voluntary-market/).
 
 ## A worked example (illustrative figures)
 
@@ -63,7 +63,7 @@ Some of it. Airlines work on thin margins and pass costs on where the market let
 | Long-term SAF offtake contracts | Security of fuel supply and a lower obligation |
 | Putting carbon into network and pricing decisions | Routes where carbon cost erodes the margin |
 
-In the better-run airlines, carbon strategy now sits inside commercial planning rather than alongside it. Whether all this actually reduces emissions is a separate question, taken up in [can carbon markets cut aviation emissions](/insights/carbon-markets-reducing-aviation-emissions/).
+In the better-run airlines, carbon strategy now sits inside commercial planning rather than alongside it. Whether all this actually reduces emissions is a separate question, taken up in [can carbon markets cut aviation emissions](/blog/carbon-markets-reducing-aviation-emissions/).
 
 ## A note for Indian carriers
 

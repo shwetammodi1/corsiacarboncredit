@@ -34,7 +34,7 @@ The original approach was a **project-level baseline**: take historic deforestat
 
 Independent analyses have concluded that some projects projected far more deforestation than actually occurred, and therefore issued more credits than their work justified. This is the most serious and most persistent criticism the voluntary market has faced.
 
-The structural response is the **jurisdictional baseline**, set for a whole state or country rather than a single project. It removes much of the developer's discretion. ART TREES works this way, and the move towards jurisdiction-wide accounting is the biggest methodological change in forest carbon. We look at one example in the [jurisdictional REDD+ case study](/insights/jurisdictional-redd-plus-carbon-credits-case-study/).
+The structural response is the **jurisdictional baseline**, set for a whole state or country rather than a single project. It removes much of the developer's discretion. ART TREES works this way, and the move towards jurisdiction-wide accounting is the biggest methodological change in forest carbon. We look at one example in the [jurisdictional REDD+ case study](/blog/jurisdictional-redd-plus-carbon-credits-case-study/).
 
 ## Risk two: leakage
 
@@ -107,7 +107,7 @@ Tick each before committing:
 - Frequency of remote sensing and extent of ground checks
 - Methodology version: current, or an older revision
 
-Our [carbon credit quality assessment](/insights/carbon-credit-quality-assessment/) puts these alongside the checks that apply to every project type.
+Our [carbon credit quality assessment](/blog/carbon-credit-quality-assessment/) puts these alongside the checks that apply to every project type.
 
 ## Reading the criticism sensibly
 

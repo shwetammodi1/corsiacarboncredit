@@ -102,7 +102,7 @@ A trend line drawn across an unexplained boundary change is not a trend.
 - **Mark what is measured and what is estimated.** Supplier-specific scope 3 data and spend-based averages are different grades of number. Say which you used.
 - **Keep the workings.** In three years someone will ask how a figure was built, and its author will have moved on.
 
-These are the same habits that get an airline's CORSIA report through verification. We describe them for aviation in [CORSIA data systems](/insights/corsia-data-systems-and-automation/).
+These are the same habits that get an airline's CORSIA report through verification. We describe them for aviation in [CORSIA data systems](/blog/corsia-data-systems-and-automation/).
 
 ## Where carbon credits go
 
@@ -112,7 +112,7 @@ This is the rule most often broken, so it gets its own section.
 
 The inventory states what was emitted. Credits bought and retired go in a separate disclosure, with type, standard and quantity. A company that reports "net scope 1 after offsets" has misreported, because the single figure hides whether emissions fell or credits were bought.
 
-Aviation has one further point. Units cancelled to meet a CORSIA obligation are a compliance action. They do not reduce the operator's reported scope 1 emissions, and they cannot also be used for a voluntary carbon-neutral claim. How to present credits in annual reports is covered in [ESG reporting and carbon credits](/insights/esg-reporting-and-carbon-credits/), and the reasons credits cannot substitute for cuts under a target are in our note on [science-based targets](/insights/science-based-targets-sbti-explained/).
+Aviation has one further point. Units cancelled to meet a CORSIA obligation are a compliance action. They do not reduce the operator's reported scope 1 emissions, and they cannot also be used for a voluntary carbon-neutral claim. How to present credits in annual reports is covered in [ESG reporting and carbon credits](/blog/esg-reporting-and-carbon-credits/), and the reasons credits cannot substitute for cuts under a target are in our note on [science-based targets](/blog/science-based-targets-sbti-explained/).
 
 ## Quick answers
 

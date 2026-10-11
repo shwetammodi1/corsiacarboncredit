@@ -80,7 +80,7 @@ The offset mechanism lets entities that are not obligated, in practice project d
 | What it produces | CCCs | CCCs |
 | Who buys | Entities short of target | Obligated entities and voluntary buyers |
 
-This is how a biogas plant, a waste methane project, or an efficiency project outside the obligated sectors can create tradeable credits in India. BEE issues the approved methodologies and activity categories. That list decides everything: an activity not on it cannot be credited domestically, however good it is for the climate. Which types tend to work is covered in [carbon credit project types in India](/insights/carbon-credit-project-types-india/).
+This is how a biogas plant, a waste methane project, or an efficiency project outside the obligated sectors can create tradeable credits in India. BEE issues the approved methodologies and activity categories. That list decides everything: an activity not on it cannot be credited domestically, however good it is for the climate. Which types tend to work is covered in [carbon credit project types in India](/blog/carbon-credit-project-types-india/).
 
 ## What changed from PAT
 
@@ -94,7 +94,7 @@ The Perform, Achieve and Trade scheme set energy-efficiency targets for designat
 | Project supply | None | Yes, through the offset track |
 | Certificate | ESCert | CCC |
 
-The main lesson inherited from PAT concerns **how tight targets are**. Loose targets oversupply certificates, the price falls, and the incentive the scheme was built to create disappears. Compliance markets elsewhere, the EU ETS in its early phases among them, learned the same thing. Price formation is covered further in [carbon credit prices in India](/insights/carbon-credit-price-in-india/).
+The main lesson inherited from PAT concerns **how tight targets are**. Loose targets oversupply certificates, the price falls, and the incentive the scheme was built to create disappears. Compliance markets elsewhere, the EU ETS in its early phases among them, learned the same thing. Price formation is covered further in [carbon credit prices in India](/blog/carbon-credit-price-in-india/).
 
 ## A to-do list for obligated plants
 
@@ -130,13 +130,13 @@ The **gap procedure** is the one most often missing. Meters fail. Faced with an 
 
 **Limits:** the approved activity list defines what can be credited; any cap on how much offset supply the compliance track absorbs limits demand; and prices follow target stringency rather than international buyer taste.
 
-The choice a developer faces is which market to build for. International voluntary buyers pay for co-benefits and a strong story. A domestic compliance buyer wants an instrument at the clearing price. They expect different documentation too. Our guide on [starting a carbon credit business in India](/insights/how-to-start-carbon-credit-business-in-india/) works through that decision.
+The choice a developer faces is which market to build for. International voluntary buyers pay for co-benefits and a strong story. A domestic compliance buyer wants an instrument at the clearing price. They expect different documentation too. Our guide on [starting a carbon credit business in India](/blog/how-to-start-carbon-credit-business-in-india/) works through that decision.
 
 ## Links to international markets
 
-India's role in international carbon trading runs through Article 6 of the Paris Agreement, which allows mitigation outcomes to move between countries with **corresponding adjustments** so that the same tonne is not counted twice. A credit exported with an adjustment cannot count towards India's own NDC, so India has been cautious about which activities may generate credits for export. Policy here is still developing. The treaty mechanics are explained in [Article 6 explained simply](/insights/article-6-paris-agreement-explained/).
+India's role in international carbon trading runs through Article 6 of the Paris Agreement, which allows mitigation outcomes to move between countries with **corresponding adjustments** so that the same tonne is not counted twice. A credit exported with an adjustment cannot count towards India's own NDC, so India has been cautious about which activities may generate credits for export. Policy here is still developing. The treaty mechanics are explained in [Article 6 explained simply](/blog/article-6-paris-agreement-explained/).
 
-Aviation runs on a separate scheme, CORSIA, with its own rules on eligible credits; for Indian companies unsure which applies, see [CORSIA or CCTS](/insights/corsia-vs-ccts-for-indian-companies/).
+Aviation runs on a separate scheme, CORSIA, with its own rules on eligible credits; for Indian companies unsure which applies, see [CORSIA or CCTS](/blog/corsia-vs-ccts-for-indian-companies/).
 
 ## Quick answers
 
