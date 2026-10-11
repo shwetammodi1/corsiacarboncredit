@@ -43,6 +43,30 @@ HTTP to HTTPS is handled by Cloudflare ("Always Use HTTPS").
 
 Structured data on every page: Organization and WebSite, plus BreadcrumbList on inner pages. Insights carry Article, knowledge base articles TechArticle, topic pages CollectionPage. FAQPage is only on pages whose content is a list of questions: `/services/` and `/knowledge-base/corsia-faq/` (`FAQ_PAGES` in `build.mjs`). Article dates come from the front matter `date` and the file's git history.
 
+## Adding blog posts and knowledge base articles
+
+Step-by-step guide for editors (in Hinglish): [docs/CONTENT-GUIDE.md](docs/CONTENT-GUIDE.md).
+
+Two sources are merged at build time:
+
+1. **Markdown** in `src/content/insights/` (blog) and `src/content/knowledge-base/`. Copy `_template.md` in either folder; files starting with `_` are not published.
+2. **Sanity**, when `SANITY_PROJECT_ID` is set in the Cloudflare Pages environment. `src/lib/sanity.mjs` fetches published `blog` and `kbArticle` documents and converts their Portable Text to markdown, so they go through the same renderer. A Sanity document with the same slug as a markdown file replaces it. If Sanity is configured but unreachable the build fails, so the last good deployment stays live.
+
+| Variable | Default | |
+|---|---|---|
+| `SANITY_PROJECT_ID` | — | switches Sanity on |
+| `SANITY_DATASET` | `production` | use `corsia` |
+| `SANITY_TOKEN` | — | only for a private dataset (Viewer token) |
+| `SANITY_BLOG_TYPE` / `SANITY_KB_TYPE` | `blog` / `kbArticle` | document type names |
+
+The Sanity Studio (schema for both types, with topic/section dropdowns and SEO fields) is in `studio/`. Run `npm install && npm run dev` there; `npm run deploy` publishes it to https://corsiacarboncredit.sanity.studio. Publishing in Sanity can trigger a rebuild through a Sanity webhook pointed at a Cloudflare Pages deploy hook.
+
+## Tests
+
+```
+npm test           # redirect rules (functions/_middleware.js) and the Sanity → markdown converter
+```
+
 ## Where to edit things
 
 | What | File |

@@ -6,6 +6,7 @@ import { site, categories, sdgs } from "./src/data/site.js";
 import { page, esc, fmt, arrow, ctaBand, waLink, waIcon, searchIcon, mark, ORG_ID } from "./src/lib/layout.mjs";
 import { execFileSync } from "node:child_process";
 import { renderMarkdown, inline, parseFrontmatter } from "./src/lib/markdown.mjs";
+import { loadSanityContent, sanityEnabled, sanityConfig } from "./src/lib/sanity.mjs";
 
 const ROOT = path.dirname(fileURLToPath(import.meta.url));
 const SRC = path.join(ROOT, "src");
@@ -32,14 +33,41 @@ const PHOTOS = {
 };
 const asOf =new Date().toLocaleDateString("en-GB", { month: "short", year: "numeric" });
 
+// Markdown articles. Files starting with "_" (like _template.md) are skipped.
 function loadDir(dir) {
-  return fs.readdirSync(path.join(SRC, dir)).filter((f) => f.endsWith(".md")).map((f) => {
+  return fs.readdirSync(path.join(SRC, dir)).filter((f) => f.endsWith(".md") && !f.startsWith("_")).map((f) => {
     const { data, body } = parseFrontmatter(fs.readFileSync(path.join(SRC, dir, f), "utf8").replace(/\r\n/g, "\n"));
-    return { slug: f.replace(/\.md$/, ""), ...data, body, file: `src/${dir}/${f}` };
+    return { slug: f.replace(/\.md$/, ""), ...data, body, file: `src/${dir}/${f}`, source: "markdown" };
   });
 }
-const kb = loadDir("content/knowledge-base").sort((a, b) => a.order - b.order);
-const insights = loadDir("content/insights").sort((a, b) => b.date.localeCompare(a.date) || a.title.localeCompare(b.title));
+
+// Markdown and Sanity articles together. A Sanity document with the same slug as a
+// markdown file replaces it, so an existing article can be moved into Sanity and edited there.
+const INSIGHT_TOPICS = ["CORSIA Fundamentals", "Airline Compliance", "Carbon Market Guides", "Buying Credits", "Case Studies", "India Carbon Market"];
+const DEFAULT_IMAGE = { insights: "/images/carbon-credits/hero-carbon-credits-guide.svg", kb: "/images/corsia/hero-corsia-knowledge-base.svg" };
+function merge(kind, local, remote) {
+  const bySlug = new Map(local.map((a) => [a.slug, a]));
+  for (const a of remote) {
+    // URLs are built from the slug; anything other than lowercase letters, digits, - and _ is cleaned up.
+    if (!/^[a-z0-9]+(?:[-_][a-z0-9]+)*$/.test(a.slug)) {
+      const clean = a.slug.toLowerCase().normalize("NFKD").replace(/[^a-z0-9_-]+/g, "-").replace(/^[-_]+|[-_]+$/g, "").replace(/-{2,}/g, "-");
+      console.warn(`  Sanity ${kind} "${a.title}": slug "${a.slug}" changed to "${clean}" for the URL`);
+      a.slug = clean;
+    }
+    if (!a.slug) { console.warn(`  Sanity ${kind} "${a.title}": no usable slug, skipped`); continue; }
+    if (kind === "insights" && !INSIGHT_TOPICS.includes(a.topic)) {
+      console.warn(`  Sanity post "${a.slug}": topic "${a.topic ?? ""}" is not one of ${INSIGHT_TOPICS.join(", ")} — filed under Carbon Market Guides`);
+      a.topic = "Carbon Market Guides";
+    }
+    if (bySlug.has(a.slug)) console.log(`  Sanity replaces ${kind}/${a.slug}.md`);
+    bySlug.set(a.slug, { ...a, image: a.image || DEFAULT_IMAGE[kind] });
+  }
+  return [...bySlug.values()];
+}
+const fromSanity = await loadSanityContent();
+if (sanityEnabled) console.log(`Sanity ${sanityConfig.projectId}/${sanityConfig.dataset}: ${fromSanity.blog.length} blog posts, ${fromSanity.kb.length} knowledge base articles`);
+const kb = merge("kb", loadDir("content/knowledge-base"), fromSanity.kb).sort((a, b) => a.order - b.order || a.title.localeCompare(b.title));
+const insights = merge("insights", loadDir("content/insights"), fromSanity.blog).sort((a, b) => b.date.localeCompare(a.date) || a.title.localeCompare(b.title));
 // First and last commit date of every content file, from one git call. Falls back to the build date.
 const today = new Date().toISOString().slice(0, 10);
 const gitDates = (() => {
@@ -58,7 +86,7 @@ const gitDates = (() => {
   } catch { /* not a git checkout */ }
   return map;
 })();
-const datesOf = (a) => gitDates.get(a.file) || { first: today, last: today };
+const datesOf = (a) => (a.source === "sanity" ? { first: a.date || a.updated, last: a.updated } : gitDates.get(a.file) || { first: today, last: today });
 const absUrl = (u) => (u.startsWith("http") ? u : site.url + u);
 
 // Article / TechArticle structured data for knowledge base and insights pages.
@@ -82,6 +110,14 @@ function articleLd(a, path, type, section) {
     articleSection: section,
     ...(a.tags?.length ? { keywords: a.tags.join(", ") } : {}),
   };
+}
+
+// "On this page" for Insights: section headings (h2), plus sub-headings when a post has
+// fewer than three h2s (posts written in Sanity often use one h2 and several h3s).
+function tocLinks(toc) {
+  const h2 = toc.filter((t) => t.depth === 2);
+  const items = h2.length >= 3 ? h2 : toc;
+  return items.length ? `<p class="side-label">On this page</p>${items.map((t) => `<a href="#${t.id}"${t.depth === 3 && items !== h2 ? ' class="lvl3"' : ""}>${esc(t.text)}</a>`).join("")}` : "";
 }
 
 // FAQPage only for pages whose content is a list of questions and answers.
@@ -420,7 +456,9 @@ const KB_TOPICS = [
     blurb: "Glossary, acronyms, frequently asked questions and where to find the official documents.",
     related: /complete-guide|questions-to-ask|readiness-assessment|how-to-choose/ },
 ];
-for (const s of kbSections) if (!KB_TOPICS.find((t) => t.section === s)) throw new Error(`knowledge base section "${s}" has no topic in KB_TOPICS`);
+for (const a of kb) if (!KB_TOPICS.find((t) => t.section === a.section)) {
+  throw new Error(`Knowledge base article "${a.slug}" (${a.source}) has section "${a.section}", which is not one of: ${KB_TOPICS.map((t) => t.section).join(" · ")}`);
+}
 const topicOf = (section) => KB_TOPICS.find((t) => t.section === section);
 const topicArticles = (t) => kb.filter((a) => a.section === t.section);
 const topicRelated = (t) => insights.filter((a) => t.related.test(a.slug)).slice(0, 6);
@@ -906,7 +944,7 @@ ${ctaBand()}`;
       <div class="prose">${r.html}</div>
       ${a.tags?.length ? `<div class="tags">${a.tags.map((t) => `<span>${esc(t)}</span>`).join("")}</div>` : ""}
     </article>
-    <aside class="toc" aria-label="On this page">${r.toc.filter((t) => t.depth === 2).length ? `<p class="side-label">On this page</p>${r.toc.filter((t) => t.depth === 2).map((t) => `<a href="#${t.id}">${esc(t.text)}</a>`).join("")}` : ""}</aside>
+    <aside class="toc" aria-label="On this page">${tocLinks(r.toc)}</aside>
   </div>
 </div>
 ${related.length ? `<section class="section section--rule section--paper2" style="margin-top:80px"><div class="wrap">

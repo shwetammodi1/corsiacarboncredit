@@ -34,7 +34,11 @@ export function renderMarkdown(src) {
         return `<a href="${href}"${title ? ` title="${title}"` : ""}${ext ? ' target="_blank" rel="noopener"' : ""}>${inner}</a>`;
       },
       image({ href, text }) {
-        return `<img src="${href}" alt="${text.replace(/"/g, "&quot;")}" loading="lazy" decoding="async" width="1200" height="630">`;
+        // Sanity image URLs carry the original size (…-1600x900.jpg); use it so the browser reserves the right space.
+        const dims = href.match(/-(\d+)x(\d+)\.\w+(?:\?|$)/);
+        const [w, h] = dims ? [dims[1], dims[2]] : [1200, 630];
+        const attr = (s) => s.replace(/&/g, "&amp;").replace(/"/g, "&quot;");
+        return `<img src="${attr(href)}" alt="${attr(text)}" loading="lazy" decoding="async" width="${w}" height="${h}">`;
       },
     },
   });
