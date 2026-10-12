@@ -65,16 +65,9 @@ npm run deploy            # Studio online: https://corsiacarboncredit.sanity.stu
 Pehli baar `npm run dev` chalane par Sanity localhost ko allow karne (CORS) ke liye poochhega — **Yes** dabao.
 Team ke doosre logon ko https://www.sanity.io/manage → project → **Members** se invite karo.
 
-**3. Website ko Sanity se jodo (Cloudflare)**
+**3. Website ko Sanity se jodo** ✅ (ho chuka hai)
 
-Cloudflare → **Workers & Pages** → `corsiacarboncredit` → **Settings** → **Variables and Secrets** → *Production* mein ye do variables daalo:
-
-| Variable | Value |
-|---|---|
-| `SANITY_PROJECT_ID` | `gai5n7ff` |
-| `SANITY_DATASET` | `corsia` |
-
-Phir **Deployments** → latest deployment → **Retry deployment**. Build log mein ek line aayegi: `Sanity gai5n7ff/corsia: N blog posts, N knowledge base articles`.
+Project ID aur dataset repo ki `wrangler.jsonc` file mein `vars` ke andar likhe hain (`SANITY_PROJECT_ID: gai5n7ff`, `SANITY_DATASET: corsia`). Cloudflare is project ke variables isi file se leta hai, isliye dashboard ke "Variables and Secrets" mein kuch nahi daalna. Har build ke log mein ek line aati hai: `Sanity gai5n7ff/corsia: N blog posts, N knowledge base articles`.
 
 **4. "Publish" dabate hi site update ho — webhook**
 

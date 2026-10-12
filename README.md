@@ -50,7 +50,7 @@ Step-by-step guide for editors (in Hinglish): [docs/CONTENT-GUIDE.md](docs/CONTE
 Two sources are merged at build time:
 
 1. **Markdown** in `src/content/insights/` (blog posts, published at `/blog/<slug>/`) and `src/content/knowledge-base/`. Copy `_template.md` in either folder; files starting with `_` are not published.
-2. **Sanity**, when `SANITY_PROJECT_ID` is set in the Cloudflare Pages environment. `src/lib/sanity.mjs` fetches published `blog` and `kbArticle` documents and converts their Portable Text to markdown, so they go through the same renderer. A Sanity document with the same slug as a markdown file replaces it. If Sanity is configured but unreachable the build fails, so the last good deployment stays live.
+2. **Sanity**, when `SANITY_PROJECT_ID` is set. Production reads it, with `SANITY_DATASET`, from `vars` in `wrangler.jsonc` (gai5n7ff / corsia); because that file exists, Cloudflare ignores plain variables set in the dashboard. `src/lib/sanity.mjs` fetches published `blog` and `kbArticle` documents and converts their Portable Text to markdown, so they go through the same renderer. A Sanity document with the same slug as a markdown file replaces it. If Sanity is configured but unreachable the build fails, so the last good deployment stays live.
 
 | Variable | Default | |
 |---|---|---|

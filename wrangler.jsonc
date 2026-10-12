@@ -3,5 +3,11 @@
   "name": "corsiacarboncredit",
   "compatibility_date": "2026-09-28",
   // Deployed to Cloudflare Pages: `npm run build` writes ./dist, `npm run deploy` uploads it.
-  "pages_build_output_dir": "./dist"
+  "pages_build_output_dir": "./dist",
+  // Read by build.mjs to pull blog posts and knowledge base articles from Sanity (see docs/CONTENT-GUIDE.md).
+  // Cloudflare manages this project's variables from this file, so they live here, not in the dashboard.
+  "vars": {
+    "SANITY_PROJECT_ID": "gai5n7ff",
+    "SANITY_DATASET": "corsia"
+  }
 }
