@@ -23,8 +23,10 @@ const cfg = {
 export const sanityEnabled = Boolean(cfg.projectId);
 
 async function query(groq, params = {}) {
-  const host = cfg.token ? "api.sanity.io" : "apicdn.sanity.io";
-  const url = new URL(`https://${cfg.projectId}.${host}/v${cfg.apiVersion}/data/query/${cfg.dataset}`);
+  // The live API, not apicdn: the publish webhook starts a build within seconds, and the CDN
+  // can still return the version from before the publish (new post missing, old cover image).
+  const url = new URL(`https://${cfg.projectId}.api.sanity.io/v${cfg.apiVersion}/data/query/${cfg.dataset}`);
+  url.searchParams.set("perspective", "published");
   url.searchParams.set("query", groq);
   for (const [k, v] of Object.entries(params)) url.searchParams.set(`$${k}`, JSON.stringify(v));
   const res = await fetch(url, { headers: cfg.token ? { Authorization: `Bearer ${cfg.token}` } : {}, signal: AbortSignal.timeout(30000) });
