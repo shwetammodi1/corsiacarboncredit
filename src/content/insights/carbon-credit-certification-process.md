@@ -154,6 +154,8 @@ Registry tracking prevents the same credit from being used twice. Our guide to [
 
 ## Carbon Credit Validation vs Verification vs Certification
 
+![Timeline of a carbon project showing validation of the design before registration, and verification of results after each monitoring period, before credit issuance](/media/carbon-credit-validation-vs-verification.png)
+
 | Process | Meaning | Main purpose |
 |---|---|---|
 | Validation | Assessment of the proposed project design | Checks whether the project meets design requirements before crediting |
