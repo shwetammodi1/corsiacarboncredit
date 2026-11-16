@@ -1,10 +1,10 @@
 ---
-title: "Carbon Offset Providers and Registry Management for CORSIA Eligible Credits: A Complete Guide"
+title: "Carbon Offset Providers and Registry Management for CORSIA-Eligible Credits: Everything Buyers Need to Know"
 excerpt: "How carbon offset providers, crediting programmes and registries differ, how CORSIA eligible credits are issued, transferred and cancelled, and how buyers check them."
 date: "2026-11-16"
 topic: "Buying Credits"
 tags: ["carbon offset providers", "carbon credit registry", "CORSIA eligible credits", "carbon credit traceability", "CORSIA compliance"]
-image: "/media/carbon-offset-providers-registry-management-corsia.png"
+image: "/media/carbon-offset-providers-registry-management-corsia-cover.jpg"
 metaTitle: "Carbon Offset Providers & Registries for CORSIA Credits"
 metaDescription: "How carbon offset providers and registry management work for CORSIA eligible credits: roles, issuance, transfer, cancellation and how buyers verify units."
 ---
@@ -18,6 +18,8 @@ metaDescription: "How carbon offset providers and registry management work for C
 A provider can source units, but only ICAO's rules and the unit's own registry record show whether it counts for CORSIA. For broader background, see our guides on [CORSIA Carbon Credits](https://corsiacarboncredit.in/).
 
 This guide explains who does what, how a unit moves through a registry, how to verify eligibility and how to choose a provider carefully.
+
+CORSIA does not affect every airline or flight in the same way. Monitoring, reporting and verification of emissions apply to operators emitting more than 10,000 tonnes of CO₂ a year from international flights with aeroplanes above 5,700 kg. The **offsetting obligation**, and therefore the need to buy and cancel eligible units, applies only to flights between participating States.
 
 ## What Are Carbon Offset Providers and How Do They Work?
 
@@ -164,7 +166,15 @@ Assess any provider against these points:
 - **Experience:** it has a track record in carbon market transactions.
 - **Clear contracts:** they cover delivery failure, replacement and any change in eligibility.
 
-Be wary of anyone who **guarantees CORSIA compliance** without showing unit-level evidence. Use the verification checklist above as a due diligence template.
+### Warning signs
+
+- **Unsupported eligibility claims**, such as "CORSIA approved" with no ICAO reference or registry label
+- **Unclear credit origins**, with no project name, programme or serial numbers
+- **Incomplete documentation**, such as missing Letters of Authorization or registry extracts
+- **Refusal to show units in the registry** before payment
+- **Promises of guaranteed compliance** without unit-level evidence
+
+Use the verification checklist above as a due diligence template.
 
 ## Common Registry Management Risks and Challenges
 
@@ -228,24 +238,28 @@ They are organisations that help buyers source, check and acquire carbon credits
 It means operating and using the official record of carbon credits: issuance, serial numbers, account holdings, transfers, labels and final retirement or cancellation.
 :::
 
-::: accordion How are CORSIA eligible credits tracked in registries?
+::: accordion How are CORSIA-eligible credits tracked?
 Each unit has a serial number in its programme's registry, along with its vintage, project and CORSIA eligible label. When used, it is cancelled for CORSIA with the operator and compliance period recorded.
 :::
 
-::: accordion Can any carbon offset provider supply CORSIA eligible credits?
+::: accordion Can any carbon offset provider supply CORSIA-eligible credits?
 A provider can only supply units that already meet ICAO's conditions. Eligibility depends on the programme, scope, vintage, authorisation and label, not on the provider.
 :::
 
-::: accordion How can buyers verify whether a carbon credit is CORSIA eligible?
+::: accordion How can buyers verify CORSIA eligibility?
 Check the latest ICAO document, then confirm the programme, methodology, vintage, authorisation and CORSIA label for the specific serial numbers in the registry. Also confirm the units are still active.
 :::
 
-::: accordion What is the difference between carbon credit transfer and retirement?
-A transfer moves a unit between registry accounts, and the unit stays usable. Retirement or cancellation permanently removes it so it can never be used again.
+::: accordion What is the role of a registry in carbon credit transactions?
+The registry is the official record. It issues units with serial numbers, records which account holds them, moves them between accounts when they are sold, and marks them as retired or cancelled when they are used.
 :::
 
-::: accordion Why is registry management important for CORSIA compliance?
-Registry records prove that the units an airline reports are genuine, eligible and cancelled only once, for the correct operator and compliance period.
+::: accordion What is the difference between carbon credit cancellation and retirement?
+Both permanently remove a unit so it cannot be used again. Retirement is the general term, usually for a voluntary claim. Cancellation for CORSIA records CORSIA as the purpose, along with the aeroplane operator and compliance period.
+:::
+
+::: accordion Why is registry transparency important for CORSIA compliance?
+Transparent registry records let airlines, States and auditors confirm that reported units are genuine, eligible and cancelled only once, for the correct operator and compliance period.
 :::
 
 ## Key Takeaways
