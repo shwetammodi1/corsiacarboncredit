@@ -1,15 +1,15 @@
 ---
-title: "Singapore Eligibility Criteria for Carbon Credits: A Complete Guide"
-excerpt: "How Singapore decides which international carbon credits can offset its carbon tax: the ICC Framework, the seven eligibility principles, Article 6 Implementation Agreements, eligibility lists and the 5% limit."
+title: "Singapore Carbon Credit Eligibility Criteria: A Complete Guide"
+excerpt: "How Singapore decides which international carbon credits can offset its carbon tax: the ICC Framework, the seven eligibility principles, host-country authorisation, how projects are assessed and the 5% limit."
 date: "2026-11-20"
 topic: "Carbon Market Guides"
 tags: ["Singapore eligibility criteria carbon credits", "International Carbon Credit Framework", "Singapore carbon tax", "Article 6", "Implementation Agreements"]
 image: "/media/singapore-eligibility-criteria-carbon-credits.jpg"
-metaTitle: "Singapore Eligibility Criteria for Carbon Credits Explained"
-metaDescription: "Singapore eligibility criteria for carbon credits: the ICC Framework, seven principles, Article 6 Implementation Agreements and the 5% carbon tax offset."
+metaTitle: "Singapore Carbon Credit Eligibility Criteria: Rules Guide"
+metaDescription: "Singapore carbon credit eligibility criteria: the seven ICC principles, host-country authorisation, Article 6 adjustments and the 5% carbon tax offset."
 ---
 
-**Singapore's eligibility criteria for carbon credits** decide which international carbon credits carbon tax-liable companies can use to offset **up to 5% of their taxable emissions**. Under Singapore's **International Carbon Credit (ICC) Framework**, a credit must meet **all seven eligibility principles**:
+**Singapore's carbon credit eligibility criteria** decide which international carbon credits carbon tax-liable companies can use to offset **up to 5% of their taxable emissions**. Under Singapore's **International Carbon Credit (ICC) Framework**, a credit must meet **all seven eligibility principles**:
 
 - not double-counted
 - additional
@@ -21,7 +21,7 @@ metaDescription: "Singapore eligibility criteria for carbon credits: the ICC Fra
 
 Its reductions must also have occurred **between 1 January 2021 and 31 December 2030**, and the host country must have **authorised it for a corresponding adjustment**. In practice, eligible credits come from countries that have signed an **Implementation Agreement** with Singapore, and from programmes and methodologies on the relevant **Eligibility List**. For international aviation's separate scheme, see our [CORSIA Carbon Credits](https://corsiacarboncredit.in/) resources.
 
-This guide explains how the framework works, what each principle means, how to check a credit, and how Singapore's rules differ from CORSIA. It is based on official Singapore government sources available in November 2026. It is general information, not legal advice. This website is not affiliated with or endorsed by the Government of Singapore or ICAO.
+This guide explains how the framework works, what each principle means, how Singapore assesses projects, how to check a credit, and how Singapore's rules differ from CORSIA. It is based on official Singapore government sources, **last checked on 20 November 2026**. It is general information, not legal advice. This website is not affiliated with or endorsed by the Government of Singapore or ICAO.
 
 ## Introduction to Singapore's Carbon Credit Eligibility Framework
 
@@ -53,7 +53,9 @@ On **11 May 2026**, MSE announced that companies could **roll over unused ICC of
 
 ## Singapore's Seven Core Carbon Credit Eligibility Principles
 
-MSE published the eligibility criteria in October 2023. **Eligible ICCs must fulfil all seven principles.**
+MSE published the eligibility criteria in October 2023. **Eligible ICCs must fulfil all seven principles.** Failing any one of them is enough to make a credit ineligible.
+
+![Infographic of Singapore carbon credit eligibility criteria: credits from recognised projects, real and measurable reductions, additional and not already counted, permanence, independent verification and compliance with Singapore's rules](/media/singapore-carbon-credit-eligibility-criteria-1200x800.jpg)
 
 ### 1. Not double-counted
 
@@ -101,6 +103,19 @@ The project must **not cause a material increase in emissions elsewhere**. If it
 
 In addition, the emissions reductions or removals **must have occurred between 1 January 2021 and 31 December 2030**. Credits from older vintages do not qualify, however strong they are.
 
+## Why Does Singapore Follow These Seven Eligibility Principles?
+
+The principles exist so that every tonne used against Singapore's carbon tax represents a **genuine, lasting climate benefit**. Together they:
+
+- **protect environmental integrity**, because an offset only works if the reduction it stands for is real, additional and permanent
+- **keep the carbon market credible**, giving the tax and the offset system public trust
+- **prevent greenwashing**, so companies cannot lower their tax bill with weak or recycled credits
+- **give buyers confidence**, through clear tests they can check before paying
+- **create transparency and accountability**, through independent verification, registries and authorisation records
+- **align with international cooperation**, because the principles mirror Article 6 rules, which helps partner countries trust the transfers
+
+Without these safeguards, the 5% offset allowance could reduce Singapore's tax revenue without any matching climate benefit.
+
 ## Which Carbon Credits Are Eligible in Singapore?
 
 Eligibility works at **several levels at once**:
@@ -119,11 +134,20 @@ NEA has signed memoranda of understanding with **five carbon-crediting programme
 - the American Carbon Registry
 - Architecture for REDD+ Transactions (ART)
 
-Eligibility lists are **specific to each host-country agreement**, because Singapore and each partner agree which methodologies apply. NEA updates the list from time to time.
+Eligibility lists are **specific to each host-country agreement**, because Singapore and each partner agree which methodologies apply. The lists are reviewed and updated regularly.
+
+For example, **Ghana's list** (updated 29 July 2026) accepts:
+
+- Gold Standard for the Global Goals methodologies published before 31 March 2023, excluding the land use, forestry and agriculture category
+- Verra VCS methodologies published before 31 March 2023, excluding most land-use methodologies, with VCS projects also required to show co-benefits
+
+Methodologies can be refused if they are suspended, under review or not the latest version.
 
 **A credit issued under one of these programmes is not automatically eligible.** If the project is in a country without an Implementation Agreement, uses a methodology not on that country's list, lacks authorisation, or falls outside the 2021–2030 window, it does not qualify. Our guide to [carbon credits standards](/blog/carbon-credits-standards/) explains how these programmes work.
 
-## Role of Article 6 of the Paris Agreement in Singapore's Carbon Credit Rules
+## Host-Country Authorisation and Corresponding Adjustments
+
+**Host-country authorisation is the step that makes an international credit usable in Singapore.** Without it, a credit cannot meet the "not double-counted" principle, however strong the project is.
 
 **Article 6.2** of the Paris Agreement allows countries to cooperate by transferring **Internationally Transferred Mitigation Outcomes (ITMOs)**, which are emission reductions moved from one country's climate accounts to another's.
 
@@ -136,21 +160,33 @@ Four ideas make this work:
 
 This differs from much of the voluntary carbon market, where many credits are sold without host-country authorisation or adjustment.
 
+Singapore's Article 6 cooperation also requires two contributions:
+
+- a **5% share of proceeds** for the host country's adaptation actions or the Adaptation Fund
+- the **cancellation of 2% of authorised credits at issuance**, to deliver an overall mitigation in global emissions
+
+**Programme registration or credit issuance alone does not make a credit eligible.** A credit can be properly issued by Verra or Gold Standard and still fail Singapore's rules if the host country has not authorised it for corresponding adjustment under an Implementation Agreement.
+
 ## Singapore's Eligible Host Countries and Implementation Agreements
 
-According to Singapore's National Climate Change Secretariat (page last updated 30 July 2026), **as of June 2026 Singapore had signed Implementation Agreements with 11 countries**:
+As of **20 November 2026**, Singapore's [Article 6 cooperation page](https://www.carbonmarkets-cooperation.gov.sg/our-art6-cooperation/) lists **14 countries** with which Singapore has signed or substantively concluded Implementation Agreements:
 
-- Papua New Guinea
-- Ghana
 - Bhutan
 - Chile
-- Peru
-- Rwanda
+- Ghana
+- Kenya
+- Lao PDR
+- Mongolia
+- Papua New Guinea
 - Paraguay
+- Peru
+- the Philippines
+- Rwanda
 - Thailand
 - Vietnam
-- Mongolia
-- the Philippines
+- Zambia
+
+The Kenya and Zambia agreements were announced on 16 and 18 November 2026. Earlier government pages, written in mid-2026, still refer to 11 agreements. Country-specific Eligibility Lists had been published for **Ghana, Bhutan, Peru, Rwanda, Thailand and Mongolia**. Our guide to the [Singapore carbon credit eligibility list](https://corsiacarboncredit.in/blog/singapore-carbon-credit-eligibility-list/) covers each country's status in detail.
 
 The process has several stages, and they should not be confused:
 
@@ -160,7 +196,24 @@ The process has several stages, and they should not be confused:
 - **Authorised projects:** approved by both governments.
 - **Issued, available credits:** the only units that can actually be surrendered.
 
-A signed agreement does not mean credits are already available. MSE's May 2026 rollover was introduced precisely because few eligible ICCs existed yet. Eligibility requirements and approved methodologies **differ by host country**. Check the official [Singapore Carbon Markets Cooperation website](https://www.carbonmarkets-cooperation.gov.sg/) for each country's current list and project register.
+A signed agreement does not mean credits are already available. MSE's May 2026 rollover was introduced precisely because few eligible ICCs existed yet, and Ghana's project register showed no registered projects as of August 2026. Eligibility requirements and approved methodologies **differ by host country**. Check the official [Singapore Carbon Markets Cooperation website](https://www.carbonmarkets-cooperation.gov.sg/) for each country's current list and project register.
+
+## How Does Singapore Assess Carbon Credit Project Eligibility?
+
+Project eligibility is assessed **separately from programme recognition**. A recognised programme is only one of ten checks:
+
+1. **Project location and host country**
+2. **An applicable Singapore–host-country Implementation Agreement**
+3. **An eligible crediting programme** on that country's list
+4. **An accepted methodology**, in its latest version and within any cut-off date
+5. **Project design and baseline assessment** that is realistic and conservative
+6. **Additionality evidence** beyond legal requirements and business as usual
+7. **Monitoring and verification documentation** from an accredited independent verifier
+8. **Host-country authorisation** under the agreement
+9. **Corresponding adjustment** arrangements
+10. **Registry issuance and traceability** of the resulting credits
+
+A project can pass the first four checks and still fail on authorisation, additionality or verification.
 
 ## How Can Businesses Check Whether a Carbon Credit Is Eligible in Singapore?
 
@@ -174,7 +227,7 @@ A signed agreement does not mean credits are already available. MSE's May 2026 r
 8. **Review validation, verification, issuance and registry records**, including serial numbers.
 9. **Confirm that the credits meet every ICC requirement** before buying or surrendering them, using NEA's current guidance.
 
-Always check the **individual project and credits**, not just the standard's name. Our guide to the [carbon credit certification process](/blog/carbon-credit-certification-process/) explains the validation and verification records to look for.
+Always check the **individual project and credits**, not just the standard's name, and do not rely only on supplier claims or marketing descriptions. Our guide to the [carbon credit certification process](/blog/carbon-credit-certification-process/) explains the validation and verification records to look for.
 
 ## Singapore Carbon Credit Eligibility vs CORSIA Eligibility
 
@@ -201,6 +254,19 @@ Singapore's framework and CORSIA are both high-integrity systems, but they are *
 - **A vintage outside 2021–2030**
 - **Non-compliance** with project, registry or NEA surrender requirements
 
+Developers can reduce these risks by choosing partner countries with agreements in force, using listed methodologies and applying through official calls. Buyers can reduce them by verifying each credit's authorisation, methodology, vintage and registry record before signing.
+
+## Benefits of Singapore's Carbon Credit Eligibility Framework
+
+- **Higher environmental integrity:** only authorised, verified, additional credits qualify.
+- **Greater market confidence:** clear, published criteria and country lists.
+- **More transparent transactions:** project registers, authorisation records and registry tracking.
+- **Better project accountability:** independent verification before issuance.
+- **International climate cooperation:** bilateral agreements channel finance to partner countries, with a share of proceeds for adaptation.
+- **Support for credible projects:** a clear route to market for high-quality developers.
+
+Eligibility does **not** guarantee any particular credit price, commercial return or buyer demand.
+
 ## What Does Singapore's Eligibility Framework Mean for Carbon Credit Buyers and Project Developers?
 
 - **Carbon tax-liable companies:**
@@ -224,7 +290,7 @@ In every case, **check current eligibility before making commercial commitments*
 
 - The carbon tax rises to S$45 for 2026–2027, with a stated aim of S$50–80 by 2030.
 - Eligible ICCs can cover up to 5% of taxable emissions.
-- Implementation Agreements had been signed with 11 countries as of June 2026, with calls for projects launched in several of them.
+- Implementation Agreements had been signed or concluded with 14 countries by November 2026, with calls for projects launched in several of them.
 - A one-year quota rollover from 2025 to 2026 was introduced because eligible ICCs were scarce.
 
 **Expectations and possibilities**
@@ -239,31 +305,31 @@ None of these future developments is guaranteed.
 
 ## Frequently Asked Questions
 
-::: accordion What are Singapore's eligibility criteria for carbon credits?
+::: accordion What are Singapore's carbon credit eligibility criteria?
 International credits must meet all seven principles: not double-counted, additional, real, quantified and verified, permanent, no net harm and no leakage. The reductions must have occurred between 2021 and 2030, and the host country must authorise them for corresponding adjustment.
 :::
 
-::: accordion What is Singapore's International Carbon Credit (ICC) Framework?
-It is the system, under Singapore's Carbon Pricing Act and administered by NEA, that lets carbon tax-liable facilities use eligible international carbon credits to offset up to 5% of their taxable emissions from 2024.
-:::
-
-::: accordion What are the seven principles of Singapore's carbon credit eligibility criteria?
+::: accordion What are the seven principles of Singapore's ICC Framework?
 Not double-counted, additional, real, quantified and verified, permanent, no net harm, and no leakage. Eligible ICCs must fulfil all seven.
 :::
 
-::: accordion Can companies use international carbon credits to offset Singapore's carbon tax?
-Yes, but only taxable facilities, only with eligible ICCs, and only up to 5% of their taxable emissions each year. A one-year rollover of unused 2025 quota into 2026 was also allowed.
+::: accordion What is the 5% carbon credit offset limit in Singapore?
+Since 1 January 2024, carbon tax-liable facilities can use eligible ICCs to offset up to 5% of their taxable emissions each year. It is a cap on use, not permission to use any credit, and a one-year rollover of unused 2025 quota into 2026 was allowed.
 :::
 
-::: accordion Are all Verra and Gold Standard carbon credits eligible in Singapore?
+::: accordion Why are corresponding adjustments required for Singapore carbon credits?
+So the same reduction is not counted twice. The host country authorises the transfer and adds the tonnes back to its own accounts, so only Singapore counts them.
+:::
+
+::: accordion Are all Verra and Gold Standard credits eligible in Singapore?
 No. NEA has MOUs with both programmes, but a credit also needs a host country with an Implementation Agreement, a methodology on that country's Eligibility List, host-country authorisation and a 2021–2030 vintage.
 :::
 
-::: accordion What is the role of Article 6 and corresponding adjustments in Singapore's carbon market?
-ICCs are effectively Article 6 transfers. The host country authorises them and applies a corresponding adjustment, so the same reduction is not counted towards both its own target and Singapore's.
+::: accordion How can businesses verify whether a carbon credit meets Singapore's eligibility criteria?
+Check the host country's Implementation Agreement and Eligibility List on carbonmarkets-cooperation.gov.sg. Then confirm the methodology, project authorisation, vintage, corresponding adjustment, verification reports and registry serial numbers.
 :::
 
-::: accordion What is the difference between Singapore-eligible carbon credits and CORSIA-eligible carbon credits?
+::: accordion What is the difference between Singapore and CORSIA carbon credit eligibility?
 Singapore-eligible ICCs offset part of Singapore's carbon tax under bilateral agreements. CORSIA-eligible units meet airline obligations under ICAO's rules. Eligibility under one does not mean eligibility under the other.
 :::
 
@@ -273,7 +339,7 @@ Singapore's approach to international carbon credits is built on high integrity.
 
 For buyers and developers, the lesson is to check the specific project and credits against current official lists, not just the name of a standard.
 
-Our guide to [carbon credits criteria](https://corsiacarboncredit.in/blog/carbon-credits-criteria/) explains the general quality principles behind these rules. For more on CORSIA carbon credits and international carbon market developments, explore the resources at [CORSIA Carbon Credit](https://corsiacarboncredit.in/).
+For more on CORSIA carbon credits and international carbon market developments, explore the resources at [CORSIA Carbon Credit](https://corsiacarboncredit.in/).
 
 ### Sources
 
@@ -282,6 +348,8 @@ Our guide to [carbon credits criteria](https://corsiacarboncredit.in/blog/carbon
 - [NEA – Carbon tax](https://www.nea.gov.sg/OUR-SERVICES/CLIMATE-CHANGE-ENERGY-EFFICIENCY/CLIMATE-CHANGE/CARBON-TAX)
 - [NCCS – International collaboration (last updated 30 July 2026)](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/internationalcollaboration/)
 - [Singapore Carbon Markets Cooperation](https://www.carbonmarkets-cooperation.gov.sg/)
+- [Singapore Carbon Markets Cooperation – Our Article 6 Cooperation (updated 20 November 2026)](https://www.carbonmarkets-cooperation.gov.sg/our-art6-cooperation/)
+- [Singapore Carbon Markets Cooperation – Ghana Eligibility List (updated 29 July 2026)](https://www.carbonmarkets-cooperation.gov.sg/our-art6-cooperation/ghana/eligibility-list/)
 - [Singapore Statutes Online – Carbon Pricing Act](https://sso.agc.gov.sg/)
 - [UNFCCC – Article 6 of the Paris Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement/article-6)
 - [ICAO – CORSIA Eligible Emissions Units](https://www.icao.int/CORSIA/corsia-eligible-emissions-units)
