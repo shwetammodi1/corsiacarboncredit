@@ -1,262 +1,256 @@
 ---
-title: "What Is the Value of Carbon Credits? Understanding Carbon Credit Prices, Market Factors and Environmental Benefits"
-excerpt: "What a carbon credit is worth in money and in climate terms: dated 2026 prices by market and project type, what drives value, how CORSIA affects it, and how buyers judge value."
+title: "How Much Is a Carbon Credit Worth? Prices and Market Value"
+excerpt: "How much a carbon credit is worth in November 2026: dated prices by market and project type, what drives value, India's CCCs, whether CORSIA units are worth more, how to calculate value and where to check prices."
 date: "2026-11-18"
 topic: "Buying Credits"
-tags: ["value of carbon credits", "carbon credit price", "carbon credit valuation", "CORSIA carbon credit price", "voluntary carbon market"]
+tags: ["how much is a carbon credit worth", "value of carbon credits", "carbon credit price per tonne", "CORSIA carbon credit price", "voluntary carbon market"]
 image: "/media/value-of-carbon-credits.jpg"
-metaTitle: "What Is the Value of Carbon Credits? Prices and Key Factors"
-metaDescription: "What is the value of carbon credits? Dated 2026 prices by market and project type, what drives value, CORSIA effects, and financial vs environmental value."
+metaTitle: "How Much Is a Carbon Credit Worth? Prices and Market Value"
+metaDescription: "How much is a carbon credit worth? Dated 2026 prices by market and project type, what drives value, India, CORSIA units, value calculation and price sources."
 ---
 
-**What is the value of carbon credits?** A carbon credit represents one tonne of CO₂ equivalent reduced or removed. Its **financial value** is whatever a buyer pays for it, and there is no single price:
+**How much is a carbon credit worth?** A carbon credit represents **one tonne of CO₂ equivalent** reduced or removed, and **there is no single price**. In late 2026:
 
-- Average voluntary credits retired in Q3 2026 sold for about **USD 7 per tonne**.
-- CORSIA-eligible units were assessed at about **USD 13–19** during 2026.
-- Some carbon removal credits cost well over **USD 100**.
+- the average voluntary credit retired in **Q3 2026** sold for about **US$6.92 per tonne** (Sylvera)
+- **CORSIA-eligible units** were assessed at about **US$13.00** on 18 November 2026 (Fastmarkets)
+- some **durable carbon removal** credits sold for **well over US$100**
 
-Its **environmental value** depends on whether the reduction is real, additional and lasting. Price and environmental quality are related, but they are not the same thing. For aviation-specific pricing, see our [CORSIA Carbon Credits](https://corsiacarboncredit.in/) resources.
+A credit's worth depends on its **project type, quality, certification, vintage, eligibility and the market** it is sold in. For aviation-specific pricing, see our [CORSIA Carbon Credits](https://corsiacarboncredit.in/) resources.
 
-This guide explains what drives value, gives dated price figures and shows how buyers can judge value before purchasing. Figures reflect sources available in November 2026.
+This guide explains what drives value, gives dated prices for each market and project type, and shows how to calculate and check what a credit is worth. Figures reflect sources available in **November 2026**.
 
-## What Is the Value of a Carbon Credit?
+![Infographic of how much a carbon credit is worth: one credit represents one tonne of CO₂e reduced or removed, the average voluntary credit sold for about US$6.92 in Q3 2026, EU allowances were about €90, CORSIA units about US$13.00, and India's CCCs had no official price yet](/media/how-much-is-a-carbon-credit-worth-1200x800.jpg)
 
-A **carbon credit** is a certificate showing that a project reduced or removed greenhouse gases. It is generally equal to **one metric tonne of CO₂e** under the issuing programme's rules.
+## What Is a Carbon Credit?
 
-A credit's **monetary value** depends on:
+A **carbon credit** is a certificate issued by a carbon-crediting programme. It shows that a project **reduced or removed one metric tonne of CO₂e**, under the programme's rules.
 
-- **project quality**, including additionality, permanence and measurement
-- **methodology and programme**, meaning whose rules it was issued under
-- **market type**, voluntary or compliance
-- **vintage**, the year the reduction happened
-- **eligibility** for specific uses, such as CORSIA
-- **supply and demand** at the time of sale
+Credits are created in stages:
 
-Every credit represents one tonne, but **not every tonne sells for the same price**. A tonne of avoided emissions from an old renewable energy project and a tonne of carbon permanently stored by biochar are both one credit, but buyers value them very differently.
+1. A project, such as a wind farm, methane capture plant or reforestation site, follows an **approved methodology**.
+2. It measures its results against a **baseline** of what would have happened without it.
+3. An accredited body **independently verifies** the results.
+4. The programme **issues** credits into a **registry**, each with a unique serial number.
 
-## How Is the Monetary Value of Carbon Credits Determined?
+**A carbon credit is not a permit to emit.** That is an **allowance**, such as an EU or UK emissions trading allowance, which governments issue under a cap. Credits and allowances are different instruments with different prices.
 
-### 1. Project type
+## How Much Is One Carbon Credit Worth?
 
-- **Renewable energy:** usually among the cheapest credits, partly because additionality is often questioned where renewables are already competitive.
-- **Forestry and reforestation:** prices vary by type. Reforestation removes carbon, while forest protection (REDD+) avoids emissions.
-- **Methane capture:** at landfills or farms, delivering large reductions.
-- **Energy efficiency and cookstoves:** often valued for community co-benefits.
-- **Waste management:** composting, recycling and biogas.
-- **Carbon removal:** biochar, direct air capture and enhanced weathering. These cost more to develop and monitor, and are typically priced highest.
+**There is no single universal carbon credit price.** Every credit represents one tonne, but buyers value tonnes differently depending on:
 
-Nature-based and technology-based solutions differ in cost, risk and buyer demand, so their prices differ too.
+- **market:** voluntary or compliance
+- **project category:** such as renewable energy, forestry or removals
+- **quality:** additionality, permanence and measurement
+- **certification:** which programme and methodology issued it
+- **vintage:** the year the reduction happened
+- **buyer demand:** for that type of credit at that time
 
-### 2. Environmental integrity and quality
+Prices are usually quoted **per tonne of CO₂e (tCO₂e)**, in US dollars for international credits. A tonne of avoided emissions from an old renewable energy project and a tonne of carbon permanently stored by biochar are both one credit, but they sell for very different prices.
 
-Buyers increasingly pay more for credits that score well on:
+## Carbon Credit Prices Across Different Markets
 
-- **additionality**: would the project have happened anyway?
-- **permanence**: how long the carbon stays stored, and what protects against reversal
-- **leakage**: whether emissions simply moved elsewhere
-- **accurate measurement**, with a conservative baseline and quantification
-- **independent validation and verification**
-- **prevention of double counting**
-
-Independent ratings agencies assess these factors, and higher-rated credits often trade at a premium.
-
-### 3. Standard and methodology
-
-The programme, such as Verra, Gold Standard, ACR or the Climate Action Reserve, and the methodology version used, affect buyer confidence. So do monitoring requirements, registry transparency and how issuance is tracked.
-
-### 4. Vintage and location
-
-- **Vintage** is the year the reduction occurred. Newer vintages are often preferred, and some uses accept only certain vintages.
-- **Location** matters to buyers who prefer certain regions, and to rules that require **host-country authorisation**.
-- **Eligibility restrictions**, such as CORSIA's, narrow which credits can be used and raise their value.
-
-### 5. Market supply and demand
-
-Prices also depend on:
-
-- how many credits of a given type are available
-- the number of buyers and the strength of corporate climate commitments
-- regulatory demand, such as from airlines under CORSIA
-- liquidity and wider market conditions
-
-## What Is the Average Price of One Carbon Credit?
-
-There is **no meaningful single average**. Different market segments behave very differently:
-
-| Segment | Figure (USD per tCO₂e unless stated) | Date | Type of figure | Source |
+| Market or instrument | Price | Date | Type of figure | Source |
 |---|---|---|---|---|
-| Voluntary credits, all types (retired) | about 6.92 average | Q3 2026 | Average of retired credits | Sylvera, via [price tracker](https://howtobuycarboncredits.com/prices/carbon-credit-price/) |
-| Reforestation (ARR) | 12.80 (lower rated) to 23.47 (higher rated) | Q3 2026 | Average by rating | Sylvera |
-| Forest protection (REDD+) | 3.56 (lower rated) to 7.75 (higher rated) | Q3 2026 | Average by rating | Sylvera |
-| Renewable energy | about 2.67 | 2024 | Average reported deals | Ecosystem Marketplace |
-| All removal credits | about 19.50 | 2024 | Average reported deals | Ecosystem Marketplace |
-| Biochar removals | over 160 | 2024 | Reported deals | Ecosystem Marketplace |
-| CORSIA first-phase units (spot) | 19.00 | 28 Jan 2026 | Price assessment | [Fastmarkets](https://www.fastmarkets.com/insights/corsia-spot-prices-continue-to-slide-all-eyes-still-on-supply/) |
-| CORSIA first-phase units (Dec 2026 delivery) | 13.15 | Mid-Oct 2026 | Price assessment | [green.earth](https://www.green.earth/news/corsia-activity-builds-across-prices-airlines-and-supply) |
-| EU ETS allowances (compliance) | about €90 | 2–4 Nov 2026 | Exchange futures price | [GMK Center](https://gmk.center/en/news/european-carbon-prices-exceeded-e90-t-in-november/) |
+| Voluntary credits, all types | about US$6.92/tCO₂e | Q3 2026 | Average of retired credits | Sylvera |
+| CORSIA Phase 1 units | US$13.00/tCO₂e | 18 Nov 2026 | Spot assessment | Fastmarkets |
+| Reforestation (nature-based removals) | US$12.80–23.47/tCO₂e | Q3 2026 | Average by rating | Sylvera |
+| Renewable energy credits | about US$2.67/tCO₂e | 2024 | Average reported deals | Ecosystem Marketplace |
+| EU ETS allowances (compliance) | about €90/t | mid-Nov 2026 | Futures market price | GMK Center |
 
-These categories are **not interchangeable**:
+- **Voluntary carbon markets:** companies buy project-based credits by choice for climate claims. Prices vary widely with quality and type.
+- **Compliance carbon markets:** governments require covered companies to hold **allowances**, such as EU or UK ETS allowances. These are permits, not credits.
+- **CORSIA-eligible emissions units:** credits approved for airline offsetting under ICAO rules, with limited supply.
+- **Nature-based credits:** from forests, mangroves and soils, priced by type and rating.
+- **Renewable energy and other project credits:** often the cheapest, because many are older and their additionality is questioned.
 
-- **EU ETS allowances** are permits to emit under a cap, not carbon credits, and voluntary credits cannot be used in their place.
-- **Voluntary averages** mix many project types and qualities.
-- **Removal credits** serve different claims from avoidance credits.
+**These instruments are not interchangeable** and do not share one common market price.
 
-Averages and assessments are not quotes, so actual deals for a specific credit can be higher or lower. Our guide on [how carbon credit prices are quoted](/knowledge-base/how-carbon-credit-prices-are-quoted/) explains the different types of price figure.
+## What Factors Determine the Value of a Carbon Credit?
 
-## What Is the Difference Between Financial Value and Environmental Value?
+- **Project type and environmental impact:** removals and newer technologies usually earn more than avoidance credits.
+- **Additionality:** buyers pay more when a project clearly needed carbon finance.
+- **Permanence:** longer, safer storage commands more, and buffer arrangements matter for nature-based credits.
+- **Verification and certification standards:** the programme, such as Verra, Gold Standard, ACR or the Climate Action Reserve, and the strength of independent audits.
+- **Vintage and methodology:** newer vintages and current methodologies are usually preferred.
+- **Removal versus avoidance:** durable removals are scarcer and preferred for net-zero claims.
+- **Supply and demand:** scarcity of a credit type raises its price.
+- **Buyer preferences and reputation:** independent ratings and media scrutiny affect demand.
+- **Host-country authorisation and corresponding adjustments:** needed for some uses, such as CORSIA's first phase, and they narrow supply.
 
-**Financial value** covers:
+Independent ratings agencies assess many of these factors. Sylvera reported that the **price gap between higher- and lower-rated credits** widened to about **US$4.19** in Q3 2026.
 
-- the market price
-- the costs of developing and verifying the project
-- buyer demand and liquidity
-- eligibility for specific uses
-- transaction and registry costs
+## How Much Are Different Types of Carbon Credits Worth?
 
-**Environmental value** covers:
+*Prices below are dated averages or ranges, not quotes.*
 
-- verified greenhouse gas reductions or carbon removals
-- the real contribution to climate mitigation
-- biodiversity benefits, such as protected forests
-- community and sustainable development co-benefits, such as health, jobs and clean water
-- long-term impact, including permanence
+- **Forestry and afforestation:** reforestation credits averaged **US$12.80 to 23.47** in Q3 2026, and forest protection (REDD+) credits **US$3.56 to 7.75**, depending on rating (Sylvera).
+- **Renewable energy:** about **US$2.67** on average in 2024 (Ecosystem Marketplace).
+- **Methane reduction:** large, measurable reductions, but **we found no reliable current public average**, because prices vary with methodology and local rules.
+- **Cookstove projects:** household devices, including cookstoves, averaged about **US$7.30** in 2024 (Ecosystem Marketplace). Value depends heavily on usage monitoring.
+- **Soil carbon:** a small, developing segment, with **no reliable public average** we could verify.
+- **Direct air capture and engineered removals:** among the most expensive, but **public prices are limited** because most deals are private forward contracts. Biochar averaged **over US$160** in 2024, and all removal credits about **US$19.50** (Ecosystem Marketplace).
 
-| Financial value | Environmental value |
-|---|---|
-| Shown by the market price | Shown by climate and environmental outcomes |
-| Driven by supply and demand | Driven by project performance and integrity |
-| Changes over time | Depends on verified results and long-term impact |
-| Matters to buyers and sellers | Matters to climate and sustainability goals |
+**Price is not proof of quality.** A higher price does not guarantee better environmental outcomes, and some low-cost projects deliver real reductions. Check the evidence, not only the price.
 
-**Price is not proof of quality.** A higher price does not guarantee better environmental outcomes, and a lower price does not automatically mean low quality. Some low-cost projects deliver real reductions. Buyers should check the evidence, not only the price tag.
+## How Much Is a Carbon Credit Worth in India?
 
-## How Does the CORSIA Carbon Market Affect Carbon Credit Value?
+India has two different markets:
 
-**CORSIA**, the Carbon Offsetting and Reduction Scheme for International Aviation, is ICAO's global market-based measure for international aviation's CO₂. Airlines with offsetting requirements on routes between participating States must cancel **CORSIA eligible emissions units**, which creates compliance demand for a narrow set of credits.
+- **Voluntary credits from Indian projects**, issued under programmes such as Verra, Gold Standard or the Global Carbon Council, sell at **international prices in US dollars**. Indian renewable energy credits are common, and they are among the lowest-priced types.
+- **Carbon Credit Certificates (CCCs)** are domestic units under India's **Carbon Credit Trading Scheme (CCTS)**, run by the Bureau of Energy Efficiency and regulated by the Central Electricity Regulatory Commission.
 
-Eligibility restricts supply:
+**As of November 2026, no CCC had traded on an Indian power exchange, so there was no official CCC price.** Analyst projections vary widely and are not trade prices or official rates.
 
-- **Programme level:** only programmes approved by the ICAO Council for the relevant compliance period count.
-- **Unit level:** each unit must fall within the approved scope and meet date and vintage windows. For the first phase (2024–2026), that generally means activities starting on or after 1 January 2016 and vintages from 2021 to 2026. First-phase units also need host-country authorisation and a corresponding adjustment, and a CORSIA label in the registry.
+Indian project values depend on project type, vintage, methodology, verification costs and, for international compliance uses, **Indian government authorisation**. Our guide to [the value of one carbon credit in India](https://corsiacarboncredit.in/blog/value-of-one-carbon-credit-in-india/) explains this in more detail.
 
-Limited eligible supply against airline demand is why CORSIA-eligible units have traded above average voluntary credits. Their price also moves with supply news: first-phase assessments fell from about USD 19 in January 2026 to about USD 13 by October as more labelled units reached the market.
+## Are CORSIA Carbon Credits Worth More?
 
-**Not all voluntary credits are CORSIA eligible**, and programme approval does not make every unit qualify. Eligibility must be checked against the latest ICAO rules, and **buying a credit alone does not complete compliance**. Units must be cancelled and reported. Our guide to the [CORSIA carbon credit price in 2026](/blog/corsia-carbon-credit-price-2026/) covers these prices in more detail. Our article on [CORSIA eligible carbon credits](/blog/corsia-eligible-carbon-credits/) explains the eligibility rules.
+**CORSIA**, the Carbon Offsetting and Reduction Scheme for International Aviation, is ICAO's global market-based measure for international aviation's CO₂. Airlines with offsetting requirements must cancel **CORSIA eligible emissions units**.
 
-## Why Do Carbon Credit Prices Change Over Time?
+A unit is only eligible if:
 
-Prices change because of:
+- its **programme** is approved by the ICAO Council for the compliance period
+- the **unit** meets that period's conditions. For the first phase (2024–2026), that generally means activities starting on or after 1 January 2016, vintages from 2021 to 2026, host-country authorisation with a corresponding adjustment, and a CORSIA label in the registry
 
-- **supply changes**, such as new issuances, newly labelled CORSIA units or project cancellations
-- **demand shifts**, such as new corporate climate commitments or slowing commitments
-- **new regulations**, such as compliance schemes or rules on environmental claims
-- **rising quality expectations** and new integrity benchmarks
-- **new methodologies**, which can expand or restrict supply
-- **vintage restrictions** that exclude older credits
-- **host-country authorisations and corresponding adjustments**
-- **market uncertainty** and wider economic conditions
-- **international developments**, such as Article 6 of the Paris Agreement
+Because eligible supply is limited, CORSIA units have been assessed **above** the average voluntary credit in 2026. But the price moves a lot:
 
-### Illustrative example (hypothetical)
+- **US$19.00** on 28 January 2026 (Fastmarkets)
+- **US$9.45**, a Phase 1 low, on 1 July 2026 (S&P Global Platts)
+- **US$13.00** on 18 November 2026 (Fastmarkets)
 
-*All figures are illustrative, not market data.* Suppose a compliance scheme needs 100 eligible units by a deadline, but only 40 exist. Buyers compete, and sellers raise their asking price from 10 to 15. Then 50 more units are approved, so the pressure eases and prices fall back towards 12. If no new units are approved, prices may stay high until the deadline.
+**CORSIA eligibility does not guarantee a price premium.** Ordinary voluntary credits are not automatically eligible, and eligibility must be checked against ICAO's latest documents. Our article on [CORSIA eligible carbon credits](/blog/corsia-eligible-carbon-credits/) explains the rules.
 
-## How Can Buyers Evaluate the Value of Carbon Credits?
+## How Is the Value of Carbon Credits Calculated?
 
-- **Define the purpose:** voluntary offsetting, a removal claim or compliance such as CORSIA.
-- **Check the programme** and its rules.
-- **Review the project type and methodology**, including the version used.
-- **Examine validation and verification reports.**
-- **Assess additionality and permanence**, including buffer arrangements for nature-based credits.
-- **Check the vintage and registry records**, including serial numbers and issuance.
-- **Evaluate double-counting risks.**
-- **Confirm host-country authorisation** where it is required.
-- **Check CORSIA eligibility** against ICAO's current document if the credits are for aviation compliance.
-- **Compare prices on a like-for-like basis:** the same category, date, currency and type of figure.
-- **Review documentation** for the purchase, transfer and retirement.
+> **Gross carbon credit value = Number of credits × Price per credit**
 
-**The cheapest credit is not always the best value.** A low-priced credit that fails quality checks, or is not eligible for your purpose, has little real value.
+**Illustrative example (hypothetical price):** a buyer purchases 1,000 credits at an assumed US$10 each.
 
-### Example 1: A renewable energy credit (hypothetical)
+1,000 × US$10 = **US$10,000 gross**
 
-*This example is hypothetical.* A grid-connected solar plant earns credits under an approved methodology. Its value depends on several things:
+The actual transaction value can differ because of:
 
-- whether additionality is convincing in a market where solar is already cheap
-- how recent the vintage is
-- the methodology and the programme's reputation
-- how much buyer demand there is for renewable avoidance credits
+- **fees and brokerage**
+- **registry charges** for transfers and retirement
+- **verification costs**, for sellers
+- **contractual terms**, such as delivery dates, replacement guarantees and payment timing
+- **taxes and other deductions**, where applicable
 
-It may sell at a low price if buyers doubt its additionality. It could command more if it qualifies for a compliance use.
+Averages and assessments are not quotes. Our guide on [how carbon credit prices are quoted](/knowledge-base/how-carbon-credit-prices-are-quoted/) explains the difference between bids, offers, assessments and averages.
 
-### Example 2: A carbon removal project (hypothetical)
+## Where Can You Check Carbon Credit Prices?
 
-*This example is hypothetical.* A biochar producer turns crop waste into stable carbon added to soil. It faces high equipment and monitoring costs and must show how long the carbon will last. Because buyers value durable removals for net-zero claims, its credits are priced much higher than avoidance credits. Its value still depends on verified measurement and permanence evidence.
+- **World Bank Carbon Pricing Dashboard:** carbon taxes and emissions trading system prices, not voluntary credits.
+- **Ecosystem Marketplace:** annual voluntary market reports by project type.
+- **AlliedOffsets and Sylvera:** voluntary market data and ratings, some behind subscriptions.
+- **ICAP:** compliance emissions trading system prices worldwide.
+- **Price reporting agencies:** such as Fastmarkets and S&P Global Platts, for CORSIA units and other benchmarks.
+- **Official domestic authorities:** such as India's BEE and CERC, Australia's Clean Energy Regulator or the UK ETS Authority.
+- **Programme registries:** such as Verra and Gold Standard, for credit status, but not prices.
+- **ICAO:** for CORSIA eligibility, not prices.
 
-## Future Outlook of Carbon Credit Value and Pricing
+**Each source reports different instruments and price types.** Always check the date, currency, unit and type of figure.
 
-Factors that may shape value include:
+## Is Buying Carbon Credits a Good Investment?
 
-- **corporate climate action**, which has risen and fallen with economic conditions and scrutiny
-- **integrity standards**, which are pushing demand towards higher-rated credits
-- **high-quality carbon removals**, which are expanding but remain costly
-- **Article 6**, which links some credits to national accounting and may set them apart
-- **CORSIA**, whose second phase starts in 2027 and whose eligible supply depends on ICAO approvals and host-country authorisations
-- **more transparent registries and ratings**, which help price quality differences
-- **demand for credible reductions and removals** over low-quality credits
+This article does not give investment advice. Consider:
 
-The trend so far is a **widening price gap** between low- and high-integrity credits, and between avoidance and removal credits. Future price levels cannot be predicted with certainty.
+**Possible opportunities:**
+
+- compliance demand, such as from airlines under CORSIA
+- growing interest in high-quality and removal credits
+
+**Risks:**
+
+- **volatility:** CORSIA units ranged from about US$9 to US$19 in 2026
+- **liquidity:** many credits are hard to resell quickly
+- **quality risk:** integrity concerns can cut the value of some types
+- **regulatory change:** new rules can make credits ineligible
+- **project risk:** delivery failure or reversal
+
+**No return is guaranteed.** Most companies buy credits to meet climate goals or obligations, not as investments.
+
+## What Is the Future Value of Carbon Credits?
+
+**Evidence-based trends:**
+
+- the **price gap** between higher- and lower-rated credits widened in 2026
+- removals command much higher prices than avoidance credits
+- **CORSIA's second phase** begins in 2027
+- national markets, such as India's CCTS, are being built
+
+**Possible developments, not forecasts:**
+
+- more demand for high-integrity credits under new standards and labels
+- growth of carbon removal projects, which could lower removal costs over time
+- more Article 6 transfers between countries
+- regulatory changes that raise or lower demand
+
+Future prices **cannot be predicted with certainty**. Our guide to [carbon credit use cases by industry](https://corsiacarboncredit.in/blog/carbon-credit-use-cases-by-industry/) shows how different buyers use credits in practice.
 
 ## Frequently Asked Questions
 
-::: accordion What is the value of one carbon credit?
-It represents one tonne of CO₂e reduced or removed. Its financial value varies widely: average voluntary credits sold for about USD 7 in Q3 2026, CORSIA-eligible units were assessed at about USD 13–19 in 2026, and some removals cost over USD 100.
+::: accordion How much is one carbon credit worth?
+There is no single price. The average voluntary credit retired in Q3 2026 sold for about US$6.92 per tonne (Sylvera). CORSIA units were assessed at US$13.00 on 18 November 2026, and some removals cost over US$100.
 :::
 
-::: accordion How much is a carbon credit worth?
-It depends on project type, quality, vintage, programme, eligibility and market conditions. There is no single price, so check dated figures for the specific category.
+::: accordion What is the average price of a carbon credit?
+About US$6.92 per tonne for voluntary credits retired in Q3 2026, and US$6.12 for Q1–Q3 2026, according to Sylvera.
+:::
+
+::: accordion How much is one tonne of CO₂ worth in carbon credits?
+One credit generally equals one tonne of CO₂e, so a tonne is worth whatever that credit sells for, from a few dollars for some avoidance credits to well over US$100 for durable removals.
 :::
 
 ::: accordion Why do carbon credit prices vary?
-Because credits differ in project type, integrity, permanence, vintage and eligibility. They are also sold in different markets with different supply and demand.
+Credits differ in project type, quality, permanence, vintage, certification and eligibility, and they are sold in different markets with different supply and demand.
 :::
 
-::: accordion What factors determine carbon credit value?
-Project type, environmental integrity, the programme and methodology, vintage and location, eligibility for uses such as CORSIA, and the balance of supply and demand.
+::: accordion Are all carbon credits worth the same amount?
+No. Each represents one tonne, but buyers value them differently. Credits are also different from compliance allowances, which have their own prices.
 :::
 
-::: accordion Do all carbon credits have the same market price?
-No. Each credit represents one tonne, but prices range from a few dollars for some avoidance credits to well over USD 100 for some durable removals.
+::: accordion How much is a carbon credit worth in India?
+India's domestic CCCs had no official price in November 2026 because exchange trading had not started. Voluntary credits from Indian projects sell at international US dollar prices.
 :::
 
-::: accordion Are CORSIA eligible carbon credits more valuable?
-They have typically traded above average voluntary credits because eligible supply is limited and airlines need them for compliance. Their price still changes as new eligible supply enters the market.
+::: accordion Are CORSIA carbon credits more valuable?
+They were assessed above the average voluntary credit in 2026 because eligible supply is limited, but there is no guaranteed premium. Prices ranged from about US$9 to US$19 during the year.
 :::
 
-::: accordion How can buyers check the value of a carbon credit?
-Check the programme, methodology, verification, additionality, permanence, vintage, registry records and eligibility. Then compare prices with dated figures for the same category.
+::: accordion Which type of carbon credit has the highest value?
+Durable carbon removals, such as biochar and direct air capture, are usually the most expensive. Biochar averaged over US$160 per tonne in 2024 (Ecosystem Marketplace).
 :::
 
-## Key Takeaways
+::: accordion Where can I check current carbon credit prices?
+Use Ecosystem Marketplace, Sylvera and AlliedOffsets for voluntary prices, price reporting agencies for CORSIA units, ICAP and the World Bank for compliance prices, and national authorities for domestic markets.
+:::
 
-So, what is the value of carbon credits? Financially, it is the market price, which varies widely by segment. Environmentally, it is the verified, lasting climate benefit behind each tonne.
+::: accordion Can carbon credit prices increase in the future?
+They can rise or fall. Demand for high-quality credits and compliance could support prices, while new supply or weaker demand could lower them. No one can predict prices with certainty.
+:::
 
-Value depends on:
+## Conclusion
 
-- project quality and environmental integrity
-- market demand
-- vintage
-- programme rules
-- eligibility, such as for CORSIA
+So, how much is a carbon credit worth? It depends on **what kind of credit it is** and **where it is sold**. In late 2026, average voluntary credits sold for about **US$7**, CORSIA units for about **US$13**, and durable removals for far more, while India's CCCs had **no official price yet**.
 
-Buyers should weigh both price and credibility, rather than choosing credits on cost alone. To learn more about carbon credit prices, eligibility and aviation compliance, explore the resources at [CORSIA Carbon Credit](https://corsiacarboncredit.in/). Our guide to [carbon credit use cases by industry](https://corsiacarboncredit.in/blog/carbon-credit-use-cases-by-industry/) shows how different buyers use credits in practice.
+Value depends on **market type, project quality, certification, vintage, eligibility and demand**. Before buying or valuing a credit, verify its programme, registry record, quality evidence and eligibility for your purpose, and compare prices only with dated figures for the same category.
+
+Our guide to the [current price of carbon credits in the UK](https://corsiacarboncredit.in/blog/current-price-of-carbon-credits-uk/) shows how one national market prices allowances and voluntary units separately. To learn more about carbon credit prices, eligibility and aviation compliance, explore the resources at [CORSIA Carbon Credit](https://corsiacarboncredit.in/).
 
 ### Sources
 
+- [Sylvera – Carbon Market Data Snapshot Q3 2026](https://www.sylvera.com/blog/q3-2026-carbon-data-snapshot)
 - [Carbon credit price tracker – Sylvera and Ecosystem Marketplace data (reviewed 5 October 2026)](https://howtobuycarboncredits.com/prices/carbon-credit-price/)
+- [Ecosystem Marketplace – State of the Voluntary Carbon Market reports](https://www.ecosystemmarketplace.com/)
+- [Fastmarkets – CORSIA prices tick higher on increased buyer inquiries (November 2026)](https://www.fastmarkets.com/insights/corsia-prices-tick-higher-on-increased-buyer-inquiries-despite-overall-airline-buying-remaining-measured/)
 - [Fastmarkets – CORSIA spot prices continue to slide (4 February 2026)](https://www.fastmarkets.com/insights/corsia-spot-prices-continue-to-slide-all-eyes-still-on-supply/)
-- [green.earth – CORSIA activity builds across prices, airlines and supply (16 October 2026)](https://www.green.earth/news/corsia-activity-builds-across-prices-airlines-and-supply)
-- [GMK Center – European carbon prices exceeded €90/t in November (1 November 2026)](https://gmk.center/en/news/european-carbon-prices-exceeded-e90-t-in-november/)
-- [ICAO – CORSIA Eligible Emissions Units](https://www.icao.int/CORSIA/corsia-eligible-emissions-units)
+- [S&P Global – South Korean airlines target price-driven CORSIA procurement (July 2026)](https://www.spglobal.com/energy/en/news-research/latest-news/energy-transition/071626-interview-south-korean-airlines-target-price-driven-intermediary-corsia-procurement-kis)
+- [GMK Center – European carbon prices exceeded €90/t in November (2026)](https://gmk.center/en/news/european-carbon-prices-exceeded-e90-t-in-november/)
+- [Saur Energy – India's carbon market edges toward its first trade (2026)](https://www.saurenergy.com/solar-energy-news/indias-carbon-market-edges-toward-its-first-trade-12482615)
+- [ICAP – International Carbon Action Partnership](https://icapcarbonaction.com/)
 - [World Bank – Carbon Pricing Dashboard](https://carbonpricingdashboard.worldbank.org/)
+- [ICAO – CORSIA Eligible Emissions Units](https://www.icao.int/CORSIA/corsia-eligible-emissions-units)
+- [UNFCCC – Article 6 of the Paris Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement/article-6)
 - [Verra](https://verra.org/)
 - [Gold Standard](https://www.goldstandard.org/)
