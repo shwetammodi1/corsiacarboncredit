@@ -1,8 +1,8 @@
 # Publishing details
 
-**SEO Title:** CORSIA Eligible Emissions Units: What Airlines Can Use
+**SEO Title:** CORSIA Eligible Emissions Units: What Airlines Can Cancel
 
-**Meta Description:** CORSIA Eligible Emissions Units explained: how ICAO approves programmes, what makes a unit eligible, how airlines use them and how they differ from other credits.
+**Meta Description:** CORSIA Eligible Emissions Units explained: how ICAO approves programmes, what makes a unit eligible, how airlines use them and how they differ from credits.
 
 **URL Slug:** corsia-eligible-emissions-units-explained
 
