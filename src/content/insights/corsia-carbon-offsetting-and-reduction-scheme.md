@@ -1,17 +1,21 @@
 ---
-title: "CORSIA: Carbon Offsetting and Reduction Scheme for International Aviation Explained"
-excerpt: "What CORSIA is, why ICAO created it, how airlines monitor, report and offset international CO₂, and which emissions units count for compliance."
+title: "CORSIA Explained: A Complete Guide to Aviation Carbon Offsetting"
+excerpt: "CORSIA explained from basics to rules: its full form, why ICAO created it, how it works, who implements it, the three phases, airline requirements, eligible carbon credits, benefits, limitations and what comes next."
 date: "2026-11-13"
 topic: "CORSIA Fundamentals"
 tags: ["CORSIA", "ICAO", "international aviation emissions", "CORSIA eligible emissions units", "airline compliance"]
 image: "/media/corsia-carbon-offsetting-and-reduction-scheme.png"
-metaTitle: "CORSIA Carbon Offsetting and Reduction Scheme Explained"
-metaDescription: "CORSIA is ICAO's scheme for international aviation CO₂. See how monitoring, reporting, offsetting phases and CORSIA-eligible emissions units affect airlines."
+metaTitle: "CORSIA Explained: A Complete Guide to Aviation Offsetting"
+metaDescription: "CORSIA explained: its full form, how ICAO's aviation offsetting scheme works, the three phases, airline requirements, eligible carbon credits and limits."
 ---
 
-Air travel connects more people and more trade every year, and most of the sector's fuel is burned on flights between countries. Those flights produce carbon dioxide that is hard to cut quickly, because aircraft last for decades and cleaner fuels are still scarce. The **CORSIA Carbon Offsetting and Reduction Scheme** is the global framework that the International Civil Aviation Organization (ICAO) created to deal with this. Airlines measure and report the CO₂ from their international flights. Where the rules apply, they offset emissions growth using approved emissions units.
+Air travel connects more people and more trade every year, and most of the sector's fuel is burned on flights between countries. Those flights produce carbon dioxide that is hard to cut quickly, because aircraft last for decades and cleaner fuels are still scarce. The **CORSIA Carbon Offsetting and Reduction Scheme** is the global framework that the International Civil Aviation Organization (ICAO) created to deal with this. Airlines measure and report the CO₂ from their international flights. Where the rules apply, they offset emissions growth using approved emissions units. For more on those units, see our [CORSIA Carbon Credits](https://corsiacarboncredit.in/) resources.
 
 The scheme now affects route planning, budgets and carbon-credit purchasing. From 1 January 2027, it also becomes required for most large aviation States. Airline teams, sustainability consultants and carbon market participants need to know which obligations apply, when they apply and which units actually count.
+
+**In short:** CORSIA is ICAO's global scheme that requires covered airlines to monitor, report and verify CO₂ from international flights, and to offset growth above a baseline of 85% of 2019 emissions on routes between participating States, by cancelling CORSIA Eligible Emissions Units. It does not cover domestic flights and does not require airlines to offset all their emissions.
+
+![Infographic explaining CORSIA, the Carbon Offsetting and Reduction Scheme for International Aviation, with sections on what it is, how it works, key features, eligible credits and its goal](/media/corsia-explained-infographic-1200x675.jpg)
 
 ## What Is CORSIA? Understanding the Carbon Offsetting and Reduction Scheme for International Aviation
 
@@ -26,6 +30,16 @@ In simple terms, CORSIA works in three stages:
 CORSIA covers **international flights only**, meaning flights that depart from one country and land in another. Domestic aviation is counted in each country's national climate commitments under the Paris Agreement.
 
 CORSIA is also not a voluntary offset programme. It is a set of rules that ICAO Member States put into national law, and each State oversees the airlines attributed to it.
+
+## What Is the Full Form of CORSIA?
+
+CORSIA stands for **Carbon Offsetting and Reduction Scheme for International Aviation**. Each part of the name has a meaning:
+
+- **Carbon:** the scheme covers carbon dioxide (CO₂) from burning aviation fuel.
+- **Offsetting:** airlines compensate for emissions growth by cancelling units that represent reductions or removals elsewhere.
+- **and Reduction:** the scheme sits alongside measures that cut aviation's own emissions, such as cleaner fuels. Airlines can lower their obligations by using CORSIA eligible fuels.
+- **Scheme:** it is a formal set of rules, not a fund or a marketplace.
+- **for International Aviation:** it applies only to flights between countries, because domestic flights are already covered by national climate targets under the Paris Agreement.
 
 ## Why Was CORSIA Introduced in the Aviation Industry?
 
@@ -67,7 +81,15 @@ CORSIA combines a **yearly** cycle of monitoring, reporting and verification (MR
 | Unit acquisition | Buy units that meet CORSIA eligibility rules | Prepares the operator to meet its obligation |
 | Cancellation and reporting | Cancel units in the registry and report to the State | Shows compliance for the period |
 
-## What Are the Different Phases of CORSIA Implementation?
+## Who Is Responsible for Implementing CORSIA?
+
+- **ICAO** sets the rules. The Assembly agrees the overall policy, the Council adopts the standards and approves eligible emissions unit programmes, and the Technical Advisory Body (TAB) assesses programmes.
+- **Participating States** put CORSIA into national law, approve monitoring plans, review verified reports, calculate offsetting requirements and report to ICAO. In India, this is the Directorate General of Civil Aviation (DGCA).
+- **Aeroplane operators** monitor fuel, report emissions, buy and cancel eligible units, and report cancellations.
+- **Verification bodies** are accredited independent auditors that check emissions reports and cancellation reports.
+- **Emissions unit programmes and registries** issue credits, label CORSIA eligible units and record their cancellation.
+
+## What Are the Three Phases of CORSIA?
 
 CORSIA runs from 2021 to 2035.
 
@@ -85,7 +107,7 @@ CORSIA runs from 2021 to 2035.
 
 **Which routes are covered.** Each year ICAO publishes the *CORSIA States for Chapter 3 State Pairs* document, listing the State pairs subject to offsetting. If you want to check how this applies to your own operation, use our [five-test check of whether your airline is covered by CORSIA](/knowledge-base/is-your-airline-covered-by-corsia/).
 
-## What Are the CORSIA Compliance Requirements for Airlines?
+## What Are CORSIA Requirements for Airlines?
 
 An aeroplane operator's duties under CORSIA usually include:
 
@@ -99,7 +121,7 @@ An aeroplane operator's duties under CORSIA usually include:
 
 Actual obligations depend on the operator's emissions, fleet, routes, attributed State and the compliance period. ICAO's rules and the national authority set the submission deadlines, and ICAO can adjust them. Our [CORSIA compliance calendar](/knowledge-base/corsia-compliance-calendar/) shows how these tasks fit into one year and across a three-year period.
 
-## What Role Do Carbon Credits Play in CORSIA?
+## What Are CORSIA Eligible Carbon Credits?
 
 In CORSIA language, carbon credits are called **CORSIA Eligible Emissions Units**. Operators cancel them to meet whatever offsetting requirement remains after any reduction claimed for CORSIA-eligible fuels.
 
@@ -114,6 +136,23 @@ Eligibility works at several levels:
 
 **Programme approval does not make every unit eligible.** A credit from an approved standard can still fail on vintage, scope, missing authorisation or labelling. Each unit has to be checked. ICAO does not run a central carbon exchange. Units are bought through bilateral deals, brokers or marketplaces and are tracked in programme registries.
 
+## What Types of Carbon Projects Can Support CORSIA?
+
+Where an approved programme's scope and methodology allow it, eligible units can come from:
+
+- **Renewable energy**, although many programmes now restrict grid-connected renewables in countries where they are already commercially viable
+- **Forestry and afforestation**, including jurisdictional forest protection programmes
+- **Methane reduction**, such as landfill gas capture
+- **Industrial emissions reduction**, such as process improvements
+- **Carbon removal projects**, including engineered removals under some approved programmes
+- **Other reduction activities**, such as clean cooking, where the methodology is approved
+
+**A project's category alone does not make its credits CORSIA eligible.** The programme, methodology, vintage, host-country authorisation and registry label must all be checked.
+
+## CORSIA vs Voluntary Carbon Market
+
+In the **voluntary carbon market**, companies buy credits by choice for their own climate claims, and the buyer and the issuing programme decide what is acceptable. Under **CORSIA**, airlines must use **eligible emissions units** that meet ICAO's rules for a compliance period. A credit can be valid in the voluntary market and still be ineligible for CORSIA. Programme approval is also not enough: each unit must meet its own conditions.
+
 ### Table 2: General Voluntary Carbon Credits vs CORSIA-Eligible Emissions Units
 
 | Comparison Factor | General Voluntary Carbon Credits | CORSIA-Eligible Emissions Units |
@@ -126,6 +165,18 @@ Eligibility works at several levels:
 | Registry status | Standard issuance | Must be labelled CORSIA eligible |
 | Final step | Retired for a voluntary claim | Cancelled for CORSIA and reported to the State |
 
+## What Is the Difference Between CORSIA and Other Aviation Climate Initiatives?
+
+CORSIA is one of several measures, and they work together:
+
+- **CORSIA:** compensates for emissions growth through offsetting. It does not reduce what aircraft emit.
+- **Sustainable aviation fuel (SAF):** cuts life-cycle emissions from fuel. Under CORSIA, eligible fuels also reduce an airline's offsetting requirement. Our guide to [CORSIA actual life cycle emissions values](/blog/corsia-methodology-actual-life-cycle-emissions-values/) explains how this is calculated.
+- **Aircraft fuel efficiency:** newer aircraft and engines burn less fuel, supported by ICAO's CO₂ standard for new aircraft.
+- **Operational efficiency:** better routing, air traffic management and ground operations save fuel.
+- **Emerging technologies:** hydrogen and electric aircraft may help on shorter routes in future.
+
+Offsetting addresses emissions that the other measures cannot yet remove. The long-term goal of net zero by 2050 depends mainly on fuels, technology and operations.
+
 ## Why CORSIA Carbon Credits Matter for the Aviation Carbon Market
 
 Understanding **CORSIA Carbon Credits** affects more than paperwork:
@@ -137,9 +188,31 @@ Understanding **CORSIA Carbon Credits** affects more than paperwork:
 - **Registry transparency.** Serial numbers, labels and cancellation records are the airline's evidence of compliance.
 - **Due diligence.** Buyers should check documents for each unit, not rely only on the programme's name.
 
-Our [buyer's checklist for CORSIA-eligible units](/knowledge-base/corsia-eligible-units-checklist/) sets out these checks step by step. Our explainer on [how carbon credit prices are quoted](/knowledge-base/how-carbon-credit-prices-are-quoted/) covers what affects the cost of eligible units.
+Our [buyer's checklist for CORSIA-eligible units](/knowledge-base/corsia-eligible-units-checklist/) sets out these checks step by step.
 
-## What Is the Future of CORSIA and Sustainable Aviation?
+## Benefits of CORSIA for the Aviation Industry
+
+- **International cooperation:** one framework agreed through ICAO instead of conflicting national measures.
+- **Emissions transparency:** consistent, verified emissions data since 2019.
+- **Carbon market development:** clear demand for high-integrity, authorised units.
+- **Support for projects:** finance for emission reduction and removal projects worldwide.
+- **Climate accountability:** a measurable obligation for emissions growth.
+- **Long-term sustainability:** a bridge while cleaner fuels and aircraft scale up.
+
+Offsetting alone **does not eliminate** aviation emissions. It compensates for growth while the sector works on direct reductions.
+
+## Challenges and Limitations of CORSIA
+
+- **Availability of eligible units:** IATA estimated first-phase demand at 200–250 million units, against about 72 million covered by compatible host-country authorisations in August 2026.
+- **Carbon credit integrity:** offset quality remains under scrutiny.
+- **Regulatory complexity:** programme approvals, unit conditions and phase rules change over time.
+- **Compliance costs:** first-phase units were assessed at about US$19 in January 2026 and US$13 in November 2026 (Fastmarkets).
+- **Monitoring and verification:** data gaps and errors need careful management.
+- **Double-counting risks:** managed through host-country authorisation and corresponding adjustments.
+- **National implementation:** States implement CORSIA through their own laws and processes, which can differ.
+- **Limited ambition:** CORSIA offsets growth above a baseline, not total emissions.
+
+## What Is the Future of CORSIA?
 
 **Confirmed developments**
 
@@ -156,28 +229,44 @@ Our [buyer's checklist for CORSIA-eligible units](/knowledge-base/corsia-eligibl
 
 ## Frequently Asked Questions about CORSIA
 
-::: accordion What is the full form of CORSIA?
-CORSIA stands for Carbon Offsetting and Reduction Scheme for International Aviation. It is a global framework developed by the International Civil Aviation Organization (ICAO).
+::: accordion What does CORSIA stand for?
+Carbon Offsetting and Reduction Scheme for International Aviation, a global scheme adopted by ICAO in 2016.
 :::
 
-::: accordion What is the main purpose of the Carbon Offsetting and Reduction Scheme for International Aviation?
-It addresses growth in CO₂ emissions from international flights above an agreed baseline. Aeroplane operators offset that growth using eligible emissions units, alongside cleaner fuels, new technology and operational improvements.
+::: accordion What is the main purpose of CORSIA?
+To address growth in CO₂ emissions from international aviation above an agreed baseline, by requiring covered airlines to offset that growth with eligible emissions units.
 :::
 
-::: accordion Which airlines need to comply with CORSIA?
-Operators emitting more than 10,000 tonnes of CO₂ a year from international flights with aeroplanes above 5,700 kg maximum take-off mass must monitor, report and verify their emissions. Offsetting applies only to their flights between participating States.
+::: accordion How does CORSIA work?
+Covered airlines monitor, report and verify CO₂ from international flights each year. For routes between participating States, their State calculates an offsetting requirement, and the airline cancels eligible units to meet it.
 :::
 
-::: accordion How does the CORSIA carbon offsetting process work?
-The State calculates an operator's offsetting requirement from its verified emissions on covered routes. The operator then buys CORSIA-eligible emissions units, cancels them in an approved registry and reports the cancellation to its State.
+::: accordion Who needs to comply with CORSIA?
+Operators emitting more than 10,000 tonnes of CO₂ a year from international flights with aeroplanes above 5,700 kg maximum take-off mass. Offsetting applies only to their flights between participating States.
 :::
 
-::: accordion What types of carbon credits are eligible under CORSIA?
-Only units from ICAO-approved programmes count. They must also fall within the approved scope and vintage window, carry any required host-country authorisation and be labelled CORSIA eligible in the registry. Not every voluntary carbon credit qualifies.
+::: accordion Does CORSIA apply to all international flights?
+No. Monitoring and reporting cover in-scope operators' international flights, but offsetting applies only to routes between participating States. Humanitarian, medical and firefighting flights are excluded.
 :::
 
-::: accordion Is CORSIA mandatory for all international flights?
-No. Monitoring and reporting apply to in-scope operators' international flights. Offsetting applies only to routes between participating States. From 2027, participation is required for most large aviation States, and some developing States are exempt unless they volunteer.
+::: accordion What are the three phases of CORSIA?
+The pilot phase (2021–2023) and first phase (2024–2026), with voluntary State participation, and the second phase (2027–2035), when participation becomes mandatory for most large aviation States.
+:::
+
+::: accordion What are CORSIA eligible carbon credits?
+Carbon credits from ICAO-approved programmes that meet the conditions for a compliance period, such as vintage, host-country authorisation and a CORSIA label in the registry.
+:::
+
+::: accordion How do airlines meet CORSIA requirements?
+By keeping an approved monitoring plan, reporting verified emissions each year, and cancelling enough eligible emissions units to cover their offsetting requirement before the deadline, then reporting the cancellation.
+:::
+
+::: accordion What is the difference between CORSIA and voluntary carbon markets?
+Voluntary markets let companies buy credits by choice for their own claims. CORSIA is a compliance scheme with ICAO rules on which units count, and airlines must cancel eligible units to meet obligations.
+:::
+
+::: accordion Why is CORSIA important for the aviation industry?
+It is the only global market-based measure for international aviation emissions, giving airlines one framework, consistent data and a way to address emissions growth while cleaner fuels and aircraft develop.
 :::
 
 ## Key Takeaways on the CORSIA Carbon Offsetting and Reduction Scheme
@@ -186,7 +275,7 @@ The CORSIA Carbon Offsetting and Reduction Scheme gives international aviation o
 
 With the Second Phase starting in 2027, airlines and carbon market participants need to plan early, check unit documentation carefully and follow current ICAO updates. CORSIA does not replace cleaner fuels and aircraft. It is one part of aviation's path to net zero.
 
-To learn more about eligible units and airline compliance, explore our resources on [CORSIA Carbon Credits](/).
+To learn more about eligible units and airline compliance, explore our resources on [CORSIA Carbon Credits](https://corsiacarboncredit.in/). Our step-by-step guide on [how CORSIA works](https://corsiacarboncredit.in/blog/how-does-corsia-work/) explains the calculations in more detail.
 
 ### Sources
 
@@ -198,3 +287,6 @@ To learn more about eligible units and airline compliance, explore our resources
 - [IATA – CORSIA fact sheet](https://www.iata.org/en/iata-repository/pressroom/fact-sheets/fact-sheet-corsia/)
 - [IATA – ICAO 42nd Assembly: key environment-related outcomes](https://www.iata.org/en/iata-repository/publications/economic-reports/icao-42nd-assembly-key-environment-related-outcomes)
 - [IEA – Aviation](https://www.iea.org/energy-system/transport/aviation)
+- [UNFCCC – Article 6 of the Paris Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement/article-6)
+- [IATA / EuropaWire – ICAO joins alliance to address CORSIA supply shortfall (13 October 2026)](https://news.europawire.eu/icao-joins-iata-backed-alliance-to-address-corsia-emissions-unit-supply-shortfall/eu-press-release/2026/10/13/18/41/08/182827/)
+- [Fastmarkets – CORSIA prices tick higher on increased buyer inquiries (November 2026)](https://www.fastmarkets.com/insights/corsia-prices-tick-higher-on-increased-buyer-inquiries-despite-overall-airline-buying-remaining-measured/)
