@@ -187,7 +187,7 @@ Our article on [carbon credits law in India](https://corsiacarboncredit.in/blog/
 - more offset methodologies and eligible projects
 - possible links with Article 6 for authorised international transfers
 
-For eligible reduction projects, a functioning domestic market could provide a new source of revenue, but the details will depend on future notifications. Our explainer on [India's Carbon Credit Trading Scheme](/blog/carbon-credit-trading-scheme-in-india-how-it-works/) gives a further overview.
+For eligible reduction projects, a functioning domestic market could provide a new source of revenue, but the details will depend on future notifications. Our guide to [carbon market policy in India](/blog/carbon-market-policy-in-india/) gives a further overview.
 
 ## Frequently Asked Questions
 

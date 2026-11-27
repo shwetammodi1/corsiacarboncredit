@@ -9,7 +9,7 @@ metaTitle: "Carbon Credit vs Carbon Offset: Key Differences Explained"
 metaDescription: "What is the difference between a carbon credit and a carbon offset? Learn their meanings, how credits become offsets through retirement, and how CORSIA fits."
 ---
 
-**What is the difference between carbon credit and carbon offset?** A **carbon credit** is a measured, verified and tradable unit, generally representing one tonne of CO₂ equivalent (tCO₂e) reduced or removed by a project. A **carbon offset** is the act of using such credits to compensate for emissions released somewhere else. In short, the credit is the **unit**, and offsetting is the **use**. A credit becomes an offset only when it is retired against a stated emissions claim.
+**What is the difference between carbon credit and carbon offset?** A **carbon credit** is a measured, verified and tradable unit, generally representing one tonne of CO₂ equivalent (tCO₂e) reduced or removed by a project. A **carbon offset** is the act of using such credits to compensate for emissions released somewhere else. In short, the credit is the **unit**, and offsetting is the **use**. A credit becomes an offset only when it is retired against a stated emissions claim. For more guides on carbon credits, explore [CORSIA Carbon Credits](https://corsiacarboncredit.in/).
 
 People often use the two terms interchangeably, but the difference matters for buyers, sustainability reporting and compliance schemes such as CORSIA. This guide explains both terms, shows how they connect and sets out the rules that make an offsetting claim credible.
 

@@ -149,6 +149,7 @@ Eligibility limits supply, so these units have traded above the average voluntar
 |---|---|---|---|
 | 28 Jan 2026 | USD 19.00 per tCO₂e | Spot price assessment | [Fastmarkets](https://www.fastmarkets.com/insights/corsia-spot-prices-continue-to-slide-all-eyes-still-on-supply/) |
 | Mid-Oct 2026 | USD 13.15 per tCO₂e | Assessment, Dec 2026 delivery | green.earth |
+| 18 Nov 2026 | USD 13.00 per tCO₂e | Spot price assessment | [Fastmarkets](https://www.fastmarkets.com/insights/corsia-prices-tick-higher-on-increased-buyer-inquiries-despite-overall-airline-buying-remaining-measured/) |
 
 Prices fell as more labelled units reached the market. Ordinary voluntary credit prices **cannot be treated as CORSIA prices**, and not every eligible unit sells for the same amount. Our guides to the [CORSIA carbon credit price in 2026](/blog/corsia-carbon-credit-price-2026/) and [CORSIA eligible carbon credits](/blog/corsia-eligible-carbon-credits/) go into more detail.
 

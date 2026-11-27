@@ -51,6 +51,7 @@ Two credits for the same tonne can have very different prices, because buyers ju
 | All removal credits | USD 19.50 per tCO₂e | 2024 | Average reported deals | Ecosystem Marketplace |
 | CORSIA first-phase units | USD 19.00 per tCO₂e | 28 Jan 2026 | Spot price assessment | [Fastmarkets](https://www.fastmarkets.com/insights/corsia-spot-prices-continue-to-slide-all-eyes-still-on-supply/) |
 | CORSIA first-phase units | USD 13.15 per tCO₂e | Mid-Oct 2026 | Assessment, Dec-2026 delivery | [green.earth](https://www.green.earth/news/corsia-activity-builds-across-prices-airlines-and-supply) |
+| CORSIA first-phase units | USD 13.00 per tCO₂e | 18 Nov 2026 | Spot price assessment | [Fastmarkets](https://www.fastmarkets.com/insights/corsia-prices-tick-higher-on-increased-buyer-inquiries-despite-overall-airline-buying-remaining-measured/) |
 | EU ETS allowances | about €90 per tonne | 2–4 Nov 2026 | December futures, ICE | [GMK Center](https://gmk.center/en/news/european-carbon-prices-exceeded-e90-t-in-november/) |
 
 Read these figures carefully:

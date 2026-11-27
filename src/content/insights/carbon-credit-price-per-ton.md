@@ -44,6 +44,7 @@ Prices differ sharply between **voluntary markets**, where companies buy credits
 | Removal credits | about 19.50 | 2024 | Average of reported deals | Ecosystem Marketplace |
 | CORSIA first-phase units (spot) | 19.00 | 28 Jan 2026 | Price assessment | [Fastmarkets](https://www.fastmarkets.com/insights/corsia-spot-prices-continue-to-slide-all-eyes-still-on-supply/) |
 | CORSIA first-phase units (Dec 2026 delivery) | 13.15 | Mid-Oct 2026 | Price assessment | [green.earth](https://www.green.earth/news/corsia-activity-builds-across-prices-airlines-and-supply) |
+| CORSIA first-phase units (spot) | 13.00 | 18 Nov 2026 | Price assessment | [Fastmarkets](https://www.fastmarkets.com/insights/corsia-prices-tick-higher-on-increased-buyer-inquiries-despite-overall-airline-buying-remaining-measured/) |
 | EU ETS allowances (compliance permits) | about €90 | 2–4 Nov 2026 | Exchange futures price | [GMK Center](https://gmk.center/en/news/european-carbon-prices-exceeded-e90-t-in-november/) |
 
 The figures are of different types:
@@ -93,7 +94,7 @@ Prices across markets **cannot be compared directly**, because the instruments, 
 
 **CORSIA**, the Carbon Offsetting and Reduction Scheme for International Aviation, is ICAO's global market-based measure for international aviation's CO₂. Airlines with offsetting requirements on routes between participating States must cancel **CORSIA eligible emissions units**.
 
-There is **no official CORSIA price**. ICAO decides which units are eligible, but it does not sell credits or run an exchange. Published assessments for first-phase (2024–2026) units fell from **USD 19.00 per tonne on 28 January 2026** (Fastmarkets spot assessment) to **USD 13.15 per tonne** for December 2026 delivery (cited in mid-October 2026). The fall followed more labelled units reaching the market.
+There is **no official CORSIA price**. ICAO decides which units are eligible, but it does not sell credits or run an exchange. Published assessments for first-phase (2024–2026) units fell from **USD 19.00 per tonne on 28 January 2026** (Fastmarkets spot assessment) to **USD 13.15 per tonne** for December 2026 delivery (cited in mid-October 2026), and Fastmarkets assessed spot units at **USD 13.00 per tonne on 18 November 2026**. The fall followed more labelled units reaching the market.
 
 What affects the price of a CORSIA unit:
 

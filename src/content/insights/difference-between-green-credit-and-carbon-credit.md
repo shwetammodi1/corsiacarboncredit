@@ -9,7 +9,7 @@ metaTitle: "Green Credit vs Carbon Credit: Meaning and Key Differences"
 metaDescription: "What is the difference between green credit and carbon credit? Learn India's Green Credit Programme, how carbon credits work, CCTS, and why they differ."
 ---
 
-**What is the difference between green credit and carbon credit?** A **green credit** is an incentive issued under India's Green Credit Programme for carrying out a specified environmental activity, such as tree plantation or water conservation, measured using that activity's own methodology. A **carbon credit** represents a quantified reduction or removal of greenhouse gases, generally **one tonne of CO₂ equivalent (tCO₂e)**, verified and issued under a carbon-crediting programme or scheme.
+**What is the difference between green credit and carbon credit?** A **green credit** is an incentive issued under India's Green Credit Programme for carrying out a specified environmental activity, such as tree plantation or water conservation, measured using that activity's own methodology. A **carbon credit** represents a quantified reduction or removal of greenhouse gases, generally **one tonne of CO₂ equivalent (tCO₂e)**, verified and issued under a carbon-crediting programme or scheme. For more guides on carbon credits, explore [CORSIA Carbon Credits](https://corsiacarboncredit.in/).
 
 Green credits reward broader environmental actions. Carbon credits measure climate outcomes in tonnes. **One green credit is not equal to one tonne of CO₂e**, and the two cannot be swapped for each other.
 
@@ -123,7 +123,7 @@ The **Carbon Credit Trading Scheme, 2023** was notified on 28 June 2023 under th
 
 Both parts issue **Carbon Credit Certificates**, with one certificate representing one tCO₂e. Trading is planned on power exchanges under CERC regulation. Reports in 2026 indicated that trading was being prepared to start, so check BEE's portal for the current status.
 
-The CCTS is a **carbon market**. The Green Credit Programme is an **environmental incentive programme**. They have different laws, administrators, units and rules. Our article on [India's Carbon Credit Trading Scheme](/blog/carbon-credit-trading-scheme-in-india-how-it-works/) explains the scheme in more detail.
+The CCTS is a **carbon market**. The Green Credit Programme is an **environmental incentive programme**. They have different laws, administrators, units and rules. Our article on [carbon credits regulations in India](/blog/carbon-credits-regulations-in-india/) explains the scheme in more detail.
 
 ## Benefits of Green Credits and Carbon Credits
 

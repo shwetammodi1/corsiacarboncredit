@@ -157,7 +157,7 @@ India has built a domestic carbon market framework:
 - **Carbon Credit Certificates.** Both mechanisms issue certificates, with one certificate representing one tCO₂e. Trading is planned on power exchanges, regulated by the Central Electricity Regulatory Commission (CERC). Reports in 2026 indicated trading was being prepared to start, so check BEE for the current status.
 - **International links.** MoEFCC handles India's engagement under Article 6. Any international transfer of Indian reductions needs government authorisation and accounting under those rules.
 
-**Domestic rules are not the same as international programme rules.** A certificate under the CCTS serves India's domestic market. A Verra or Gold Standard credit from an Indian project follows that programme's rules. Neither is automatically eligible for international compliance or CORSIA. Our article on [India's Carbon Credit Trading Scheme](/blog/carbon-credit-trading-scheme-in-india-how-it-works/) explains the scheme in more depth.
+**Domestic rules are not the same as international programme rules.** A certificate under the CCTS serves India's domestic market. A Verra or Gold Standard credit from an Indian project follows that programme's rules. Neither is automatically eligible for international compliance or CORSIA. Our article on [carbon credits regulations in India](/blog/carbon-credits-regulations-in-india/) explains the scheme in more depth.
 
 ## How Do Carbon Credit Regulations Prevent Double Counting?
 

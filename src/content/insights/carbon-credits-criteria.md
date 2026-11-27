@@ -6,7 +6,7 @@ topic: "Buying Credits"
 tags: ["carbon credits criteria", "carbon credit quality criteria", "additionality", "carbon project eligibility", "CORSIA carbon credit eligibility"]
 image: "/media/carbon-credits-criteria.jpg"
 metaTitle: "Carbon Credits Criteria: Complete Guide to Eligibility"
-metaDescription: "Learn the essential carbon credit criteria, including additionality, permanence, verification, leakage prevention and CORSIA eligibility."
+metaDescription: "Learn the essential carbon credit criteria, including additionality, permanence, verification, leakage prevention and the CORSIA eligibility rules for airlines."
 ---
 
 **Carbon credits criteria** are the tests a project must pass before its emission reductions or removals can be issued as credible carbon credits. A high-quality credit must be:

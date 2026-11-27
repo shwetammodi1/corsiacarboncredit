@@ -9,7 +9,7 @@ metaTitle: "CORSIA Actual Life Cycle Emissions Values: SAF Methodology"
 metaDescription: "How the CORSIA methodology calculates actual life cycle emissions values for SAF: stages, ILUC, credits, actual vs default values and how they are verified."
 ---
 
-The **CORSIA Methodology for Calculating Actual Life Cycle Emissions Values** is the ICAO document that explains how a fuel producer can work out the real, measured greenhouse gas intensity of a sustainable aviation fuel (SAF). The calculation covers every stage of the fuel's life, from feedstock to combustion in an aircraft engine, instead of using ICAO's standard default figure.
+The **CORSIA Methodology for Calculating Actual Life Cycle Emissions Values** is the ICAO document that explains how a fuel producer can work out the real, measured greenhouse gas intensity of a sustainable aviation fuel (SAF). The calculation covers every stage of the fuel's life, from feedstock to combustion in an aircraft engine, instead of using ICAO's standard default figure. For more guides on CORSIA and aviation emissions, explore [CORSIA Carbon Credits](https://corsiacarboncredit.in/).
 
 The result is expressed in grams of CO₂ equivalent per megajoule of fuel (gCO₂e/MJ). It decides whether a fuel qualifies as a CORSIA eligible fuel and how much it can reduce an airline's offsetting requirement.
 

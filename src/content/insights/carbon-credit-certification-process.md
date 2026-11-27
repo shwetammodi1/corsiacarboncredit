@@ -9,7 +9,7 @@ metaTitle: "Carbon Credit Certification Process: Step-by-Step Guide"
 metaDescription: "A step-by-step guide to the carbon credit certification process: standards, methodologies, PDD, validation, registration, verification and credit issuance."
 ---
 
-The **carbon credit certification process** is the series of checks a greenhouse gas reduction or removal project must pass before a carbon-crediting programme issues credits for it. The developer chooses a standard and an approved methodology and writes a Project Design Document. An independent auditor **validates** the design, and the programme **registers** the project. The project is then monitored, and an independent auditor **verifies** the results. Only then does the programme **issue** credits into its registry, generally one credit for each tonne of CO₂ equivalent (tCO₂e).
+The **carbon credit certification process** is the series of checks a greenhouse gas reduction or removal project must pass before a carbon-crediting programme issues credits for it. The developer chooses a standard and an approved methodology and writes a Project Design Document. An independent auditor **validates** the design, and the programme **registers** the project. The project is then monitored, and an independent auditor **verifies** the results. Only then does the programme **issue** credits into its registry, generally one credit for each tonne of CO₂ equivalent (tCO₂e). For more guides on credits and the CORSIA market, explore [CORSIA Carbon Credits](https://corsiacarboncredit.in/).
 
 This guide walks through each step, the documents involved, what affects time and cost, and whether certified credits can be used for CORSIA.
 

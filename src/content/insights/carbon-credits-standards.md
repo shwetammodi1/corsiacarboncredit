@@ -6,7 +6,7 @@ topic: "Carbon Market Guides"
 tags: ["carbon credits standards", "Verra", "Gold Standard", "American Carbon Registry", "Climate Action Reserve"]
 image: "/media/carbon-credits-standards.jpg"
 metaTitle: "Carbon Credits Standards Explained: A Complete Guide"
-metaDescription: "Explore major carbon credit standards, including Verra, Gold Standard, ACR and CAR, and learn how certification and verification work."
+metaDescription: "Explore the major carbon credit standards, including Verra, Gold Standard, ACR and CAR, and learn how project certification and independent verification work."
 ---
 
 **Carbon credits standards** are the rulebooks that decide whether a project can earn carbon credits, and how many. A standard, also called a carbon-crediting programme:

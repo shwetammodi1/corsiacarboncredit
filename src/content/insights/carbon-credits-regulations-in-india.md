@@ -83,7 +83,7 @@ These instruments are of different kinds:
 - **Target notifications** set obligations for each sector.
 - **Implementation updates**, such as portal launches, put the rules into operation.
 
-Always check the latest version on the BEE, Ministry of Power and CERC websites. Our article on [how India's Carbon Credit Trading Scheme works](/blog/carbon-credit-trading-scheme-in-india-how-it-works/) gives a further overview of the scheme.
+Always check the latest version on the BEE, Ministry of Power and CERC websites. Our guide to [carbon market policy in India](/blog/carbon-market-policy-in-india/) gives a further overview of the scheme.
 
 ## How Does Carbon Credit Trading Work in India?
 

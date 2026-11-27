@@ -17,7 +17,7 @@ metaDescription: "How are carbon credits used in practice? Real use cases across
 
 Each credit generally represents one tonne of CO₂ equivalent reduced or removed by a project elsewhere. The most credible uses come **after** direct emission cuts, not instead of them. For aviation-specific guidance, see our [CORSIA Carbon Credits](https://corsiacarboncredit.in/) resources.
 
-This guide focuses on **real-world use cases by sector**, with worked examples. For a broader introduction to applications and benefits, see our overview of [how carbon credits are used](/blog/how-are-carbon-credits-used-applications-and-benefits/).
+This guide focuses on **real-world use cases by sector**, with worked examples. For a broader introduction, see our beginner's guide to [carbon credits explained](/blog/carbon-credit-explained/).
 
 ## What Are Carbon Credits and How Do They Work?
 

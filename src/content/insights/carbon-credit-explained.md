@@ -6,12 +6,12 @@ topic: "CORSIA Fundamentals"
 tags: ["carbon credit explained", "what is a carbon credit", "how carbon credits work", "types of carbon credits", "CORSIA carbon credits"]
 image: "/media/carbon-credit-explained.png"
 metaTitle: "Carbon Credit Explained: A Complete Beginner's Guide"
-metaDescription: "Understand carbon credits, how they work, their types, benefits, trading process and role in reducing greenhouse gas emissions."
+metaDescription: "Carbon credits explained for beginners: what they are, how they work, the main types, benefits, how trading works and their role in cutting emissions."
 ---
 
 **Carbon credit explained in one sentence:** a carbon credit is a certificate, issued by a carbon-crediting programme, that represents **one metric tonne of carbon dioxide equivalent (1 tCO₂e)** reduced or removed from the atmosphere by a specific, verified project, under that programme's rules. Companies, governments and airlines buy credits to finance those projects and to compensate for emissions they cannot yet cut. For how credits are used in aviation, see our [CORSIA Carbon Credits](https://corsiacarboncredit.in/) resources.
 
-Carbon credits have become part of climate action because cutting emissions everywhere at once is impossible. They put a price on avoided or removed tonnes and channel money to projects that deliver them. This guide explains carbon credits by **following one credit through its whole life**, from a project idea to its final retirement. For a shorter overview, see our explainer on [what carbon credits are and how they work](/blog/what-are-carbon-credits-and-how-do-they-work/).
+Carbon credits have become part of climate action because cutting emissions everywhere at once is impossible. They put a price on avoided or removed tonnes and channel money to projects that deliver them. This guide explains carbon credits by **following one credit through its whole life**, from a project idea to its final retirement. For a shorter overview, see our explainer on [what carbon trading and carbon credits are](/blog/what-is-carbon-trading-and-carbon-credit/).
 
 ## What Is a Carbon Credit?
 

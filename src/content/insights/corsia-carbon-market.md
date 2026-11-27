@@ -9,7 +9,7 @@ metaTitle: "CORSIA Carbon Market: How It Works, Supply, Demand, Prices"
 metaDescription: "Learn how the CORSIA carbon market works: participants, eligible units, airline demand, constrained supply, price drivers, and the market's future outlook."
 ---
 
-The **CORSIA carbon market** is the market in which airlines obtain carbon credits that ICAO recognises as eligible, then cancel them to meet their offsetting requirements under the Carbon Offsetting and Reduction Scheme for International Aviation. It is not a single exchange. It is a network of carbon-crediting programmes, project developers, host governments, registries, brokers and aeroplane operators. Each unit must meet ICAO's eligibility rules before it can count.
+The **CORSIA carbon market** is the market in which airlines obtain carbon credits that ICAO recognises as eligible, then cancel them to meet their offsetting requirements under the Carbon Offsetting and Reduction Scheme for International Aviation. It is not a single exchange. It is a network of carbon-crediting programmes, project developers, host governments, registries, brokers and aeroplane operators. Each unit must meet ICAO's eligibility rules before it can count. For more guides on eligible units and airline compliance, explore [CORSIA Carbon Credits](https://corsiacarboncredit.in/).
 
 This guide explains how the market works and who takes part. It covers why airline demand is running well ahead of eligible supply, what affects prices and what could shape the market's future. Time-sensitive figures reflect information available in November 2026.
 
@@ -97,7 +97,7 @@ Demand comes from airline offsetting requirements. These depend on emissions gro
 
 The published estimates show a large mismatch:
 
-- In September 2025, **IATA** estimated that airlines would need between **146 million and 236 million** eligible units for the first phase.
+- In September 2025, **IATA** estimated that airlines would need between **146 million and 236 million** eligible units for the first phase. By September 2026, IATA put first-phase demand at 200–250 million units, against about 72 million covered by compatible host-country authorisations as of August 2026.
 - **ICAO's** August–September 2026 CORSIA newsletter reported about **44 million** units labelled CORSIA eligible for that phase.
 
 Estimates differ by source and change frequently, but they all point the same way: demand is well ahead of authorised, labelled supply.

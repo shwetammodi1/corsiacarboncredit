@@ -158,7 +158,7 @@ Here is dated market data. These are **reported averages and assessments, not of
 - **Forestry and nature-based credits:** in **Q3 2026**, forest protection (REDD+) credits averaged about **USD 3.56–7.75**, and reforestation credits about **USD 12.80–23.47**, depending on quality rating (Sylvera).
 - **Improved cookstove and household device credits:** about **USD 7.30** on average in **2024** (Ecosystem Marketplace).
 - **Carbon removal credits:** about **USD 19.50** on average for all removals in **2024**, with **biochar over USD 160** (Ecosystem Marketplace).
-- **CORSIA-eligible units:** assessed at about **USD 13.15** in **mid-October 2026** (green.earth).
+- **CORSIA-eligible units:** assessed at about **USD 13.15** in **mid-October 2026** (green.earth) and **USD 13.00** on **18 November 2026** (Fastmarkets).
 
 Methane reduction and industrial credits vary too widely by gas, methodology and buyer to give one reliable figure. Our guide to the [current value of carbon credits](/blog/current-value-of-carbon-credits/) covers prices in more detail.
 

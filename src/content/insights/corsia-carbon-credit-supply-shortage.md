@@ -131,6 +131,7 @@ Basic economics suggests that scarce supply against fixed deadlines adds **upwar
 |---|---|---|---|
 | 28 Jan 2026 | USD 19.00 per tCO₂e | Spot price assessment | Fastmarkets |
 | Mid-Oct 2026 | USD 13.15 per tCO₂e | Assessment, Dec-2026 delivery | green.earth market report |
+| 18 Nov 2026 | USD 13.00 per tCO₂e | Spot price assessment | Fastmarkets |
 
 *Analysis, not confirmed fact:* the fall during 2026 may reflect several things:
 
@@ -218,7 +219,7 @@ Most fail at least one condition: an unapproved programme, out-of-scope methodol
 :::
 
 ::: accordion Can a shortage of CORSIA credits increase carbon credit prices?
-It can add upward pressure, especially near deadlines. But first-phase assessments actually fell during 2026, from USD 19.00 in January to USD 13.15 in October, as new supply arrived. Future prices are uncertain.
+It can add upward pressure, especially near deadlines. But first-phase assessments actually fell during 2026, from USD 19.00 in January to USD 13.15 in October and USD 13.00 on 18 November (Fastmarkets), as new supply arrived. Future prices are uncertain.
 :::
 
 ::: accordion What role do host countries play in supplying CORSIA-eligible credits?

@@ -151,7 +151,7 @@ Prices depend on:
 Prices vary widely by segment. As dated examples:
 
 - Sylvera data put the **average voluntary credit** retired in Q3 2026 at about **USD 6.92 per tonne**.
-- **CORSIA-eligible units** were assessed at about **USD 13.15** for December 2026 delivery in mid-October 2026.
+- **CORSIA-eligible units** were assessed at about **USD 13.15** for December 2026 delivery in mid-October 2026, and at **USD 13.00** for spot units on 18 November 2026 (Fastmarkets).
 - **EU ETS allowances**, a compliance permit rather than a credit, traded around **€90 per tonne** in early November 2026.
 
 These figures are not comparable like-for-like. Our [price-per-ton guide](https://corsiacarboncredit.in/blog/carbon-credit-price-per-ton/) has a fuller, sourced table.

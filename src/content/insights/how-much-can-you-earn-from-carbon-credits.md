@@ -260,7 +260,7 @@ For a unit to be eligible:
 
 Programme and unit requirements must be checked separately. Eligibility gives access to **airline buyers**, whose demand is tied to compliance deadlines rather than voluntary pledges.
 
-**This does not mean every CORSIA-eligible credit sells for more.** CORSIA first-phase units were assessed at about **USD 13.15 in mid-October 2026** (green.earth), after falling earlier in the year. That figure is a market assessment for one product, not a guaranteed premium. Obtaining authorisation also adds time and requirements. Our guide to [CORSIA eligible carbon credits](/blog/corsia-eligible-carbon-credits/) explains the checks.
+**This does not mean every CORSIA-eligible credit sells for more.** CORSIA first-phase units were assessed at about **USD 13.15 in mid-October 2026** (green.earth) and **USD 13.00 on 18 November 2026** (Fastmarkets), after falling earlier in the year. That figure is a market assessment for one product, not a guaranteed premium. Obtaining authorisation also adds time and requirements. Our guide to [CORSIA eligible carbon credits](/blog/corsia-eligible-carbon-credits/) explains the checks.
 
 ## Common Mistakes That Reduce Carbon Credit Earnings
 
@@ -339,7 +339,7 @@ Costs include feasibility studies, design documents, validation, monitoring, ver
 :::
 
 ::: accordion Do CORSIA-eligible carbon credits earn more money?
-Not automatically. Eligibility gives access to airline buyers, and CORSIA first-phase units were assessed at about USD 13.15 in mid-October 2026. But prices change, and authorisation adds requirements.
+Not automatically. Eligibility gives access to airline buyers, and CORSIA first-phase units were assessed at about USD 13.00 on 18 November 2026 (Fastmarkets). But prices change, and authorisation adds requirements.
 :::
 
 ## Conclusion

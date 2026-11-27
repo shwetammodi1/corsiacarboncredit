@@ -42,7 +42,7 @@ Prices differ because eligible units are not identical. They differ in programme
 
 ## How Much Do CORSIA Carbon Credits Cost?
 
-There is no single answer, but published market assessments give a guide. A market report published on **16 October 2026** cited an **assessment of USD 13.15 per tonne of CO₂e** for first-phase (2024–2026) eligible units for December 2026 delivery ([green.earth](https://www.green.earth/news/corsia-activity-builds-across-prices-airlines-and-supply)).
+There is no single answer, but published market assessments give a guide. A market report published on **16 October 2026** cited an **assessment of USD 13.15 per tonne of CO₂e** for first-phase (2024–2026) eligible units for December 2026 delivery ([green.earth](https://www.green.earth/news/corsia-activity-builds-across-prices-airlines-and-supply)). More recently, Fastmarkets assessed first-phase spot units at **USD 13.00 per tCO₂e on 18 November 2026**.
 
 Treat this as a reference point, not a price you can buy at:
 
@@ -104,7 +104,7 @@ Only units that pass every ICAO condition count, so eligible supply is much smal
 
 ### 2. Airline demand
 
-Demand comes from offsetting requirements. In September 2025, IATA estimated that airlines would need between 146 million and 236 million eligible units for the first phase.
+Demand comes from offsetting requirements. In September 2025, IATA estimated that airlines would need between 146 million and 236 million eligible units for the first phase. By September 2026, IATA put first-phase demand at 200–250 million units, against about 72 million covered by compatible host-country authorisations as of August 2026.
 
 ### 3. Credit quality and environmental integrity
 
@@ -220,7 +220,7 @@ Today, demand clearly exceeds labelled supply, so prices could rise. However, ne
 ## Frequently Asked Questions
 
 ::: accordion How much do CORSIA carbon credits cost?
-There is no fixed price. Prices vary by unit and deal. As one reference point, a market report dated 16 October 2026 cited an assessment of USD 13.15 per tCO₂e for first-phase units for December 2026 delivery. Always check current data.
+There is no fixed price. Prices vary by unit and deal. As one reference point, a market report dated 16 October 2026 cited an assessment of USD 13.15 per tCO₂e for first-phase units for December 2026 delivery, and Fastmarkets assessed spot units at USD 13.00 on 18 November 2026. Always check current data.
 :::
 
 ::: accordion Does ICAO set the price of CORSIA carbon credits?

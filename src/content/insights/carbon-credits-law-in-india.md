@@ -198,7 +198,7 @@ Wider legal responsibilities include:
 - **More offset methodologies**, opening opportunities for eligible reduction projects.
 - **Gradual alignment with Article 6**, including authorised international transfers.
 
-Across all of this, the importance of **measurement, verification and transparent registries** will grow. Businesses that build reliable emissions data now will find compliance easier later. Our article on [carbon credits regulations in India](https://corsiacarboncredit.in/blog/carbon-credits-regulations-in-india/) covers how the market works in practice. Our explainer on [India's Carbon Credit Trading Scheme](/blog/carbon-credit-trading-scheme-in-india-how-it-works/) gives a further overview.
+Across all of this, the importance of **measurement, verification and transparent registries** will grow. Businesses that build reliable emissions data now will find compliance easier later. Our article on [carbon credits regulations in India](https://corsiacarboncredit.in/blog/carbon-credits-regulations-in-india/) covers how the market works in practice. Our guide to [carbon market policy in India](/blog/carbon-market-policy-in-india/) gives a further overview.
 
 ## Frequently Asked Questions
 
