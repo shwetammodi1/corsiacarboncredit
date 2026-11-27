@@ -1,15 +1,15 @@
 ---
-title: "CORSIA Eligible Emissions Units: Requirements, Approved Programmes and Eligibility Criteria"
+title: "What Are CORSIA Eligible Emissions Units? A Complete Guide to Requirements and Approved Programmes"
 excerpt: "What makes a carbon credit a CORSIA eligible emissions unit: how ICAO and the TAB approve programmes, the eligibility criteria, vintage and phase rules, host-country authorisation, a verification checklist and common mistakes."
 date: "2026-11-13"
 topic: "Buying Credits"
 tags: ["CORSIA", "CORSIA eligible emissions units", "ICAO", "carbon credit programmes", "airline compliance"]
 image: "/media/corsia-eligible-emissions-units.png"
-metaTitle: "CORSIA Eligible Emissions Units: Criteria and Programmes"
-metaDescription: "CORSIA eligible emissions units explained: approved programmes, ICAO eligibility criteria, vintage and phase rules, host-country authorisation and checks."
+metaTitle: "What Are CORSIA Eligible Emissions Units? Complete Guide"
+metaDescription: "What are CORSIA eligible emissions units? The ten approved programmes, ICAO eligibility criteria, vintage and phase rules, authorisation and how to check."
 ---
 
-**CORSIA Eligible Emissions Units** are carbon credits that aeroplane operators can cancel to meet their offsetting requirements under the Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA). Only units that meet all of ICAO's conditions count. The unit must come from a carbon-crediting programme the ICAO Council has approved for the relevant compliance period, and it must fall within that programme's approved scope. It must also meet the date and authorisation rules and be labelled as CORSIA eligible in the programme's registry. For more on how these units are used in aviation, see our [CORSIA Carbon Credits](https://corsiacarboncredit.in/) resources.
+**What are CORSIA Eligible Emissions Units?** They are carbon credits that aeroplane operators can cancel to meet their offsetting requirements under the Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA). Only units that meet all of ICAO's conditions count. The unit must come from a carbon-crediting programme the ICAO Council has approved for the relevant compliance period, and it must fall within that programme's approved scope. It must also meet the date and authorisation rules and be labelled as CORSIA eligible in the programme's registry. For more on how these units are used in aviation, see our [CORSIA Carbon Credits](https://corsiacarboncredit.in/) resources.
 
 Most carbon credits on the market do not meet all of these conditions. This guide explains how ICAO decides eligibility and which criteria matter. It also covers vintage and phase rules, host-country authorisation, how airlines use eligible units, a verification checklist and common mistakes. It is based on ICAO's *CORSIA Eligible Emissions Units* document (April 2026 edition) and TAB recommendations published in September 2026.
 
@@ -92,18 +92,22 @@ A **carbon-crediting programme** (also called a standard) writes the rules for p
 
 According to ICAO's *CORSIA Eligible Emissions Units* document (April 2026 edition), ten programmes were approved to supply units for the **first phase (2024–2026)**:
 
-- American Carbon Registry (ACR)
-- Architecture for REDD+ Transactions (ART)
-- BioCarbon Fund Initiative for Sustainable Forest Landscapes (ISFL)
-- Climate Action Reserve (CAR)
-- Forest Carbon Partnership Facility (FCPF)
-- Global Carbon Council (GCC)
-- Gold Standard
-- Isometric
-- Premium T-VER (Thailand)
-- Verra's Verified Carbon Standard (VCS)
+- **American Carbon Registry (ACR):** a US-based programme run by Winrock International, issuing credits for projects such as forestry, landfill gas and industrial process changes.
+- **Architecture for REDD+ Transactions (ART):** issues credits under its TREES standard for jurisdictional forest protection programmes run by national or subnational governments.
+- **BioCarbon Fund Initiative for Sustainable Forest Landscapes (ISFL):** a World Bank-managed fund that pays for emission reductions from jurisdiction-wide land-use programmes.
+- **Climate Action Reserve (CAR):** a programme with protocols mainly for projects in North America and Mexico.
+- **Forest Carbon Partnership Facility (FCPF):** a World Bank partnership that supports jurisdictional REDD+ emission reduction programmes.
+- **Global Carbon Council (GCC):** a programme based in the Middle East and North Africa region, with many projects in South Asia, including India.
+- **Gold Standard:** a Geneva-based programme, founded in 2003, that also requires sustainable development benefits.
+- **Isometric:** a registry focused on carbon removal projects.
+- **Premium T-VER (Thailand):** the premium tier of Thailand's voluntary emission reduction programme, run by the Thailand Greenhouse Gas Management Organization.
+- **Verra's Verified Carbon Standard (VCS):** the largest crediting programme by volume of credits issued.
 
-Each approval comes with its own scope and conditions. Some programmes' units must be cancelled in a specific associated registry to remain eligible.
+**Each approval has its own conditions.** For example, ICAO's first-phase conditions exclude some Verra methodologies, such as VMR0006 and AMS-II.G, so credits issued under them cannot be labelled for the first phase, even though Verra is an approved programme. Other conditions cover the eligible activity types, dates and the registry where units must be cancelled.
+
+Some programmes' units must be cancelled in a specific associated registry to remain eligible.
+
+![Infographic titled What Are CORSIA Eligible Emissions Units, showing a globe, a CO₂ symbol and wooden blocks labelled carbon credits, emission reductions, avoided emissions and sustainable aviation](/media/what-are-corsia-eligible-emissions-units-1200x675.jpg)
 
 ICAO has also approved programmes for the **2027–2029 compliance period** and continues to assess more applicants. The Council has conditionally approved the Paris Agreement Crediting Mechanism (PACM). ICAO reported in its August–September 2026 newsletter that about 44 million units were labelled CORSIA eligible for the first phase.
 
@@ -162,14 +166,24 @@ For first-phase units, some programmes allow units to be labelled before the cor
 
 ## Difference Between CORSIA Eligible Units and Ordinary Voluntary Carbon Credits
 
-| Factor | General carbon credit | CORSIA eligible emissions unit |
-|---|---|---|
-| Intended use | Voluntary climate claims by companies or individuals | Meeting an airline's CORSIA offsetting requirement |
-| Eligibility requirements | Set by the issuing standard and the buyer | Set by ICAO's EUC and Council decisions |
-| Programme assessment | No ICAO assessment needed | Programme approved by the ICAO Council on TAB advice |
-| Unit-level restrictions | Usually only buyer preferences | Scope, start date, vintage, authorisation and labelling |
-| Compliance applicability | Not valid for CORSIA unless every condition is met | Valid only for the compliance period it is eligible for |
-| Verification process | Programme verification of the project | Programme verification, plus State review of the airline's cancellation report |
+- **Eligibility requirements:** a voluntary credit follows its issuing programme's rules and the buyer's own preferences. A CORSIA eligible unit must also meet ICAO's Emissions Unit Eligibility Criteria and Council decisions.
+- **Programme recognition:** voluntary credits need no ICAO assessment. CORSIA units must come from a programme the ICAO Council has approved for the compliance period.
+- **Compliance use:** voluntary credits support companies' own climate claims. CORSIA units are cancelled to meet an airline's offsetting requirement.
+- **Vintage restrictions:** voluntary buyers choose any vintage they accept. CORSIA units must fall within the vintage window for the period, such as 2021–2026 for the first phase.
+- **Authorisation requirements:** voluntary credits usually need no host-country authorisation. First-phase CORSIA units need a Letter of Authorisation and a corresponding adjustment, or an approved compensation arrangement.
+- **Registry documentation:** CORSIA units must carry a CORSIA label and be cancelled with a record of the airline and compliance period, which the State reviews.
+- **Intended buyers:** voluntary credits are bought by companies and individuals. CORSIA units are bought mainly by airlines and the traders who supply them.
+
+**Voluntary carbon credits are not automatically eligible for CORSIA.**
+
+## Why CORSIA Eligible Emissions Units Matter for Airlines
+
+- **Regulatory compliance:** only eligible units settle an offsetting requirement under national law.
+- **Offsetting obligations:** obligations grow as more States join in 2027.
+- **Procurement planning:** limited supply means airlines need to plan purchases early. IATA estimated first-phase demand at 200–250 million units, against about 72 million covered by compatible authorisations in August 2026.
+- **Environmental integrity:** ICAO's criteria aim to ensure that each unit represents a real, additional tonne.
+- **Transparency and traceability:** serial numbers, labels and cancellation records give airlines evidence of compliance.
+- **Climate goals:** eligible units help address emissions growth while the sector works towards its 2050 net-zero aspirational goal.
 
 ## How Are Eligible Emissions Units Used for CORSIA Compliance?
 
@@ -224,7 +238,7 @@ Eligibility is always tied to a compliance period. A unit that qualified for the
 - **Carbon removals** may become a larger share of eligible units.
 - **Registry transparency and traceability** are improving, with clearer labels and authorisation records.
 
-Prices for first-phase units have moved widely, from about US$19 in January 2026 to about US$13 in November 2026 (Fastmarkets). Our guide on [how much a carbon credit is worth](https://corsiacarboncredit.in/blog/value-of-carbon-credits/) compares CORSIA units with other credits.
+Prices for first-phase units have moved widely, from about US$19 in January 2026 to about US$13 in November 2026 (Fastmarkets). Our [CORSIA carbon credits news](https://corsiacarboncredit.in/blog/corsia-carbon-credits-news/) roundup tracks the latest ICAO decisions, supply and prices.
 
 ## Frequently Asked Questions
 
@@ -232,40 +246,40 @@ Prices for first-phase units have moved widely, from about US$19 in January 2026
 Carbon credits that meet ICAO's eligibility rules for a specific CORSIA compliance period. Aeroplane operators cancel them to meet their offsetting requirements.
 :::
 
-::: accordion Which carbon credits are eligible under CORSIA?
-Only units from ICAO-approved programmes that fall within the approved scope, meet the vintage window and authorisation rules for the compliance period, and carry a CORSIA eligible label in the registry.
+::: accordion Who approves CORSIA eligible emissions units?
+The ICAO Council approves carbon-crediting programmes, based on recommendations from its Technical Advisory Body. Individual units must then meet that period's conditions and be labelled by the programme.
 :::
 
-::: accordion How does ICAO approve CORSIA emissions units?
-The Technical Advisory Body assesses programmes against the CORSIA Emissions Unit Eligibility Criteria and recommends decisions. The ICAO Council then approves programmes, often with conditions, for specific compliance periods.
-:::
-
-::: accordion What are the eligibility criteria for CORSIA credits?
-Units must be additional, based on credible baselines, independently verified, permanent or protected against reversal, free of leakage and double counting, and do no net harm. First-phase units also need host-country authorisation.
+::: accordion Which carbon credit programmes are eligible under CORSIA?
+For the first phase, ICAO's April 2026 document lists ten, including ACR, ART, CAR, the Global Carbon Council, Gold Standard, Isometric and Verra. Fewer programmes had been approved for 2027–2029 by September 2026.
 :::
 
 ::: accordion Are all voluntary carbon credits eligible for CORSIA?
-No. Most voluntary credits do not meet every CORSIA condition, such as programme approval, vintage, authorisation and registry labelling.
+No. Most voluntary credits do not meet every CORSIA condition, such as programme approval, vintage, authorisation and labelling.
 :::
 
-::: accordion What are CORSIA-approved emissions unit programmes?
-Carbon-crediting programmes the ICAO Council has approved to supply units. For the first phase, ICAO's April 2026 document lists ten, including ACR, ART, CAR, GCC, Gold Standard and Verra.
+::: accordion What makes a carbon credit CORSIA eligible?
+It must come from an approved programme, fall within the approved scope and methodology, have an eligible vintage, meet authorisation requirements and carry a CORSIA label in the registry.
 :::
 
-::: accordion Why are vintage requirements important for CORSIA?
-Vintage decides which compliance period a unit can be used for. For example, first-phase units generally need vintages from 2021 to 2026, so older credits cannot be used.
+::: accordion What is the role of carbon credit vintage in CORSIA?
+Vintage is the year the reduction happened. Each compliance period has a vintage window, such as 2021–2026 for the first phase, so older credits cannot be used.
 :::
 
-::: accordion What is the difference between CORSIA eligible units and voluntary carbon credits?
-Voluntary credits follow their programme's and buyer's rules. CORSIA eligible units must also meet ICAO's programme approval and unit-level conditions, and are cancelled for airline compliance.
+::: accordion What is the difference between an eligible emissions unit and a regular carbon credit?
+A regular credit meets its programme's rules. An eligible unit also meets ICAO's programme approval and unit-level conditions and is cancelled for airline compliance.
 :::
 
-::: accordion How can airlines verify CORSIA eligible emissions units?
-Check the current ICAO document, the programme's scope and conditions, the methodology, vintage and Letter of Authorisation, and the registry record and CORSIA label for each serial number.
+::: accordion Do CORSIA eligible emissions units require corresponding adjustments?
+For the first phase, yes: units need host-country authorisation and a corresponding adjustment, or an approved compensation arrangement where the programme allows it.
 :::
 
-::: accordion Can CORSIA eligible emissions units be used in every compliance phase?
-No. Eligibility is tied to a compliance period. A unit labelled for the pilot phase is not automatically valid for the first or second phase.
+::: accordion How do airlines purchase and cancel eligible emissions units?
+They buy units from developers, traders or exchanges, transfer them to their registry account or arrange cancellation, cancel them for CORSIA and submit an Emissions Unit Cancellation Report to their State.
+:::
+
+::: accordion How can buyers verify whether a carbon credit is eligible under CORSIA?
+Check ICAO's latest eligible units document, the programme's conditions, the methodology, vintage and Letter of Authorisation, and the registry record and CORSIA label for each serial number.
 :::
 
 ## Key Takeaways
@@ -287,5 +301,6 @@ To learn more about eligible units, registries and airline compliance, explore t
 - [World Bank – ISFL and FCPF approval for CORSIA first phase](https://www.biocarbonfund-isfl.org/result-stories/icao-approves-fcpf-and-isfl-standards-corsia-phase-1)
 - [IATA – CORSIA fact sheet](https://www.iata.org/en/iata-repository/pressroom/fact-sheets/fact-sheet-corsia/)
 - [UNFCCC – Article 6 of the Paris Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement/article-6)
+- [S&P Global – Mixed views on price sentiment for CORSIA Phase 1 (December 2024, Verra methodology exclusions)](https://www.spglobal.com/energy/en/news-research/latest-news/energy-transition/122024-commodities-2025-mixed-views-on-price-sentiment-for-corsia-phase-1-despite-thin-supply)
 - [IATA / EuropaWire – ICAO joins alliance to address CORSIA supply shortfall (13 October 2026)](https://news.europawire.eu/icao-joins-iata-backed-alliance-to-address-corsia-emissions-unit-supply-shortfall/eu-press-release/2026/10/13/18/41/08/182827/)
 - [Fastmarkets – CORSIA prices tick higher on increased buyer inquiries (November 2026)](https://www.fastmarkets.com/insights/corsia-prices-tick-higher-on-increased-buyer-inquiries-despite-overall-airline-buying-remaining-measured/)
